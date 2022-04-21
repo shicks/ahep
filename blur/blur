@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+
+# Usage: blur img.jpg
+# Environment variable: BLUR - percentage of blur, default=1.5
+
+# Read the filename
+my $in = shift;
+die "Usage: blur <filename>" unless -s $in;
+my $out = shift;
+unless ($out) {
+  $out = $in;
+  $out =~ s/\./-blur./;
+}
+
+# First identify the size
+`identify -format '%w %h' $in` =~ /(\d+) (\d+)/ or die "Couldn't identify size";
+my ($w, $h) = ($1, $2);
+my $max = $w > $h ? $w : $h;
+my $min = $w < $h ? $w : $h;
+my $blur_scale = int($max / $min * 100 + 1) . '%';
+my $blur_percent = $ENV{BLUR} || 2;
+my $blur_px = int($blur_percent * $max / 100);
+
+# Compose
+my @args = (
+  $in,
+  qw/-gravity center/,
+  '-geometry', $blur_scale,
+  '-blur', "0x${blur_px}",
+  '-extent', "${max}x${max}",
+  $in, '-composite',
+  $out,
+);
+system 'convert', @args;
