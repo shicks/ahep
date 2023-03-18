@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>American Heritage Education Project</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,400i,500,600,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<style>
+  :root {
+    --primary-color: #d93948;
+    --secondary-color: #0a334c;
+    --font: 'Montserrat';
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font), sans-serif;
+    font-weight: 400;
+  }
+  header {
+    position: absolute;
+    width: 100%;
+    background-color: black;
+  }
+  header .logo {
+    padding: 2vw;
+    float: left;
+    max-height: 166px;
+  }
+  .scrolled .logo {
+    max-height: 72px;
+  }
+  header .menu {
+    display: none;
+  }
+  header .buttons,
+  header .menu {
+    position: relative;
+    float: right;
+    padding: 3rem 2rem;
+  }
+  @media (max-width: 600px) {
+    .logo {
+      max-height: 72px;
+    }
+    header .menu {
+      display: block;
+    }
+    header .buttons {
+      display: none;
+    }
+  }
+  section.title {
+    padding: calc(6.6vmax + 166px) 0 6.6vmax;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  section.title h1 {
+    font-size: calc(4vw + 1rem);
+    font-weight: 700;
+    color: var(--primary-color);
+  }
+  header a,
+  section.title a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    padding: 1.2rem 0.3rem;
+  }
+  section.title p {
+    xpadding: 1.2rem;
+  }
+  a.button {
+    padding: 1.2rem 2rem;
+    border-radius: 0.4rem;
+  }
+  a.primary {
+    background: var(--primary-color);
+    margin: 0 1rem;
+  }
+  header a.primary:last-child {
+    margin-right: 0;
+  }
+
+  section.title a.primary {
+    padding: 1.2rem 2rem;
+  }
+  section.title .buttons {
+    margin-top: 6vw;
+  }
+  
+  section.leadin {
+    padding: 2rem 25vw;
+    background-color: var(--secondary-color);
+    color: white;
+  }
+
+  section.leadin p,
+  section.leadin li {
+    font-style: italic;
+  }
+  li {
+    padding: 1ex 0;
+  }
+</style>
+
+<header>
+  <img src="ahep-logo.png" class="logo">
+  <div class="menu">
+    <a href="#" class="material-symbols-outlined">
+      menu
+    </a>
+  </div>
+  <div class="buttons">
+    <a href="about">About</a>
+    <a href="faq">FAQ</a>
+    <a href="modules" class="button primary">Modules</a>
+  </div>
+</header>
+
+<script>
+  const header = document.querySelector('header');
+  const logo = header.querySelector('img');
+  let lastTop = 0;
+  let lastPos = 0;
+  document.addEventListener('scroll', () => {
+    // what direction?
+    // if up: top is min(current, scrolltop)
+    // if down: top is max(current, scrolltop - height)
+    const top = window.scrollY;
+    let pos = 0;
+    if (top < lastTop) {
+      pos = Math.min(lastPos, top);
+      console.log(`scroll up: ${lastTop} -> ${top} ==> pos=${lastPos}->${pos}`);
+    } else {
+      pos = Math.max(lastPos, top - header.clientHeight);
+      console.log(`scroll down: ${lastTop} -> ${top} (${header.clientHeight}) ==> pos=${pos}`);
+    }
+    lastPos = pos;
+    lastTop = top;
+    const height = Math.max(72, Math.min(166, 212 - pos));
+    logo.style.height = `${height}px`;
+    header.style.top = `${pos}px`;
+  });
+</script>
+
+<section class="title">
+  <h1>
+    American Heritage
+    <br>
+    Education Project
+  </h1>
+  <h3>
+    A Great Picture Books curriculum for teaching
+    <br>
+    children traditional American values
+  </h3>
+  <div class="buttons">
+    <a href="about" class="button primary">Learn More</a>
+  </div>
+</section>
+
+<section class="leadin">
+<h2>Who Would Benefit From the American Heritage Education Project?</h2>
+<p>We designed the Great Picture Books curriculum for homeschooling parents of 3-8-year-olds who want to pass on to their children the classic American virtues and values. These parents believe so strongly in these values that they are blazing a new educational trail for their children outside traditional schools.
+
+<p>AHEP's Great Picture Books curriculum is optimized for busy homeschooling parents in multiple ways:
+
+<ol>
+<li>The books and activities appeal to children of different ages and maturities. Parents and grandparents enjoy spending time together and sharing the joy of learning.
+<li>The activities are easily tailored to the interests of children and parents: history, civics, free-market economics, literature, songs, arts & crafts, cooking, Biblical scripture, science, and geography.
+<li>The activities are flexible enough to meet the challenge of the mini-crises that erupt during every family’s day. Each module contains hands-on activities that range from 10 minutes to an hour.
+<li>The books are affordable and available from multiple sources: libraries and online booksellers of new and used books.
+</ol>
+</section>
