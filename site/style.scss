@@ -1,0 +1,218 @@
+$primary-color: #d93948;
+$secondary-color: #0a334c;
+$font: 'Montserrat';
+$header-hide-duration: 0.6s;
+$logo-big: 166px;
+$logo-small: 72px;
+$logo-padding: 2vw;
+
+@mixin no-scroll-bar() {
+  &::-webkit-scrollbar {
+    height: 0;
+    width: 0;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    height: 0;
+    width: 0;
+  }
+
+  &::-webkit-scrollbar-track {
+    height: 0;
+    width: 0;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: $font, sans-serif;
+  font-weight: 400;
+}
+
+header {
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  background-color: black;
+  top: 0;
+  transition: top $header-hide-duration ease-in-out;
+
+  .logo {
+    padding: $logo-padding;
+    float: left;
+    max-height: $logo-big;
+    transition: max-height 0.6s ease-in-out;
+  }
+
+  .menu {
+    display: none;
+    padding: 1rem 2rem;
+  }
+
+  .buttons {
+    padding: 3rem 2rem;
+  }
+
+  .buttons, .menu {
+    position: relative;
+    float: right;
+  }
+}
+
+section.title {
+  padding: calc(6.6vmax + $logo-big) 0 6.6vmax;
+  background-color: black;
+  color: white;
+  text-align: center;
+
+  h1 {
+    font-size: calc(4vw + 1rem);
+    font-weight: 700;
+    color: $primary-color;
+  }
+
+  p {
+    //padding: 1.2rem;
+  }
+
+  .buttons {
+    margin-top: 6vw;
+  }
+}
+
+a.button {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+  padding: 1.2rem 0.3rem;
+  border-radius: 0.4rem;
+
+  &.primary {
+    background: $primary-color;
+    padding: 1.2rem 2rem;
+    margin: 0 1rem;
+    &:last-child {
+      margin-right: 0;
+    }
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
+section.leadin {
+  padding: 2rem 20vw;
+  background-color: $secondary-color;
+  color: white;
+
+  p, li {
+    font-style: italic;
+  }
+
+  li {
+    padding: 1ex 0;
+  }
+}
+
+section.carousel {
+  color: white;
+  position: relative;
+  background: $primary-color;
+  padding: 4vw 6vw;
+  h1 {
+    text-align: center;
+    padding-bottom: 4vw;
+    margin: 0;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    .left, .right {
+      flex: 0 1 1rem;
+    }
+    .carousel {
+      @include no-scroll-bar();
+      flex: 1 0 0;
+      display: flex;
+      overflow-x: auto;
+      img {
+        height: 240px;
+        margin: 0 0.2rem;
+      }
+    }
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+}
+
+section.testimonials {
+  padding: 2rem 12vw;
+
+  h1 {
+    text-align: center;
+  }
+
+  h1, p.author {
+    color: $secondary-color;
+  }
+  
+  p {
+    font-weight: bold;
+  }
+
+  p.author {
+    &::before {
+      content: '— ';
+    }
+    font-weight: normal;
+    text-align: right;
+  }
+
+}
+
+// Scrolled indicates that we've scrolled down some amount.
+// In that case, shrink the logo a bit, since we only want
+// it really big at the top.
+.scrolled {
+  header .logo {
+    max-height: $logo-small;
+    // Set a transition delay so that we don't see it 
+    transition-delay: $header-hide-duration;
+  }
+}
+
+// Scrolled-down indicates we've scrolled down more recently
+// than we've scrolled up.  In that case, hide the header by
+// moving it up so that its bottom edge is at the top of the
+// viewport.
+.scrolled-down header {
+  top: calc(-2 * $logo-padding - $logo-big);
+}
+
+// Modifications for small screens: permanently smaller logo,
+// tucked away header menu, etc.
+@media (max-width: 600px) {
+  header .logo {
+    max-height: $logo-small;
+  }
+  header .menu {
+    display: block;
+  }
+  header .buttons {
+    display: none;
+  }
+  br {
+    content: " ";
+    display: none;
+  }
+}
+
+// Remove some extra horizontal padding for medium/small screens.
+@media (max-width: 750px) {
+  section.leadin {
+    padding: 2rem 3rem;
+  }
+}
