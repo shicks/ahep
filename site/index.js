@@ -1,3 +1,5 @@
+// Keep track of any human interaction, to disambiguate from automatic
+// scroll events on document load.
 let interacted = false;
 for (const event of ['mousemove', 'touchstart']) {
   document.body.addEventListener(event, () => {
@@ -6,23 +8,40 @@ for (const event of ['mousemove', 'touchstart']) {
 }
 
 
-// Handle scroll by adding/removing relevant classes to the body element.
-let lastTop = 0;
-document.addEventListener('scroll', () => {
-  const top = window.scrollY;
-  document.body.classList.toggle('scrolled', top > 0);
-  if (top > lastTop) {
-    document.body.classList.add('scrolled-down');
-  } else if (top < lastTop) {
-    document.body.classList.remove('scrolled-down');
-  }
-  lastTop = top;
+// Handle the hamburger menu
+document.querySelector('.hamburger')?.addEventListener('click', () => {
+  console.log(`hamburger`);
+  document.body.classList.toggle('hamburger-expanded');
 });
+
+
+// Handle scroll by adding/removing relevant classes to the body element.
+(() => {
+  let lastTop = 0;
+  let upPixels = 0;
+  document.addEventListener('scroll', () => {
+    const top = window.scrollY;
+    document.body.classList.toggle('scrolled', top > 0);
+    if (top > lastTop) {
+      upPixels = 0;
+      document.body.classList.add('scrolled-down');
+    } else if (top < lastTop) {
+      upPixels += lastTop - top;
+      // the closer we are to the top, the less scroll we need
+      // to bring the header back...
+      if (upPixels > Math.min(160, top >> 2)) {
+        document.body.classList.remove('scrolled-down');
+      }
+    }
+    lastTop = top;
+  });
+})();
 
 
 // Set up the carousel
 (() => {
   const carousel = document.querySelector('a.carousel');
+  if (!carousel) return;
   const leftButton = document.querySelector('section.carousel .left');
   const rightButton = document.querySelector('section.carousel .right');
   // Double the children
@@ -87,4 +106,19 @@ document.addEventListener('scroll', () => {
     animate();
   });
   animate();
+})();
+
+
+// Blur squares
+(() => {
+  for (const img of document.querySelectorAll('.blur-cover img')) {
+    const back = document.createElement('img');
+    back.classList.add('blur');
+    back.src = img.src;
+    img.parentElement.insertBefore(back, img);
+    const link = img.closest('a.module');
+    link.href =
+        img.src.replace(/\/covers\//, '/modules/').replace(/\.jpg/, '.pdf');
+    link.target = '_blank';
+  }
 })();
