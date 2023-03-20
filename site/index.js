@@ -76,10 +76,10 @@ document.querySelector('.hamburger')?.addEventListener('click', () => {
     skipEvent = true;
     try {
       carousel.scrollLeft += dx;
-      if (dx >= 0 && carousel.scrollLeft > carousel.scrollWidth * 0.75) {
+      if (dx >= 0 && carousel.scrollLeft > carousel.scrollWidth * 0.6) {
         carousel.scrollLeft -= carousel.scrollWidth / 2;
       }
-      if (dx <= 0 && carousel.scrollLeft < carousel.scrollWidth / 4) {
+      if (dx <= 0 && carousel.scrollLeft < carousel.scrollWidth * 0.1) {
         carousel.scrollLeft += carousel.scrollWidth / 2;
       }
     } finally {
