@@ -78,22 +78,27 @@ section.title .buttons {
   margin-top: 6vw;
 }
 
-a.button {
+a.button,
+input[type=submit] {
   text-transform: uppercase;
   text-decoration: none;
   color: white;
   padding: 1.2rem 0.3rem;
   border-radius: 0.4rem;
 }
-a.button.primary {
+a.button.primary,
+input[type=submit].primary {
+  border: 0;
   background: #d93948;
   padding: 1.2rem 2rem;
   margin: 0 1rem;
 }
-a.button.primary:last-child {
+a.button.primary:last-child,
+input[type=submit].primary:last-child {
   margin-right: 0;
 }
-a.button.primary:first-child {
+a.button.primary:first-child,
+input[type=submit].primary:first-child {
   margin-left: 0;
 }
 
@@ -181,6 +186,26 @@ section.testimonials p.author {
 }
 section.testimonials p.author::before {
   content: "— ";
+}
+
+section.subscribe {
+  background-color: #0a334c;
+  color: white;
+  padding: 2rem 20vw;
+  text-align: center;
+}
+section.subscribe * {
+  color: white;
+}
+section.subscribe a {
+  font-weight: bold;
+  text-decoration: none;
+}
+section.subscribe input[type=text] {
+  border-radius: 0.4rem;
+  border: 0;
+  padding: 1.2rem 1rem;
+  color: black;
 }
 
 section.modules {

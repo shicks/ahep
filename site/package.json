@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "UNLICENSED",
-  "dependencies": {
-    "sass": "^1.59.3"
+  "devDependencies": {
+    "sass": "^1.62.1"
   }
 }

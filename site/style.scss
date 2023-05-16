@@ -146,7 +146,8 @@ section.title {
   }
 }
 
-a.button {
+a.button,
+input[type="submit"] {
   text-transform: uppercase;
   text-decoration: none;
   color: white;
@@ -154,6 +155,7 @@ a.button {
   border-radius: 0.4rem;
 
   &.primary {
+    border: 0;
     background: $primary-color;
     padding: 1.2rem 2rem;
     margin: 0 1rem;
@@ -229,7 +231,24 @@ section.testimonials {
     font-weight: normal;
     text-align: right;
   }
+}
 
+section.subscribe {
+  @include blue-bg();
+  padding: 2rem 20vw;
+  text-align: center;
+
+  a {
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  input[type="text"] {
+    border-radius: 0.4rem;
+    border: 0;
+    padding: 1.2rem 1rem;
+    color: black;
+  }
 }
 
 section.modules {
