@@ -2,6 +2,7 @@ $mobile-threshold: 600px;
 $primary-color: #d93948;
 $secondary-color: #0a334c;
 $font: 'Montserrat';
+$accent-font: 'Tangerine';
 $header-hide-duration: 0.6s;
 $hamburger-fade-duration: 0.2s;
 $logo-big: 166px;
@@ -109,6 +110,11 @@ header {
   a {
     text-decoration: none;
   }
+
+  a.underline {
+    text-decoration: underline;
+    text-underline-offset: 1ex;
+  }
 }
 
 .header-space {
@@ -136,6 +142,11 @@ section.title {
     font-weight: 700;
     color: $primary-color;
   }
+
+  // h3 {
+  //   font-family: $accent-font;
+  //   font-size: 250%;
+  // }
 
   p {
     //padding: 1.2rem;
@@ -179,6 +190,11 @@ section.leadin {
   li {
     padding: 1ex 0;
   }
+
+  // h2 {
+  //   font-family: $accent-font;
+  //   font-size: 200%;
+  // }
 }
 
 section.carousel {

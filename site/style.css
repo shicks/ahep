@@ -49,6 +49,10 @@ header .buttons, header .menu {
 header a {
   text-decoration: none;
 }
+header a.underline {
+  text-decoration: underline;
+  text-underline-offset: 1ex;
+}
 
 .header-space {
   height: calc(166px + 4vw);
