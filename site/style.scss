@@ -228,18 +228,14 @@ section.carousel {
   }
 }
 
-section.testimonials {
+@mixin white-section() {
   @include white-bg();
+
   padding: 2rem 12vw;
 
-  h1, p.author {
+  h1, h2 {
     color: $secondary-color;
   }
-  
-  p {
-    font-weight: bold;
-  }
-
   p.author {
     &::before {
       content: '— ';
@@ -247,6 +243,99 @@ section.testimonials {
     font-weight: normal;
     text-align: right;
   }
+}
+
+section.testimonials {
+  @include white-section();
+
+  p {
+    font-weight: bold;
+  }
+
+  p.author {
+    color: $secondary-color;
+  }
+}
+
+section.about {
+  @include white-section();
+
+  h2 {
+    text-align: center;
+  }
+
+  a, h3 {
+    color: $primary-color;
+  }
+  p.author {
+    position: relative;
+    top: -1rem;
+    height: 0;
+  }
+}
+
+section.faq {
+  @include white-section();
+
+  h2 {
+    color: $primary-color;
+    background-color: #ddd;
+    padding: 2vw;
+    &::before {
+      content: 'Q: ';
+    }
+    & > span {
+      float: right;
+      font-size: 120%;
+      &::before {
+        content: 'expand_more';
+      }
+    }
+    &.expanded > span::before {
+      content: 'expand_less';
+    }
+
+    & + p:before {
+      content: 'A: ';
+    }
+
+    & + * {
+      padding-left: 1rem;
+      padding-right: 1rem;
+
+      //height: 0;
+      & > p:first-child::before {
+        content: 'A: ';
+      }
+      
+      overflow: hidden;
+      transition: all .2s ease-in-out;
+      max-height: 0;
+
+      // color: transparent;
+      // & ol, & p {
+      //   margin: 0 0;
+      // }
+      // line-height: 0;
+      // & p {
+      //   margin-top: 0;
+      //   margin-bottom: 0;
+      //   padding-top: 0;
+      //   padding-bottom: 0;
+      // }
+    }
+    &.expanded + * {
+      max-height: 500vw;
+      // color: black;
+      transition: all .5s ease-in-out;
+      // line-height: 1.2;
+      // & ol, & p {
+      //   margin: 16px 0;
+      // }
+    }
+  }
+
+
 }
 
 section.subscribe {
@@ -418,7 +507,7 @@ section.modules {
 
 // Remove some extra horizontal padding for medium/small screens.
 @media (max-width: 750px) {
-  section.leadin {
+  section.leadin, section.faq {
     padding: 2rem 3rem;
   }
 }

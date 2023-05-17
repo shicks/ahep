@@ -122,3 +122,14 @@ document.querySelector('.hamburger')?.addEventListener('click', () => {
     link.target = '_blank';
   }
 })();
+
+
+// FAQ collapsing
+(() => {
+  for (const q of document.querySelectorAll('.faq > h2')) {
+    const s = document.createElement('span');
+    s.classList.add('material-symbols-outlined');
+    q.insertBefore(s, q.firstChild);
+    q.addEventListener('click', () => q.classList.toggle('expanded'));
+  }
+})();

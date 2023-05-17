@@ -178,11 +178,8 @@ section.testimonials * {
 section.testimonials h1 {
   color: #0a334c;
 }
-section.testimonials h1, section.testimonials p.author {
+section.testimonials h1, section.testimonials h2 {
   color: #0a334c;
-}
-section.testimonials p {
-  font-weight: bold;
 }
 section.testimonials p.author {
   font-weight: normal;
@@ -190,6 +187,102 @@ section.testimonials p.author {
 }
 section.testimonials p.author::before {
   content: "— ";
+}
+section.testimonials p {
+  font-weight: bold;
+}
+section.testimonials p.author {
+  color: #0a334c;
+}
+
+section.about {
+  background-color: white;
+  color: black;
+  padding: 2rem 12vw;
+}
+section.about * {
+  color: black;
+}
+section.about h1 {
+  color: #0a334c;
+}
+section.about h1, section.about h2 {
+  color: #0a334c;
+}
+section.about p.author {
+  font-weight: normal;
+  text-align: right;
+}
+section.about p.author::before {
+  content: "— ";
+}
+section.about h2 {
+  text-align: center;
+}
+section.about a, section.about h3 {
+  color: #d93948;
+}
+section.about p.author {
+  position: relative;
+  top: -1rem;
+  height: 0;
+}
+
+section.faq {
+  background-color: white;
+  color: black;
+  padding: 2rem 12vw;
+}
+section.faq * {
+  color: black;
+}
+section.faq h1 {
+  color: #0a334c;
+}
+section.faq h1, section.faq h2 {
+  color: #0a334c;
+}
+section.faq p.author {
+  font-weight: normal;
+  text-align: right;
+}
+section.faq p.author::before {
+  content: "— ";
+}
+section.faq h2 {
+  color: #d93948;
+  background-color: #ddd;
+  padding: 2vw;
+}
+section.faq h2::before {
+  content: "Q: ";
+}
+section.faq h2 > span {
+  float: right;
+  font-size: 120%;
+}
+section.faq h2 > span::before {
+  content: "expand_more";
+}
+section.faq h2.expanded > span::before {
+  content: "expand_less";
+}
+section.faq h2 + p:before {
+  content: "A: ";
+}
+section.faq h2 + * {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  overflow: hidden;
+  transition: all 0.2s ease-in-out;
+  max-height: 0;
+}
+section.faq h2 + * > p:first-child::before {
+  content: "A: ";
+}
+section.faq h2.expanded + * {
+  max-height: 500vw;
+  transition: all 0.5s ease-in-out;
 }
 
 section.subscribe {
@@ -344,7 +437,7 @@ section.modules .module .year {
   }
 }
 @media (max-width: 750px) {
-  section.leadin {
+  section.leadin, section.faq {
     padding: 2rem 3rem;
   }
 }
