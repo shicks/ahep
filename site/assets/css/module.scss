@@ -1,0 +1,243 @@
+//$heading-font: 'Montserrat';
+$heading-font: 'Saira Extra Condensed';
+$body-font: 'Montserrat';
+$primary-color: #d93948;
+$secondary-color: #0a334c;
+$accent-color: #3b8bc7;
+
+// body {
+//   background-image: url("ahep-bg.svg");
+//   background-repeat: no-repeat;
+//   background-attachment: fixed;
+// }
+
+.bg {
+  * {
+    z-index: -100;
+    position: fixed;
+    max-width: 50vmin;
+    max-height: 50vmin;
+  }
+  .tl, .tr {
+    top: 0;
+  }
+  .tl, .bl {
+    left: 0;
+  }
+  .bl, .br {
+    bottom: 0;
+  }
+  .tr, .br {
+    right: 0;
+  }
+}
+
+body {
+  margin: 10vmin;
+  font-family: $body-font;
+}
+
+h1, h2, h3 {
+  font-family: $heading-font;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: $primary-color;
+}
+h2 {
+  text-transform: uppercase;
+  color: $secondary-color;
+  margin: 0;
+
+  i, em {
+    font-style: normal;
+  }
+}
+
+hr {
+  border: 2px solid $primary-color;
+  margin: 3.4ex 0 3ex;
+
+  &+h1, &+h2, &+h3 {
+    margin-top: 0;
+  }
+}
+
+.book {
+  margin-top: calc(3.4ex - 16px);
+  padding-top: calc(3ex + 16px);
+  padding-bottom: calc(3.4ex + 16px);
+  margin-bottom: calc(3ex - 16px);
+
+  position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  text-shadow: white 0 0 10px;
+
+  hr {
+    margin: 0;
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    right: 0;
+    &.top {
+      top: 16px;
+    }
+    &.bottom {
+      bottom: 16px;
+    }
+  }
+  p {
+    margin-bottom: 0;
+    //margin-right: 20ex;
+  }
+}
+
+div.activities {
+  display: grid;
+  grid-template-columns:
+    [activity] 1fr [time] max-content [freq] max-content [prep] max-content;
+  .header {
+    grid-row: 1;
+    background: $accent-color;
+    color: white;
+    font-weight: bold;
+  }
+  .activity {
+    grid-column: activity;
+  }
+  .time {
+    grid-column: time;
+  }
+  .freq {
+    grid-column: freq;
+  }
+  .prep {
+    grid-column: prep;
+  }
+
+  & > * {
+    margin: 0;
+    padding: 1ex 0.4em;
+    border-top: 1px solid $accent-color;
+  }
+
+  //gap: 1ex 0.4em;
+  margin-top: 2ex;
+  width: 100%;
+
+  border-collapse: collapse;
+  // thead {
+  //   background: $accent-color;
+  //   color: white;
+  // }
+  // tr {
+  //   border-top: 1px solid $accent-color;
+  // }
+  // th, td {
+  //   padding: 1ex 0.4em;
+  //   &:nth-child(2), &:nth-child(4) {
+  //     // don't want to wrap "x-y minutes"
+  //     min-width: 7.5em;
+  //   }
+  //   &:nth-child(3) {
+  //     // don't want to wrap "frequency"
+  //     min-width: 3em;
+  //     overflow: hidden;
+  //   }
+  // }
+}
+
+div.calendar {
+  display: grid;
+  grid-template-areas:
+    "MH TH WH RH FH"
+    "M1 T1 W1 R1 F1"
+    "M2 T2 W2 R2 F2"
+    "MS TS WS RS FS";
+  .header {
+    grid-row: 1;
+    background: $primary-color;
+    color: white;
+    font-weight: bold;
+  }
+
+  & > * {
+    margin: 0;
+    padding: 1ex 0.4em;
+    outline: 1px solid $primary-color;
+  }
+
+  margin-top: 2ex;
+  width: 100%;
+  gap: 1px;
+}
+
+table.activities {
+  margin-top: 2ex;
+  width: 100%;
+  border-collapse: collapse;
+  thead {
+    background: $accent-color;
+    color: white;
+  }
+  tr {
+    border-top: 1px solid $accent-color;
+  }
+  th, td {
+    padding: 1ex 0.4em;
+    &:nth-child(2), &:nth-child(4) {
+      // don't want to wrap "x-y minutes"
+      min-width: 7.5em;
+    }
+    &:nth-child(3) {
+      // don't want to wrap "frequency"
+      min-width: 3em;
+      overflow: hidden;
+    }
+  }
+}
+
+blockquote {
+  //font-family: $body-font;
+  white-space: pre-line;
+  text-align: center;
+  font-style: italic;
+  margin: 0;
+  padding: 0;
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  &+p {
+    margin-top: 0;
+  }
+}
+
+p.center {
+  text-align: center;
+  img {
+    width: 50%;
+  }
+}
+
+// .book {
+//   display: flex;
+//   flex-direction: row-reverse;
+//   align-items: stretch;
+//   // .cover {
+//   //   margin-top: -3.4ex;
+//   //   margin-bottom: -3.4ex;
+//   //   display: flex;
+//   //   flex-direction: column;
+//   //   img {
+//   //     flex: 1 0 0; // 0 basis but grow as needed
+//   //   }
+//   // }
+// }
+
+.metadata {
+  display: none;
+}

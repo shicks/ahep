@@ -5,3 +5,5 @@ _site
 style.css.map
 vendor
 node_modules
+venv
+#*#
