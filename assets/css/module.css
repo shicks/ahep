@@ -107,6 +107,10 @@ div.activities > * {
   padding: 1ex 0.4em;
   border-top: 1px solid #3b8bc7;
 }
+div.activities a {
+  text-decoration: none;
+  color: black;
+}
 
 div.calendar {
   display: grid;
@@ -126,28 +130,9 @@ div.calendar > * {
   padding: 1ex 0.4em;
   outline: 1px solid #d93948;
 }
-
-table.activities {
-  margin-top: 2ex;
-  width: 100%;
-  border-collapse: collapse;
-}
-table.activities thead {
-  background: #3b8bc7;
-  color: white;
-}
-table.activities tr {
-  border-top: 1px solid #3b8bc7;
-}
-table.activities th, table.activities td {
-  padding: 1ex 0.4em;
-}
-table.activities th:nth-child(2), table.activities th:nth-child(4), table.activities td:nth-child(2), table.activities td:nth-child(4) {
-  min-width: 7.5em;
-}
-table.activities th:nth-child(3), table.activities td:nth-child(3) {
-  min-width: 3em;
-  overflow: hidden;
+div.calendar a {
+  text-decoration: none;
+  color: black;
 }
 
 blockquote {
