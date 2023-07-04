@@ -124,6 +124,11 @@ div.activities {
     border-top: 1px solid $accent-color;
   }
 
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
   //gap: 1ex 0.4em;
   margin-top: 2ex;
   width: 100%;
@@ -170,35 +175,40 @@ div.calendar {
     outline: 1px solid $primary-color;
   }
 
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
   margin-top: 2ex;
   width: 100%;
   gap: 1px;
 }
 
-table.activities {
-  margin-top: 2ex;
-  width: 100%;
-  border-collapse: collapse;
-  thead {
-    background: $accent-color;
-    color: white;
-  }
-  tr {
-    border-top: 1px solid $accent-color;
-  }
-  th, td {
-    padding: 1ex 0.4em;
-    &:nth-child(2), &:nth-child(4) {
-      // don't want to wrap "x-y minutes"
-      min-width: 7.5em;
-    }
-    &:nth-child(3) {
-      // don't want to wrap "frequency"
-      min-width: 3em;
-      overflow: hidden;
-    }
-  }
-}
+// table.activities {
+//   margin-top: 2ex;
+//   width: 100%;
+//   border-collapse: collapse;
+//   thead {
+//     background: $accent-color;
+//     color: white;
+//   }
+//   tr {
+//     border-top: 1px solid $accent-color;
+//   }
+//   th, td {
+//     padding: 1ex 0.4em;
+//     &:nth-child(2), &:nth-child(4) {
+//       // don't want to wrap "x-y minutes"
+//       min-width: 7.5em;
+//     }
+//     &:nth-child(3) {
+//       // don't want to wrap "frequency"
+//       min-width: 3em;
+//       overflow: hidden;
+//     }
+//   }
+// }
 
 blockquote {
   //font-family: $body-font;

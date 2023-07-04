@@ -9,6 +9,7 @@
 {%- for line in lines -%}
 {%-   assign tableRest = line | remove_first: "|" -%}
 {%-   assign heading = line | remove_first: "## " -%}
+{%-   assign idLine = line | remove_first: "{:#" -%}
 
 {%-   if tableRest != line -%}
 {%-     assign key = tableRest | split: "|" | first -%}
@@ -47,19 +48,24 @@
 {%-     assign calName = "" -%}
 {%-     assign supp = "" -%}
 
+{%-   elsif line != idLine -%}
+{%-     assign id = idLine | split: "}" | first -%}
+
 {%-   elsif line == "{:.metadata}" -%}
 {%-     comment %} TODO: check known keys {% endcomment -%}
 {%      capture activities %}{{activities}}
-<span class="activity" markdown="1">{{ name }}</span>
-<span class="time" markdown="1">{{ time }}</span>
-<span class="freq" markdown="1">{{ freq }}</span>
-<span class="prep" markdown="1">{{ prep }}
+<span class="activity" markdown="1"><a href="#{{ id }}">{{ name }}</a></span>
+<span class="time" markdown="1"><a href="#{{ id }}">{{ time }}</a></span>
+<span class="freq" markdown="1"><a href="#{{ id }}">{{ freq }}</a></span>
+<span class="prep" markdown="1"><a href="#{{ id }}">{{ prep }}</a>
 {%-       if extraKeys != "" -%}<br>Extra keys:{{extraKeys}}{%- endif -%}
 </span>
 {%      endcapture %}
 {%-     if cal != "" -%}
 {%        capture calendar %}{{calendar}}
-<span style="grid-area:{{cal}}" markdown="1">{{calName | default: name }}</span>
+<span style="grid-area:{{cal}}" markdown="1">
+  <a href="#{{id}}">{{calName | default: name }}</a>
+</span>
 {%        endcapture %}
 {%-       if supp != "" -%}
 {%        capture suppliesList %}{{suppliesList}}

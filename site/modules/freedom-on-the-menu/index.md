@@ -49,6 +49,7 @@ ideals.
 ---
 
 ## American Heritage Songbook: This Little Light of Mine
+{:#songbook}
 
 |Name| Songbook: _This Little Light of Mine_
 |Time| 5 minutes
@@ -81,6 +82,7 @@ music artist recorded his version [here][raffi]. Even Bruce Springsteen
 ---
 
 ## Famous American Texts: _I Have a Dream_
+{:#text-i-have-a-dream}
 
 |Time| 5 minutes
 |Freq| Daily
@@ -114,6 +116,7 @@ them to memorize one of the lines above.
 ---
 
 ## Political Geography: Jim Crow Laws
+{:#jim-crow}
 
 |Time| 15 minutes
 |Cal | T2
@@ -148,6 +151,7 @@ states. Are all the states in this last group southern states?
 ---
 
 ## Biography: Rev. Martin Luther King, Jr.
+{:#biography-mlk}
 
 |Time| 5 minutes
 {:.metadata}
@@ -182,6 +186,7 @@ short five-minute YouTube video].
 ---
 
 ## Arts & Crafts: _I Have a Dream_ Speech
+{:#craft-i-have-a-dream}
 
 |Time| 20 minutes
 |Prep| 10 minutes
@@ -219,6 +224,7 @@ his I Have a Dream speech.
 ---
 
 ## Arts & Crafts: Make Your Own Picket Sign
+{:#craft-picket}
 
 |Time| 15–20 minutes
 |Prep| 10–15 minutes
@@ -261,6 +267,7 @@ his I Have a Dream speech.
 ---
 
 ## Science: Make Your Own Paint and Color Mixing
+{:#science-paint}
 
 |Name| Science: Make Your Own Paint
 |Time| 30–60 minutes
@@ -320,6 +327,7 @@ try.
 ---
 
 ## Historical Re-enactment: Sit-In
+{:#reenactment-sit-in}
 
 |Time| 30–45 minutes
 |Prep| 10–20 minutes
@@ -374,6 +382,7 @@ had to go longer distances to use a bathroom and wash up.
 ---
 
 ## Cooking: Banana Split
+{:#cooking-banana-split}
 
 |Time| 15–20 minutes
 |Prep| 15–20 minutes
@@ -413,6 +422,7 @@ customize the basic recipe!
 ---
 
 ## Civic Culture: Biblical Scripture
+{:#scripture}
 
 |Time| 10 minutes
 |Freq| Daily
@@ -442,6 +452,7 @@ the evening.
 ---
 
 ## Family: One-on-One Time
+{:#family}
 
 |Time| 60 minutes
 {:.metadata}
@@ -463,6 +474,7 @@ focused time interacting with each of your children.
 ---
 
 ## Supplemental Reading: _Granddaddy’s Turn: A Journey to the Ballot Box_
+{:#supplemental-grandaddys-turn}
 
 |Name| Supplemental Read: _Granddaddy’s Turn_
 |Time| 10–15 minutes
@@ -490,6 +502,7 @@ This story is a great supplemental reading to _Freedom on the Menu_, illustratin
 ---
 
 ## Art: Find the Family
+{:#art-family}
 
 |Time| 15 minutes
 {:.metadata}
@@ -510,6 +523,7 @@ they think an appropriate age would be to participate in a protest?
 ---
 
 ## Art: Impressionism
+{:#art-impressionism}
 
 |Time| 15 minutes
 |Cal | F1
@@ -552,6 +566,7 @@ Woman with a Parasol by Claude Monet (1875)<br>
 ---
 
 ## Language Arts: Vocabulary
+{:#vocabulary}
 
 |Time| 10 minutes
 |Cal | T1: Vocabulary (before reading)
