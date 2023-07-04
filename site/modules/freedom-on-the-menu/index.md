@@ -60,6 +60,7 @@ ideals.
 > Let it shine, let it shine, let it shine
 > Everywhere I go, I’m gonna let it shine
 > Let it shine, let it shine, let it shine
+{:.nowrap}
 
 No one knows the exact origin of this song but it goes back at least
 to the 1930s. Many, many people and groups have recorded a variation
@@ -91,6 +92,7 @@ music artist recorded his version [here][raffi]. Even Bruce Springsteen
 > …
 > I have a dream that my four little children will one day live in a nation
 > where they will not be judged by the color of their skin but by the content of their character.
+{:.nowrap}
 
 Martin Luther King Jr.’s “I Have a Dream” speech galvanized our
 nation, reminding people of our founding creed — and how black
@@ -153,6 +155,7 @@ states. Are all the states in this last group southern states?
 > Later that week, our whole family went to hear Dr. King preach at the college chapel.
 > I didn’t really understand all of his speech, but I liked his booming voice.
 > It sounded as if he believed God was on our side.
+{:.nowrap}
 
 The Reverend Dr. Martin Luther King, Jr. was the leading figure in the
 Civil Rights Movement of the 1960s. Like his father and grandfather
@@ -188,6 +191,7 @@ short five-minute YouTube video].
 >“Who’s sick?” I asked.
 >“He’s not that kind of doctor, Connie,” Daddy laughed.
 >“He’s a minister who’s working to make things better for us,” said Daddy.
+{:.nowrap}
 
 **Supplies:**
 
@@ -224,6 +228,7 @@ his I Have a Dream speech.
 
 > “I never get to do anything important.” I pouted.
 > “You can help make the picket signs,” said Sister. “That’s very important.”
+{:.nowrap}
 
 **Supplies:**
 
@@ -266,6 +271,7 @@ his I Have a Dream speech.
 
 > Hundreds of people walked up and down the sidewalks in front of stores, restaurants, and movie theaters.
 > I saw my own sister carrying a picket sign.
+{:.nowrap}
 
 You can make homemade finger paint (for picket signs among other things).
 
@@ -321,6 +327,47 @@ try.
 |Supp| Signs.
 {:.metadata}
 
+> “Look over at the lunch counter! We know those boys!” There sat four of Brother’s friends from A&T College.
+> “Do they know they’re in the wrong place?” I whispered.
+> “Some rules have to be broken,” Mama whispered back.
+{:.nowrap}
+
+Pick an arbitrary characteristic to discriminate between children or
+family members.  This should be done with some care as we want to
+demonstrate how unreasonable, ridiculous, and unkind such
+discrimination is but we do not want to create or foster it. Age is
+one option (though this isn’t entirely arbitrary as there can be
+reasons that someone needs to achieve a certain age to participate in
+some things).  Hair type or color and eye color are other options.
+Whether a certain characteristic will be problematic in your house
+will vary.  We selected eye color as this made for a good division in
+our family (one adult and the two older children discriminated
+against).
+
+Based on the characteristic, put up signs and explain rules for where
+people with the discriminated against characteristic are not allowed
+to go and what they are not allowed to do.  Those discriminated
+against in our home could not use the bathroom on the main level (the
+most convenient bathroom during the day) and could not sit at the
+table for meals (they had to stand at the counter).
+
+We did the discrimination for one day.  Over lunch, we picketed (using
+our homemade picket signs) and sat in (sitting at the table without
+eating).  We did another round of picketing and sitting in at dinner.
+Some picketers were arrested and spent some time in jail (sitting in a
+corner in another room).  They chanted “jail not bail!”
+
+At the middle/end of dinner, equality was won and all eye colors could
+enjoy sitting at the table.  We celebrated with banana splits (see
+recipe below) for dessert!
+
+The discrimination definitely stung my older two children.  There was
+interest in (a form of) retaliation - they posted signs on other rooms
+saying “Kids only.”  There were even some tears when one of my
+children accidentally forgot and used the bathroom sink that was not
+designated for them.  The inconvenience was definitely felt as they
+had to go longer distances to use a bathroom and wash up.
+
 ![Picture of re-enactment](reenactment.jpg)
 {:.center}
 
@@ -334,6 +381,35 @@ try.
 |Supp| Ripe bananas, ice cream (vanilla, chocolate and strawberry), chopped nuts (walnuts or peanuts), chocolate (or caramel or butterscotch) sauce, whipped cream, Maraschino cherries.
 {:.metadata}
 
+> It was the best banana split I ever had.
+
+Apprentice pharmacist David Strickler invented the banana split in
+1904 while working at a pharmacy in Latrobe, Pennsylvania. The odd
+shape of this classic American dessert, with a banana sliced
+lengthways, prompted him to work with a glassmaker who developed a
+proper container (called a “boat”) for the new-fangled dessert. The
+original recipe included a banana with three scoops of ice cream
+(vanilla, chocolate, strawberry) with a variety of different fruits,
+chopped nuts, and sauces (chocolate, marshmallow) as toppings. Many
+variations have been developed over the years – it’s very easy to
+customize the basic recipe!
+
+**Supplies:**
+
+* Ripe bananas
+* Ice cream (vanilla, chocolate and strawberry)
+* Chopped nuts (walnuts or peanuts)
+* Chocolate (or caramel or butterscotch) sauce
+* Whipped cream
+* Maraschino cherries
+
+**Directions:**
+
+1. Slice bananas lengthwise and place in a large dish
+1. Place three scoops of ice cream on the bananas
+1. Add toppings: sauces, whipped cream, nuts
+1. Add cherries on top and enjoy!
+
 ---
 
 ## Civic Culture: Biblical Scripture
@@ -342,6 +418,27 @@ try.
 |Freq| Daily
 {:.metadata}
 
+> You are the light of the world. A city on a hill cannot be
+> hidden. Neither do people light a lamp and put it under a bowl.
+> Instead they put it on a stand, and it gives light to everyone in
+> the house. In the same way, let your light shine before men, that
+> they may see your good deeds and praise your Father in heaven.
+> (Matthew 5: 14-16)
+
+Many believe the song _This Little Light of Mine_ has Christian
+origins that are based on the scripture above, where Matthew quotes
+Jesus’ Sermon on the Mount. As the origin of the song is unknown, we
+can’t be certain. However, there is an obvious relationship between
+the song and the scripture. And this particular scripture is woven
+into the fabric of American culture, with John Winthrop in 1630 to
+Presidents John F. Kennedy (1961) and Ronald Reagan (1980) describing
+America as the “city upon a hill.”
+
+As an alternative memorization exercise, ask your younger children to
+memorize the first line. Older children can memorize the entire
+quote. To help them, try acting out the scripture with flashlights in
+the evening.
+
 ---
 
 ## Family: One-on-One Time
@@ -349,14 +446,46 @@ try.
 |Time| 60 minutes
 {:.metadata}
 
+> Just about every week, Mama and I went shopping downtown.
+> I loved having her all to myself for the afternoon.
+{:.nowrap}
+
+Connie describes how shopping with her mother was something they did
+together, just the two of them.  Spending time one-on-one with a
+parent/child can be very impactful (especially if there are other
+siblings).  This can be a one-off special event or a regularly
+scheduled time (along the lines of Connie’s regular shopping trip).
+It can be going to a special event or program or be as simple as
+spending 20 minutes of focused attention with the child (reading,
+playing a game, etc.).  Set up a one-on-one time to get some quality,
+focused time interacting with each of your children.
+
 ---
 
-## Supplemental Read: _Granddaddy’s Turn_
+## Supplemental Reading: _Granddaddy’s Turn: A Journey to the Ballot Box_
 
+|Name| Supplemental Read: _Granddaddy’s Turn_
 |Time| 10–15 minutes
 |Freq| Twice
 |Cal | F2
 {:.metadata}
+
+> When I went to vote for the first time, I remembered what my
+> granddaddy always said: “Patience, son, patience.” He was right. The
+> day finally came. And I knew that – just like my granddaddy – I
+> would never take it for granted.
+
+The very last of the Jim Crow laws were the laws that prevented black
+Americans from voting. Unlike Freedom on the Menu, the story of
+_Granddaddy’s Turn_ (authors: Michael S. Bandy & Eric Stein,
+illustrator: James E. Ransome) doesn’t portray the struggle to
+overturn these unjust laws. _Granddaddy’s Turn_ shows the emotional
+impact of being denied a fundamental civil right. It’s also a
+heartfelt story of the bond between a grandfather and a grandson,
+illustrating how none of us should ever take our right to vote for
+granted.
+
+This story is a great supplemental reading to _Freedom on the Menu_, illustrating another vital way in which the civil rights of black Americans were unlawfully violated. The landmark federal legislation contained in the  Voting Rights Act of 1965 marked the beginning of the end of this shameful period of American history.  
 
 ---
 
@@ -364,6 +493,19 @@ try.
 
 |Time| 15 minutes
 {:.metadata}
+
+> Soon after that, my brother and my sister joined the
+> National Association for the Advancement of Colored People… 
+> They let me tag along as they went door-to-door helping people to sign up to vote.
+{:.nowrap}
+
+Connie is the youngest child in her family and the story is told from
+her point of view. Connie is the only one who appears on almost every
+page. As you read through the story, ask your kids to find Connie and
+any of her family members in the artwork. Ask them why only Connie’s
+Brother and Sister joined in the protests and not her Mama and
+Daddy. Follow up by asking them how old they think Connie is? What do
+they think an appropriate age would be to participate in a protest?
 
 ---
 
@@ -373,11 +515,39 @@ try.
 |Cal | F1
 {:.metadata}
 
-![Monet's painting "Impression, Sunrise"](monet-sunrise.jpg)
-{:.center}
+> All over town, signs told Mama and me where we could and couldn’t go.
+> Signs on water fountains, swimming pools, movie theaters, even bathrooms.
+{:.nowrap}
 
-![Money's painting "Woman with a Parasol"](monet-parasol.jpg)
-{:.center}
+Impressionism is a style of artistic expression developed in the late
+19th century in France. It was a radical departure from the style that
+prevailed at the time; early critics described the paintings as poorly
+defined sketches. Impressionists were excluded from major art shows
+and were forced to start their own to get their work exhibited to the
+public.
+
+Impressionists do not try to paint a scene realistically. They try to
+capture their “impression” of the scene – the mood, the feeling it
+evokes. Or, as one commentator expressed it, “they render not the
+landscape but the sensation produced by the landscape.” Forms are not
+clearly delineated but are “shimmering and vibrating” with color
+providing definition rather than black lines.
+
+Jerome Lagarrigue, the illustrator for _Freedom on the Menu_, paints
+in an impressionistic style. One reviewer described his art as
+“somber, somewhat impressionistic paintings [that] capture the dignity
+and gravity of the situation.” Ask your young art critics: how would
+they describe the mood of Lagarrigue’s paintings?
+
+![Monet's painting "Impression, Sunrise"](monet-sunrise.jpg)<br>
+Impression, Sunrise by Claude Monet (1872)<br>
+(This painting, panned by an art critic, gave Impressionism its name.)
+{:.center .caption}
+
+![Money's painting "Woman with a Parasol"](monet-parasol.jpg)<br>
+Woman with a Parasol by Claude Monet (1875)<br>
+(Claude Monet was one of the most famous of the Impressionists)
+{:.center .caption}
 
 ---
 
@@ -386,3 +556,48 @@ try.
 |Time| 10 minutes
 |Cal | T1: Vocabulary (before reading)
 {:.metadata}
+
+> “The protests are growing!” I told Daddy.
+> “I’m joining the sit-ins,” Brother said, bursting into the room.
+> “And I’m going to picket downtown,” said Sister. “Tomorrow.”
+{:.nowrap}
+
+The story of the Greensboro sit-ins introduces the vocabulary of civil
+disobedience: protests, sit-ins, pickets, arrest, bail. Most of these
+words will be new to your kids and you may need to spend a bit more
+time explaining these words upfront. For example, “sit-ins” is in the
+title with no context as to what it means. Some of these words are at
+the heart of the story, so understanding them will be important.
+
+Cater
+: to provide food or service to an individual or group
+
+Huffed
+: to be angry or offended
+
+Protests
+: strong complaints indicating disapproval
+
+Sit-In
+: an organized peaceful way to protest by sitting in a public space,
+  disrupting normal operations and refusing to leave until a concern
+  has been addressed
+
+Picket
+: people protesting by marching and carrying signs outside a business
+  to discourage others from shopping at the business
+
+Arrested
+: to capture a person by legal means and take them to jail
+
+Bail
+: money or property given to the legal system to ensure a person will
+  appear before the court
+
+Civil Rights
+: the rights to fully participate in the civil and political life of a
+  country; the rights to personal liberty
+
+Creed
+: a fundamental set of beliefs or guiding principles (this word comes
+  from MLK’s speech)

@@ -151,18 +151,20 @@ table.activities th:nth-child(3), table.activities td:nth-child(3) {
 }
 
 blockquote {
-  white-space: pre-line;
   text-align: center;
   font-style: italic;
+}
+blockquote.nowrap {
+  white-space: pre-line;
   margin: 0;
   padding: 0;
 }
-blockquote p {
-  margin: 0;
-  padding: 0;
-}
-blockquote + p {
+blockquote.nowrap + p {
   margin-top: 0;
+}
+blockquote.nowrap p {
+  margin: 0;
+  padding: 0;
 }
 
 p.center {
@@ -170,6 +172,13 @@ p.center {
 }
 p.center img {
   width: 50%;
+}
+p.center.caption {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
 }
 
 .metadata {

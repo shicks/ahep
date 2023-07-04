@@ -144,6 +144,10 @@ section.title {
     color: $primary-color;
   }
 
+  h3 {
+    font-size: calc(1.75vw + 0.6rem);
+  }
+
   // h3 {
   //   font-family: $accent-font;
   //   font-size: 250%;
