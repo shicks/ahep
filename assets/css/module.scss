@@ -223,6 +223,9 @@ p.center {
   img {
     width: 50%;
   }
+  &.caption {
+    font-style: italic;
+  }
 }
 
 dt {

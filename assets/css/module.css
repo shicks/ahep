@@ -173,6 +173,9 @@ p.center {
 p.center img {
   width: 50%;
 }
+p.center.caption {
+  font-style: italic;
+}
 
 dt {
   font-weight: bold;

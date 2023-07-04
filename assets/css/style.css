@@ -78,6 +78,9 @@ section.title h1 {
   font-weight: 700;
   color: #d93948;
 }
+section.title h3 {
+  font-size: calc(1.75vw + 0.6rem);
+}
 section.title .buttons {
   margin-top: 6vw;
 }
