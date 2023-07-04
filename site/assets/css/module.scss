@@ -127,6 +127,10 @@ div.activities {
   a {
     text-decoration: none;
     color: black;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   //gap: 1ex 0.4em;
@@ -178,6 +182,10 @@ div.calendar {
   a {
     text-decoration: none;
     color: black;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   margin-top: 2ex;

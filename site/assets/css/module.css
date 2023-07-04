@@ -111,6 +111,9 @@ div.activities a {
   text-decoration: none;
   color: black;
 }
+div.activities a:hover {
+  text-decoration: underline;
+}
 
 div.calendar {
   display: grid;
@@ -133,6 +136,9 @@ div.calendar > * {
 div.calendar a {
   text-decoration: none;
   color: black;
+}
+div.calendar a:hover {
+  text-decoration: underline;
 }
 
 blockquote {
