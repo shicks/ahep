@@ -1,0 +1,119 @@
+{% capture newline %}
+{% endcapture %}
+{%- assign activities = "" -%}
+{%- assign calendar = "" -%}
+{%- assign lines = page.content | strip | split: newline -%}
+
+{%- assign suppliesList = "" -%}
+
+{%- for line in lines -%}
+{%-   assign tableRest = line | remove_first: "|" -%}
+{%-   assign heading = line | remove_first: "## " -%}
+{%-   assign idLine = line | remove_first: "{:#" -%}
+
+{%-   if tableRest != line -%}
+{%-     assign key = tableRest | split: "|" | first -%}
+{%      capture keyPrefix %}{{key}}|{% endcapture %}
+{%-     assign val = tableRest | remove_first: keyPrefix | strip -%}
+{%-     assign key = key | strip -%}
+{%-     case key -%}
+{%-     when "Name" -%}
+{%-       assign name = val -%}
+{%-     when "Time" -%}
+{%-       assign time = val -%}
+{%-     when "Freq" -%}
+{%-       assign freq = val -%}
+{%-     when "Prep" -%}
+{%-       assign prep = val -%}
+{%-     when "Cal" -%}
+{%-       assign cal = val | split: ":" | first -%}
+{%        capture calPrefix %}{{cal}}:{% endcapture %}
+{%-       assign valRest = val | remove_first: calPrefix | strip -%}
+{%-       if val != valRest -%}
+{%-         assign calName = valRest | strip -%}
+{%-       endif -%}
+{%-       assign cal = cal | strip -%}
+{%-     when "Supp" -%}
+{%-       assign supp = val -%}
+{%-     else -%}
+{%        capture extraKeys %}{{extraKeys}} {{key}}{% endcapture %}
+{%-     endcase -%}
+
+{%-   elsif line != heading -%}
+{%-     assign name = heading -%}
+{%-     assign time = "" -%}
+{%-     assign freq = "Once" -%}
+{%-     assign prep = "Minimal" -%}
+{%-     assign cal = "" -%}
+{%-     assign calName = "" -%}
+{%-     assign supp = "" -%}
+
+{%-   elsif line != idLine -%}
+{%-     assign id = idLine | split: "}" | first -%}
+
+{%-   elsif line == "{:.metadata}" -%}
+{%-     comment %} TODO: check known keys {% endcomment -%}
+{%      capture activities %}{{activities}}
+<span class="activity" markdown="1"><a href="#{{ id }}">{{ name }}</a></span>
+<span class="time" markdown="1"><a href="#{{ id }}">{{ time }}</a></span>
+<span class="freq" markdown="1"><a href="#{{ id }}">{{ freq }}</a></span>
+<span class="prep" markdown="1"><a href="#{{ id }}">{{ prep }}</a>
+{%-       if extraKeys != "" -%}<br>Extra keys:{{extraKeys}}{%- endif -%}
+</span>
+{%      endcapture %}
+{%-     if cal != "" -%}
+{%        capture calendar %}{{calendar}}
+<span style="grid-area:{{cal}}" markdown="1">
+  <a href="#{{id}}">{{calName | default: name }}</a>
+</span>
+{%        endcapture %}
+{%-       if supp != "" -%}
+{%        capture suppliesList %}{{suppliesList}}
+{{cal}}:{{supp}}{% endcapture %}
+{%-       endif -%}
+{%-     endif -%}
+{%-   else -%}
+{%-     assign extraKeys = "" -%}
+{%-   endif -%}
+
+{%- endfor -%}
+
+<div class="activities">
+<div class="header">Activity</div>
+<div class="header">Time</div>
+<div class="header">Frequency</div>
+<div class="header">Preparation</div>
+{{activities}}
+</div>
+
+Below is one suggestion for your week with the book
+_{{page.title}}_. Please experiment with what works for
+your family! (Note: not all activities may be included in the
+suggested sample week below).
+
+<div class="calendar">
+<div class="header">Monday</div>
+<div class="header">Tuesday</div>
+<div class="header">Wednesday</div>
+<div class="header">Thursday</div>
+<div class="header">Friday</div>
+{{calendar}}
+{%- assign days = "M1: M2:|T1: T2:|W1: W2:|R1: R2:|F1: F2:" | split: "|" -%}
+{%- assign lines = suppliesList | split: newline -%}
+{%- for day in days -%}
+{%-   assign supp = "" -%}
+{%-   assign prefixes = day | split: " " -%}
+{%-   for prefix in prefixes -%}
+{%-     for line in lines -%}
+{%-       assign rest = line | remove_first: prefix -%}
+{%-       if rest != line -%}
+{%          capture supp %}{{supp}}
+
+{{rest}}{% endcapture %}
+{%-       endif -%}
+{%-     endfor -%}
+{%-   endfor -%}
+{%-   assign day1 = day | split: "" | first -%}
+<span style="grid-area:{{day1}}S" markdown="1">**Supplies:**<br>{{supp | default: "N/A" | strip | newline_to_br }}</span>
+{%- endfor -%}
+</div>

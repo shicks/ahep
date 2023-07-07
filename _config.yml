@@ -1,0 +1,6 @@
+domain: ahep1776.org
+url: htts://ahep1776.org
+baseurl: /
+collections:
+  activities:
+    output: false
