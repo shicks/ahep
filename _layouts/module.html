@@ -33,4 +33,16 @@
 
 {{content}}
 
+<script>
+for (const h2 of document.querySelectorAll('h2')) {
+  if (h2.id) {
+    const a = document.createElement('a');
+    a.classList.add('material-symbols-outlined', 'bookmark');
+    a.textContent = 'link';
+    a.href = `#${h2.id}`;
+    h2.prepend(a);
+  }
+}
+</script>
+
 </html>
