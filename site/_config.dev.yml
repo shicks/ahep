@@ -1,0 +1,4 @@
+baseurl: /
+collections:
+  activities:
+    output: false

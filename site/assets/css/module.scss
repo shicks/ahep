@@ -11,6 +11,15 @@ $accent-color: #3b8bc7;
 //   background-attachment: fixed;
 // }
 
+@media print {
+  @page {
+    margin: 0;
+  }
+  body {
+    margin: 0;
+  }
+}
+
 .bg {
   * {
     z-index: -100;

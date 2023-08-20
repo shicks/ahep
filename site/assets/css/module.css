@@ -1,20 +1,29 @@
+@media print {
+  body {
+    margin: 0;
+  }
+}
 .bg * {
   z-index: -100;
   position: fixed;
-  max-width: 50vmin;
-  max-height: 50vmin;
 }
-.bg .tl, .bg .tr {
-  top: 0;
-}
-.bg .tl, .bg .bl {
-  left: 0;
-}
-.bg .bl, .bg .br {
-  bottom: 0;
-}
-.bg .tr, .bg .br {
-  right: 0;
+@media not print {
+  .bg * {
+    max-width: 50vmin;
+    max-height: 50vmin;
+  }
+  .bg .tl, .bg .tr {
+    top: 0;
+  }
+  .bg .tl, .bg .bl {
+    left: 0;
+  }
+  .bg .bl, .bg .br {
+    bottom: 0;
+  }
+  .bg .tr, .bg .br {
+    right: 0;
+  }
 }
 
 body {
