@@ -1,11 +1,38 @@
 //$heading-font: 'Montserrat';
-$inline-book-threshold: 900px;
+$inline-book-threshold: 1000px;
 $heading-font: 'Saira Extra Condensed';
 $body-font: 'Montserrat';
 $primary-color: #d93948;
 $secondary-color: #0a334c;
 $accent-color: #3b8bc7;
 
+// Dark theme support
+:root {
+  --secondary-color: $secondary-color;
+  --shadow: white;
+  --link-color: blue;
+  --text-color: black;
+  @media screen and (prefers-color-scheme: dark) {
+    --secondary-color: #3b8bc7; // accent color
+    --shadow: #111;
+    --link-color: #bef;
+    --text-color: white;
+    body {
+      background: #111;
+    }
+    a {
+      color: var(--link-color);
+    }
+    .bg {
+      * {
+        // TODO: just put the AHEP logo up top right
+        display: none;
+      }
+    }
+  }
+}
+
+// Print support
 @media print {
   @page {
     size: letter;
@@ -51,6 +78,7 @@ body {
     margin: 10vmin;
   }
   font-family: $body-font;
+  color: var(--text-color);
 }
 
 h1, h2, h3 {
@@ -67,7 +95,7 @@ h1 {
 }
 h2 {
   text-transform: uppercase;
-  color: $secondary-color;
+  color: var(--secondary-color);
   margin: 0;
   position: relative;
 
@@ -81,7 +109,7 @@ h2 {
     left: -1.2em;
     top: 0.3ex;
     width: 1.2em;
-    color: $secondary-color;
+    color: var(--secondary-color);
     text-decoration: none;
   }
 
@@ -109,7 +137,7 @@ hr {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  text-shadow: white 0 0 10px;
+  text-shadow: var(--shadow) 0 0 10px;
 
   // book is not actually background: always print it
   -webkit-print-color-adjust: exact;
@@ -181,11 +209,11 @@ div.activities {
 
   a {
     text-decoration: none;
-    color: $secondary-color;
+    color: var(--text-color);
 
     &:hover {
       text-decoration: underline;
-      color: blue;
+      color: var(--link-color);
     }
   }
 
@@ -237,11 +265,11 @@ div.calendar {
 
   a {
     text-decoration: none;
-    color: $secondary-color;
+    color: var(--text-color);
 
     &:hover {
       text-decoration: underline;
-      color: blue;
+      color: var(--link-color);
     }
   }
 
