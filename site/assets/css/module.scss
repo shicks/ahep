@@ -1,5 +1,5 @@
 //$heading-font: 'Montserrat';
-$inline-book-threshold: 1000px;
+$inline-book-threshold: 900px;
 $heading-font: 'Saira Extra Condensed';
 $body-font: 'Montserrat';
 $primary-color: #d93948;
@@ -148,7 +148,7 @@ hr {
   }
 
   // For mobile, don't overlay the book on the right
-  @media (max-width: $inline-book-threshold) {
+  @media (max-device-width: $inline-book-threshold) or (max-width: $inline-book-threshold) {
     background-size: 0;
     .mobile-book {
       display: block;

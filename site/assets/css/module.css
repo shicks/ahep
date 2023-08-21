@@ -131,7 +131,7 @@ hr + h1, hr + h2, hr + h3 {
 .book .mobile-book {
   display: none;
 }
-@media (max-width: 1000px) {
+@media (max-device-width: 900px) or (max-width: 900px) {
   .book {
     background-size: 0;
   }
