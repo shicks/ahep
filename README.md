@@ -6,6 +6,12 @@
     * Need to ensure we're using a consistent version of python as all the deps
     * Using venv
 
+Note: WeasyPrint is not viable.  Instead, we'll use Chrome headless and
+qpdf to underlay the background.  (There doesn't seem to be a decent way to
+get a full bleed background with Chrome without also causing the inter-page
+margins to disappear.
+
+* `qpdf --underlay ahep-bg.pdf --repeat=1-z -- chrome.pdf final.pdf`
 
 ## Jekyll
 
