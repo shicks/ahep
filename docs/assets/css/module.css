@@ -259,7 +259,8 @@ p.center {
   text-align: center;
 }
 p.center img {
-  width: 50%;
+  max-width: 50%;
+  max-height: 35vh;
 }
 p.center.caption {
   font-style: italic;
