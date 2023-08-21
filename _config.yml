@@ -1,6 +1,6 @@
-domain: shicks.github.io
-url: https://shicks.github.io/ahep
-baseurl: /ahep/
+domain: ahep1776.org
+url: htts://ahep1776.org
+baseurl: /
 collections:
   activities:
     output: false

@@ -1,17 +1,31 @@
 //$heading-font: 'Montserrat';
+$inline-book-threshold: 900px;
 $heading-font: 'Saira Extra Condensed';
 $body-font: 'Montserrat';
 $primary-color: #d93948;
 $secondary-color: #0a334c;
 $accent-color: #3b8bc7;
 
-// body {
-//   background-image: url("ahep-bg.svg");
-//   background-repeat: no-repeat;
-//   background-attachment: fixed;
-// }
+@media print {
+  @page {
+    size: letter;
+    margin: 2.3cm 2cm;
+  }
+  body {
+    margin: 0;
+    font-size: 83%;
+  }
+  div.activities, div.calendar {
+    a {
+      color: black !important;
+    }
+  }
+}
 
 .bg {
+  @media print {
+    display: none;
+  }
   * {
     z-index: -100;
     position: fixed;
@@ -33,7 +47,9 @@ $accent-color: #3b8bc7;
 }
 
 body {
-  margin: 10vmin;
+  @media not print {
+    margin: 10vmin;
+  }
   font-family: $body-font;
 }
 
@@ -41,6 +57,10 @@ h1, h2, h3 {
   font-family: $heading-font;
 }
 h1 {
+  @media print {
+    margin-top: 0;
+    padding-top: 0;
+  }
   text-align: center;
   text-transform: uppercase;
   color: $primary-color;
@@ -90,6 +110,26 @@ hr {
   background-repeat: no-repeat;
   background-position: right;
   text-shadow: white 0 0 10px;
+
+  // book is not actually background: always print it
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+
+  .mobile-book {
+    display: none;
+  }
+
+  // For mobile, don't overlay the book on the right
+  @media (max-width: $inline-book-threshold) {
+    background-size: 0;
+    .mobile-book {
+      display: block;
+      width: 100%;
+      margin-top: 2vw;
+      margin-bottom: 2vw;
+      max-width: 500px;
+    }
+  }
 
   hr {
     margin: 0;

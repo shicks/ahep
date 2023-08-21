@@ -1,3 +1,21 @@
+@media print {
+  @page {
+    size: letter;
+    margin: 2.3cm 2cm;
+  }
+  body {
+    margin: 0;
+    font-size: 83%;
+  }
+  div.activities a, div.calendar a {
+    color: black !important;
+  }
+}
+@media print {
+  .bg {
+    display: none;
+  }
+}
 .bg * {
   z-index: -100;
   position: fixed;
@@ -18,8 +36,12 @@
 }
 
 body {
-  margin: 10vmin;
   font-family: "Montserrat";
+}
+@media not print {
+  body {
+    margin: 10vmin;
+  }
 }
 
 h1, h2, h3 {
@@ -30,6 +52,12 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   color: #d93948;
+}
+@media print {
+  h1 {
+    margin-top: 0;
+    padding-top: 0;
+  }
 }
 
 h2 {
@@ -72,6 +100,23 @@ hr + h1, hr + h2, hr + h3 {
   background-repeat: no-repeat;
   background-position: right;
   text-shadow: white 0 0 10px;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+.book .mobile-book {
+  display: none;
+}
+@media (max-width: 900px) {
+  .book {
+    background-size: 0;
+  }
+  .book .mobile-book {
+    display: block;
+    width: 100%;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    max-width: 500px;
+  }
 }
 .book hr {
   margin: 0;
@@ -190,3 +235,5 @@ dt {
 .metadata {
   display: none;
 }
+
+/*# sourceMappingURL=module.css.map */
