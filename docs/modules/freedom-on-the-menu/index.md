@@ -198,7 +198,7 @@ short five-minute YouTube video].
 >“He’s a minister who’s working to make things better for us,” said Daddy.
 {:.nowrap}
 
-**Supplies:**
+### Supplies
 
 * Markers/crayons
 * Cardstock/construction paper
@@ -208,7 +208,7 @@ short five-minute YouTube video].
 
 [this one]: https://www.theatlantic.com/photo/2015/01/remembering-martin-luther-king-jr-in-photos/384635/
 
-**Directions:**
+### Directions
 
 1. Cut a rectangle out of blue paper (to make a reflecting pool).
 1. Cut a rectangle with a triangle on top out of white paper (to make a Washington Monument).
@@ -236,7 +236,7 @@ his I Have a Dream speech.
 > “You can help make the picket signs,” said Sister. “That’s very important.”
 {:.nowrap}
 
-**Supplies:**
+### Supplies
 
 * Paint (can make your own—see below)
 * Paint brushes
@@ -246,7 +246,7 @@ his I Have a Dream speech.
 * Craft sticks
 * Glue
 
-**Directions:**
+### Directions
 
 1. Discuss what the picket sign should say or look like.  What message
    is trying to be conveyed?  What words or pictures convey this
@@ -282,7 +282,7 @@ his I Have a Dream speech.
 
 You can make homemade finger paint (for picket signs among other things).
 
-**Supplies:**
+### Supplies
 
 * 1 cup  flour
 * 2.5 cups cold water
@@ -295,7 +295,7 @@ You can make homemade finger paint (for picket signs among other things).
 * Fingers or thick paint brushes
 * Paper towels
 
-**Directions:**
+### Directions
 
 1. Mix together the flour and water in a sauce pan over low heat.
 Once the mixture is smooth (lumps have been removed) add the salt and
@@ -403,7 +403,7 @@ chopped nuts, and sauces (chocolate, marshmallow) as toppings. Many
 variations have been developed over the years – it’s very easy to
 customize the basic recipe!
 
-**Supplies:**
+### Supplies
 
 * Ripe bananas
 * Ice cream (vanilla, chocolate and strawberry)
@@ -412,7 +412,7 @@ customize the basic recipe!
 * Whipped cream
 * Maraschino cherries
 
-**Directions:**
+### Directions
 
 1. Slice bananas lengthwise and place in a large dish
 1. Place three scoops of ice cream on the bananas

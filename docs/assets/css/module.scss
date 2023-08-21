@@ -8,12 +8,12 @@ $accent-color: #3b8bc7;
 
 // Dark theme support
 :root {
-  --secondary-color: $secondary-color;
+  --secondary-color: #{$secondary-color};
   --shadow: white;
   --link-color: blue;
   --text-color: black;
   @media screen and (prefers-color-scheme: dark) {
-    --secondary-color: #3b8bc7; // accent color
+    --secondary-color: #{$accent-color};
     --shadow: #111;
     --link-color: #bef;
     --text-color: white;
@@ -46,6 +46,9 @@ $accent-color: #3b8bc7;
     a {
       color: black !important;
     }
+  }
+  h1, h2, h3 {
+    break-after: avoid;
   }
 }
 
@@ -81,7 +84,7 @@ body {
   color: var(--text-color);
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-family: $heading-font;
 }
 h1 {
@@ -117,6 +120,12 @@ h2 {
     display: block;
   }
 }
+h3 {
+  font-size: 100%;
+  &::after {
+    content: ":"
+  }
+}
 
 hr {
   border: 2px solid $primary-color;
@@ -148,7 +157,7 @@ hr {
   }
 
   // For mobile, don't overlay the book on the right
-  @media (max-device-width: $inline-book-threshold) or (max-width: $inline-book-threshold) {
+  @media screen and ((max-device-width: $inline-book-threshold) or (max-width: $inline-book-threshold)) {
     background-size: 0;
     .mobile-book {
       display: block;

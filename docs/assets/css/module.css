@@ -1,5 +1,5 @@
 :root {
-  --secondary-color: $secondary-color;
+  --secondary-color: #0a334c;
   --shadow: white;
   --link-color: blue;
   --text-color: black;
@@ -33,6 +33,9 @@
   }
   div.activities a, div.calendar a {
     color: black !important;
+  }
+  h1, h2, h3 {
+    break-after: avoid;
   }
 }
 @media print {
@@ -69,7 +72,7 @@ body {
   }
 }
 
-h1, h2, h3 {
+h1, h2 {
   font-family: "Saira Extra Condensed";
 }
 
@@ -107,6 +110,13 @@ h2:hover .bookmark {
   display: block;
 }
 
+h3 {
+  font-size: 100%;
+}
+h3::after {
+  content: ":";
+}
+
 hr {
   border: 2px solid #d93948;
   margin: 3.4ex 0 3ex;
@@ -131,7 +141,7 @@ hr + h1, hr + h2, hr + h3 {
 .book .mobile-book {
   display: none;
 }
-@media (max-device-width: 900px) or (max-width: 900px) {
+@media screen and ((max-device-width: 900px) or (max-width: 900px)) {
   .book {
     background-size: 0;
   }
