@@ -1,3 +1,27 @@
+:root {
+  --secondary-color: $secondary-color;
+  --shadow: white;
+  --link-color: blue;
+  --text-color: black;
+}
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --secondary-color: #3b8bc7;
+    --shadow: #111;
+    --link-color: #bef;
+    --text-color: white;
+  }
+  :root body {
+    background: #111;
+  }
+  :root a {
+    color: var(--link-color);
+  }
+  :root .bg * {
+    display: none;
+  }
+}
+
 @media print {
   @page {
     size: letter;
@@ -37,6 +61,7 @@
 
 body {
   font-family: "Montserrat";
+  color: var(--text-color);
 }
 @media not print {
   body {
@@ -62,7 +87,7 @@ h1 {
 
 h2 {
   text-transform: uppercase;
-  color: #0a334c;
+  color: var(--secondary-color);
   margin: 0;
   position: relative;
 }
@@ -75,7 +100,7 @@ h2 a.bookmark {
   left: -1.2em;
   top: 0.3ex;
   width: 1.2em;
-  color: #0a334c;
+  color: var(--secondary-color);
   text-decoration: none;
 }
 h2:hover .bookmark {
@@ -99,14 +124,14 @@ hr + h1, hr + h2, hr + h3 {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  text-shadow: white 0 0 10px;
+  text-shadow: var(--shadow) 0 0 10px;
   -webkit-print-color-adjust: exact;
   print-color-adjust: exact;
 }
 .book .mobile-book {
   display: none;
 }
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .book {
     background-size: 0;
   }
@@ -115,6 +140,7 @@ hr + h1, hr + h2, hr + h3 {
     width: 100%;
     margin-top: 2vw;
     margin-bottom: 2vw;
+    max-width: 500px;
   }
 }
 .book hr {
@@ -166,11 +192,11 @@ div.activities > * {
 }
 div.activities a {
   text-decoration: none;
-  color: #0a334c;
+  color: var(--text-color);
 }
 div.activities a:hover {
   text-decoration: underline;
-  color: blue;
+  color: var(--link-color);
 }
 
 div.calendar {
@@ -193,11 +219,11 @@ div.calendar > * {
 }
 div.calendar a {
   text-decoration: none;
-  color: #0a334c;
+  color: var(--text-color);
 }
 div.calendar a:hover {
   text-decoration: underline;
-  color: blue;
+  color: var(--link-color);
 }
 
 blockquote {
