@@ -8,6 +8,9 @@ know how to make Chrome underlay a full-bleed background while keeping the
 inter-page margins, so instead we leave the background out and use [qpdf] to
 underlay the background.
 
+* `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --print-to-pdf=/tmp/out.pdf --no-margins --no-pdf-header-footer https://ahep1776.org/modules/freedom-on-the-menu/`
+    * needs to print from a server in order to load web fonts, etc (but could be a local server)
+    * try standard locations for Chrome on different OS'es
 * `qpdf --underlay ahep-bg.pdf --repeat=1-z -- chrome.pdf final.pdf`
 
 [qpdf]: https://qpdf.sourceforge.io/
