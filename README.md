@@ -23,3 +23,10 @@ TODO - ruby is too finicky.  Let's look into gatsby.js.
 ## Sass
 
 * `npx sass`
+
+## Git
+
+Use the [Desktop GitHub client](https://desktop.github.com) to manage the git.
+Clone the repo to your local disk, then after making changes to modules, push
+them to a branch to merge into `main`.  We will set up automatic deployment from
+there.
