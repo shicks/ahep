@@ -37,6 +37,10 @@
   h1, h2, h3 {
     break-after: avoid;
   }
+  p {
+    widows: 6;
+    orphans: 6;
+  }
 }
 @media print {
   .bg {
@@ -134,7 +138,6 @@ hr + h1, hr + h2, hr + h3 {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  text-shadow: var(--shadow) 0 0 10px;
   -webkit-print-color-adjust: exact;
   print-color-adjust: exact;
 }
@@ -143,6 +146,7 @@ hr + h1, hr + h2, hr + h3 {
 }
 @media screen and ((max-device-width: 900px) or (max-width: 900px)) {
   .book {
+    text-shadow: var(--shadow) 0 0 10px;
     background-size: 0;
   }
   .book .mobile-book {
@@ -241,6 +245,7 @@ div.calendar a:hover {
 blockquote {
   text-align: center;
   font-style: italic;
+  text-wrap: balance;
 }
 blockquote.nowrap {
   white-space: pre-line;
@@ -264,10 +269,20 @@ p.center img {
 }
 p.center.caption {
   font-style: italic;
+  text-wrap: balance;
 }
 
-dt {
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-row-gap: 1ex;
+}
+dl dt {
+  grid-column-start: 1;
   font-weight: bold;
+}
+dl dd {
+  grid-column-start: 2;
 }
 
 .metadata {

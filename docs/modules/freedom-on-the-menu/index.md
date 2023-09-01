@@ -159,7 +159,7 @@ states. Are all the states in this last group southern states?
 > Later that week, our whole family went to hear Dr. King preach at the college chapel.
 > I didn’t really understand all of his speech, but I liked his booming voice.
 > It sounded as if he believed God was on our side.
-{:.nowrap}
+{:.wrap}
 
 The Reverend Dr. Martin Luther King, Jr. was the leading figure in the
 Civil Rights Movement of the 1960s. Like his father and grandfather
@@ -278,7 +278,7 @@ his I Have a Dream speech.
 
 > Hundreds of people walked up and down the sidewalks in front of stores, restaurants, and movie theaters.
 > I saw my own sister carrying a picket sign.
-{:.nowrap}
+{:.wrap}
 
 You can make homemade finger paint (for picket signs among other things).
 
@@ -335,10 +335,10 @@ try.
 |Supp| Signs.
 {:.metadata}
 
-> “Look over at the lunch counter! We know those boys!” There sat four of Brother’s friends from A&T College.
-> “Do they know they’re in the wrong place?” I whispered.
+> “Look over at the lunch counter! We know those boys!” There sat four of Brother’s friends from A&T College.<br>
+> “Do they know they’re in the wrong place?” I whispered.<br>
 > “Some rules have to be broken,” Mama whispered back.
-{:.nowrap}
+{:.wrap}
 
 Pick an arbitrary characteristic to discriminate between children or
 family members.  This should be done with some care as we want to
@@ -510,7 +510,7 @@ This story is a great supplemental reading to _Freedom on the Menu_, illustratin
 > Soon after that, my brother and my sister joined the
 > National Association for the Advancement of Colored People… 
 > They let me tag along as they went door-to-door helping people to sign up to vote.
-{:.nowrap}
+{:.wrap}
 
 Connie is the youngest child in her family and the story is told from
 her point of view. Connie is the only one who appears on almost every
@@ -531,7 +531,7 @@ they think an appropriate age would be to participate in a protest?
 
 > All over town, signs told Mama and me where we could and couldn’t go.
 > Signs on water fountains, swimming pools, movie theaters, even bathrooms.
-{:.nowrap}
+{:.wrap}
 
 Impressionism is a style of artistic expression developed in the late
 19th century in France. It was a radical departure from the style that

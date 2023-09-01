@@ -50,6 +50,10 @@ $accent-color: #3b8bc7;
   h1, h2, h3 {
     break-after: avoid;
   }
+  p {
+    widows: 6;
+    orphans: 6;
+  }
 }
 
 .bg {
@@ -146,7 +150,6 @@ hr {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  text-shadow: var(--shadow) 0 0 10px;
 
   // book is not actually background: always print it
   -webkit-print-color-adjust: exact;
@@ -158,6 +161,7 @@ hr {
 
   // For mobile, don't overlay the book on the right
   @media screen and ((max-device-width: $inline-book-threshold) or (max-width: $inline-book-threshold)) {
+    text-shadow: var(--shadow) 0 0 10px;
     background-size: 0;
     .mobile-book {
       display: block;
@@ -330,6 +334,7 @@ blockquote {
   }
   text-align: center;
   font-style: italic;
+  text-wrap: balance;
 }
 
 p.center {
@@ -340,12 +345,23 @@ p.center {
   }
   &.caption {
     font-style: italic;
+    text-wrap: balance;
   }
 }
 
-dt {
-  font-weight: bold;
+dl {
+  display:grid;
+  grid-template-columns: max-content auto;
+  grid-row-gap: 1ex;
+  dt {
+    grid-column-start: 1;
+    font-weight: bold;
+  }
+  dd {
+    grid-column-start: 2;
+  }
 }
+
 
 // .book {
 //   display: flex;
