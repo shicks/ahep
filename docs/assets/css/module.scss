@@ -288,6 +288,10 @@ div.calendar {
     }
   }
 
+  strong {
+    font-weight: 500;
+  }
+
   margin-top: 2ex;
   width: 100%;
   gap: 1px;
@@ -320,7 +324,7 @@ div.calendar {
 
 blockquote {
   //font-family: $body-font;
-  &.nowrap {
+  &.nowrap, &.psalm {
     white-space: pre-line;
     &+p {
       margin-top: 0;
@@ -331,6 +335,12 @@ blockquote {
       margin: 0;
       padding: 0;
     }
+  }
+  &.psalm {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
   }
   text-align: center;
   font-style: italic;

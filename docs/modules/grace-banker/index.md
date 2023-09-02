@@ -12,11 +12,35 @@ book:
 # The War to End All Wars?
 
 ## Introduction
-World War I, also known as the Great War and the War To End All Wars, devastated Europe. At its conclusion, the borders of many European countries were changed, new countries were formed, and the Treaty of Versailles, which formally ended the war, planted the seeds that would lead to World War II just 20 years later. However, this war was also famous for introducing a number of technical innovations used widely during warfare for the first time including: airplanes, tanks, submarines, camouflage, and the telephone. And it was also the first time women were recruited for war by both Americans and our British cousins.
+World War I, also known as the Great War and the War To End All Wars,
+devastated Europe. At its conclusion, the borders of many European
+countries were changed, new countries were formed, and the Treaty of
+Versailles, which formally ended the war, planted the seeds that would
+lead to World War II just 20 years later. However, this war was also
+famous for introducing a number of technical innovations used widely
+during warfare for the first time including: airplanes, tanks,
+submarines, camouflage, and the telephone. And it was also the first
+time women were recruited for war by both Americans and our British
+cousins.
 
-Grace Banker’s service as chief operator of the Signal Corps Girls for General Pershing’s American Expeditionary Forces is a singularly American story. She, like thousands of other young women, answered the call for volunteers to serve overseas. Her courage and dedication, working day and night in poor conditions, through air attacks and fires, exemplified the work ethic for which Americans are famous: “Over here a Chief operator has a twenty-four hour job … never spent more time at the office and never enjoyed it more.”
+Grace Banker’s service as chief operator of the Signal Corps Girls for
+General Pershing’s American Expeditionary Forces is a singularly
+American story. She, like thousands of other young women, answered the
+call for volunteers to serve overseas. Her courage and dedication,
+working day and night in poor conditions, through air attacks and
+fires, exemplified the work ethic for which Americans are famous:
+“Over here a Chief operator has a twenty-four hour job … never spent
+more time at the office and never enjoyed it more.”
 
-When Grace Banker and her Hello Girls returned from the war, they were denied the benefits that veterans received. Other women who served in World War I, mostly nurses (Army) and clerks (Navy), received honorable discharges and veteran benefits. Although the Hello Girls served closer to the front than most other enlisted women, it took several decades of political fighting before they were awarded the benefits and recognition their service to our country merited. This is yet another example of the “grit” the Hello Girls displayed while serving our country during World War I.
+When Grace Banker and her Hello Girls returned from the war, they were
+denied the benefits that veterans received. Other women who served in
+World War I, mostly nurses (Army) and clerks (Navy), received
+honorable discharges and veteran benefits. Although the Hello Girls
+served closer to the front than most other enlisted women, it took
+several decades of political fighting before they were awarded the
+benefits and recognition their service to our country merited. This is
+yet another example of the “grit” the Hello Girls displayed while
+serving our country during World War I.
 
 {% include module-book.html %}
 
@@ -45,13 +69,34 @@ When Grace Banker and her Hello Girls returned from the war, they were denied th
 > Over There!
 {:.nowrap}
 
-This song was written in 1917 by George M. Cohan, known as the “Man Who Owned Broadway” because of the breadth of his skills as an entertainer – he wrote over 300 songs, appeared in or produced over three dozen Broadway shows. He wrote this song  to announce to the world that America was entering World War I and to encourage young American men to volunteer to serve in the expeditionary force being sent “over there” to fight the Central Powers. It is, in one sense, the musical version of the recruitment posters seen in _Grace Banker and Her Hello Girls Answer the Call_.
+This song was written in 1917 by George M. Cohan, known as the “Man
+Who Owned Broadway” because of the breadth of his skills as an
+entertainer – he wrote over 300 songs, appeared in or produced over
+three dozen Broadway shows. He wrote this song to announce to the
+world that America was entering World War I and to encourage young
+American men to volunteer to serve in the expeditionary force being
+sent “over there” to fight the Central Powers. It is, in one sense,
+the musical version of the recruitment posters seen in _Grace Banker
+and Her Hello Girls Answer the Call_.
 
-While the term Yankees (or Yanks) was applied to northern soldiers during our Civil War, by the time of World War I it was more generally applied to all Americans. The song, and especially the chorus above, became an American standard, renewed in popularity during World War II and, to a more limited extent, for the War on Terror after 9/11. General John J. Pershing led the American Expeditionary Forces “over there.” After the war, inspired by the bands of the European armies we were allied with, he formed the United States Army Band (also known as “Pershing’s Own.”) You can hear Pershing’s Own performing _Over There_ [here][there].
+While the term Yankees (or Yanks) was applied to northern soldiers
+during our Civil War, by the time of World War I it was more generally
+applied to all Americans. The song, and especially the chorus above,
+became an American standard, renewed in popularity during World War II
+and, to a more limited extent, for the War on Terror after
+9/11. General John J. Pershing led the American Expeditionary Forces
+“over there.” After the war, inspired by the bands of the European
+armies we were allied with, he formed the United States Army Band
+(also known as “Pershing’s Own.”) You can hear Pershing’s Own
+performing _Over There_ [here][there].
 
-You can also [find] several other [versions] on [YouTube], including [some that feature all] the verses. [This version] (just the chorus) is from the classic movie _Yankee Doodle Dandy_, featuring James Cagney portraying George M. Cohan himself, as America enters World War II.
+You can also [find] several other [versions] on [YouTube], including
+[some that feature all] the verses. [This version] (just the chorus)
+is from the classic movie _Yankee Doodle Dandy_, featuring James
+Cagney portraying George M. Cohan himself, as America enters World War
+II.
 
-[there]: https://www.youtube.com/watch?v=aGDds6bGFW8 
+[there]: https://www.youtube.com/watch?v=aGDds6bGFW8
 [find]: https://www.youtube.com/watch?v=921z4LAHvak
 [versions]: https://www.youtube.com/watch?v=15R6Qv5PZqE
 [YouTube]: https://www.youtube.com/watch?v=wquvrM91Zz8
@@ -84,20 +129,30 @@ You can also [find] several other [versions] on [YouTube], including [some that 
 > In Flanders fields.
 {:.nowrap}
 
-_In Flanders Field_ is the most famous poem written about World War I. Composed in 1915 by Canadian soldier and physician, John Macrae, who had joined the Canadian Expeditionary Force and found himself fighting the Central Powers in the Belgium provinces of Flanders. Flanders Fields was a major battle theater of World War I, part of the Western Front that extended from the sea across Belgium and France, all the way to Switzerland. More than a million soldiers from 50 different countries were wounded,  killed, or missing in action at Flanders Fields. Today there are 247 different World War I cemeteries there, including one for American soldiers.
-
-![Poster of Flanders Field](flanders2.png)
-{:.center}
-
-The popularity of the poem led to its use on recruiting posters and ads for war bonds.
+_In Flanders Fields_ is the most famous poem written about World War
+I. Composed in 1915 by Canadian soldier and physician, John Macrae,
+who had joined the Canadian Expeditionary Force and found himself
+fighting the Central Powers in the Belgium provinces of
+Flanders. Flanders Fields was a major battle theater of World War I,
+part of the Western Front that extended from the sea across Belgium
+and France, all the way to Switzerland. More than a million soldiers
+from 50 different countries were wounded, killed, or missing in action
+at Flanders Fields. Today there are 247 different World War I
+cemeteries there, including one for American soldiers.
 
 ![Poster with lines from poem](flanders1.jpg)
+![Poster of Flanders Fields](flanders2.png)
 {:.center}
 
-Ask your child(ren) to memorize the part of the last stanza in the recruiting poster above.  For younger children, ask them to memorize just the first two lines of the first stanza.
+The popularity of the poem led to its use on recruiting posters and
+ads for war bonds.
 
 ![Another poster with lines from poem](flanders3.jpg)
 {:.center}
+
+Ask your child(ren) to memorize the part of the last stanza in the
+recruiting poster above.  For younger children, ask them to memorize
+just the first two lines of the first stanza.
 
 ## Political Geography: Whose Side Are We On?
 {:#whose-side}
@@ -105,14 +160,23 @@ Ask your child(ren) to memorize the part of the last stanza in the recruiting po
 |Time| 15 minutes
 |Freq| Once
 |Cal | T1
-|Supp| Coloring map of Europe
+|Supp| coloring map of Europe
 {:.metadata}
 
-> Young Women of America, Attention! Here’s your chance to serve your country in France 
-> with General Pershing’s Expeditionary Forces!
-{:.nowrap}
+> Young Women of America, Attention! Here’s your chance to serve your
+> country in France with General Pershing’s Expeditionary Forces!
 
-While we call it World War I, it was primarily a European war fought between the Central Powers (Germany, Austria-Hungary, Bulgaria, and Turkey) and the Allies (France, United Kingdom, Belgium, Russia, Italy and the United States). Prior to World War II it was called the Great War or, in America sometimes, the European War. The “war to end all wars” began in 1914; the United States joined the Allies later in the conflict, in April of 1917. Our entry into the war is considered by historians as the first major turning point of the war, breaking the stalemate between the Central Powers and the Allies. When the armistice with Germany was declared in November of 1918, the United States had been at war for just over 18 months.
+While we call it World War I, it was primarily a European war fought
+between the Central Powers (Germany, Austria-Hungary, Bulgaria, and
+Turkey) and the Allies (France, United Kingdom, Belgium, Russia, Italy
+and the United States). Prior to World War II it was called the Great
+War or, in America sometimes, the European War. The “war to end all
+wars” began in 1914; the United States joined the Allies later in the
+conflict, in April of 1917. Our entry into the war is considered by
+historians as the first major turning point of the war, breaking the
+stalemate between the Central Powers and the Allies. When the
+armistice with Germany was declared in November of 1918, the United
+States had been at war for just over 18 months.
 
 America fought on the 400+ miles of the Western Front, which stretched across France from the English channel to Switzerland. For this activity, print a [map of pre-World War I Europe] that your child(ren) can color (alternatively, you can ask them to do the activity below with [this online map]). Ask them to:
 
@@ -133,13 +197,13 @@ While these were the primary countries involved, many others were also pulled in
 |Time| 15-20 minutes
 |Freq| Once
 |Prep| 5-10 minutes
-|Cal| T2
-|Supp| Construction paper, scissors, glue stick, crayons/markers, Uncle Sam coloring sheet
+|Cal | T2
+|Supp| construction paper, scissors, glue stick, crayons/markers, Uncle Sam coloring sheet
 {:.metadata}
 
 > The world was at war, and General John J. Pershing, the commander of US troops across the Atlantic, 
 > was calling for female telephone operators to join the fight against Germany.
-{:.nowrap}
+
 The origin of Uncle Sam as the personification of the United States goes way back in our history. He is based on a real person, Samuel Wilson, who owned a meat packing business. During the War of 1812, Wilson supplied food for American soldiers. The barrels had “U.S.” stamped on them for “United States” but soldiers knew Sam Wilson was supplying them, so they called it “Uncle Sam’s.” The political cartoonist Thomas Nast did much to shape our image of Uncle Sam in the 1870s. However, it was illustrator James Montgomery Flagg who was responsible for the most iconic image of Uncle Sam, portraying him in the famous “I Want YOU!” World War I army recruiting poster. Millions of these posters were distributed and displayed.
 
 ![Uncle Sam comic](harpers.jpg)
@@ -217,7 +281,7 @@ Besides being a lot of fun, the game teaches listening skills, patience and taki
 |Time| 15-20 minutes
 |Freq| Once
 |Prep| 30-45 minutes
-|Cal| R1
+|Cal | R1
 |Supp| cardboard box, yarn
 {:.metadata}
 
@@ -256,7 +320,7 @@ For my three-year-old, I simply had her match specific colors (“Can you put on
 
 |Time| 15-20 minutes
 |Freq| Daily
-|Cal|M2
+|Cal | M2
 |Supp| pretend or real phone
 {:.metadata}
 
@@ -274,36 +338,62 @@ In general, discuss the polite back and forth of conversation - raising topics, 
 
 And then, practice these skills with your kids through role-playing phone and video calls to establish good habits. Once they are comfortable with the concepts of good conversational etiquette you can reinforce it during day-to-day conversations by praising them when done right or reminding them gently about proper etiquette.
 
-## Civic Culture: Biblical Scripture The Soldier’s Psalm
-{:#scripture-soldiers-psalm}
+## Civic Culture: Biblical Scripture
+{:#scripture}
 
 |Time| 10 minutes
 |Freq| Daily
 {:.metadata}
 
->He who dwells in the shelter of the Most High
->will rest in the shadow of the Almighty.
+> He who dwells in the shelter of the Most High
+> will rest in the shadow of the Almighty.
 {:.nowrap}
+
 Psalm 91 is known as the Soldier’s Psalm or the Soldier’s Prayer. Legend has it that in World War I the commanding officer of the 91st Brigade had the Psalm printed on cards and distributed to his troops. With its assurance of God’s protection in times of crisis for those who put their trust in Him, over time it has become a powerful source of inspiration and comfort to soldiers heading into battle. During the Iraq and Afghanistan wars, [Operation Bandana] distributed hundreds of thousands of bandanas to soldiers. The bandanas, in camouflage colors, had Psalm 91 written on them – a great example of Christian faith, generosity, and entrepreneurship in a single venture.
 
 [operation bandana]: https://www.fayobserver.com/story/news/military/2017/04/15/operation-bandanas-continues-decade-long-ministry-to-deployed-troops/21372153007/
 
 Below is Psalm 91 in full. Consider having your children memorize the first sentence or, for older children, the first two lines.
+{% capture strophe %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% endcapture %}
+{% capture strophe %}{{strophe}}{{strophe}}{{strophe}}{% endcapture %}
 
-> He who dwells in the shelter of the Most High will rest in the shadow of the Almighty.
-> I will say of the Lord, “He is my refuge and my fortress, my God, in whom I trust.”
-> Surely he will save you from the fowler’s snare and from the deadly pestilence.
-> He will cover you with feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart.
-> You will not fear the terror of night, nor the arrow that flies by day, nor the pestilence that stalks in the 
-> darkness, nor the plague that destroys at midday.
-> A thousand may fall at your side, ten thousand at your right hand, but it will not come near you.
-> You will only observe with your eyes and see the punishment of the wicked.
-> If you make the Most High your dwelling – even the Lord, who is my refuge – then no harm will befall you, no disaster will come near your tent.
-> For he will command his angels concerning you to guard you in all your ways; they will lift you up in their hands, so that you will not strike your foot against a stone.
-> You will tread upon the lion and the cobra; you will trample the great lion and the serpent.
-> “Because he loves me,” says the Lord, “I will rescue him; I will protect him, for he acknowledges my name.
-> He will call upon me, and I will answer him; I will be with him in trouble, I will deliver him and honor him.
-> With long life will I satisfy him and show him my salvation.”
+> **He who dwells in the shelter of the Most High**
+> {{strophe}}**will rest in the shadow of the Almighty.**
+> **I will say of the Lord, “He is my refuge and my fortress,**
+> {{strophe}}**my God, in whom I trust.”**
+> Surely he will save you
+> {{strophe}}from the fowler’s snare
+> {{strophe}}and from the deadly pestilence.
+> He will cover you with feathers,
+> {{strophe}}and under his wings you will find refuge;
+> {{strophe}}his faithfulness will be your shield and rampart.
+> You will not fear the terror of night,
+> {{strophe}}nor the arrow that flies by day,
+> nor the pestilence that stalks in the darkness,
+> {{strophe}}nor the plague that destroys at midday.
+> A thousand may fall at your side,
+> {{strophe}}ten thousand at your right hand,
+> {{strophe}}but it will not come near you.
+> You will only observe with your eyes
+> {{strophe}}and see the punishment of the wicked.
+> If you make the Most High your dwelling—
+> {{strophe}}even the Lord, who is my refuge—
+> then no harm will befall you,
+> {{strophe}}no disaster will come near your tent.
+> For he will command his angels concerning you
+> {{strophe}}to guard you in all your ways;
+> they will lift you up in their hands,
+> {{strophe}}so that you will not strike your foot against a stone.
+> You will tread upon the lion and the cobra;
+> {{strophe}}you will trample the great lion and the serpent.
+> “Because he loves me,” says the Lord, “I will rescue him;
+> {{strophe}}I will protect him, for he acknowledges my name.
+> He will call upon me, and I will answer him;
+> {{strophe}}I will be with him in trouble,
+> {{strophe}}I will deliver him and honor him.
+> With long life will I satisfy him
+> {{strophe}}and show him my salvation.”
+{:.psalm}
 
 ## Cooking: Trench Cake
 {:#cooking-trench-cake}
@@ -311,8 +401,8 @@ Below is Psalm 91 in full. Consider having your children memorize the first sent
 |Time| 30-45 minutes
 |Freq| Once
 |Prep| 30-45 minutes
-|Cal| R2
-|Supp| Flour, butter, vinegar, milk, brown sugar, currants or raisins, cocoa, baking soda, nutmeg, ginger, lemon rind
+|Cal | R2
+|Supp| flour, butter, vinegar, milk, brown sugar, currants or raisins, cocoa, baking soda, nutmeg, ginger, lemon rind
 {:.metadata}
 
 > When she was off duty Grace was the life of the party! 
@@ -347,7 +437,7 @@ Civilians would send things to their loved ones who were at war in the trenches.
 ## Supplemental Reading: The Poppy Lady: Moina Belle Michael and Her Tribute to Veterans by Barbara Elizabeth Walsh, Paintings by Layne Johnson (2012)
 {:#supplemental-poppy-lady}
 
-|Name| Supplemental Read: _The Poppy Lady_
+|Name| Supplemental Reading: _The Poppy Lady_
 |Time| 15-20 minutes
 |Freq| Once
 |Cal | F1
@@ -366,8 +456,8 @@ And if you ask your child(ren) to flip to the “Afterword” pages of _Grace Ba
 |Time| 20-30 minutes
 |Freq| Once
 |Prep| 10-15 minutes
-|Cal| F2
-|Supp| Egg carton, scissors, black tissue paper, red paint, paint brushes, glue, hole punch, ribbons or string
+|Cal | F2
+|Supp| egg carton, scissors, black tissue paper, red paint, paint brushes, glue, hole punch, ribbons or string
 {:.metadata}
 
 > Still … Moina needed to do even more.
@@ -404,11 +494,13 @@ See also: [https://happyhooligans.ca/egg-carton-poppies/]
 
 |Time| 10-20 minutes
 |Freq| Once
-|Cal| W2
-|Supp| Paper, crayons/markers
+|Cal | W2
+|Supp| paper, crayons/markers
 {:.metadata}
 
-> Grace and her girls had plenty of grit. They kept their cool outside Liverpool when their ship, the perfect target > for a German submarine attack, was stuck on a sandbar.
+> Grace and her girls had plenty of grit. They kept their cool outside
+> Liverpool when their ship, the perfect target for a German submarine
+> attack, was stuck on a sandbar.
 
 Camouflage is the use of artistic patterns to hide an object, person, or animal. World War I introduced many innovations to warfare (submarines, tanks, telephones). Among these innovations was “[dazzle camouflage]” to conceal ships. Every ship had a unique dazzle camouflage pattern so that enemies could not identify the type of a ship by its camouflage pattern. (Ask your child(ren) to compare the camouflage pattern of the ship Grace departs on and the one she returns on? Are they the same? Is it likely that she returned on the same ship she left on?)
 
@@ -425,7 +517,7 @@ In nature, some animals use dazzle camouflage. Among these are leopards, jaguars
 
 |Time|10 minutes
 |Freq| Once
-|Cal| W1
+|Cal | W1
 {:.metadata}
 
 > At the eleventh hour, on the eleventh day, of the eleventh month, an armistice was signed to end the war.

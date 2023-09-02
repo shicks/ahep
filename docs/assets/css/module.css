@@ -241,23 +241,32 @@ div.calendar a:hover {
   text-decoration: underline;
   color: var(--link-color);
 }
+div.calendar strong {
+  font-weight: 500;
+}
 
 blockquote {
   text-align: center;
   font-style: italic;
   text-wrap: balance;
 }
-blockquote.nowrap {
+blockquote.nowrap, blockquote.psalm {
   white-space: pre-line;
   margin: 0;
   padding: 0;
 }
-blockquote.nowrap + p {
+blockquote.nowrap + p, blockquote.psalm + p {
   margin-top: 0;
 }
-blockquote.nowrap p {
+blockquote.nowrap p, blockquote.psalm p {
   margin: 0;
   padding: 0;
+}
+blockquote.psalm {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
 }
 
 p.center {
