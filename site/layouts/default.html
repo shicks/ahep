@@ -1,0 +1,33 @@
+---
+partial: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>{{title}}</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,400i,500,600,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,400,500,600,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="{{relative 'assets/css/style.css'}}">
+<script type="module" src="{{relative 'assets/js/index.js'}}"></script>
+<body>
+
+<header>
+  <a href="{{relative ''}}"><img src="{{relative 'assets/images/ahep-logo.svg'}}" class="logo"></a>
+  <div class="menu">
+    <a href="javascript:" class="hamburger button material-symbols-outlined"></a>
+  </div>
+  <div class="buttons">
+    <a class="button {% if path == "about.html" %}underline{% endif %}"
+       href="{{relative 'about'}}">About</a>
+    <a class="button {% if path == "faq.html" %}underline{% endif %}"
+       href="{{relative 'faq'}}">FAQ</a>
+    <a class="button primary" href="{{relative 'modules'}}">Modules</a>
+  </div>
+</header>
+<div class="header-space">&nbsp;</div>
+
+{{{content}}}
+
+</body>
+</html>
