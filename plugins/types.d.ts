@@ -29,3 +29,7 @@ declare module 'markdown-it-attrs' {
   const attrs: PluginSimple;
   export default attrs;
 }
+
+declare module 'yaml-js' {
+  export function load(yaml: string): unknown;
+}

@@ -1,13 +1,8 @@
 ---
+# TODO: make layout:module and book:... automatic
 layout: module
 title: Freedom on the Menu
 when: 1960
-book:
-  title: "Freedom on the Menu: The Greensboro Sit-Ins"
-  author: Carole Boston Weatherford
-  illustrator: Jerome Lagarrigue
-  year: 2007
-  length: 32 pages
 ---
 
 # Civil Rights
@@ -43,26 +38,56 @@ author, Carole Boston Weatherford, shows us a loving family fighting
 together, but in different ways, to move America closer to her own
 ideals.
 
-{% include module-book.html %}
+---
 
-{% include module-activities.html %}
+## Book
+
+Title: "Freedom on the Menu: The Greensboro Sit-Ins"
+Author: Carole Boston Weatherford
+Illustrator: Jerome Lagarrigue
+Year Published: 2007
+Length: 32 pages
 
 ---
 
-## American Heritage Songbook: This Little Light of Mine
-{:#songbook}
+## Calendar
 
-|Name| Songbook: _This Little Light of Mine_
-|Time| 5 minutes
-|Freq| Daily
-|Cal | M1
-{:.metadata}
+Monday:
+  - [songbook]
+  - [i have a dream]
+Tuesday:
+  - Vocabulary (before reading) [vocab]
+  - [jim crow]
+Wednesday:
+  - [science]
+  - [picket]
+Thursday:
+  - [re-enactment]
+  - [cooking]
+Friday:
+  - [impressionism]
+  - [suplemental]
+
+#### match substring and/or ID
+#### lowercase keys and values, strip punctuation before substring
+#### parse entire body as YAML (yaml.load)
+##### if it comes in as a singleton array... then it was []
+
+---
+
+## American Heritage Songbook: This Little Light of Mine {#songbook}
+
+```metadata
+subj: music
+time: 5 minutes
+freq: daily
+```
 
 > This little light of mine, I’m gonna let it shine
 > Let it shine, let it shine, let it shine
 > Everywhere I go, I’m gonna let it shine
 > Let it shine, let it shine, let it shine
-{:.nowrap}
+{.nowrap}
 
 No one knows the exact origin of this song but it goes back at least
 to the 1930s. Many, many people and groups have recorded a variation
@@ -82,20 +107,20 @@ music artist recorded his version [here][raffi]. Even Bruce Springsteen
 
 ---
 
-## Famous American Texts: _I Have a Dream_
-{:#text-i-have-a-dream}
+## Famous American Texts: _I Have a Dream_ {#text-i-have-a-dream}
 
-|Time| 5 minutes
-|Freq| Daily
-|Cal | M2: Famous Texts: _I Have a Dream_
-{:.metadata}
+```metadata
+toc: "Famous Texts: _I Have a Dream_"
+time: 5 minutes
+freq: daily
+```
 
-> I have a dream that one day this nation will rise up and live out the true meaning of its creed:
-> “We hold these truths to be self-evident, that all men are created equal.”
-> …
-> I have a dream that my four little children will one day live in a nation
-> where they will not be judged by the color of their skin but by the content of their character.
-{:.nowrap}
+> I have a dream that one day this nation will rise up and live out
+> the true meaning of its creed: “We hold these truths to be
+> self-evident, that all men are created equal.”  …  I have a dream
+> that my four little children will one day live in a nation where
+> they will not be judged by the color of their skin but by the
+> content of their character.
 
 Martin Luther King Jr.’s “I Have a Dream” speech galvanized our
 nation, reminding people of our founding creed — and how black
@@ -116,13 +141,13 @@ them to memorize one of the lines above.
 
 ---
 
-## Political Geography: Jim Crow Laws
-{:#jim-crow}
+## Political Geography: Jim Crow Laws {#jim-crow}
 
-|Time| 15 minutes
-|Cal | T2
-|Supp| U.S. puzzle
-{:.metadata}
+```metadata
+subj: geography
+time: 15 minutes
+supplies: U.S. puzzle
+```
 
 > “Connie, the sit-ins have spread all over the South,” said Daddy.
 
@@ -151,16 +176,17 @@ states. Are all the states in this last group southern states?
 
 ---
 
-## Biography: Rev. Martin Luther King, Jr.
-{:#biography-mlk}
+## Biography: Rev. Martin Luther King, Jr. {#biography-mlk}
 
-|Time| 5 minutes
-{:.metadata}
+```metadata
+subj: biography
+time: 5 minutes
+```
 
-> Later that week, our whole family went to hear Dr. King preach at the college chapel.
-> I didn’t really understand all of his speech, but I liked his booming voice.
-> It sounded as if he believed God was on our side.
-{:.nowrap}
+> Later that week, our whole family went to hear Dr. King preach at
+> the college chapel.  I didn’t really understand all of his speech,
+> but I liked his booming voice.  It sounded as if he believed God was
+> on our side.
 
 The Reverend Dr. Martin Luther King, Jr. was the leading figure in the
 Civil Rights Movement of the 1960s. Like his father and grandfather
@@ -186,18 +212,19 @@ short five-minute YouTube video].
 
 ---
 
-## Arts & Crafts: _I Have a Dream_ Speech
-{:#craft-i-have-a-dream}
+## Arts & Crafts: _I Have a Dream_ Speech {#craft-i-have-a-dream}
 
-|Time| 20 minutes
-|Prep| 10 minutes
-{:.metadata}
+```metadata
+subj: crafts
+time: 20 minutes
+prep: 10 minutes
+```
 
->“Dr. King’s coming to town,” he told us one morning.
->“Who’s sick?” I asked.
->“He’s not that kind of doctor, Connie,” Daddy laughed.
->“He’s a minister who’s working to make things better for us,” said Daddy.
-{:.nowrap}
+> “Dr. King’s coming to town,” he told us one morning.
+> “Who’s sick?” I asked.
+> “He’s not that kind of doctor, Connie,” Daddy laughed.
+> “He’s a minister who’s working to make things better for us,” said Daddy.
+{.nowrap}
 
 ### Supplies
 
@@ -219,23 +246,22 @@ his I Have a Dream speech.
 1. Glue pom-poms all around to represent all the people listening to his speech.
 1. Can add words or a speech bubble if desired.
 
-![Example](craft-speech.png)
-{:.center}
+![Example](craft-speech.png) {.center}
 
 ---
 
-## Arts & Crafts: Make Your Own Picket Sign
-{:#craft-picket}
+## Arts & Crafts: Make Your Own Picket Sign {#craft-picket}
 
-|Time| 15–20 minutes
-|Prep| 10–15 minutes
-|Cal | W2
-|Supp| Paint, paint brushes, Cardboard or cardstock, hole punch, string, craft sticks, glue.
-{:.metadata}
+```metadata
+subj: crafts
+time: 15–20 minutes
+prep: 10–15 minutes
+supplies: paint, paint brushes, Cardboard or cardstock, hole punch, string, craft sticks, glue
+```
 
 > “I never get to do anything important.” I pouted.
 > “You can help make the picket signs,” said Sister. “That’s very important.”
-{:.nowrap}
+{.nowrap}
 
 ### Supplies
 
@@ -262,24 +288,23 @@ his I Have a Dream speech.
    Repeat on the other side.  Slip this over your child’s head for a
    “sandwich” board version.
 
-![Example](craft-sign.jpg)
-{:.center}
+![Example](craft-sign.jpg) {.center}
 
 ---
 
-## Science: Make Your Own Paint and Color Mixing
-{:#science-paint}
+## Science: Make Your Own Paint and Color Mixing {#science-paint}
 
-|Name| Science: Make Your Own Paint
-|Time| 30–60 minutes
-|Prep| 10–15 minutes
-|Cal | W1
-|Supp| Flour, cold water, salt, food coloring, sauce pan, wooden spoon, several small containers, cardboard or thick paper, fingers or thick paint brushes, Paper towels.
-{:.metadata}
+```metadata
+subj: science
+toc: "Science: Make Your Own Paint"
+time: 30–60 minutes
+prep: 10–15 minutes
+supplies: flour, cold water, salt, food coloring, sauce pan, wooden spoon, several small containers, cardboard or thick paper, fingers or thick paint brushes, paper towels
+```
 
-> Hundreds of people walked up and down the sidewalks in front of stores, restaurants, and movie theaters.
-> I saw my own sister carrying a picket sign.
-{:.nowrap}
+> Hundreds of people walked up and down the sidewalks in front of
+> stores, restaurants, and movie theaters.  I saw my own sister
+> carrying a picket sign.
 
 You can make homemade finger paint (for picket signs among other things).
 
@@ -327,14 +352,14 @@ try.
 
 ---
 
-## Historical Re-enactment: Sit-In
-{:#reenactment-sit-in}
+## Historical Re-enactment: Sit-In {#reenactment-sit-in}
 
-|Time| 30–45 minutes
-|Prep| 10–20 minutes
-|Cal | R1
-|Supp| Signs.
-{:.metadata}
+```metadata
+subj: re-enactment
+time: 30–45 minutes
+prep: 10–20 minutes
+supplies: signs
+```
 
 > “Look over at the lunch counter! We know those boys!” There sat four of Brother’s friends from A&T College.
 > “Do they know they’re in the wrong place?” I whispered.
@@ -377,19 +402,18 @@ children accidentally forgot and used the bathroom sink that was not
 designated for them.  The inconvenience was definitely felt as they
 had to go longer distances to use a bathroom and wash up.
 
-![Picture of re-enactment](reenactment.jpg)
-{:.center}
+![Picture of re-enactment](reenactment.jpg) {.center}
 
 ---
 
-## Cooking: Banana Split
-{:#cooking-banana-split}
+## Cooking: Banana Split {#cooking-banana-split}
 
-|Time| 15–20 minutes
-|Prep| 15–20 minutes
-|Cal | R2
-|Supp| Ripe bananas, ice cream (vanilla, chocolate and strawberry), chopped nuts (walnuts or peanuts), chocolate (or caramel or butterscotch) sauce, whipped cream, Maraschino cherries.
-{:.metadata}
+```metadata
+subj: cooking
+time: 15–20 minutes
+prep: 15–20 minutes
+supplies: ripe bananas, ice cream (vanilla, chocolate and strawberry), chopped nuts (walnuts or peanuts), chocolate (or caramel or butterscotch) sauce, whipped cream, maraschino cherries
+```
 
 > It was the best banana split I ever had.
 
@@ -422,12 +446,13 @@ customize the basic recipe!
 
 ---
 
-## Civic Culture: Biblical Scripture
-{:#scripture}
+## Civic Culture: Biblical Scripture {#scripture}
 
-|Time| 10 minutes
-|Freq| Daily
-{:.metadata}
+```metadata
+subj: bible
+time: 10 minutes
+freq: daily
+```
 
 > You are the light of the world. A city on a hill cannot be
 > hidden. Neither do people light a lamp and put it under a bowl.
@@ -452,15 +477,15 @@ the evening.
 
 ---
 
-## Family: One-on-One Time
-{:#family}
+## Family: One-on-One Time {#family}
 
-|Time| 60 minutes
-{:.metadata}
+```metadata
+subj: family
+time: 60 minutes
+```
 
 > Just about every week, Mama and I went shopping downtown.
 > I loved having her all to myself for the afternoon.
-{:.nowrap}
 
 Connie describes how shopping with her mother was something they did
 together, just the two of them.  Spending time one-on-one with a
@@ -474,14 +499,14 @@ focused time interacting with each of your children.
 
 ---
 
-## Supplemental Reading: _Granddaddy’s Turn: A Journey to the Ballot Box_
-{:#supplemental-grandaddys-turn}
+## Supplemental Reading: _Granddaddy’s Turn: A Journey to the Ballot Box_ {#supplemental-grandaddys-turn}
 
-|Name| Supplemental Read: _Granddaddy’s Turn_
-|Time| 10–15 minutes
-|Freq| Twice
-|Cal | F2
-{:.metadata}
+```metadata
+subj: reading
+toc: "Supplemental Reading: _Granddaddy’s Turn_"
+time: 10–15 minutes
+freq: twice
+```
 
 > When I went to vote for the first time, I remembered what my
 > granddaddy always said: “Patience, son, patience.” He was right. The
@@ -489,7 +514,7 @@ focused time interacting with each of your children.
 > would never take it for granted.
 
 The very last of the Jim Crow laws were the laws that prevented black
-Americans from voting. Unlike Freedom on the Menu, the story of
+Americans from voting. Unlike _Freedom on the Menu_, the story of
 _Granddaddy’s Turn_ (authors: Michael S. Bandy & Eric Stein,
 illustrator: James E. Ransome) doesn’t portray the struggle to
 overturn these unjust laws. _Granddaddy’s Turn_ shows the emotional
@@ -498,20 +523,20 @@ heartfelt story of the bond between a grandfather and a grandson,
 illustrating how none of us should ever take our right to vote for
 granted.
 
-This story is a great supplemental reading to _Freedom on the Menu_, illustrating another vital way in which the civil rights of black Americans were unlawfully violated. The landmark federal legislation contained in the  Voting Rights Act of 1965 marked the beginning of the end of this shameful period of American history.  
+This story is a great supplemental reading to _Freedom on the Menu_, illustrating another vital way in which the civil rights of black Americans were unlawfully violated. The landmark federal legislation contained in the  Voting Rights Act of 1965 marked the beginning of the end of this shameful period of American history.
 
 ---
 
-## Art: Find the Family
-{:#art-family}
+## Art: Find the Family {#art-family}
 
-|Time| 15 minutes
-{:.metadata}
+```metadata
+subj: art
+time: 15 minutes
+```
 
-> Soon after that, my brother and my sister joined the
-> National Association for the Advancement of Colored People… 
-> They let me tag along as they went door-to-door helping people to sign up to vote.
-{:.nowrap}
+> Soon after that, my brother and my sister joined the National
+> Association for the Advancement of Colored People…  They let me tag
+> along as they went door-to-door helping people to sign up to vote.
 
 Connie is the youngest child in her family and the story is told from
 her point of view. Connie is the only one who appears on almost every
@@ -523,12 +548,12 @@ they think an appropriate age would be to participate in a protest?
 
 ---
 
-## Art: Impressionism
-{:#art-impressionism}
+## Art: Impressionism {#art-impressionism}
 
-|Time| 15 minutes
-|Cal | F1
-{:.metadata}
+```metadata
+subj: art
+time: 15 minutes
+```
 
 > All over town, signs told Mama and me where we could and couldn’t go.
 > Signs on water fountains, swimming pools, movie theaters, even bathrooms.
@@ -557,21 +582,21 @@ they describe the mood of Lagarrigue’s paintings?
 ![Monet's painting "Impression, Sunrise"](monet-sunrise.jpg)<br>
 Impression, Sunrise by Claude Monet (1872)<br>
 (This painting, panned by an art critic, gave Impressionism its name.)
-{:.center .caption}
+{.center .caption}
 
 ![Money's painting "Woman with a Parasol"](monet-parasol.jpg)<br>
 Woman with a Parasol by Claude Monet (1875)<br>
 (Claude Monet was one of the most famous of the Impressionists)
-{:.center .caption}
+{.center .caption}
 
 ---
 
-## Language Arts: Vocabulary
-{:#vocabulary}
+## Language Arts: Vocabulary {#vocabulary}
 
-|Time| 10 minutes
-|Cal | T1: Vocabulary (before reading)
-{:.metadata}
+```metadata
+subj: vocabulary
+time: 10 minutes
+```
 
 > “The protests are growing!” I told Daddy.
 > “I’m joining the sit-ins,” Brother said, bursting into the room.
