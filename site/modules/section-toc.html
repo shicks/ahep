@@ -1,0 +1,23 @@
+---
+partial: true
+---
+<div class="activities">
+<div class="header">Activity</div>
+<div class="header">Time</div>
+<div class="header">Frequency</div>
+<div class="header">Preparation</div>
+{{#each module.activitiesList}}
+  <span class="activity" markdown="1">
+    <a href="#{{this.id}}">{{this.name}}</a>
+  </span>
+  <span class="time" markdown="1">
+    <a href="#{{this.id}}">{{this.time}}</a>
+  </span>
+  <span class="freq" markdown="1">
+    <a href="#{{this.id}}">{{this.frequency}}</a>
+  </span>
+  <span class="prep" markdown="1">
+    <a href="#{{this.id}}">{{this.preparation}}</a>
+  </span>
+{{/each}}
+</div>

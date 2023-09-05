@@ -12,12 +12,14 @@
     "handlebars": "^4.7.8",
     "markdown-it": "^13.0.1",
     "markdown-it-attrs": "^4.1.6",
+    "markdown-it-deflist": "^2.1.0",
     "metalsmith": "^2.6.1",
     "metalsmith-livereload": "^0.1.0",
     "metalsmith-markdownit": "^0.5.0",
     "ts-node": "^10.9.1"
   },
   "dependencies": {
-    "kramed": "^0.5.6"
+    "kramed": "^0.5.6",
+    "zod": "^3.22.2"
   }
 }

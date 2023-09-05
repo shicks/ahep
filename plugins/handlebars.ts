@@ -1,6 +1,7 @@
 import * as Handlebars from 'handlebars';
 import type * as Metalsmith from 'metalsmith';
 import * as path from 'path';
+import { augment } from './util';
 
 interface Options {
   // Directory containing layouts (default: 'layouts')
@@ -76,7 +77,7 @@ export function handlebars(opts: Options = {}) {
         file.contents = Buffer.from(h.compile(contents)({...ms.metadata(), ...file}));
       } catch (err: unknown) {
         if (err instanceof Error) {
-          err.message = `While compiling ${name}: ${err.message}`;
+          err.message = `While {{handlebars}} compiled ${name}: ${err.message}`;
         } else {
           err = new Error(String(err));
         }
@@ -90,8 +91,13 @@ export function handlebars(opts: Options = {}) {
 
 const helpers: Record<string, Handlebars.HelperDelegate> = {
   relative(file, options) {
-    const result = path.relative(
-        path.dirname(options.data.root.path), file) || '.';
-    return result;
+    try {
+      const result = path.relative(
+          path.dirname(options.data.root.path), file) || '.';
+      return result;
+    } catch (err: unknown) {
+      throw augment(err, `while expanding {{relative ${JSON.stringify(file)
+                          }}} with root ${options.data?.root?.path}`);
+    }
   }
 }

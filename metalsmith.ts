@@ -17,6 +17,7 @@ import { log } from './plugins/log';
 import markdown from './plugins/markdown';
 import modules from './plugins/modules';
 import markdownItAttrs from 'markdown-it-attrs';
+import markdownItDeflist from 'markdown-it-deflist';
 import collections from '@metalsmith/collections';
 import livereload from 'metalsmith-livereload';
 
@@ -61,7 +62,7 @@ const metalsmith = Metalsmith(DIR) // parent directory of this file
     //       snippet gets an extra nested <p>
     // We need to skip the outer paragraph for partials?
 
-    .use(markdown({plugins: [markdownItAttrs]}))
+    .use(markdown({plugins: [markdownItAttrs, markdownItDeflist]}))
     .use(handlebars())          // BEFORE markdown!
     .use(sass())
     ;

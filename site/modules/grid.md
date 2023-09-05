@@ -7,7 +7,7 @@ partial: true
 
 <div class="grid">
   {{#each modules}}
-  <a class="module" href="{{relative this.module}}/">
+  <a class="module" href="{{relative this.url}}/">
     <div class="blur-cover">
       <img alt="{{this.title}}"
            src="{{relative this.cover}}">
