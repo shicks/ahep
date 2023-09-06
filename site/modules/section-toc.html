@@ -8,16 +8,16 @@ partial: true
 <div class="header">Preparation</div>
 {{#each module.activitiesList}}
   <span class="activity" markdown="1">
-    <a href="#{{this.id}}">{{this.name}}</a>
+    <a href="#{{this.id}}">{{{this.toc}}}</a>
   </span>
   <span class="time" markdown="1">
-    <a href="#{{this.id}}">{{this.time}}</a>
+    <a href="#{{this.id}}">{{this.metadata.time}}</a>
   </span>
   <span class="freq" markdown="1">
-    <a href="#{{this.id}}">{{this.frequency}}</a>
+    <a href="#{{this.id}}">{{this.metadata.frequency}}</a>
   </span>
   <span class="prep" markdown="1">
-    <a href="#{{this.id}}">{{this.preparation}}</a>
+    <a href="#{{this.id}}">{{this.metadata.preparation}}</a>
   </span>
 {{/each}}
 </div>

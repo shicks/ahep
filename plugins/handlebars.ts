@@ -90,6 +90,14 @@ export function handlebars(opts: Options = {}) {
 }
 
 const helpers: Record<string, Handlebars.HelperDelegate> = {
+  range(max) {
+    return Array.from({length: max}, (_, i) => i);
+  },
+
+  keys(obj) {
+    return Object.keys(obj);
+  },
+
   relative(file, options) {
     try {
       const result = path.relative(
@@ -99,5 +107,5 @@ const helpers: Record<string, Handlebars.HelperDelegate> = {
       throw augment(err, `while expanding {{relative ${JSON.stringify(file)
                           }}} with root ${options.data?.root?.path}`);
     }
-  }
+  },
 }

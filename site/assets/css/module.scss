@@ -211,6 +211,7 @@ div.activities {
   }
   .freq {
     grid-column: freq;
+    text-align: center;
   }
   .prep {
     grid-column: prep;
@@ -260,11 +261,12 @@ div.activities {
 
 div.calendar {
   display: grid;
-  grid-template-areas:
-    "MH TH WH RH FH"
-    "M1 T1 W1 R1 F1"
-    "M2 T2 W2 R2 F2"
-    "MS TS WS RS FS";
+  grid-columns: 5;
+  // grid-template-areas:
+  //   "MH TH WH RH FH"
+  //   "M1 T1 W1 R1 F1"
+  //   "M2 T2 W2 R2 F2"
+  //   "MS TS WS RS FS";
   .header {
     grid-row: 1;
     background: $primary-color;

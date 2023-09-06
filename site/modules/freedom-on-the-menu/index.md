@@ -54,7 +54,7 @@ Length: 32 pages
 
 Monday:
   - songbook
-  - i have a dream
+  - text-i-have-a-dream
 
 Tuesday:
   - Vocabulary (before reading) [vocab]
@@ -70,7 +70,7 @@ Thursday:
 
 Friday:
   - impressionism
-  - suplemental
+  - supplemental
 
 #### match substring and/or ID
 #### lowercase keys and values, strip punctuation before substring
@@ -121,10 +121,11 @@ freq: daily
 
 > I have a dream that one day this nation will rise up and live out
 > the true meaning of its creed: “We hold these truths to be
-> self-evident, that all men are created equal.”  …  I have a dream
-> that my four little children will one day live in a nation where
-> they will not be judged by the color of their skin but by the
-> content of their character.
+> self-evident, that all men are created equal.”
+
+> I have a dream that my four little children will one day live in a
+> nation where they will not be judged by the color of their skin but
+> by the content of their character.
 
 Martin Luther King Jr.’s “I Have a Dream” speech galvanized our
 nation, reminding people of our founding creed — and how black

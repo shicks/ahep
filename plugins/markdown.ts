@@ -9,6 +9,7 @@ interface Options {
     typographer?: boolean,
     html?: boolean,
   },
+  // fields?: string[],  // list of fields to markdown
   plugins?: PluginSimple[],
 }
 
@@ -27,6 +28,18 @@ export function markdown(opts?: Options) {
   return (files: Metalsmith.Files,
           ms: Metalsmith,
           done: Metalsmith.Callback) => {
+
+    function process(content: string,
+                     type: 'block'|'inline'|'auto' = 'auto'): string {
+      if (type !== 'block' && type !== 'inline') {
+        type = content.includes('\n\n') ? 'block' : 'inline';
+      }
+      content = content.replace(HANDLEBARS_RE, escapeHandlebars);
+      content =
+          type === 'inline' ? md.renderInline(content) : md.render(content);
+      return content.replace(/\x01[0-9a-f]{2}/gi, unescapeHandlebars);
+    }
+
     const {
       preset = 'default',
       options: mdOpts = {typographer: true, html: true},
@@ -41,10 +54,16 @@ export function markdown(opts?: Options) {
       if (!name.endsWith('.md')) continue;
       const html = name.replace(/\.md$/, '.html');
       log.info(`Rendering markdown ${name}`);
-      let contents = String(file.contents);
-      contents = contents.replace(HANDLEBARS_RE, escapeHandlebars);
       try {
-        contents = md.render(contents);
+        file.contents = Buffer.from(process(String(file.contents), 'block'));
+        file.path = file.path.replace(/\.md$/, '.html');
+        for (const [, value] of Object.entries(file)) {
+          if (!value) continue;
+          if (typeof value === 'object' &&
+              typeof value.markdown === 'function') {
+            value.markdown(process);
+          }
+        }
       } catch (err: unknown) {
         if (err instanceof Error) {
           err.message = `While markdown converting ${name}: ${err.message}`;
@@ -53,9 +72,6 @@ export function markdown(opts?: Options) {
         }
         return done(err as Error, files, ms);
       }
-      contents = contents.replace(/\x01[0-9a-f]{2}/gi, unescapeHandlebars);
-      file.contents = Buffer.from(contents);
-      file.path = file.path.replace(/\.md$/, '.html');
       // TODO - do we need to markdown any of the attrs?
       // TODO - use renderInline if there's no \n\n anywhere???
       // TODO - consider a second markdown pass on <html markdown=1> elements?

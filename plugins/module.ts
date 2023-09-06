@@ -77,6 +77,7 @@ class ModuleSection {
 
 class Activity {
   readonly heading: string;
+  toc: string;
   readonly id: string;
   readonly metadata: ActivityMetadata;
   readonly text: string;
@@ -92,6 +93,7 @@ class Activity {
       this.metadata = activityMetadataSchema.parse(metadataBlock);
       this.searchKey = `${caseInsensitive(this.id)} ${
                           caseInsensitive(this.heading)}`;
+      this.toc = this.metadata.toc || this.heading;
     } catch (err: unknown) {
       this.rethrow(err);
     }
@@ -99,7 +101,10 @@ class Activity {
 
   matches(key: string): boolean {
     return this.searchKey.includes(key);
+  }
 
+  markdown(markdown: (content: string, type: 'inline'|'block') => string) {
+    this.toc = markdown(this.toc, 'inline');
   }
   
   tagActivity(err: unknown): Error {
@@ -124,11 +129,11 @@ const calendarSchema: yaml.Schema<Calendar> = yaml.struct({
   friday: calendarDaySchema('Friday calendar'),
 }, 'calendar');
 interface Calendar {
-  monday: [string, string];
-  tuesday: [string, string];
-  wednesday: [string, string];
-  thursday: [string, string];
-  friday: [string, string];
+  monday: [string, string, string?];
+  tuesday: [string, string, string?];
+  wednesday: [string, string, string?];
+  thursday: [string, string, string?];
+  friday: [string, string, string?];
 }
 
 const EXPECTED_HEADINGS = [
@@ -138,17 +143,18 @@ const EXPECTED_HEADINGS = [
 ];
 
 export class Module {
-  readonly name: string;
-  readonly title: string;
-  readonly year: string;
-  readonly cover: string;
-  readonly url: string;
+  name: string;
+  title: string;
+  year: string;
+  cover: string;
+  url: string;
 
   readonly sections: ModuleSection[];
   readonly intro: string;
   readonly book: BookMetadata;
   readonly calendar: Calendar;
   readonly activities = new Map<string, Activity>();
+  readonly activitiesList: Activity[];
 
   constructor(readonly slug: string, readonly file: Metalsmith.File) {
     this.name = file.path;
@@ -186,8 +192,23 @@ export class Module {
         const activity = new Activity(section, this);
         this.activities.set(section.heading, activity);
       }
+      this.activitiesList = [...this.activities.values()];
+      this.fillCalendar();
     } catch (err: unknown) {
       this.rethrow(err);
+    }
+  }
+
+  markdown(markdown: (content: string, type: 'inline'|'block') => string) {
+    this.name = markdown(this.name, 'inline');
+    this.title = markdown(this.title, 'inline');
+    for (const activity of this.activitiesList) {
+      activity.markdown(markdown);
+    }
+    for (const day of Object.values(this.calendar)) {
+      for (let i = 0; i < day.length; i++) {
+        day[i] = markdown(day[i], 'inline');
+      }
     }
   }
 
@@ -204,11 +225,29 @@ export class Module {
 ${[...this.activities.values()].map(a => a.text).join('\n\n---\n\n')}`;
   }
 
-  buildBook(): string {
-    return `this.book`;
-  }
+  fillCalendar(): string {
+    for (const activities of Object.values(this.calendar)) {
+      // Look up the two activities
+      const supplyLists = [];
+      for (let i = 0; i < 2; i++) {
+        let key = activities[i].trim();
+        let text = '';
+        const match = /^(.+?)\s*\[(.+)\]$/.exec(key);
+        if (match) {
+          text = match[1];
+          key = match[2];
+        }
+        const activity = this.findActivity(key);
+        if (!text) text = activity.toc;
+        const supplies = activity.metadata.supplies;
+        if (supplies) supplyLists.push(supplies);
+        activities[i] = text;
+      }
+      const supplies = `**Supplies:**<br>${
+        supplyLists.length ? supplyLists.join('<br><br>') : 'N/A'}`;
+      activities[2] = supplies;
+    }
 
-  buildCalendar(): string {
     const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
     let out = `<table class="calendar"><th>`;
     for (const day of days) {
@@ -249,7 +288,7 @@ ${[...this.activities.values()].map(a => a.text).join('\n\n---\n\n')}`;
     // Given a key, look through all the activities for a unique substring match
     let found: Activity|undefined = undefined;
     for (const activity of this.activities.values()) {
-      if (activity.matches(key)) {
+      if (activity.matches(caseInsensitive(key))) {
         if (found) {
           fail(`Multiple activities matched '${key}': '## ${
                 found.heading}' and '## ${activity.heading}'`);
@@ -258,7 +297,9 @@ ${[...this.activities.values()].map(a => a.text).join('\n\n---\n\n')}`;
       }
     }
     if (found) return found;
-    fail(`No activity found matching '${key}'`);
+    fail(`No activity found matching '${key}': could not find '${
+          caseInsensitive(key)}' in \n  ${[...this.activities.values()]
+            .map(a => a.searchKey).join('\n  ')}`);
   }
 
 }

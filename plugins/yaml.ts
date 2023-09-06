@@ -16,8 +16,7 @@ export class Schema<T> {
   optional<U>(defaultValue: U): Schema<T|U>;
   optional(defaultValue?: any): Schema<any> {
     return new Schema(
-      (obj: unknown): T|undefined =>
-        obj == null ? defaultValue : this.coerce(obj),
+      (obj: unknown) => obj ? this.coerce(obj) : defaultValue,
       this.keys, false);
   }
   parse(str: string): T {
@@ -75,8 +74,11 @@ export function struct<T extends Schemas>(schema: T, name?: string) {
       result[key] = schema[key].coerce(v);
     }
     for (const [k, s] of Object.entries(schema)) {
-      if (!s.optional && !(k in result)) {
+      if (k in result) continue;
+      if (s.required) {
         throw new Error(`Missing required key ${k}${forName(name)}`);
+      } else {
+        result[k as keyof T] = s.coerce(undefined);
       }
     }
     return result as Unschema<T>;
