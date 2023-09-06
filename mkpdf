@@ -1,0 +1,50 @@
+#!/bin/sh
+
+# Usage: mkpdf [SLUG...]
+
+# Make PDFs from all the modules
+# Store the PDF in site/modules/<name>.pdf
+# If slugs provided (e.g. `freedom-on-the-menu`) then only the named
+# modules will be updated.
+
+# For now, requires a server to be running at localhost:8000
+
+#npm run watch &
+#SERVER=$!
+
+CHROME=$(which chrome 2>/dev/null)
+if [ ! -x "$CHROME" ]; then
+  CHROME=$(which google-chrome 2>/dev/null)
+fi
+if [ ! -x "$CHROME" ]; then
+  CHROME='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
+fi
+if [ ! -x "$CHROME" ]; then
+  echo "Could not find a working Chrome instance." >&2
+  exit 1
+fi
+
+QPDF=$(which qpdf 2>/dev/null)
+if [ ! -x "$QPDF" ]; then
+  echo "Could not find a working qpdf instsance." >&2
+  exit 1
+fi
+
+pdf() {
+  slug=$1
+  echo "Converting $slug" >&2
+  tmp=$(mktemp)
+  rm "$tmp"
+  "$CHROME" --headless --disable-gpu --print-to-pdf="$tmp.pdf" --no-margins --no-pdf-header-footer "http://localhost:8000/modules/$slug/"
+  "$QPDF" --underlay graphics/ahep-underlay.pdf --repeat=1-z -- "$tmp.pdf" "site/modules/$slug.pdf"
+}
+
+for module in site/modules/*/index.md; do
+  slug=${module#site/modules/}
+  slug=${slug%/index.md}
+  case "$*" in
+    (''|*"$slug"*) pdf $slug ;;
+  esac
+done
+
+#kill "$SERVER"

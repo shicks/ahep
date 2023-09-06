@@ -169,8 +169,8 @@ at Flanders Fields. Today there are 247 different World War I
 cemeteries there, including one for American soldiers.
 
 ![Poster with lines from poem](flanders1.jpg)
-![Poster of Flanders Fields](flanders2.png)
-{.center}
+![Poster of Flanders Fields](flanders2.jpg)
+{.center .small}
 
 The popularity of the poem led to its use on recruiting posters and
 ads for war bonds.
@@ -280,7 +280,7 @@ Spelling alphabets were first introduced during World War I. Over the years the 
 
 For this exercise, have your children learn to spell their own names using the modern radio-telephone spelling alphabet, reproduced below. For example, “Emily” would be spelled: Echo, Mike, India, Lima, Yankee.
 
-![Phonetic Alphabet Code](code.png)
+![Phonetic Alphabet Code](code.jpg)
 {.center}
 
 ---
@@ -311,6 +311,7 @@ The Telephone Game is more enjoyable when unusual words or phrases are used. For
 Besides being a lot of fun, the game teaches listening skills, patience and taking turns, and the importance of accurate communications – “any missed command could lose the battle.”
 
 ---
+{.pagebreak}
 
 ## Historical Re-enactment: Be Grace Banker {#reenactment-be-grace-banker}
 
@@ -349,7 +350,7 @@ For my three-year-old, I simply had her match specific colors (“Can you put on
 
 ![Picture of young girl pretending to be Grace Banker](gb2.jpg)
 ![Picture of young girl at homemade switchboard](gb1.jpg)
-{.center}
+{.center .smaller}
 
 ---
 
@@ -477,7 +478,7 @@ Civilians would send things to their loved ones who were at war in the trenches.
 
 ---
 
-## Supplemental Reading: _The Poppy Lady_ {#supplemental-poppy-lady}
+## Supplemental Reading: _The Poppy Lady_ by Barbara Elizabeth Walsh {#supplemental-poppy-lady}
 
 ```metadata
 time: 15-20 minutes
@@ -492,6 +493,7 @@ Author Barbara Elizabeth Walsh tells the inspirational story of Moina Belle Mich
 And if you ask your child(ren) to flip to the “Afterword” pages of _Grace Banker and Her Hello Girls Answer the Call_ you can see red poppies strewn among Grace’s mementoes of World War I.
 
 ---
+{.pagebreak}
 
 ## Arts & Crafts: Make Your Own Poppies {#craft-poppy}
 
@@ -525,13 +527,14 @@ supplies: egg carton, scissors, black tissue paper, red paint, paint brushes, gl
 1. Optionally, make a poppy remembrance wreath.  Cut out the center of a paper plate and green construction paper in the shape of a wreath/donut.  Glue the green paper over the paper plate.  Glue egg container poppies onto the green wreath form.  Use hole punches to put in ribbon/string to form a hanger.  A phrase or word can also be printed on the wreath (such as “Remember” or part of Psalm 91, etc.)
 
 ![Example of poppy crafts](poppy.jpg)
-{.center}
+{.center .small}
 
-See also: [https://happyhooligans.ca/egg-carton-poppies/]
+See also: [Egg Carton Poppies for Remembrance Day at Happy Hooligans][ecp].
 
-[https://happyhooligans.ca/egg-carton-poppies/]: https://happyhooligans.ca/egg-carton-poppies/
+[ecp]: https://happyhooligans.ca/egg-carton-poppies/
 
 ---
+{.pagebreak}
 
 ## Art: Camouflage {#art-camouflage}
 

@@ -251,7 +251,7 @@ his I Have a Dream speech.
 1. Glue pom-poms all around to represent all the people listening to his speech.
 1. Can add words or a speech bubble if desired.
 
-![Example](craft-speech.png) {.center}
+![Example](craft-speech.jpg) {.center}
 
 ---
 

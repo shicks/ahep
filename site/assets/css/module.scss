@@ -50,9 +50,13 @@ $accent-color: #3b8bc7;
   h1, h2, h3 {
     break-after: avoid;
   }
-  p {
+  p, h1, h2, h3 {
     widows: 6;
     orphans: 6;
+  }
+  .pagebreak {
+    clear: both;
+    page-break-after: always;
   }
 }
 
@@ -349,6 +353,12 @@ p.center {
   img {
     max-width: 50%;
     max-height: 35vh;
+  }
+  &.small img {
+    max-height: 20vh;
+  }
+  &.smaller img {
+    max-height: 18vh;
   }
   &.caption {
     font-style: italic;
