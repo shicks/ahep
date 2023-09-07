@@ -1,7 +1,7 @@
 ---
 layout: module
 title: Grace Banker and Her Hello Girls Answer the Call
-when: 1914
+when: 1917
 ---
 
 # The War to End All Wars?
@@ -114,20 +114,20 @@ and, to a more limited extent, for the War on Terror after
 “over there.” After the war, inspired by the bands of the European
 armies we were allied with, he formed the United States Army Band
 (also known as “Pershing’s Own.”) You can hear Pershing’s Own
-performing _Over There_ [here][there].
+performing _Over There_ [here][ot0].
 
-You can also [find] several other [versions] on [YouTube], including
-[some that feature all] the verses. [This version] (just the chorus)
-is from the classic movie _Yankee Doodle Dandy_, featuring James
-Cagney portraying George M. Cohan himself, as America enters World War
-II.
+You can also [find][ot1] several other [versions][ot2] on [YouTube][ot3],
+including [some that feature all][ot4] the verses.  [This&nbsp;version][ot5]
+(just the chorus) is from the classic movie
+_Yankee Doodle Dandy_, featuring James Cagney portraying George M. Cohan
+himself, as America enters World War II.
 
-[there]: https://www.youtube.com/watch?v=aGDds6bGFW8
-[find]: https://www.youtube.com/watch?v=921z4LAHvak
-[versions]: https://www.youtube.com/watch?v=15R6Qv5PZqE
-[YouTube]: https://www.youtube.com/watch?v=wquvrM91Zz8
-[some that feature all]: https://www.youtube.com/watch?v=9RYA0gQJ8qg
-[this version]: https://www.youtube.com/watch?v=i5oWH6JWBJY 
+[ot0]: https://www.youtube.com/watch?v=aGDds6bGFW8
+[ot1]: https://www.youtube.com/watch?v=921z4LAHvak
+[ot2]: https://www.youtube.com/watch?v=15R6Qv5PZqE
+[ot3]: https://www.youtube.com/watch?v=wquvrM91Zz8
+[ot4]: https://www.youtube.com/watch?v=9RYA0gQJ8qg
+[ot5]: https://www.youtube.com/watch?v=i5oWH6JWBJY 
 
 ---
 
