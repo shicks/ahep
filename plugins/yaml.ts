@@ -37,6 +37,15 @@ export function string(name?: string): Schema<string> {
   });
 }
 
+export function boolean(name?: string): Schema<boolean> {
+  return new Schema((obj: unknown): boolean => {
+    if (typeof obj === 'boolean') return obj;
+    if (typeof obj === 'string') return obj.toLowerCase() === 'true';
+    if (typeof obj === 'number') return !!obj;
+    throw new Error(`Expected a boolean${forName(name)}, but found ${obj}`);
+  });
+}
+
 export function sequence<T>(elem: Schema<T>, name?: string): Schema<T[]> {
   return new Schema((obj: unknown): T[] => {
     if (Array.isArray(obj)) return obj.map(e => elem.coerce(e));

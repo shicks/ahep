@@ -6,6 +6,7 @@ import { augment } from './util';
 
 const activityMetadataSchema: yaml.Schema<ActivityMetadata> = yaml.struct({
   time: yaml.string('activity time'),
+  omit: yaml.boolean('omit').optional(false),
   preparation: yaml.string('preparation time').optional('minimal'),
   frequency: yaml.string('activity frequency').optional('once'),
   toc: yaml.string('activity toc name').optional(),
@@ -20,6 +21,7 @@ interface ActivityMetadata {
   toc?: string;
   supplies?: string;
   subject?: string;
+  omit?: boolean;
 }
 // const SUBJECTS = [
 //   'music',
