@@ -1,0 +1,28 @@
+#!/usr/bin/perl -p
+
+s/&ldquo;/“/g;
+s/\b&quot;([0-9a-z])/“$1/ig;
+s/&rdquo;/”/g;
+s/([0-9a-z])&quot;\b/$1”/g;
+s/&rsquo;/’/g;
+s/&nbsp;/ /g;
+s/&ndash;/–/g;
+s/&amp;/&/g;
+s/&#x([0-9a-f]{2});/chr(hex($1))/eig;
+s/&#([0-9]+);/chr($1)/eig;
+s/---*/---/g;
+
+sub process {
+  my ($url, $text) = @_;
+  $url =~ s/%([0-9a-f]{2})/chr(hex($1))/eig;
+  return "[$text]($url)";
+}
+
+s/<ol[^>]*>/<OL>/g;
+s/<ul[^>]*>/<UL>/g;
+s/<li[^>]*>/\n* /g;
+s/<a[^>]*href="https:\/\/www\.google\.com\/url\?q=([^"&]*)[^"]*".*?>([^<]*)<\/a>/process($1,$2)/eg;
+s/<a id="[^"]*">//g;
+s/<p.*?>/\n\n/g;
+s/<(span|td|tr|th|table).*?>//g;
+s/<\/.*?>//g;
