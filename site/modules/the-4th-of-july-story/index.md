@@ -1,10 +1,12 @@
 ---
 layout: module
 title: The 4th of July Story
-when: 1776
+when: 1776.5
 ---
 
 # All Men Are Created Equal
+
+## Introduction
 
 This is the story of the birth of our nation and the most famous
 document in our history, the Declaration of Independence. American
@@ -46,30 +48,31 @@ Length: 32 pages
 ## Calendar
 
 Monday:
- - Songbook: America the Beautiful
- - Memorize: Declaration of Independence
+ - songbook
+ - "Memorize: Declaration of Independence [texts]"
 
 Tuesday:
- - Political Geography: Thirteen Colonies
- - Arts & Crafts: Liberty Bell
+ - geography
+ - craft
 
 Wednesday:
- - L.A.: Vocabulary (before reading)
- - Science: Capillaries & Quill Pens
+ - "Vocabulary (before reading) [vocab]"
+ - science
 
 Thursday:
- - Civic Culture: Religion
- - Re-enactment: Signing the Declaration
+ - religion
+ - re-enactment
 
 Friday:
- - Art: Trumbull’s Declaration of Independence
- - Counting: Historical Period
+ - "Art: Trumbull’s Declaration of Independence [trumbull]"
+ - counting
 
 ---
 
 ## American Heritage Songbook: “America the Beautiful”
 
 ```metadata
+toc: "Songbook: America the Beautiful"
 time: 5 minutes
 freq: daily
 ```
@@ -115,9 +118,10 @@ To keep it fresh for your child(ren), try playing a different version each day b
 
 ---
 
-## Famous American Texts: Declaration of Independence
+## Famous American Texts: _Declaration of Independence_
 
 ```metadata
+toc: _Declaration of Independence_
 time: 5-10 minutes
 freq: daily
 ```
@@ -207,6 +211,7 @@ engaged through the somewhat longer text in this story.
 ## Arts & Crafts: Make Your Own Liberty Bell
 
 ```metadata
+toc: "Arts & Crafts: Liberty Bell"
 time: 30-40 minutes
 prep: 20-30 minutes
 supplies: plastic cup, foil, pipe cleaners, small bells, toilet paper roll, construction paper, glue, markers, scissors
@@ -274,7 +279,7 @@ multiple [Liberty Bell coloring sheets online][color].
 ```metadata
 time: 20-30 minutes
 prep: 10 minutes
-supplies: "[Feather](https://www.etsy.com/listing/792455469/quill-pen-feathers?gpla=1&gao=1&&utm_source=bing&utm_medium=cpc&utm_campaign=shopping_us_all&utm_custom1=_k_16ee7e96cc0418b8b2a21fc16d4115eb_k_&utm_content=bing_319339186_1310617986645934_81913644654434_pla-4585513245482005:pla-4585513245482005_c__792455469&utm_custom2=319339186&msclkid=16ee7e96cc0418b8b2a21fc16d4115eb), X-acto or sharp knife, [ink](https://www.dickblick.com/categories/drawing/calligraphy/inks/)"
+supplies: "[feather](https://www.etsy.com/listing/792455469/quill-pen-feathers), X-acto or sharp knife, [ink](https://www.dickblick.com/categories/drawing/calligraphy/inks/)"
 ```
 
 > All day, and part of each night, Thomas Jefferson sat in his rooms
@@ -306,6 +311,7 @@ pens we use for day-to-day writing.
 ## Historical Re-enactment: Signing the Declaration / Spreading the news
 
 ```metadata
+toc: "Re-enactment: Signing the Declaration"
 time: 20 minutes
 prep: 10 minutes
 supplies: printed Declaration of Independence, quill (or regular) pen

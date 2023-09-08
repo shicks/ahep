@@ -1,7 +1,7 @@
 ---
 layout: module
 title: When Washington Crossed the Delaware
-when: 1776
+when: 1776.9
 ---
 
 # A Pivotal Battle
