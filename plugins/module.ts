@@ -194,7 +194,8 @@ export class Module {
         const activity = new Activity(section, this);
         this.activities.set(section.heading, activity);
       }
-      this.activitiesList = [...this.activities.values()];
+      this.activitiesList =
+          [...this.activities.values()].filter(a => !a.metadata.omit);
       this.fillCalendar();
     } catch (err: unknown) {
       this.rethrow(err);
@@ -224,7 +225,7 @@ export class Module {
 
 ---
 
-${[...this.activities.values()].map(a => a.text).join('\n\n---\n\n')}`;
+${[...this.activitiesList].map(a => a.text).join('\n\n---\n\n')}`;
   }
 
   fillCalendar(): string {
