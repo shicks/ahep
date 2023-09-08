@@ -160,7 +160,7 @@ export class Module {
 
   constructor(readonly slug: string, readonly file: Metalsmith.File) {
     this.name = file.path;
-    this.url = file.path.replace(/\.(md|html)$/, '');
+    this.url = file.path.replace(/(index)?\.(md|html)$/, '');
     this.title = file.title;
     this.year = file.when;
     this.cover = `modules/${slug}/cover.jpg`;
