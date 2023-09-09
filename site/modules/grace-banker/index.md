@@ -117,7 +117,7 @@ armies we were allied with, he formed the United States Army Band
 performing _Over There_ [here][ot0].
 
 You can also [find][ot1] several other [versions][ot2] on [YouTube][ot3],
-including [some that feature all][ot4] the verses.  [This&nbsp;version][ot5]
+including [some that feature all][ot4] the verses.  [This version][ot5]
 (just the chorus) is from the classic movie
 _Yankee Doodle Dandy_, featuring James Cagney portraying George M. Cohan
 himself, as America enters World War II.
