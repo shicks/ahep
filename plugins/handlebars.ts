@@ -100,12 +100,30 @@ const helpers: Record<string, Handlebars.HelperDelegate> = {
 
   relative(file, options) {
     try {
+      const suffix = file.endsWith('/') ? '/' : '';
       const result = path.relative(
           path.dirname(options.data.root.path), file) || '.';
-      return result;
+      return result + suffix;
     } catch (err: unknown) {
       throw augment(err, `while expanding {{relative ${JSON.stringify(file)
                           }}} with root ${options.data?.root?.path}`);
+    }
+  },
+
+  gsub(str, pat, sub) {
+    try {
+      return String(str).replace(new RegExp(pat), sub);
+    } catch (err: unknown) {
+      throw augment(err, `while expanding {{gsub ${JSON.stringify(str)
+                          } ${JSON.stringify(pat)} ${JSON.stringify(sub)}}}`);
+    }
+  },
+
+  floor(num) {
+    try {
+      return Math.floor(num);
+    } catch (err: unknown) {
+      throw augment(err, `while expanding {{floor ${JSON.stringify(num)}}}`);
     }
   },
 }

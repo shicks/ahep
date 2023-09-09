@@ -6,6 +6,7 @@ import { augment } from './util';
 
 const activityMetadataSchema: yaml.Schema<ActivityMetadata> = yaml.struct({
   time: yaml.string('activity time'),
+  omit: yaml.boolean('omit').optional(false),
   preparation: yaml.string('preparation time').optional('minimal'),
   frequency: yaml.string('activity frequency').optional('once'),
   toc: yaml.string('activity toc name').optional(),
@@ -20,6 +21,7 @@ interface ActivityMetadata {
   toc?: string;
   supplies?: string;
   subject?: string;
+  omit?: boolean;
 }
 // const SUBJECTS = [
 //   'music',
@@ -158,7 +160,7 @@ export class Module {
 
   constructor(readonly slug: string, readonly file: Metalsmith.File) {
     this.name = file.path;
-    this.url = file.path.replace(/\.(md|html)$/, '');
+    this.url = file.path.replace(/(index)?\.(md|html)$/, '');
     this.title = file.title;
     this.year = file.when;
     this.cover = `modules/${slug}/cover.jpg`;
@@ -192,7 +194,8 @@ export class Module {
         const activity = new Activity(section, this);
         this.activities.set(section.heading, activity);
       }
-      this.activitiesList = [...this.activities.values()];
+      this.activitiesList =
+          [...this.activities.values()].filter(a => !a.metadata.omit);
       this.fillCalendar();
     } catch (err: unknown) {
       this.rethrow(err);
@@ -222,7 +225,7 @@ export class Module {
 
 ---
 
-${[...this.activities.values()].map(a => a.text).join('\n\n---\n\n')}`;
+${[...this.activitiesList].map(a => a.text).join('\n\n---\n\n')}`;
   }
 
   fillCalendar(): string {
