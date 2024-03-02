@@ -8,27 +8,43 @@
 //import { fileURLToPath } from 'node:url';
 //import { dirname } from 'node:path';
 import Metalsmith from 'metalsmith';
-import { handlebars } from './plugins/handlebars';
 import { fix } from './plugins/fix-metalsmith';
+import { handlebars } from './plugins/handlebars';
+import { log } from './plugins/log';
+import { parseArgs } from 'node:util';
+import { sass } from './plugins/sass-discover';
 import { serve } from './plugins/serve';
 import { timer } from './plugins/timer';
-import { sass } from './plugins/sass-discover';
-import { log } from './plugins/log';
+import collections from '@metalsmith/collections';
+import linkChecker from '@fidian/metalsmith-link-checker';
+import livereload from 'metalsmith-livereload';
 import markdown from './plugins/markdown';
-import modules from './plugins/modules';
 import markdownItAttrs from 'markdown-it-attrs';
 import markdownItDeflist from 'markdown-it-deflist';
-import collections from '@metalsmith/collections';
-import livereload from 'metalsmith-livereload';
+import modules from './plugins/modules';
 
 const [] = [log]; // okay to not use
 fix();
- 
+
 const DIR = __dirname; // dirname(fileURLToPath(import.meta.url));
-const shouldWatch = process.argv.includes('--watch');
-const DEBUG = !!process.env.DEBUG || process.argv.includes('--debug');
+const {values: {
+  'watch': shouldWatch,
+  'check-links': shouldCheckLinks,
+  'debug': debugArg,
+}} = parseArgs({
+  options: {
+    'watch': {type: 'boolean'},
+    'check-links': {type: 'boolean'},
+    'debug': {type: 'boolean'},
+  },
+});
+
+const DEBUG = !!process.env.DEBUG || debugArg;
 if (!DEBUG) {
   console.log(`Detailed debugging disabled: rerun with --debug or export DEBUG=* for full stack`);
+}
+if (!shouldCheckLinks) {
+  console.log(`Link checking disabled: rerun with --check-links for full report`);
 }
 
 const t = timer();
@@ -66,6 +82,15 @@ const metalsmith = Metalsmith(DIR) // parent directory of this file
     .use(handlebars())          // BEFORE markdown!
     .use(sass())
     ;
+if (shouldCheckLinks) {
+  metalsmith.use(linkChecker({
+    ignore: [
+      '^about$',
+      '^faq$',
+      '^modules$',
+    ]
+   }));
+}
 if (shouldWatch) {
   metalsmith
       .use(livereload({debug: DEBUG}))
