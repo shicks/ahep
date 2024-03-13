@@ -404,7 +404,6 @@ To illustrate these economic concepts you can do a couple of simple activities w
 
 1. Unemployment: to simulate losing a job, tell your kids that you can no longer pay them an allowance. Ask them what they would do to replace their allowance.  In the Great Depression, you would look for another job. But all businesses were shutting down or downsizing and none were hiring new workers.
 
-{.pagebreak}
 ---
 
 ## Art: Find the Cat {#art-find-cat}
@@ -424,7 +423,9 @@ What does David Small, the illustrator, do to make Lydia Grace stand out in each
 Now, ask your young artists to try Small’s white space spotlight technique on one of their own drawings.
 
 ![Sample Art](cgh-drawing.jpg)
-{.center}
+{.center .small}
+
+{.pagebreak}
 
 ---
 
@@ -439,7 +440,6 @@ freq: once
 
 _The Gardener_ is told through letters that Lydia Grace writes.  Ask your children to write a story through letters.  Who is the letter writer?  Who are they writing to?  What are the challenges of conveying everything through what is written to another character?
 
-{.pagebreak}
 ---
 
 ## Vocabulary {#vocabulary}
