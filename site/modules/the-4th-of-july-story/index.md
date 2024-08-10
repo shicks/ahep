@@ -18,15 +18,11 @@ men,” and that governments derive “ their just Powers from the consent
 of the governed.” Or as Alice Dalgliesh calls it, “The Story of
 Freedom.”
 
-
-
 Dalgliesh also touches on other important themes. The Liberty Bell is
 prominently placed in her story and she calls out the Biblical
 scripture inscribed on it: “Proclaim liberty throughout all the land,
 Unto all the inhabitants thereof.” Her final chapter, “To Carry the
 News” opens with this line and she repeats it as her final words.
-
-
 
 She also highlights the theme of religious freedom and immigration in
 this chapter: “The farmer wasn’t British like many of the people in
@@ -77,7 +73,13 @@ time: 5 minutes
 freq: daily
 ```
 
-Katherine Lee Bates wrote the words to America the Beautiful after traveling across the United States to the top of Pike’s Peak in Colorado: “our sojourn on the peak remains in memory hardly more than one ecstatic gaze. It was then and there, as I was looking out over the sea-like expanse of fertile country spreading away so far under those ample skies, that the opening lines of the hymn floated into my mind.”
+Katherine Lee Bates wrote the words to America the Beautiful after
+traveling across the United States to the top of Pike’s Peak in
+Colorado: “our sojourn on the peak remains in memory hardly more than
+one ecstatic gaze. It was then and there, as I was looking out over
+the sea-like expanse of fertile country spreading away so far under
+those ample skies, that the opening lines of the hymn floated into my
+mind.”
 
 > O beautiful for spacious skies,
 > For amber waves of grain,
@@ -373,9 +375,12 @@ upon everyone by God and cannot be taken away by governments. In fact,
 as the Declaration notes, it is the primary function of government to
 protect these natural rights.
 
-
-
-Alice Dalgliesh has the Liberty Bell ring throughout her story. Inscribed on it is the bible verse, “Proclaim LIBERTY throughout the Land and unto all the Inhabitants thereof” (Leviticus 25:10). This scripture refers to the Jubilee, when Israelites were instructed to free their slaves. Consider this scripture as an alternate (or additional) memory exercise for your child(ren).
+Alice Dalgliesh has the Liberty Bell ring throughout her
+story. Inscribed on it is the bible verse, “Proclaim LIBERTY
+throughout the Land and unto all the Inhabitants thereof” (Leviticus
+25:10). This scripture refers to the Jubilee, when Israelites were
+instructed to free their slaves. Consider this scripture as an
+alternate (or additional) memory exercise for your child(ren).
 
 ---
 
@@ -401,7 +406,24 @@ this section on how it became known as the Liberty Bell:
 
 [history]: https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm
 
-_The State House bell became a herald of liberty in the 19th century. “Proclaim Liberty Throughout All the Land Unto All the Inhabitants thereof,” the bell’s inscription, provided a rallying cry for abolitionists wishing to end slavery. The Anti-Slavery Record, an abolitionist publication, first referred to the bell as the Liberty Bell in 1835, but that name was not widely adopted until years later. Millions of Americans became familiar with the bell in popular culture through George Lippard’s 1847 fictional story “Ring, Grandfather, Ring”, when the bell came to symbolize pride in a new nation. Beginning in the late 1800s, the Liberty Bell traveled across the country for display at expositions and fairs, stopping in towns small and large along the way. For a nation recovering from wounds of the Civil War, the bell served to remind Americans of a time when they fought together for independence. Movements from Women’s Suffrage to Civil Rights embraced the Liberty Bell for both protest and celebration. Now a worldwide symbol, the bell’s message of liberty remains just as relevant and powerful today: “Proclaim Liberty Throughout All the Land Unto All the Inhabitants thereof.”_
+_The State House bell became a herald of liberty in the 19th
+century. “Proclaim Liberty Throughout All the Land Unto All the
+Inhabitants thereof,” the bell’s inscription, provided a rallying cry
+for abolitionists wishing to end slavery. The Anti-Slavery Record, an
+abolitionist publication, first referred to the bell as the Liberty
+Bell in 1835, but that name was not widely adopted until years
+later. Millions of Americans became familiar with the bell in popular
+culture through George Lippard’s 1847 fictional story “Ring,
+Grandfather, Ring”, when the bell came to symbolize pride in a new
+nation. Beginning in the late 1800s, the Liberty Bell traveled across
+the country for display at expositions and fairs, stopping in towns
+small and large along the way. For a nation recovering from wounds of
+the Civil War, the bell served to remind Americans of a time when they
+fought together for independence. Movements from Women’s Suffrage to
+Civil Rights embraced the Liberty Bell for both protest and
+celebration. Now a worldwide symbol, the bell’s message of liberty
+remains just as relevant and powerful today: “Proclaim Liberty
+Throughout All the Land Unto All the Inhabitants thereof.”_
 
 ---
 

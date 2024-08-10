@@ -131,7 +131,7 @@ himself, as America enters World War II.
 
 ---
 
-## Famous American Texts: _In Flanders Fields_ {#text-in-flanders-field}
+## Famous American Texts: _In Flanders Fields_ {#text}
 
 ```metadata
 time: 5 minutes
@@ -184,11 +184,10 @@ just the first two lines of the first stanza.
 
 ---
 
-## Political Geography: Whose Side Are We On? {#whose-side}
+## Political Geography: Whose Side Are We On? {#geography}
 
 ```metadata
 time: 15 minutes
-freq: once
 supplies: coloring map of Europe
 ```
 
@@ -240,7 +239,6 @@ illustrates the extensive changes to Europe.
 
 ```metadata
 time: 15-20 minutes
-freq: once
 prep: 5-10 minutes
 supplies: construction paper, scissors, glue stick, crayons/markers, Uncle Sam coloring sheet
 ```
@@ -291,7 +289,6 @@ Now, it’s your turn to make your own Uncle Sam poster!
 
 ```metadata
 time: 15 minutes
-freq: once
 ```
 
 > The names of all the places here and further fronts beyond are known under code names. 
@@ -325,7 +322,6 @@ Yankee.
 
 ```metadata
 time: 15 minutes
-freq: once
 ```
 
 > Nothing could shake the Signal Corps Girls from their stations.
@@ -362,16 +358,16 @@ communications – “any missed command could lose the battle.”
 ---
 {.pagebreak}
 
-## Historical Re-enactment: Be Grace Banker {#reenactment-be-grace-banker}
+## Historical Re-enactment: Be Grace Banker {#reenactment}
 
 ```metadata
 time: 15-20 minutes
-freq: once
 prep: 30-45 minutes
 supplies: cardboard box, yarn
 ```
 
-> Grace’s Signal Corps Girls connected hundreds of orders in an hour, thousands of commands in a day.
+> Grace’s Signal Corps Girls connected hundreds of orders in an hour,
+> thousands of commands in a day.
 
 ### Supplies
 * Large cardboard box
@@ -552,11 +548,10 @@ first sentence or, for older children, the first two lines.
 
 ---
 
-## Cooking: Trench Cake {#cooking-trench-cake}
+## Cooking: Trench Cake {#cooking}
 
 ```metadata
 time: 30-45 minutes
-freq: once
 prep: 30-45 minutes
 supplies: flour, butter, vinegar, milk, brown sugar, currants or raisins, cocoa, baking soda, nutmeg, ginger, lemon rind
 ```
@@ -600,7 +595,6 @@ European recipe below.
 
 ```metadata
 time: 15-20 minutes
-freq: once
 ```
 
 > Soon, Moina was surrounded by men wanting poppies of their own – to
@@ -631,7 +625,6 @@ poppies strewn among Grace’s mementoes of World War I.
 
 ```metadata
 time: 20-30 minutes
-freq: once
 prep: 10-15 minutes
 supplies: egg carton, scissors, black tissue paper, red paint, paint brushes, glue, hole punch, ribbons or string
 ```
@@ -685,7 +678,6 @@ See also: [Egg Carton Poppies for Remembrance Day at Happy Hooligans][ecp].
 
 ```metadata
 time: 10-20 minutes
-freq: once
 supplies: paper, crayons/markers
 ```
 
@@ -722,7 +714,6 @@ rhinoceros.
 
 ```metadata
 time: 10 minutes
-freq: once
 ```
 
 > At the eleventh hour, on the eleventh day, of the eleventh month, an
