@@ -207,16 +207,30 @@ stalemate between the Central Powers and the Allies. When the
 armistice with Germany was declared in November of 1918, the United
 States had been at war for just over 18 months.
 
-America fought on the 400+ miles of the Western Front, which stretched across France from the English channel to Switzerland. For this activity, print a [map of pre-World War I Europe] that your child(ren) can color (alternatively, you can ask them to do the activity below with [this online map]). Ask them to:
+America fought on the 400+ miles of the Western Front, which stretched
+across France from the English channel to Switzerland. For this
+activity, print a [map of pre-World War I Europe] that your child(ren)
+can color (alternatively, you can ask them to do the activity below
+with [this online map]). Ask them to:
 
 [map of pre-World War I Europe]: http://lemosworld.weebly.com/uploads/6/6/1/3/66131857/world_war_i_map_activity.pdf
 [this online map]: https://historicalmapchart.net/europe-world-war-1.html 
 
-1. Select a color for the Central Powers and color the appropriate countries: Germany, Austria-Hungary, Bulgaria, Turkey (Ottoman Empire)
-1. Select a different color for the primary Allied countries and color them: France, United Kingdom, Belgium, Russia, Italy)
+1. Select a color for the Central Powers and color the appropriate
+   countries: Germany, Austria-Hungary, Bulgaria, Turkey (Ottoman
+   Empire)
+1. Select a different color for the primary Allied countries and color
+   them: France, United Kingdom, Belgium, Russia, Italy)
 1. With a black crayon, draw a line approximating the Western Front
 
-While these were the primary countries involved, many others were also pulled into the conflict, mostly on the Allied side: Serbia, Romania, Montenegro, Portugal, Greece, China, Japan, Brazil. In the wake of World War I and the defeat of the Central Powers, many new countries were formed (e.g., Poland, Yugoslavia, Latvia, Estonia, Lithuania) and the borders of others were changed significantly. This [side-by-side comparison of European countries and borders before and after the war] illustrates the extensive changes to Europe.
+While these were the primary countries involved, many others were also
+pulled into the conflict, mostly on the Allied side: Serbia, Romania,
+Montenegro, Portugal, Greece, China, Japan, Brazil. In the wake of
+World War I and the defeat of the Central Powers, many new countries
+were formed (e.g., Poland, Yugoslavia, Latvia, Estonia, Lithuania) and
+the borders of others were changed significantly. This [side-by-side
+comparison of European countries and borders before and after the war]
+illustrates the extensive changes to Europe.
 
 [side-by-side comparison of European countries and borders before and after the war]: http://schillingb.weebly.com/uploads/2/9/9/3/29937093/map-before-and-after-wwi.pdf
 
@@ -234,7 +248,17 @@ supplies: construction paper, scissors, glue stick, crayons/markers, Uncle Sam c
 > The world was at war, and General John J. Pershing, the commander of US troops across the Atlantic, 
 > was calling for female telephone operators to join the fight against Germany.
 
-The origin of Uncle Sam as the personification of the United States goes way back in our history. He is based on a real person, Samuel Wilson, who owned a meat packing business. During the War of 1812, Wilson supplied food for American soldiers. The barrels had “U.S.” stamped on them for “United States” but soldiers knew Sam Wilson was supplying them, so they called it “Uncle Sam’s.” The political cartoonist Thomas Nast did much to shape our image of Uncle Sam in the 1870s. However, it was illustrator James Montgomery Flagg who was responsible for the most iconic image of Uncle Sam, portraying him in the famous “I Want YOU!” World War I army recruiting poster. Millions of these posters were distributed and displayed.
+The origin of Uncle Sam as the personification of the United States
+goes way back in our history. He is based on a real person, Samuel
+Wilson, who owned a meat packing business. During the War of 1812,
+Wilson supplied food for American soldiers. The barrels had “U.S.”
+stamped on them for “United States” but soldiers knew Sam Wilson was
+supplying them, so they called it “Uncle Sam’s.” The political
+cartoonist Thomas Nast did much to shape our image of Uncle Sam in the
+1870s. However, it was illustrator James Montgomery Flagg who was
+responsible for the most iconic image of Uncle Sam, portraying him in
+the famous “I Want YOU!” World War I army recruiting poster. Millions
+of these posters were distributed and displayed.
 
 ![Uncle Sam comic](harpers.jpg)
 ![Uncle Sam Poster](i-want-you.jpg)
@@ -274,11 +298,23 @@ freq: once
 > Waterfall Buster Bonehead Podunk Jam, etc., all mean some place very definite. 
 > The codes are changed frequently so I have to keep up on everything.
 
-In addition to code names for different locations, the military developed a radio-telephone spelling alphabet that uses different code words for each letter of the alphabet. The primary purpose of the spelling alphabet is to clearly communicate over devices (radio or telephone) where sound quality can lead to mistakes. For example, the letters “F” and “S” can be easily confused but not “Foxtrot” and “Sierra.”
+In addition to code names for different locations, the military
+developed a radio-telephone spelling alphabet that uses different code
+words for each letter of the alphabet. The primary purpose of the
+spelling alphabet is to clearly communicate over devices (radio or
+telephone) where sound quality can lead to mistakes. For example, the
+letters “F” and “S” can be easily confused but not “Foxtrot” and
+“Sierra.”
 
-Spelling alphabets were first introduced during World War I. Over the years the code words were modified and standardized, and are now in use in many other applications outside the military:  law enforcement, air traffic control, amateur radio, and more.
+Spelling alphabets were first introduced during World War I. Over the
+years the code words were modified and standardized, and are now in
+use in many other applications outside the military: law enforcement,
+air traffic control, amateur radio, and more.
 
-For this exercise, have your children learn to spell their own names using the modern radio-telephone spelling alphabet, reproduced below. For example, “Emily” would be spelled: Echo, Mike, India, Lima, Yankee.
+For this exercise, have your children learn to spell their own names
+using the modern radio-telephone spelling alphabet, reproduced
+below. For example, “Emily” would be spelled: Echo, Mike, India, Lima,
+Yankee.
 
 ![Phonetic Alphabet Code](code.jpg)
 {.center}
@@ -296,19 +332,32 @@ freq: once
 > Every new call could save lives.
 > Any missed command could lose the battle.
 
-The traditional game of “telephone” demonstrates how messages get muddled as they are whispered from person to person. The actual muddling can be hilarious – everyone enjoys comparing the final message to the original.
+The traditional game of “telephone” demonstrates how messages get
+muddled as they are whispered from person to person. The actual
+muddling can be hilarious – everyone enjoys comparing the final
+message to the original.
 
 The rules are very simple:
 
 1. You need 3 or more people in a line (5 or more is best).
-1. The first person whispers a word or phrase to the second person – but only once!
-1. The whisper should be loud enough for the next person to hear but quiet enough that no one else can hear it.
+1. The first person whispers a word or phrase to the second person –
+   but only once!
+1. The whisper should be loud enough for the next person to hear but
+   quiet enough that no one else can hear it.
 1. No deliberate changing of the word or phrase.
-1. The word or phrase continues to be whispered to the next person in line until it reaches the final person who says it out loud and compares it to the original.
+1. The word or phrase continues to be whispered to the next person in
+   line until it reaches the final person who says it out loud and
+   compares it to the original.
 
-The Telephone Game is more enjoyable when unusual words or phrases are used. For this version, consider having the parent start the first few words or phrases and incorporate vocabulary words or sentences from the story (e.g., “Grace and her girls had plenty of grit” or “Grace and her gritty girls worked like beavers.”)
+The Telephone Game is more enjoyable when unusual words or phrases are
+used. For this version, consider having the parent start the first few
+words or phrases and incorporate vocabulary words or sentences from
+the story (e.g., “Grace and her girls had plenty of grit” or “Grace
+and her gritty girls worked like beavers.”)
 
-Besides being a lot of fun, the game teaches listening skills, patience and taking turns, and the importance of accurate communications – “any missed command could lose the battle.”
+Besides being a lot of fun, the game teaches listening skills,
+patience and taking turns, and the importance of accurate
+communications – “any missed command could lose the battle.”
 
 ---
 {.pagebreak}
@@ -332,21 +381,43 @@ supplies: cardboard box, yarn
 * Marker
 
 ### Directions
-1. Take a cardboard box and, using scissors, punch holes in the side of it in rows and columns (we made four rows and six columns of holes).  
-1. Label the rows and columns.  This can be done with numbers, colors, shapes or some combination depending on the age of the child.  For example, we labeled the rows with numbers and the columns with colors.  
-1. Cut several pieces of yarn and tape each of the ends (the yarn should be long enough to connect the two farthest holes in your box.  Alternatively use shoelaces.  
-1. This completes  the “switchboard.” 
-1. Write down a list of paired holes (identifying them by row and column) to indicate which holes should be connected via the two ends of the yarn.  In other words, these are the “calls” to be “connected.”
-1. Have your child(ren) see how quickly they can connect the listed pairs of holes using the yarn.
+1. Take a cardboard box and, using scissors, punch holes in the side
+   of it in rows and columns (we made four rows and six columns of
+   holes).
+1. Label the rows and columns.  This can be done with numbers, colors,
+   shapes or some combination depending on the age of the child.  For
+   example, we labeled the rows with numbers and the columns with
+   colors.
+1. Cut several pieces of yarn and tape each of the ends (the yarn
+   should be long enough to connect the two farthest holes in your
+   box.  Alternatively use shoelaces.
+1. This completes the “switchboard.”
+1. Write down a list of paired holes (identifying them by row and
+   column) to indicate which holes should be connected via the two
+   ends of the yarn.  In other words, these are the “calls” to be
+   “connected.”
+1. Have your child(ren) see how quickly they can connect the listed
+   pairs of holes using the yarn.
 
 
-For my older children, I wrote down a list of 10 pairs of holes (using the colors/numbers to identify them).  We talked about rows and columns (rows go across, columns go up and down)  so they could identify the correct holes. You can also make a table of coded locations from the story (e.g., Red 3 = Waterfall, Blue 2 = Bonehead, Green 1 = General Pershing’s HQ, Purple 4 = Podunk). Then, ask your children to make specific connections: 
+For my older children, I wrote down a list of 10 pairs of holes (using
+the colors/numbers to identify them).  We talked about rows and
+columns (rows go across, columns go up and down) so they could
+identify the correct holes. You can also make a table of coded
+locations from the story (e.g., Red 3 = Waterfall, Blue 2 = Bonehead,
+Green 1 = General Pershing’s HQ, Purple 4 = Podunk). Then, ask your
+children to make specific connections:
 * Connect General Pershing to Waterfall
 * Connect Podunk to Waterfall
 * Connect Jam to Buster
 
 
-For my three-year-old, I simply had her match specific colors (“Can you put one end in red and one end in blue?”).  We also had some colored yarn and then she just tried to match the yarn color to the hole color.  For her, it was good fine motor skills practice as well as a chance to identify colors. My children all enjoyed being “Grace Banker.”
+For my three-year-old, I simply had her match specific colors (“Can
+you put one end in red and one end in blue?”).  We also had some
+colored yarn and then she just tried to match the yarn color to the
+hole color.  For her, it was good fine motor skills practice as well
+as a chance to identify colors. My children all enjoyed being “Grace
+Banker.”
 
 ![Picture of young girl pretending to be Grace Banker](gb2.jpg)
 ![Picture of young girl at homemade switchboard](gb1.jpg)
@@ -364,17 +435,48 @@ supplies: pretend or real phone
 
 > When you said “Number Please” I couldn’t answer, there was a lump in my throat.
 
-This is a great opportunity to discuss proper etiquette for phone calls and, in today’s world, video conferences and calls. If your family is anything like ours, when we call Grandpa and Nana all three grandchildren want to talk at once. Much has changed since the days when telephones were introduced into homes. But proper conversational etiquette remains unchanged and is a valuable skill for youngsters to learn. 
+This is a great opportunity to discuss proper etiquette for phone
+calls and, in today’s world, video conferences and calls. If your
+family is anything like ours, when we call Grandpa and Nana all three
+grandchildren want to talk at once. Much has changed since the days
+when telephones were introduced into homes. But proper conversational
+etiquette remains unchanged and is a valuable skill for youngsters to
+learn.
 
-For speaking on the phone, review and role play: identifying who you are, with whom you wish to speak and what you want, asking politely who is calling and what they want,  how to deal with being put on hold, and politely ending a call.
+For speaking on the phone, review and role play: identifying who you
+are, with whom you wish to speak and what you want, asking politely
+who is calling and what they want, how to deal with being put on hold,
+and politely ending a call.
 
-Perhaps the hardest (and most important) skill for children to learn is waiting for their turn to speak – and not interrupting others when they are speaking (or listening!). This skill is needed when a parent is having a conversation with someone else on the phone. Explain to your child(ren) the need for them to be quiet, and wait patiently to talk to or get answers from the parent. Explain that they are only hearing half the conversation and so even when a parent is quiet, they still need to wait as their parent is listening to the other person on the line. Simulate this for them by asking them to talk to one parent while the other parent keeps asking the child questions.
+Perhaps the hardest (and most important) skill for children to learn
+is waiting for their turn to speak – and not interrupting others when
+they are speaking (or listening!). This skill is needed when a parent
+is having a conversation with someone else on the phone. Explain to
+your child(ren) the need for them to be quiet, and wait patiently to
+talk to or get answers from the parent. Explain that they are only
+hearing half the conversation and so even when a parent is quiet, they
+still need to wait as their parent is listening to the other person on
+the line. Simulate this for them by asking them to talk to one parent
+while the other parent keeps asking the child questions.
 
-For video calls and conferences, it can be even harder for children to wait for their turn to speak, especially when there are multiple children competing for attention. It may help to decide the order each child will speak ahead of time and set their expectations appropriately before the call starts. Explain how to ask politely about video or sound issues, not to make a lot of background noise when someone else is talking,  and to say excuse me and wait for lulls in the conversation to raise new topics.
+For video calls and conferences, it can be even harder for children to
+wait for their turn to speak, especially when there are multiple
+children competing for attention. It may help to decide the order each
+child will speak ahead of time and set their expectations
+appropriately before the call starts. Explain how to ask politely
+about video or sound issues, not to make a lot of background noise
+when someone else is talking, and to say excuse me and wait for lulls
+in the conversation to raise new topics.
 
-In general, discuss the polite back and forth of conversation - raising topics, asking and answering questions, waiting patiently for a turn to speak, listening quietly and attentively.
+In general, discuss the polite back and forth of conversation -
+raising topics, asking and answering questions, waiting patiently for
+a turn to speak, listening quietly and attentively.
 
-And then, practice these skills with your kids through role-playing phone and video calls to establish good habits. Once they are comfortable with the concepts of good conversational etiquette you can reinforce it during day-to-day conversations by praising them when done right or reminding them gently about proper etiquette.
+And then, practice these skills with your kids through role-playing
+phone and video calls to establish good habits. Once they are
+comfortable with the concepts of good conversational etiquette you can
+reinforce it during day-to-day conversations by praising them when
+done right or reminding them gently about proper etiquette.
 
 ---
 
@@ -389,11 +491,23 @@ freq: daily
 > will rest in the shadow of the Almighty.
 {.nowrap}
 
-Psalm 91 is known as the Soldier’s Psalm or the Soldier’s Prayer. Legend has it that in World War I the commanding officer of the 91st Brigade had the Psalm printed on cards and distributed to his troops. With its assurance of God’s protection in times of crisis for those who put their trust in Him, over time it has become a powerful source of inspiration and comfort to soldiers heading into battle. During the Iraq and Afghanistan wars, [Operation Bandana] distributed hundreds of thousands of bandanas to soldiers. The bandanas, in camouflage colors, had Psalm 91 written on them – a great example of Christian faith, generosity, and entrepreneurship in a single venture.
+Psalm 91 is known as the Soldier’s Psalm or the Soldier’s
+Prayer. Legend has it that in World War I the commanding officer of
+the 91st Brigade had the Psalm printed on cards and distributed to his
+troops. With its assurance of God’s protection in times of crisis for
+those who put their trust in Him, over time it has become a powerful
+source of inspiration and comfort to soldiers heading into
+battle. During the Iraq and Afghanistan wars, [Operation Bandana]
+distributed hundreds of thousands of bandanas to soldiers. The
+bandanas, in camouflage colors, had Psalm 91 written on them – a great
+example of Christian faith, generosity, and entrepreneurship in a
+single venture.
 
 [operation bandana]: https://www.fayobserver.com/story/news/military/2017/04/15/operation-bandanas-continues-decade-long-ministry-to-deployed-troops/21372153007/
 
-Below is Psalm 91 in full. Consider having your children memorize the first sentence or, for older children, the first two lines.
+Below is Psalm 91 in full. Consider having your children memorize the
+first sentence or, for older children, the first two lines.
+
 {{#with "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" as |strophe|}}
 
 > **He who dwells in the shelter of the Most High**
@@ -450,7 +564,11 @@ supplies: flour, butter, vinegar, milk, brown sugar, currants or raisins, cocoa,
 > When she was off duty Grace was the life of the party! 
 > There were villages to explore, dances to enjoy, dinners to share, and pranks to pull.
 
-Civilians would send things to their loved ones who were at war in the trenches.  Besides letters, some people sent trench cakes to soldiers in the trenches (this seems to be primarily something done by those in Europe).  Trench cakes are a dense cake, but tasty!  We have adapted a European recipe below.
+Civilians would send things to their loved ones who were at war in the
+trenches.  Besides letters, some people sent trench cakes to soldiers
+in the trenches (this seems to be primarily something done by those in
+Europe).  Trench cakes are a dense cake, but tasty!  We have adapted a
+European recipe below.
 
 ### Ingredients
 * 2 cups flour
@@ -485,12 +603,26 @@ time: 15-20 minutes
 freq: once
 ```
 
-> Soon, Moina was surrounded by men wanting poppies of their own – to honor their buddies 
-> “sleeping” now among the poppies of Flanders Fields.
+> Soon, Moina was surrounded by men wanting poppies of their own – to
+> honor their buddies “sleeping” now among the poppies of Flanders
+> Fields.
 
-Author Barbara Elizabeth Walsh tells the inspirational story of Moina Belle Michael and the volunteer work she did to support American soldiers leaving to fight in World War I. “She delivered books, magazines, and candy to their camps nearby. She and friends invited soldiers home for dinner… But Moina needed to do even more.” Each page chronicles Moina’s next step as she decides what “even more” means to her. Her lasting legacy is the red poppy, worn to honor not only the fallen but all veterans who served America. “During the weeks before Memorial Day and Veterans Day, veterans stand outside stores and distribute poppies, raising millions of dollars for other veterans and their families.” From America, wearing poppies in remembrance spread through all the Allied countries of World War I.
+Author Barbara Elizabeth Walsh tells the inspirational story of Moina
+Belle Michael and the volunteer work she did to support American
+soldiers leaving to fight in World War I. “She delivered books,
+magazines, and candy to their camps nearby. She and friends invited
+soldiers home for dinner… But Moina needed to do even more.” Each page
+chronicles Moina’s next step as she decides what “even more” means to
+her. Her lasting legacy is the red poppy, worn to honor not only the
+fallen but all veterans who served America. “During the weeks before
+Memorial Day and Veterans Day, veterans stand outside stores and
+distribute poppies, raising millions of dollars for other veterans and
+their families.” From America, wearing poppies in remembrance spread
+through all the Allied countries of World War I.
 
-And if you ask your child(ren) to flip to the “Afterword” pages of _Grace Banker and Her Hello Girls Answer the Call_ you can see red poppies strewn among Grace’s mementoes of World War I.
+And if you ask your child(ren) to flip to the “Afterword” pages of
+_Grace Banker and Her Hello Girls Answer the Call_ you can see red
+poppies strewn among Grace’s mementoes of World War I.
 
 ---
 {.pagebreak}
@@ -504,8 +636,8 @@ prep: 10-15 minutes
 supplies: egg carton, scissors, black tissue paper, red paint, paint brushes, glue, hole punch, ribbons or string
 ```
 
-> Still … Moina needed to do even more.
-> She would not stop until every American wore a poppy to remember the soldiers.  Always.
+> Still … Moina needed to do even more.  She would not stop until
+> every American wore a poppy to remember the soldiers.  Always.
 
 ### Supplies
 * Egg carton
@@ -520,11 +652,24 @@ supplies: egg carton, scissors, black tissue paper, red paint, paint brushes, gl
 
 ### Directions
 1. Cut out each egg container from the egg carton.
-1. Cut out four “petals” from each egg container leaving the base (flower).  In other words, cut a few small ovals to convert the egg container from a complete cup shape to one that has gaps.  See picture below.
+1. Cut out four “petals” from each egg container leaving the base
+   (flower).  In other words, cut a few small ovals to convert the egg
+   container from a complete cup shape to one that has gaps.  See
+   picture below.
 1. Paint the egg container “flowers” red and let them dry.
-1. Crumple small amounts of black tissue paper into balls and glue them into the center of each egg container flower.  Optionally, use black paint instead.
-1. Use a hole punch (or scissors) to make a hole in a petal and put string or ribbon through it to make a poppy necklace or two holes on opposite sides to make a poppy bracelet.
-1. Optionally, make a poppy remembrance wreath.  Cut out the center of a paper plate and green construction paper in the shape of a wreath/donut.  Glue the green paper over the paper plate.  Glue egg container poppies onto the green wreath form.  Use hole punches to put in ribbon/string to form a hanger.  A phrase or word can also be printed on the wreath (such as “Remember” or part of Psalm 91, etc.)
+1. Crumple small amounts of black tissue paper into balls and glue
+   them into the center of each egg container flower.  Optionally, use
+   black paint instead.
+1. Use a hole punch (or scissors) to make a hole in a petal and put
+   string or ribbon through it to make a poppy necklace or two holes
+   on opposite sides to make a poppy bracelet.
+1. Optionally, make a poppy remembrance wreath.  Cut out the center of
+   a paper plate and green construction paper in the shape of a
+   wreath/donut.  Glue the green paper over the paper plate.  Glue egg
+   container poppies onto the green wreath form.  Use hole punches to
+   put in ribbon/string to form a hanger.  A phrase or word can also
+   be printed on the wreath (such as “Remember” or part of Psalm 91,
+   etc.)
 
 ![Example of poppy crafts](poppy.jpg)
 {.center .small}
@@ -548,12 +693,25 @@ supplies: paper, crayons/markers
 > Liverpool when their ship, the perfect target for a German submarine
 > attack, was stuck on a sandbar.
 
-Camouflage is the use of artistic patterns to hide an object, person, or animal. World War I introduced many innovations to warfare (submarines, tanks, telephones). Among these innovations was “[dazzle camouflage]” to conceal ships. Every ship had a unique dazzle camouflage pattern so that enemies could not identify the type of a ship by its camouflage pattern. (Ask your child(ren) to compare the camouflage pattern of the ship Grace departs on and the one she returns on? Are they the same? Is it likely that she returned on the same ship she left on?)
+Camouflage is the use of artistic patterns to hide an object, person,
+or animal. World War I introduced many innovations to warfare
+(submarines, tanks, telephones). Among these innovations was “[dazzle
+camouflage]” to conceal ships. Every ship had a unique dazzle
+camouflage pattern so that enemies could not identify the type of a
+ship by its camouflage pattern. (Ask your child(ren) to compare the
+camouflage pattern of the ship Grace departs on and the one she
+returns on? Are they the same? Is it likely that she returned on the
+same ship she left on?)
 
 [dazzle camouflage]: https://en.wikipedia.org/wiki/Dazzle_camouflage
 
-There are also various [dazzle camouflage coloring sheets] available [online].
-In nature, some animals use dazzle camouflage. Among these are leopards, jaguars, giraffes, and zebras. For this activity, ask your child(ren) to draw either an object with a unique camouflage pattern or an animal. For fun, they could camouflage an animal that doesn’t normally use dazzle camouflage, like an elephant or rhinoceros.
+There are also various [dazzle camouflage coloring sheets] available
+[online].  In nature, some animals use dazzle camouflage. Among these
+are leopards, jaguars, giraffes, and zebras. For this activity, ask
+your child(ren) to draw either an object with a unique camouflage
+pattern or an animal. For fun, they could camouflage an animal that
+doesn’t normally use dazzle camouflage, like an elephant or
+rhinoceros.
 
 [dazzle camouflage coloring sheets]: https://rangmaher.com/wp-content/uploads/2020/07/ww1-dazzle-camo-activity-1.pdf
 [online]: https://www.theworldwar.org/sites/default/files/2022-03/dazzle-ship-coloring-sheet.pdf 
@@ -567,12 +725,21 @@ time: 10 minutes
 freq: once
 ```
 
-> At the eleventh hour, on the eleventh day, of the eleventh month, an armistice was signed to end the war.
+> At the eleventh hour, on the eleventh day, of the eleventh month, an
+> armistice was signed to end the war.
 
-This story has more unfamiliar vocabulary words than most of our AHEP recommended books. We’ve selected a subset that we think will help the young reader better understand the story. After reviewing the vocabulary with your listeners, ask them to ask questions about any words that are still unfamiliar or confusing to them. Read the sentences before and after the sentence containing the word they are asking about to see if they can guess part of the meaning from the context.
+This story has more unfamiliar vocabulary words than most of our AHEP
+recommended books. We’ve selected a subset that we think will help the
+young reader better understand the story. After reviewing the
+vocabulary with your listeners, ask them to ask questions about any
+words that are still unfamiliar or confusing to them. Read the
+sentences before and after the sentence containing the word they are
+asking about to see if they can guess part of the meaning from the
+context.
 
 Doughboys
-: nickname for American soldiers in World War I; origin of the nickname is unknown
+: nickname for American soldiers in World War I; origin of the
+  nickname is unknown
 
 Switchboard
 : a device for manually connecting telephone calls
@@ -593,6 +760,7 @@ Shrapnel
 : pieces of metal that fly through the air when a bomb explodes
 
 Armistice
-: formal agreement to temporarily stop fighting, typically so that peace can be negotiated
+: formal agreement to temporarily stop fighting, typically so that
+  peace can be negotiated
 
 
