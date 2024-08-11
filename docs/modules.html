@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Modules – AHEP</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,400i,500,600,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,400,500,600,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="assets/css/style.css">
+<script type="module" src="assets/js/index.js"></script>
+<body>
+
+<header>
+  <a href="."><img src="assets/images/ahep-logo.svg" class="logo"></a>
+  <div class="menu">
+    <a href="javascript:" class="hamburger button material-symbols-outlined"></a>
+  </div>
+  <div class="buttons">
+    <a class="button {% if path == "about.html" %}underline{% endif %}"
+       href="about">About</a>
+    <a class="button {% if path == "faq.html" %}underline{% endif %}"
+       href="faq">FAQ</a>
+    <a class="button primary" href="modules">Modules</a>
+  </div>
+</header>
+<div class="header-space">&nbsp;</div>
+
+<section class="leadin" markdown="1">
+<h1>How do we leverage AHEP modules?</h1>
+<p>We designed the modules to be flexible in order to meet the
+different needs of different families. We do not expect families to
+do every activity in every module. In practice, parents read the
+story to their children each day for five days and do 1–2
+activities/day. Parents can pick and choose which activities fit
+their time constraints, interests, and goals. There is a suggested
+order to the activities but it is just that — a suggestion. The menu
+of well-organized alternatives allows parents to customize the
+learning for their children.</p>
+<p>Some activities lend themselves to multi-generational or multi-family
+participation. In particular, the “historical re-enactment” is
+enhanced by getting grandparents, other homeschooling families, or
+family friends involved. Why not share the AHEP fun with family and
+friends?</p>
+</section>
+<p><section class="modules" markdown="1">
+<h1>Modules</h1>
+<div class="grid">
+  <a class="module" href="modules/the-4th-of-july-story/">
+    <div class="blur-cover">
+      <img alt="The 4th of July Story"
+           src="modules/the-4th-of-july-story/cover.jpg">
+    </div>
+    <div class="year">1776</div>
+  </a>
+  <a class="module" href="modules/when-washington-crossed-the-delaware/">
+    <div class="blur-cover">
+      <img alt="When Washington Crossed the Delaware"
+           src="modules/when-washington-crossed-the-delaware/cover.jpg">
+    </div>
+    <div class="year">1776</div>
+  </a>
+  <a class="module" href="modules/a-more-perfect-union/">
+    <div class="blur-cover">
+      <img alt="A More Perfect Union"
+           src="modules/a-more-perfect-union/cover.jpg">
+    </div>
+    <div class="year">1787</div>
+  </a>
+  <a class="module" href="modules/the-louisiana-purchase/">
+    <div class="blur-cover">
+      <img alt="Seaman’s Journal: On the Trail with Lewis and Clark"
+           src="modules/the-louisiana-purchase/cover.jpg">
+    </div>
+    <div class="year">1803</div>
+  </a>
+  <a class="module" href="modules/grace-banker/">
+    <div class="blur-cover">
+      <img alt="Grace Banker and Her Hello Girls Answer the Call"
+           src="modules/grace-banker/cover.jpg">
+    </div>
+    <div class="year">1917</div>
+  </a>
+  <a class="module" href="modules/the-gardener/">
+    <div class="blur-cover">
+      <img alt="The Gardener"
+           src="modules/the-gardener/cover.jpg">
+    </div>
+    <div class="year">1935</div>
+  </a>
+  <a class="module" href="modules/freedom-on-the-menu/">
+    <div class="blur-cover">
+      <img alt="Freedom on the Menu"
+           src="modules/freedom-on-the-menu/cover.jpg">
+    </div>
+    <div class="year">1960</div>
+  </a>
+</div>
+</section>
+</p>
+
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script></body>
+</html>

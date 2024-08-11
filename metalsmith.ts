@@ -1,4 +1,4 @@
-#!/usr/bin/env -S npx ts-node
+#!/usr/bin/env -S npx -i bun
 
 // TODO - node_modules/sucrease/bin/sucrase-node metalsmith.ts
 // TODO - node_modules/esbuild-runner/bin/esr.js metalsmith.ts

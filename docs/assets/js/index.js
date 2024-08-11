@@ -117,8 +117,8 @@ document.querySelector('.hamburger')?.addEventListener('click', () => {
     back.src = img.src;
     img.parentElement.insertBefore(back, img);
     const link = img.closest('a.module');
-    link.href =
-        img.src.replace(/\/covers\//, '/modules/').replace(/\.jpg/, '.pdf');
+    // link.href =
+    //     img.src.replace(/\/covers\//, '/modules/').replace(/\.jpg/, '.pdf');
     link.target = '_blank';
   }
 })();

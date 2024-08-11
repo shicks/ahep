@@ -1,7 +1,0 @@
-# domain: ahep1776.org
-# url: htts://ahep1776.org
-url: /Users/sdh/src/ahep/site/_site
-baseurl: ./
-collections:
-  activities:
-    output: false
