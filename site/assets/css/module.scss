@@ -165,7 +165,7 @@ hr {
 
   // For mobile, don't overlay the book on the right
   @media screen and ((max-device-width: $inline-book-threshold) or (max-width: $inline-book-threshold)) {
-    text-shadow: var(--shadow) 0 0 10px;
+    text-shadow: var(--shadow) 0 0 4px;
     background-size: 0;
     .mobile-book {
       display: block;
