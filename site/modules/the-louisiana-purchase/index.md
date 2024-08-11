@@ -139,7 +139,7 @@ way and sketched in their journals. For this activity, just ask your
 kids to paint their favorite animal from the story (including Seaman!)
 using watercolors.
 
-![Example watercolor grizzle bear](grizzly.jpg)<br>
+![Example watercolor grizzly bear](bear.jpg)<br>
 Grizzly Bear
 {.center .caption}
 
@@ -308,7 +308,7 @@ species. You can help them identify the plants or birds they encounter
 by using an app; we used Seek by iNaturalist for the plants because
 they were easier to record (works on both iOS and Android).
 
-![Young child hiking down a wooded path](hiking.jpg)<br>
+![Young child hiking down a wooded path](hike.jpg)<br>
 Hiking!
 {.center .caption}
 
