@@ -1,4 +1,5 @@
 #!/bin/sh
 
 cd $(dirname $0)
-npm run watch
+npx esr metalsmith.ts --watch
+#npm run watch

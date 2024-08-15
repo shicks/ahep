@@ -11,6 +11,7 @@
     "@types/markdown-it": "^13.0.1",
     "bun": "^1.1.22",
     "debug": "^4.3.4",
+    "esbuild-runner": "^2.2.2",
     "handlebars": "^4.7.8",
     "markdown-it": "^13.0.1",
     "markdown-it-attrs": "^4.1.6",
@@ -18,6 +19,7 @@
     "metalsmith": "^2.6.1",
     "metalsmith-livereload": "^0.1.0",
     "metalsmith-markdownit": "^0.5.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
   },
   "dependencies": {
