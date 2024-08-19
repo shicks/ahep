@@ -200,7 +200,7 @@ Fire cakes were cooked by the fire or in the ashes during the Revolutionary War.
 1. Let cool.  They will continue to harden over time.
 1. Eat plain or add honey or jam (recommended).
 
-![image of firecakes](FireCakes.jpeg)
+![image of firecakes](cooking.jpg)
 {.center}
 
 
@@ -259,7 +259,7 @@ There are several videos on the internet that show you how to build a miniature 
     liquid (water), gas (steam).
 *   What type of boat worked best (cardboard, foam, etc.)?
 
-![image of science experiment](DelawareSoap.jpeg)
+![image of science experiment](soap.jpg)
 {.center}
 
 Crossing the “Delaware”
@@ -327,7 +327,7 @@ time: 10 minutes
 > Henry Knox said he could do it.
 {.nowrap}
 
-![book cover america](HenryCannons.jpeg)
+![book cover america](supplemental.jpg)
 {.center}
 
 **Title:** _Henry and the Cannons_

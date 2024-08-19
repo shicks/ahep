@@ -379,7 +379,7 @@ time: 10 minutes
 > And mercy more than life!
 {.nowrap}
 
-![book cover america](AmericaBeautiful.jpeg)
+![book cover america](supplemental.jpg)
 {.center}
 
 **Title:** _America the Beautiful_

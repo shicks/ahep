@@ -1,5 +1,8 @@
 #!/bin/sh
 
 cd $(dirname $0)
+npm install
 npx esr metalsmith.ts --watch
 #npm run watch
+
+# TODO - use `open -n` to launch browser?
