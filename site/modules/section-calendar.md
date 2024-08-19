@@ -3,7 +3,7 @@ partial: true
 ---
 Below is one suggestion for your week with the book
 _{{module.title}}_. Please experiment with what works for
-your family! (Note: not all activities may be included in the
+your family! (Note: not all activities are included in the
 suggested sample week below).
 
 <div class="calendar">

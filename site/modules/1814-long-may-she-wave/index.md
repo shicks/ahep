@@ -16,14 +16,7 @@ history and how it inspired our national anthem, whose soaring lyrics
 serve to remind us and connect us to our heritage: “the land of the
 free and the home of the brave.”
 
-Underlying the patriotic story of our flag is the empowering story of
-Caroline and her mother, Mary. At a time when it was rare for women to
-operate a business, these entrepreneurs successfully launched their
-Flags and Ensigns enterprise, sewing and selling flags to military and
-civilian customers. Teaching other young women how to support
-themselves as seamstresses, these women exemplified our free
-enterprise traditions, our work ethic, our encouragement of one
-another, and the self-reliance at the foundation of our country.
+Underlying the patriotic story of our flag is the empowering story of Caroline and her mother, Mary. At a time when it was rare for women to operate a business, these entrepreneurs successfully launched their Flags and Ensigns enterprise, sewing and selling flags to military and civilian customers. Teaching other young women how to support themselves as seamstresses, these women exemplified our free enterprise traditions, our work ethic, our encouragement of one another, equal opportunity for all, and the self-reliance at the foundation of our country.
 
 The War of 1812 is also called the Second War for Independence. Once
 again, we are fighting the British, this time because British warships
@@ -73,6 +66,11 @@ Friday:
 time: 3 minutes
 freq: daily
 ```
+>O say can you see, by the dawn’s early light
+>What so proudly we hail’d at the twilight’s last gleaming,
+>Whose broad stripes and bright stars through the perilous fight,
+>O’er the ramparts we watch’d, were so gallantly streaming?
+{.nowrap}
 
 This is a great opportunity to teach your child(ren) our National
 Anthem, _The Star-Spangled Banner_.  You might want to find a YouTube
@@ -104,6 +102,10 @@ time: 30-60 minutes
 prep: 10-15 minutes
 supplies: Construction paper, magazines, glue, ruler, pen
 ```
+>Roll, push.
+>She worked alongside her mother and grandmother.
+>But this flag was so large that all of the seamstresses in the house were called to help.
+{.nowrap}
 
 Many women worked together as a team over an extended period of time
 to create the enormous flag that flew over Fort McHenry. In this
@@ -163,6 +165,10 @@ prep: 5-10 minutes
 supplies: Construction paper, scissors, string
 ```
 
+>Press, lift.
+>Caroline’s grandmother ironed fifteen stars, each more than two feet wide.
+{.nowrap}
+
 Make a five-pointed star two-feet wide to get an idea of the size of
 the flag (if you want to get the angles right, you can use a string to
 draw a circle with radius 12-5/8 inches, then use a slightly longer
@@ -189,6 +195,7 @@ better.
 time: 10 minutes
 supplies: U.S. Puzzle
 ```
+>After she stitched the last stitch, Caroline watched American soldiers raise her flag up the flagpole at Fort McHenry.
 
 By the time of the War of 1812 our country had grown and we had added
 a handful of new states. The original flag of the United States of
@@ -257,6 +264,48 @@ practice reciting the pledge after each reading of _Long May She Wave_.
 
 ---
 
+## Cooking: Graham Cracker Flag Dessert {#cooking}
+
+```metadata
+time: 20-30 minutes
+prep: 10-15 minutes
+```
+
+>But Caroline stayed. The flag that she sewed was more than red, white, and blue. 
+>It was a symbol of this new nation, the United States.
+
+
+### Ingredients
+* Graham crackers
+* cream cheese
+* blueberries
+* strawberries (or raspberries)
+
+### Directions
+1) Lay out graham crackers in the shape of a flag and apply cream cheese to the top.
+2) Put blueberries in the upper left corner.
+3) Make stripes using the strawberries leaving spaces of cream cheese only.
+4) Enjoy eating the berry flag!
+
+[Need a picture - see attached]
+
+Alternatively, one can spread plain yogurt on a plate or pan and then apply berries (but one must use a spoon to eat this version).
+
+---
+
+## Science: Make Your Own Catapult {#science}
+
+```metadata
+time: 20-30 minutes
+prep: 10-15 minutes
+```
+
+>Bombs bursting in air rained over the British fleet.
+
+insert catapult activity here
+
+---
+
 ## Historical Re-enactment: Build Your Own Fort {#reenactment}
 
 ```metadata
@@ -264,6 +313,8 @@ time: 30-45 minutes
 prep: 15-20 minutes
 supplies: Pillows, blankets, bean bags, Nerf guns, flashlights
 ```
+
+>Fort McHenry prepared for their perilous fight.
 
 This activity starts by building your own Fort McHenry. You and your
 kids can make the traditional indoor fort, using blankets, chairs,
@@ -282,6 +333,47 @@ balls and glow sticks for bombs). For additional fun, try this at
 night with the lights out, using flashlights as strobes to illuminate
 the action. For best results, include grandparents -- the more
 attackers/defenders, the more fun will be had by all!
+
+---
+
+## Supplemental Reading: _The Star-Spangled Banner_ {#supplemental}
+
+```metadata
+time: 10 minutes
+```
+
+>O say does that star-spangled banner yet wave
+>O’er the land of the free and the home of the brave?
+{.nowrap}
+
+![book cover star-spangled](SpierBanner.jpeg)
+{.center}
+
+**Title:** _The Star-Spangled Banner_
+
+**Author:** Francis Scott Key
+
+**Illustrator:** Peter Spier
+
+**Year Published:** 1973, new edition 2014
+
+**Length:** 56 pages
+
+This book is gorgeously illustrated by Caldecott Medal artist Peter Spier. Each line of all four verses of Francis Scott Key’s lyrics is intricately drawn on full and double-page spreads. Just over half the pages are devoted to the battle of Fort McHenry before Spier moves forward in time to more modern depictions of our flag and country. You and your children will lose yourselves in all of Spier’s splendid details. This book is not only an excellent supplement to _Long May She Wave_ but also to the American Heritage Songbook activity. Consider singing or humming along as you turn the pages.
+
+---
+
+## Scripture: 2 Chronicles 20:15 {#scripture}
+
+```metadata
+time: 10 minutes
+```
+>This is what the LORD says to you: 
+>"Do not be afraid or discouraged because of this vast army. 
+>For the battle is not yours, but God’s.”
+{.nowrap}
+
+The soldiers defending Fort McHenry faced an entire British fleet, “a battery of cannon pointing toward the fort.” This scripture exhorts us not to be afraid or discouraged because the battle is in God’s hands, not ours. This is an opportunity to remind our children that they will face situations where they are afraid or discouraged – and that the Lord will be with them when those times come. Ask your child(ren) if they have ever been in a situation that made them fearful, nervous, or apprehensive? Bravery is continuing to act despite those fears – and the Lord is with us when we do. America is the home of the brave.
 
 ---
 
@@ -327,6 +419,43 @@ Indivisible
 
 ---
 
+## History: Interactive Flag Exhibit {#history-exhibit}
+
+```metadata
+time: 10 minutes
+```
+
+The original Fort McHenry flag is on permanent exhibit at the
+Smithsonian’s National Museum of American History. But it wasn’t
+always there - in fact, the Smithsonian didn’t acquire it until 1912,
+almost 100 years after the Battle of Baltimore. The history behind the
+flag’s ownership and preservation is fascinating. You can explore it
+online with this [NMAH interactive flag exhibit][nmah1]. The full online
+_Star-Spangled Banner_ exhibit from the NMAH (including the story of the
+Pickersgill family) [can be found here][nmah2].
+
+[nmah1]: https://amhistory.si.edu/starspangledbanner/interactive-flag-html5/
+[nmah2]: https://amhistory.si.edu/starspangledbanner/default.aspx
+
+---
+
+## Family History: Free Enterprise {#family-history}
+
+```metadata
+time: 10 minutes
+```
+
+The Pickersgill family supported themselves by using their talents as
+seamstresses to create a variety of “flags and ensigns” that they
+could sell to both military and civilian customers. Tell your children
+stories about entrepreneurs in your family. Did you ever operate a
+lemonade stand when you were growing up?  Mow lawns for your
+neighbors? What was your very first job? Share these examples with
+your child(ren) to connect them to the story, your family history, and
+the free enterprise traditions woven into our national DNA.
+
+---
+
 ## Game: Find the American Flags {#find-the-flags}
 
 ```metadata
@@ -360,39 +489,4 @@ obvious. Kids enjoyed the hunt! A few samples:
    one tiny one flying in front of the Capitol. Total: 8.
 6. Just one flag - the background.
 
----
 
-## American History: Interactive Flag Exhibit {#history-exhibit}
-
-```metadata
-time: 10 minutes
-```
-
-The original Fort McHenry flag is on permanent exhibit at the
-Smithsonian’s National Museum of American History. But it wasn’t
-always there - in fact, the Smithsonian didn’t acquire it until 1912,
-almost 100 years after the Battle of Baltimore. The history behind the
-flag’s ownership and preservation is fascinating. You can explore it
-online with this [NMAH interactive flag exhibit][nmah1]. The full online
-_Star-Spangled Banner_ exhibit from the NMAH (including the story of the
-Pickersgill family) [can be found here][nmah2].
-
-[nmah1]: https://amhistory.si.edu/starspangledbanner/interactive-flag-html5/
-[nmah2]: https://amhistory.si.edu/starspangledbanner/default.aspx
-
----
-
-## Free Enterprise: Family History {#family-history}
-
-```metadata
-time: 10 minutes
-```
-
-The Pickersgill family supported themselves by using their talents as
-seamstresses to create a variety of “flags and ensigns” that they
-could sell to both military and civilian customers. Tell your children
-stories about entrepreneurs in your family. Did you ever operate a
-lemonade stand when you were growing up?  Mow lawns for your
-neighbors? What was your very first job? Share these examples with
-your child(ren) to connect them to the story, your family history, and
-the free enterprise traditions woven into our national DNA.
