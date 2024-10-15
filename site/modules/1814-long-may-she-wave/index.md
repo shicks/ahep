@@ -13,7 +13,7 @@ children see the flag it should remind them not only of how
 exceptional our country is but also of the men and women who fought
 for our freedoms. This story is about the most famous flag in our
 history and how it inspired our national anthem, whose soaring lyrics
-serve to remind us and connect us to our heritage: “the land of the
+serve to remind us of, and connect us to, our heritage: “the land of the
 free and the home of the brave.”
 
 Underlying the patriotic story of our flag is the empowering story of Caroline and her mother, Mary. At a time when it was rare for women to operate a business, these entrepreneurs successfully launched their Flags and Ensigns enterprise, sewing and selling flags to military and civilian customers. Teaching other young women how to support themselves as seamstresses, these women exemplified our free enterprise traditions, our work ethic, our encouragement of one another, equal opportunity for all, and the self-reliance at the foundation of our country.
@@ -48,14 +48,14 @@ Tuesday:
 
 Wednesday:
   - Vocabulary (before reading) [vocab]
-  - craft-star
+  - cooking
 
 Thursday:
   - reenactment
   - find
 
 Friday:
-  - exhibit
+  - science
   - family-history
 
 ---
@@ -63,7 +63,7 @@ Friday:
 ## American Heritage Songbook: The Star-Spangled Banner {#songbook}
 
 ```metadata
-time: 3 minutes
+time: 5-10 minutes
 freq: daily
 ```
 >O say can you see, by the dawn’s early light
@@ -127,8 +127,8 @@ days. This activity is adapted from the [meaningful mama website].
    large as you’d like your flag to be. Use the ruler (or have your
    child use the ruler) to make lines for the stripes and rectangle
    for the blue and stars. You can make this a “Fort McHenry” flag by
-   including 15 stripes and 15 stars or you can make the more standard
-   13 stripes.
+   including 15 stripes (8 red, 7 white) and 15 stars or you can make the more standard
+   13 stripes (7 red, 6 white) and 50 stars.
 2. Go through the magazines and rip out pieces that are red, white,
    and blue. Also rip out stars (or things that can serve as
    stars). Rip the pieces into suitable strips and shapes to fit in
@@ -148,9 +148,8 @@ complete it. We made it over the course of three days (taking breaks
 as the kids lost interest). My three-year-old daughter enjoys ripping
 paper and glue sticks so this seemed like her kind of activity. She
 also seemed to enjoy pretending to be Caroline and “designing” the
-flag by shaping the scraps of paper. We snuck in some practice
-counting as the kids counted the stripes and then counted the
-completed stripes to get a sense of our progress.
+flag by shaping the scraps of paper. We practiced
+counting and measured our progress by counting the stripes we completed. 
 
 ![Example flag collage](collage.jpg)
 {.center}
@@ -160,7 +159,7 @@ completed stripes to get a sense of our progress.
 ## Arts & Crafts: Make Your Own Star {#craft-star}
 
 ```metadata
-time: 20-30 minutes
+time: 20 minutes
 prep: 5-10 minutes
 supplies: Construction paper, scissors, string
 ```
@@ -178,7 +177,7 @@ five of them. Then, set them on the ground to give them some idea of
 the size of Fort McHenry’s flag and why the Pickersgill family needed
 so many people and so much room to make it.
 
-For even more fun, we measured out the flag in our backyard, and that
+For even more fun, we measured out the flag (30' x 42'!) in our backyard, and that
 is worth doing if you have the space! It is a good chance to practice
 using a measuring tape and rope. We put stakes in the corners and
 wrapped rope around them to see the full picture. We were all
@@ -198,19 +197,17 @@ supplies: U.S. Puzzle
 >After she stitched the last stitch, Caroline watched American soldiers raise her flag up the flagpole at Fort McHenry.
 
 By the time of the War of 1812 our country had grown and we had added
-a handful of new states. The original flag of the United States of
+a handful of new states: Vermont, Kentucky, Tennessee, Ohio, Louisiana. The original flag of the United States of
 America had 13 stars and 13 stripes representing the thirteen original
-states. How many stars are on the Flag during the War of 1812? (15)
-What new states were added after the War of Independence? **Vermont**,
-**Kentucky**, Tennessee, Ohio, Louisiana. Why were there only 15 stars
+states. How many stars are on the flag during the War of 1812? (15) Why were there only 15 stars
 if there were 18 states? (Congress authorizes new flags. They
 authorized the 15 star version of the flag in 1794, after Vermont and
-Kentucky were admitted to the Union). How many stripes did the flag
+Kentucky were admitted to the Union but before the other three were admitted). How many stripes did the flag
 have at that time? (15) How many do we have today? (13) What do they
 symbolize? (The original 13 colonies). The 1794 version of our flag
 was the only one where additional stripes were added to match the
 number of states. In 1818, Congress authorized a new version of the
-flag with 20 stars and 13 stripes.
+flag with 20 stars and 13 stripes (two more states had joined the union by then: Indiana and Mississippi).
 
 Show how our country grew from the founding in 1776 to the time of the
 story in 1814. Use a puzzle of the United States and start with having
@@ -264,10 +261,10 @@ practice reciting the pledge after each reading of _Long May She Wave_.
 
 ---
 
-## Cooking: Graham Cracker Flag Dessert {#cooking}
+## Cooking: Graham Cracker Flag Snack {#cooking}
 
 ```metadata
-time: 20-30 minutes
+time: 15 minutes
 prep: 10-15 minutes
 ```
 
@@ -287,9 +284,10 @@ prep: 10-15 minutes
 3) Make stripes using the strawberries leaving spaces of cream cheese only.
 4) Enjoy eating the berry flag!
 
-[Need a picture - see attached]
-
 Alternatively, one can spread plain yogurt on a plate or pan and then apply berries (but one must use a spoon to eat this version).
+
+![dessert](graham-flag.jpeg)
+{.center}
 
 ---
 
@@ -298,11 +296,53 @@ Alternatively, one can spread plain yogurt on a plate or pan and then apply berr
 ```metadata
 time: 20-30 minutes
 prep: 10-15 minutes
+supplies: Six craft sticks, three rubber bands, one plastic or wooden disposable spoon, foil
 ```
 
->Bombs bursting in air rained over the British fleet.
+>Bombs bursting in air rained over the British fleet...
+>After twenty-five hours the last cannon fired, and silence returned.
+{.nowrap}
 
-insert catapult activity here
+By the War of 1812, catapults were long obsolete. The cannons they used were much more advanced, but still operated under the same basic premise of hurling a heavy object at high speeds toward a distant target. Our activity uses catapults instead of cannon because they are much more accessible.
+
+The following catapult is based on a design from [stlMotherhood]. 
+
+[stlMotherhood]: https://stlmotherhood.com/popsicle-spoons-catapult-challenge/
+
+### Supplies
+* Six craft sticks (can use colored craft sticks or plain and decorate them with markers)
+* Three rubber bands
+* One plastic or wooden disposable spoon (wooden preferred)
+* Aluminum foil (small pieces, rolled into balls), pompoms or other small "cannon" balls
+
+### Directions
+1) Stack five craft sticks together and tightly wrap a rubber band around one end to secure them together.
+
+2) Take the sixth craft stick and slide it in between the last and second-to-last stacked craft sticks so it lies perpendicular to the other five sticks. Have portions of the stick come out either side of the stack.  
+
+3) Secure other end of stack of five sticks with a rubber band.
+
+4) Place the spoon on top of the stack and line the end of the spoon up with the end of the single craft stick.  Secure these ends together with a rubber band.
+
+5) Place an aluminum foil ball in the bowl of the spoon.  Hold the stack of craft sticks with one hand and pull the bowl of the spoon back toward the end of the perpendicular craft stick.  Release and watch your foil ball fly!
+
+6) This is the basic craft stick catapult, but there are several other designs.  For example, see [this version]. 
+
+[this version]: https://stlmotherhood.com/spoon-a-pult-2-0-build-a-better-popsicle-stick-catapult/
+
+Optional: Make a mini-Fort McHenry and bomb it with your catapult! Remove the top half of a paper grocery bag. Spread out the bag and stand the bottom half up. The top can be further cut to make additional portions of the Fort (see photo below). Label the bag Fort McHenry. Don't forget to draw a flag for your Fort! Catapult some aluminum foil balls and see if you can get them to land in the bag (Fort). It is more fun to have a target(s) for your catapults!
+
+Discuss with your child(ren):
+* An important aspect of any weapon is its range: how far away can you be and still hit your target? If one side has longer range, they have an advantage because they can shoot from a position of safety, without being hit themselves (the British anchored their warships out of range of Fort McHenry because their cannon had longer range). Try shooting your catapults in different directions and from different positions. What configuration gives the longest range? You may notice that it helps to start from higher up: this is one reason that the "high ground" is a favored position.
+* Look at what shape the projectiles make as they curve through the air. This shape is called the "trajectory". Try shooting a dense object (like a coin) and a light object (like a cotton ball) in the same direction and with the same strength. Do they fly along the same path? The heavy object is dominated by gravity, forming a curve called a parabola, whereas the lighter object is more affected by air resistance and will slow down prematurely. While cannon balls are much heavier, air resistance can still matter when doing extremely precise aiming.
+* Think about the flow of energy throughout the process of firing a catapult. Human energy is spent bending back the spoon, transferring the energy into "potential energy" in the stretched rubber bands. Upon release, the potential energy is transferred to "kinetic energy" - the speed of the flying projectile. Finally, the kinetic energy is delivered destructively to its target, breaking holes in things or knocking things over. Cannons use combustion, instead of elasticity, to convert their fuel's potential energy into kinetic energy.
+* If you made more than one style catapult, which one worked best? Did they have different strengths and weaknesses?
+
+My children (especially my son) really enjoyed using their catapults on the Fort.  They set the catapults on "British Boats" (cardboard boxes, plastic lids, etc.) and sailed them toward the Fort.  They then tried to land their "cannon balls" inside the Fort or behind the Fort walls.  They then decided the Fort needed defending. They all went behind the Fort and started trying to land their aluminum foil cannonballs in the British boats. Eventually, the British boats sailed away. It was great fun!
+
+![catapult](catapult.jpeg)
+![attack](fort-mchenry-attack.jpeg)
+{.center}
 
 ---
 
@@ -331,7 +371,7 @@ and begin the assault (we used bean bags for bombs bursting in air and
 popped bubble wrap to simulate explosions; other families used dryer
 balls and glow sticks for bombs). For additional fun, try this at
 night with the lights out, using flashlights as strobes to illuminate
-the action. For best results, include grandparents -- the more
+the action. For best results, include grandparents or another family -- the more
 attackers/defenders, the more fun will be had by all!
 
 ---
@@ -485,7 +525,7 @@ obvious. Kids enjoyed the hunt! A few samples:
 3. This one’s tricky. One big flag to the left, four big ones to the
    right, and a little one above the last flag on the right. Total: 6.
 4. Just one, the arm patch on Jack Swigert’s left shoulder.
-5. Another tricky one. There are at least seven big flags and there is
+5. Another tricky one. There are seven big flags and there is
    one tiny one flying in front of the Capitol. Total: 8.
 6. Just one flag - the background.
 
