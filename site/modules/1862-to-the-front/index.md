@@ -27,7 +27,7 @@ years after the war by writing tens of thousands of letters to their
 families. And when it came time for her to found the American Red
 Cross, it took her ten years of work to do so. At the age of 76 this
 remarkable woman served as a volunteer in Cuba during the Spanish
-American War. She didn’t retire as president of the Red Cross unil
+American War. She didn’t retire as president of the Red Cross until
 1904, at the age of 82.
 
 Our story finds Clara Barton at the Battle of Antietam – not only the
@@ -44,7 +44,7 @@ slavery and living up to our ideal that “all men are created equal.”
 
 Title: "To the Front! Clara Barton Braves the Battle of Antietam"
 Author: Claudia Friddell
-Illustrator: Chrustopher Cyr
+Illustrator: Christopher Cyr
 Year published: 2022
 Length: 40 pages
 
@@ -54,7 +54,7 @@ Length: 40 pages
 
 Monday:
  - songbook
- - text
+ - text2
 
 Tuesday:
  - geography
@@ -77,8 +77,8 @@ Friday:
 ## American Heritage Songbook: Battle Hymn of the Republic {#songbook}
 
 ```metadata
-toc: "Songbook: _Battle Hymn of the Republic_"
-time: 3 minutes
+toc: "American Heritage Songbook: _Battle Hymn of the Republic_"
+time: 5 minutes
 freq: daily
 ```
 
@@ -235,7 +235,7 @@ States?
 
 ---
 
-## Famous American Texts: _Emancipation Proclamation_ {#text}
+## Famous American Texts: _Emancipation Proclamation_ {#text1}
 
 ```metadata
 time: 5 minutes
@@ -267,6 +267,27 @@ institution of slavery.
 
 Practice reciting the first sentence, marked in bold above, with your
 kid(s) until they have it memorized.
+
+---
+
+## Famous American Texts: _The Gettysburg Address_{#text2}
+
+```metadata
+time: 5 minutes
+freq: daily
+```
+
+>...that this nation, under God, 
+>shall have a new birth of freedom --
+>and that government of the people, by the people, for the people, 
+>shall not perish from this earth.
+{.nowrap}
+
+While the Battle of Antietam marked the moral turning point in the Civil War, the Battle of Gettysburg, less than a year later, was decisively won by Union forces and was the beginning of the end for Confederate forces. The battle lasted three days, July 1-3, with enormous casualties on both sides. But it halted the Confederate invasion of the North and forced them to retreat back to the South.
+
+Four and a half months later, on November 19, 1863, at the dedication of the Soldiers' National Cemetery at Gettysburg, President Lincoln delivered the most famous speech in American history. In just ten powerfully eloquent sentences he reminded us of the sacrifice of the men willing to die so that their country might live and that a country "conceived in Liberty, and dedicated to the proposition that all men are created equal" was worth dying for.
+
+Consider having your children memorize the last part of the last sentence excerpted above or the very first sentence included in the Supplement Reading activity below.
 
 ---
 
@@ -333,6 +354,18 @@ Other recipes that I came across:
 [recipe2]: https://chestofbooks.com/food/recipes/Invalid-Cooking/Indian-Meal-Gruel-Granula.html
 [recipe3]: http://eating-history.co.uk/recipes/indian-meal-porridge
 [recipe4]: https://sandramervillehart.wordpress.com/2017/09/18/cornmeal-gruel-recipe/
+
+---
+
+## Science: Band-aid Adhesion {#science}
+
+```metadata
+time: 10 minutes
+```
+
+> Need quote
+
+insert band-aid here
 
 ---
 
@@ -457,6 +490,35 @@ Bandaging a wounded soldier
 
 ---
 
+## Supplemental Reading: The Gettysburg Address {#supplemental}
+
+```metadata
+time: 10 minutes
+```
+
+>Four score and seven years ago our fathers 
+>brought forth on this continent, a new nation,
+>conceived in Liberty, and dedicated to the 
+>proposition that all men are created equal.
+{.nowrap}
+
+![book cover gettysburgaddress](gettysburg.jpeg)
+{.center}
+
+**Title:** _The Gettysburg Address_
+
+**Author:** Abraham Lincoln
+
+**Illustrator:** Michael McCurdy
+
+**Year Published:** 1995
+
+**Length:** 32 pages
+
+There are multiple illustrated versions of Lincoln's Gettysburg Address but all share one thing in common (other than the text): they are not as readily available at libraries or bookstores as the books we normally recommend. Michael McCurdy illustrates this version in stark black and white, each drawing (other than the first) a double-page spread; twelve drawings for ten sentences.
+
+---
+
 ## Scripture: Psalm 43:3a {#scripture}
 
 ```metadata
@@ -517,24 +579,7 @@ Emancipation
 
 ---
 
-## History: Family Connections {#history}
-
-```metadata
-time: 5 minutes
-```
-
-> In my feeble estimation, General McClellan, with all his laurels,
-> sinks into insignificance beside the true heroine of the age – the
-> angel of the battlefield.
-
-This [short, three-minute YouTube video][clara-barton-biography]
-provides a biographical sketch of the life of Clara Barton.
-
-[clara-barton-biography]: https://www.youtube.com/watch?v=SLwvH-k9JeU
-
----
-
-## Language Arts: First Person Accounts and Poems {#language-arts}
+## Writing: First Person Accounts and Poems {#language-arts}
 
 ```metadata
 time: 10 minutes
@@ -557,3 +602,22 @@ or line was repeated in the other sections of text. I was surprised
 when my daughter noticed that the first three mini poems all started
 with “Clara” (I hadn’t noticed that). It was fun to talk about how the
 author structured each poem.
+
+---
+
+## History: Family Connections {#history}
+
+```metadata
+time: 5 minutes
+```
+
+> In my feeble estimation, General McClellan, with all his laurels,
+> sinks into insignificance beside the true heroine of the age – the
+> angel of the battlefield.
+
+This [short, three-minute YouTube video][clara-barton-biography]
+provides a biographical sketch of the life of Clara Barton.
+
+[clara-barton-biography]: https://www.youtube.com/watch?v=SLwvH-k9JeU
+
+
