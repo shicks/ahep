@@ -184,6 +184,7 @@ See some variations here:
 [lantern2]: https://picklebums.com/easy-art-for-kids-make-a-lantern/
 
 ![Picture of our childrens' lanterns](lantern.jpg)
+{.center}
 
 ---
 
