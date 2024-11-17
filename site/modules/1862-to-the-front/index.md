@@ -185,6 +185,7 @@ See some variations here:
 ![Picture of our childrens' lanterns](lantern.jpg)<br>
 Three lanterns
 {.center .caption}
+
 ---
 
 ## Geography: Border States {#geography}
