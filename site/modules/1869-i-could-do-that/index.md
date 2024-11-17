@@ -61,7 +61,7 @@ Wednesday:
  - motif
 
 Thursday:
- - tea
+ - tea party
  - scripture
  
 Friday:
@@ -245,7 +245,7 @@ out](awakening.jpg)
 
 ---
 
-## Cooking: TBD {#cookbook}
+## Cooking: Scones & Tea {#cookbook}
 
 ```metadata
 time: 20 minutes
@@ -379,49 +379,47 @@ Enjoy tea and snacks in your stylish hats. Have the kids re-pour tea as needed.
 
 ---
 
-## Supplemental Reading: TBD {#supplemental}
+## Supplemental Reading: Marching With Aunt Susan {#supplemental}
 
 ```metadata
 time: 10 minutes
 ```
 
->Four score and seven years ago our fathers 
->brought forth on this continent, a new nation,
->conceived in Liberty, and dedicated to the 
->proposition that all men are created equal.
+>"You can help me get ready for the suffrage tea,” Mama said. “Aunt Mary will be arriving soon with our guest of honor, Miss Susan B. Anthony.”
+At the tea, everybody swarmed around Miss Anthony. They called her Aunt Susan, even though they weren’t related to her.
 {.nowrap}
 
 ![book cover gettysburgaddress](cover.jpg)
 {.center}
 
-**Title:** _The Gettysburg Address_
+**Title:** _Marching With Aunt Susan_
 
-**Author:** Abraham Lincoln
+**Author:** Claire Rudolph Murphy
 
-**Illustrator:** Michael McCurdy
+**Illustrator:** Stacey Schuett
 
-**Year Published:** 1995
+**Year Published:** 2011
 
-**Length:** 32 pages
+**Length:** 36 pages
 
-There are multiple illustrated versions of Lincoln's Gettysburg Address but all share one thing in common (other than the text): they are not as readily available at libraries or bookstores as the books we normally recommend. Michael McCurdy illustrates this version in stark black and white, each drawing (other than the first) a double-page spread; twelve drawings for ten sentences.
+This true story takes place in 1896, more than a quarter century after women got voting rights in Wyoming Territory. Ten-year-old Bessie Pond and her mother meet Susan B. Anthony (“Aunt Susan”), a leader in the Women’s Suffrage movement for over 40 years at the time of the story. Aunt Susan has come to Berkeley, California to advocate, organize, and march in favor of a California referendum that will grant full voting rights to women. Young Bessie and her mother join the movement, marching with Aunt Susan. By now several western states have granted full voting rights to women: Wyoming, Utah, Colorado, Idaho, and Washington. Sadly, the 1896 referendum in California is defeated (it takes until a 1912 referendum passes for California women to gain their right to vote). But the story ends on a positive note as the campaign changes the dynamics in the Pond family.
+
+Trace back your family history and share with your children which of your great-grandmothers was the first to vote. What state did they live in and when did it grant women the right to vote? Were they involved in the Women’s Suffrage movement?
 
 ---
 
-## Scripture: TBD {#scripture}
+## Scripture: Proverbs 31:25-26 {#scripture}
 
 ```metadata
 time: 10 minutes
 ```
 
-> Send forth your **light** and your truth, let them guide me.
+> She is clothed with strength and dignity; she can laugh at the days to come. 
+> She speaks with wisdom, and faithful instruction is on her tongue.
 
-The surgeon in the story needed both the physical light from Clara
-Barton’s lanterns but also the light of the Lord to guide him and give
-him hope in a hopeless situation. The scripture above can be a
-reminder to your children to look to the Lord for light, wisdom, and
-guidance when things turn dark. Use this as an additional memorization
-exercise or instead of the Emancipation Proclamation excerpt above.
+The final section of Proverbs describes the "wife of noble character." Much of the description could apply to both men and women. Certainly everyone should aspire to speak (and vote) with wisdom. As homeschooling parents, as mothers and fathers, this scripture is particularly apt as we strive to provide "faithful instruction" to our children.
+
+Ask your children to memorize and recite this scripture. With your older children, ask them what it means to be "clothed with strength and dignity."
 
 ---
 
