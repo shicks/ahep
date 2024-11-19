@@ -38,7 +38,7 @@ Tuesday:
 
 Wednesday:
  - vocab
- - surviving the depression
+ - family
 
 Thursday:
  - re-enactment
@@ -72,65 +72,6 @@ Ironically, this song was written before the stock market crash of 1929 that mar
 [Here is one of the earliest versions]: https://www.youtube.com/watch?v=oI5VfVAMyEI
 [try this version]: https://www.youtube.com/watch?v=tsgw0W1RE5A
 
----
-
-## Famous American Texts: _FDR's Inaugural Speech_ {#text-fdr-speech}
-
-```metadata
-time: 5 minutes
-freq: daily
-```
-
-> The only thing we have to fear is fear itself.
-
-Historians and economists mark October 29, 1929, the day the stock market crashed, as the beginning of the Great Depression. Herbert Hoover had been sworn in as president in March of that year and thus spent most of his presidency trying to turn the economy around. He failed. The presidential election of 1932 was a landslide win for his opponent, Franklin Delano Roosevelt (a.k.a. FDR), who carried 42 of the then 48 states. 
-
-FDR faced the same problem as Hoover: how to turn around the economy of the United States of America. A key aspect of the Great Depression was the number of banks that failed. What sparked many bank failures was a “run” on the bank, which occurred when people lost confidence that a bank would be able to return their money and they all tried to withdraw it at the same time. Banks do not keep all the money people deposit with them in a vault; they loan most of it to other people. So if everyone wants their money back at the same time, the banks don't have it.
-
-In his inauguration speech, FDR tried to restore the confidence of U.S. citizens in our economy. His speech focused on attacking the psychology that had gripped our nation. The most famous line from that speech summarizes that psychology: “the only thing we have to fear is fear itself.” 
-
-It’s also worth noting that FDR declared “war” on the Great Depression, and asked Congress for extraordinary powers to wage that war: “I shall ask the Congress for the one remaining instrument to meet the crisis -- broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe.” 
-
-For this activity, ask your kids to memorize the famous line from FDR’s inauguration speech. Also, the next time you read _The Gardener_, see if they can find FDR’s photo.
-
-{.pagebreak}
----
-
-## Geography: The Great Plains and the Dust Bowl {#whose-side}
-
-```metadata
-time: 15 minutes
-freq: once
-supplies: jigsaw puzzle of U.S.
-```
-
-> Grandma told us after supper that you want me to come to the city and live with you until things get better.
-
-The Great Depression impacted the entire United States and then spread to many other parts of the world. However, within the United States, some areas were impacted more severely than others. In particular, farmers living in parts of the Great Plains were hit by severe, even deadly, weather conditions that compounded the economic hardships of the Great Depression. Drought gave birth to erosion and enormous dust storms that blackened the skies, covering everything, and making breathing difficult. The part of the Great Plains most severely impacted by these conditions became known as the Dust Bowl. Watch [this two-minute video] to get some idea of one of the worst environmental disasters in American history.
-
-The Great Plains stretch from the Mexican border all the way up into some Canadian provinces (see map below). Parts of several states comprise the Great Plains: most or all of Kansas, Nebraska, North Dakota and South Dakota; eastern parts of Colorado, Montana, and Wyoming; and parts of New Mexico, Oklahoma and Texas. What characterizes the Great Plains is broad, flat prairie grasslands which are situated east of the Rocky Mountains.
-
-[this two-minute video]: https://www.pbs.org/video/dust-bowl-woody-guthrie-great-dust-storm/
-
-![Great Plains Map](great-plains.jpg)
-{.center}
-
-The Dust Bowl is part of the southern Great Plains. It consists of parts of the states of Kansas, Oklahoma, Texas, Colorado, and New Mexico (see map).
-
-![Dust Bowl States 1](dust-bowl-states1.png)
-![Dust Bowl States 2](dust-bowl-states2.jpg)
-{.center}
-
-For this activity, ask your kids to use your jigsaw puzzle map of the United States to assemble the states comprising the Great Plains. Ask them how large is the Great Plains compared to the (continental) United States as a whole. (Overall, the Great Plains are approximately 2,000 miles in length and 500 miles wide; over a million square miles).
-
-Next, ask them to assemble just the states that were part of the Dust Bowl. Looking at the map above, ask them to draw a dust storm to represent the Dust Bowl. Draw it to the scale of the jigsaw puzzle map, cut it out, and place it on the map to cover the parts of the states impacted.
-
-![Tornado Kids](tornado-kids.jpg)
-{.center}
-
-Note: My children also enjoyed being a dust bowl/tornado.  Each child grabbed a Dust Bowl state and danced/spun/twirled around the room with it.
-
-{.pagebreak}
 ---
 
 ## Arts & Crafts: Make Your Own Paper Flower Bouquet {#bouquet}
@@ -202,21 +143,96 @@ Both _The Gardener_ and _Leah's Pony_ include references to making clothing from
 ![Example of doll and dress](barbie-in-burlap.jpg)
 {.center}
 
-{.pagebreak}
 ---
+{.pagebreak}
 
-## Math: Months and Days {#months-days}
+## Geography: The Great Plains and the Dust Bowl {#whose-side}
 
 ```metadata
 time: 15 minutes
 freq: once
+supplies: jigsaw puzzle of U.S.
 ```
 
-> September 5, 1935  …  December 25, 1935
+> Grandma told us after supper that you want me to come to the city and live with you until things get better.
 
-All of Lydia Grace’s letters include a date at the top. For older children, you can ask them how many days (or months) are in between each letter.  You can ask what is the longest/shortest time between letters in the book.  For younger children, you can talk about how many days are in a month and count days between letters (on your hands in some cases).  You can use the "[knuckle mnemonic]" to help your child(ren) remember which months have 31 days and which have less than 31 days.
+The Great Depression impacted the entire United States and then spread to many other parts of the world. However, within the United States, some areas were impacted more severely than others. In particular, farmers living in parts of the Great Plains were hit by severe, even deadly, weather conditions that compounded the economic hardships of the Great Depression. Drought gave birth to erosion and enormous dust storms that blackened the skies, covering everything, and making breathing difficult. The part of the Great Plains most severely impacted by these conditions became known as the Dust Bowl. Watch [this two-minute video] to get some idea of one of the worst environmental disasters in American history.
 
-[knuckle mnemonic]: https://en.wikipedia.org/wiki/Knuckle_mnemonic
+The Great Plains stretch from the Mexican border all the way up into some Canadian provinces (see map below). Parts of several states comprise the Great Plains: most or all of Kansas, Nebraska, North Dakota and South Dakota; eastern parts of Colorado, Montana, and Wyoming; and parts of New Mexico, Oklahoma and Texas. What characterizes the Great Plains is broad, flat prairie grasslands which are situated east of the Rocky Mountains.
+
+[this two-minute video]: https://www.pbs.org/video/dust-bowl-woody-guthrie-great-dust-storm/
+
+![Great Plains Map](great-plains.jpg)
+{.center}
+
+The Dust Bowl is part of the southern Great Plains. It consists of parts of the states of Kansas, Oklahoma, Texas, Colorado, and New Mexico (see map).
+
+![Dust Bowl States 1](dust-bowl-states1.png)
+![Dust Bowl States 2](dust-bowl-states2.jpg)
+{.center}
+
+For this activity, ask your kids to use your jigsaw puzzle map of the United States to assemble the states comprising the Great Plains. Ask them how large is the Great Plains compared to the (continental) United States as a whole. (Overall, the Great Plains are approximately 2,000 miles in length and 500 miles wide; over a million square miles).
+
+Next, ask them to assemble just the states that were part of the Dust Bowl. Looking at the map above, ask them to draw a dust storm to represent the Dust Bowl. Draw it to the scale of the jigsaw puzzle map, cut it out, and place it on the map to cover the parts of the states impacted.
+
+![Tornado Kids](tornado-kids.jpg)
+{.center}
+
+Note: My children also enjoyed being a dust bowl/tornado.  Each child grabbed a Dust Bowl state and danced/spun/twirled around the room with it.
+
+{.pagebreak}
+---
+
+## Famous American Texts: _FDR's Inaugural Speech_ {#text-fdr-speech}
+
+```metadata
+time: 5 minutes
+freq: daily
+```
+
+> The only thing we have to fear is fear itself.
+
+Historians and economists mark October 29, 1929, the day the stock market crashed, as the beginning of the Great Depression. Herbert Hoover had been sworn in as president in March of that year and thus spent most of his presidency trying to turn the economy around. He failed. The presidential election of 1932 was a landslide win for his opponent, Franklin Delano Roosevelt (a.k.a. FDR), who carried 42 of the then 48 states. 
+
+FDR faced the same problem as Hoover: how to turn around the economy of the United States of America. A key aspect of the Great Depression was the number of banks that failed. What sparked many bank failures was a “run” on the bank, which occurred when people lost confidence that a bank would be able to return their money and they all tried to withdraw it at the same time. Banks do not keep all the money people deposit with them in a vault; they loan most of it to other people. So if everyone wants their money back at the same time, the banks don't have it.
+
+In his inauguration speech, FDR tried to restore the confidence of U.S. citizens in our economy. His speech focused on attacking the psychology that had gripped our nation. The most famous line from that speech summarizes that psychology: “the only thing we have to fear is fear itself.” 
+
+It’s also worth noting that FDR declared “war” on the Great Depression, and asked Congress for extraordinary powers to wage that war: “I shall ask the Congress for the one remaining instrument to meet the crisis -- broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe.” 
+
+For this activity, ask your kids to memorize the famous line from FDR’s inauguration speech. Also, the next time you read _The Gardener_, see if they can find FDR’s photo.
+
+{.pagebreak}
+---
+
+## Cooking: Frosting Flowers {#cooking}
+
+```metadata
+time: 30-45 minutes
+freq: once
+prep: 30-45 minutes
+supplies: cupcakes or cake, frosting, frosting tips, plastic knives, sprinkles
+```
+
+> He appeared with the most amazing cake I’ve ever seen – covered in flowers! 
+
+### Supplies
+* Cake or cupcakes
+* Frosting (homemade or store bought) - can be from a can if piping or from tubes for simplicity
+* Various frosting tips (if using them) and bags
+* Plastic knives
+* Optional: sprinkles
+
+### Directions
+Take any cake or cupcakes and frost them in flowers.  Frosting can be homemade or purchased pre-made at the store.  For young children, you can either have them use some frosting that comes in a tube (store bought) to squeeze onto the cake or have them use plastic knives to spread the frosting.  They can then add sprinkles or other decorations.  For older children, you can introduce them to different frosting tips ([leaf], [rose], [carnation]) and let them try to make some frosting flowers of their own.  Whatever the end result, it should be delicious and worth a thousand smiles!
+
+[rose]: https://www.youtube.com/watch?v=92OwOcq4Qr0
+[carnation]: https://www.youtube.com/watch?v=nK5vKLBoQew
+[leaf]: https://www.youtube.com/watch?v=j4loq1jRQdg
+
+Also, you might want to try one of these [10 Great Depression recipes]. We made Water Pie and it was surprisingly tasty!
+
+[10 Great Depression recipes]: https://www.therecipe.com/10-meals-from-the-great-depression-that-are-still-budget-friendly-today/
 
 ---
 
@@ -289,71 +305,6 @@ You can also simplify this activity by taking your kids shopping for the needed 
 
 ---
 
-## Cooking: Frosting Flowers {#cooking}
-
-```metadata
-time: 30-45 minutes
-freq: once
-prep: 30-45 minutes
-supplies: cupcakes or cake, frosting, frosting tips, plastic knives, sprinkles
-```
-
-> He appeared with the most amazing cake I’ve ever seen – covered in flowers! 
-
-### Supplies
-* Cake or cupcakes
-* Frosting (homemade or store bought) - can be from a can if piping or from tubes for simplicity
-* Various frosting tips (if using them) and bags
-* Plastic knives
-* Optional: sprinkles
-
-### Directions
-Take any cake or cupcakes and frost them in flowers.  Frosting can be homemade or purchased pre-made at the store.  For young children, you can either have them use some frosting that comes in a tube (store bought) to squeeze onto the cake or have them use plastic knives to spread the frosting.  They can then add sprinkles or other decorations.  For older children, you can introduce them to different frosting tips ([leaf], [rose], [carnation]) and let them try to make some frosting flowers of their own.  Whatever the end result, it should be delicious and worth a thousand smiles!
-
-[rose]: https://www.youtube.com/watch?v=92OwOcq4Qr0
-[carnation]: https://www.youtube.com/watch?v=nK5vKLBoQew
-[leaf]: https://www.youtube.com/watch?v=j4loq1jRQdg
-
-Also, you might want to try one of these [10 Great Depression recipes]. We made Water Pie and it was surprisingly tasty!
-
-[10 Great Depression recipes]: https://www.therecipe.com/10-meals-from-the-great-depression-that-are-still-budget-friendly-today/
-
----
-
-## Scripture: Matthew 25: 35-36, 40 {#scripture}
-
-```metadata
-time: 10 minutes
-freq: daily
-```
-
-> For I was hungry and you gave me something to eat, 
-> I was thirsty and you gave me something to drink, 
-> I was a stranger and you invited me in, 
-> I needed clothes and you clothed me, 
-> I was sick and you looked after me, 
-> I was in prison and you came to visit me… 
-> **I tell you the truth, whatever you did for one of the least of these brothers of mine, you did for me.**
-
-This scripture embodies the Christian ideal of caring for one another. The Bible has many verses on this subject (e.g., Hebrews 13:16, James 2:14-17) but none say it better than Jesus’ words as reported by Matthew. Our Judeo-Christian heritage is woven into our culture, making the American people the most generous nation on earth in terms of donating our time, talents, and financial resources.
-
-Read the scripture to your children and discuss its meaning with them. Then, ask them to memorize the last sentence.
-
----
-
-## Family History: Surviving the Depression {#surviving-the-depression}
-
-```metadata
-time: 10 minutes
-freq: once
-```
-
-> I saw Uncle Jim almost smile today. The store was full (well, almost full) of customers.
-
-Tell your children about relatives who lived through the Great Depression.  How did their families make it through the tough times?  How did the Great Depression impact their future lives?
-
----
-
 ## Supplemental Book: _Leah's Pony_ {#supplemental}
 
 ```metadata
@@ -385,60 +336,24 @@ _Leah’s Pony_ tells the story of a young girl’s sacrifice for her family and
 
 ---
 
-## Economics: Deflation, Bank Failures, Unemployment {#economics}
-
-```metadata
-time: 20-30 minutes
-freq: once
-prep: 10-15 minutes
-supplies: egg carton, scissors, black tissue paper, red paint, paint brushes, glue, hole punch, ribbons or string
-```
-
-> “I borrowed money from the bank. I bought seeds, but the seeds dried up and blew away. Nothing grew. I don’t have any corn to sell. Now, I can’t pay back the bank,” Papa paused. “They’re going to have an auction, Leah. They’re going to sell the cattle and the chickens and the pickup truck.”
-
-Hundreds of banks failed during the Great Depression. People who had deposited money in those banks, lost it. In economics, this is called deflation – a reduction in the amount of money in circulation. Prices, and economic activity in general, are also reduced because fewer dollars are available and people and businesses are afraid to spend them. Businesses don’t hire workers; people lose their jobs when businesses fail or when they reduce staffing levels to survive.
-
-To illustrate these economic concepts you can do a couple of simple activities with your kids:
-
-1. Bank Failure: to simulate a bank failure, confiscate (temporarily) their piggy bank. Tell them to pretend that it got lost and all the money they’ve saved is now gone. Ask them how they would feel if their piggy bank was gone forever. This is what happened to some families during the Great Depression – banks failed and families lost their life savings.
-
-1. Unemployment: to simulate losing a job, tell your kids that you can no longer pay them an allowance. Ask them what they would do to replace their allowance.  In the Great Depression, you would look for another job. But all businesses were shutting down or downsizing and none were hiring new workers.
-
----
-
-## Art: Find the Cat {#art-find-cat}
-
-```metadata
-time: 10-20 minutes
-freq: once
-supplies: paper, crayons/markers
-```
-
-> More good news: We have a store cat named Otis who at this very moment is sleeping at the foot of my bed.
-
-Shortly after Lydia Grace arrives in New York, she meets Otis, the store cat. Otis is in (almost) every illustration once he is introduced, including the end pages (the exception: when Lydia discovers the stairway to the secret place). Ask your kids to “find Otis” on each page. Then, go back to the beginning and “find the dog” who is reunited with Lydia (and meets Otis) in the very last illustration.
-
-What does David Small, the illustrator, do to make Lydia Grace stand out in each picture? Point out to them how he uses white space almost as a spotlight to draw our attention to her. Finally, look at the picture of Lydia Grace when she first arrives in New York. How do you think she feels? What has the artist done in this picture to evoke this feeling?
-
-Now, ask your young artists to try Small’s white space spotlight technique on one of their own drawings.
-
-![Sample Art](cgh-drawing.jpg)
-{.center .small}
-
-{.pagebreak}
-
----
-
-## Literature: Epistolary {#epistolary}
+## Scripture: Matthew 25: 35-36, 40 {#scripture}
 
 ```metadata
 time: 10 minutes
-freq: once
+freq: daily
 ```
 
-> Dear Mama, Papa, and Grandma
+> For I was hungry and you gave me something to eat, 
+> I was thirsty and you gave me something to drink, 
+> I was a stranger and you invited me in, 
+> I needed clothes and you clothed me, 
+> I was sick and you looked after me, 
+> I was in prison and you came to visit me… 
+> **I tell you the truth, whatever you did for one of the least of these brothers of mine, you did for me.**
 
-_The Gardener_ is told through letters that Lydia Grace writes.  Ask your children to write a story through letters.  Who is the letter writer?  Who are they writing to?  What are the challenges of conveying everything through what is written to another character?
+This scripture embodies the Christian ideal of caring for one another. The Bible has many verses on this subject (e.g., Hebrews 13:16, James 2:14-17) but none say it better than Jesus’ words as reported by Matthew. Our Judeo-Christian heritage is woven into our culture, making the American people the most generous nation on earth in terms of donating our time, talents, and financial resources.
+
+Read the scripture to your children and discuss its meaning with them. Then, ask them to memorize the last sentence.
 
 ---
 
@@ -476,5 +391,90 @@ Blooming
 
 Unemployment
 : when someone wants to find a job but can not (note: that this is not explicitly said in the book, but may be useful in discussing the Great Depression)
+
+---
+
+## Writing: Epistolary {#epistolary}
+
+```metadata
+time: 10 minutes
+freq: once
+```
+
+> Dear Mama, Papa, and Grandma
+
+_The Gardener_ is told through letters that Lydia Grace writes. Ask your children to write a story through letters. Who is the letter writer? Who are they writing to? What are the challenges of conveying everything through what is written to another character?
+
+---
+
+## History: Family Connections {#family}
+
+```metadata
+time: 10 minutes
+freq: once
+```
+
+> I saw Uncle Jim almost smile today. The store was full (well, almost full) of customers.
+
+Tell your children about relatives who lived through the Great Depression. How did their families make it through the tough times? How did the Great Depression impact their future lives?
+
+---
+
+## Art: Find the Cat {#art-find-cat}
+
+```metadata
+time: 10-20 minutes
+freq: once
+supplies: paper, crayons/markers
+```
+
+> More good news: We have a store cat named Otis who at this very moment is sleeping at the foot of my bed.
+
+Shortly after Lydia Grace arrives in New York, she meets Otis, the store cat. Otis is in (almost) every illustration once he is introduced, including the end pages (the exception: when Lydia discovers the stairway to the secret place). Ask your kids to “find Otis” on each page. Then, go back to the beginning and “find the dog” who is reunited with Lydia (and meets Otis) in the very last illustration.
+
+What does David Small, the illustrator, do to make Lydia Grace stand out in each picture? Point out to them how he uses white space almost as a spotlight to draw our attention to her. Finally, look at the picture of Lydia Grace when she first arrives in New York. How do you think she feels? What has the artist done in this picture to evoke this feeling?
+
+Now, ask your young artists to try Small’s white space spotlight technique on one of their own drawings.
+
+![Sample Art](cgh-drawing.jpg)
+{.center .small}
+
+{.pagebreak}
+
+---
+
+## Math: Months and Days {#months-days}
+
+```metadata
+time: 15 minutes
+freq: once
+```
+
+> September 5, 1935  …  December 25, 1935
+
+All of Lydia Grace’s letters include a date at the top. For older children, you can ask them how many days (or months) are in between each letter.  You can ask what is the longest/shortest time between letters in the book.  For younger children, you can talk about how many days are in a month and count days between letters (on your hands in some cases).  You can use the "[knuckle mnemonic]" to help your child(ren) remember which months have 31 days and which have less than 31 days.
+
+[knuckle mnemonic]: https://en.wikipedia.org/wiki/Knuckle_mnemonic
+
+---
+
+## Economics: Deflation, Bank Failures, Unemployment {#economics}
+
+```metadata
+time: 20-30 minutes
+freq: once
+prep: 10-15 minutes
+supplies: egg carton, scissors, black tissue paper, red paint, paint brushes, glue, hole punch, ribbons or string
+```
+
+> “I borrowed money from the bank. I bought seeds, but the seeds dried up and blew away. Nothing grew. I don’t have any corn to sell. Now, I can’t pay back the bank,” Papa paused. “They’re going to have an auction, Leah. They’re going to sell the cattle and the chickens and the pickup truck.”
+
+Hundreds of banks failed during the Great Depression. People who had deposited money in those banks, lost it. In economics, this is called deflation – a reduction in the amount of money in circulation. Prices, and economic activity in general, are also reduced because fewer dollars are available and people and businesses are afraid to spend them. Businesses don’t hire workers; people lose their jobs when businesses fail or when they reduce staffing levels to survive.
+
+To illustrate these economic concepts you can do a couple of simple activities with your kids:
+
+1. Bank Failure: to simulate a bank failure, confiscate (temporarily) their piggy bank. Tell them to pretend that it got lost and all the money they’ve saved is now gone. Ask them how they would feel if their piggy bank was gone forever. This is what happened to some families during the Great Depression – banks failed and families lost their life savings.
+
+1. Unemployment: to simulate losing a job, tell your kids that you can no longer pay them an allowance. Ask them what they would do to replace their allowance.  In the Great Depression, you would look for another job. But all businesses were shutting down or downsizing and none were hiring new workers.
 
 

@@ -53,7 +53,7 @@ Monday:
 
 Tuesday:
  - text
- - craft
+ - craft1
 
 Wednesday:
  - "Vocabulary (before reading) [vocab]"
@@ -73,7 +73,7 @@ Friday:
 
 ```metadata
 toc: "American Heritage Songbook: _Canadian Railroad Trilogy_"
-time: 3 minutes
+time: 5 minutes
 freq: daily
 ```
 
@@ -121,7 +121,7 @@ the background.
 
 ---
 
-## Arts & Crafts: Build Your Own Locomotive {#craft}
+## Arts & Crafts: Build Your Own Locomotive {#craft1}
 
 ```metadata
 time: 30-60 minutes
@@ -184,6 +184,26 @@ well and also the egg [carton train][craft1]. <!-- NOTE: same link -->
 [craft1]: https://craftulate.com/egg-carton-steam-train-craft/
 [craft2]: https://sugarspiceandglitter.com/steam-the-little-engine-that-could/
 [craft3]: https://funfamilycrafts.com/shoebox-train-craft/
+
+---
+
+## Arts & Crafts: Build Your Own Train {#craft2}
+
+```metadata
+time: 20-30 minutes
+prep: 5-10 minutes
+supplies: tissue boxes, string,
+```
+
+> insert quote here
+
+### Supplies
+
+* Empty tissue boxes (2-6)
+* String
+
+### Directions
+1. Punch a hole
 
 ---
 
@@ -374,7 +394,7 @@ or even power a locomotive that pulls an entire train.
 ## Historical Re-enactment: Build Your Own Transcontinental Railroad {#re-enactment}
 
 ```metadata
-toc: "Re-enactment: Voting"
+toc: "Re-enactment: Build Your Own Transcontinental Railroad"
 time: 20-60 minutes
 prep: 20-30 minutes
 supplies: toy railroad tracks and locomotives (Brio, Hape, etc.)
@@ -425,7 +445,7 @@ The “Champagne” Shot.
 
 ---
 
-## Supplemental Reading: Ten Mile Day and the Building of the Transcontinental Railroad {#supplemental}
+## Supplemental Reading: _Ten Mile Day_ {#supplemental}
 
 ```metadata
 time: 15 minutes
@@ -459,7 +479,7 @@ perhaps instead of it.
 
 ---
 
-## Scripture: Unity {#scripture}
+## Scripture: Galatians 3:28 {#scripture}
 
 ```metadata
 time: 10 minutes

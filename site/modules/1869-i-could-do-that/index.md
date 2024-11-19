@@ -404,7 +404,7 @@ At the tea, everybody swarmed around Miss Anthony. They called her Aunt Susan, e
 
 This true story takes place in 1896, more than a quarter century after women got voting rights in Wyoming Territory. Ten-year-old Bessie Pond and her mother meet Susan B. Anthony (“Aunt Susan”), a leader in the Women’s Suffrage movement for over 40 years at the time of the story. Aunt Susan has come to Berkeley, California to advocate, organize, and march in favor of a California referendum that will grant full voting rights to women. Young Bessie and her mother join the movement, marching with Aunt Susan. By now several western states have granted full voting rights to women: Wyoming, Utah, Colorado, Idaho, and Washington. Sadly, the 1896 referendum in California is defeated (it takes until a 1912 referendum passes for California women to gain their right to vote). But the story ends on a positive note as the campaign changes the dynamics in the Pond family.
 
-Trace back your family history and share with your children which of your great-grandmothers was the first to vote. What state did they live in and when did it grant women the right to vote? Were they involved in the Women’s Suffrage movement?
+Make sure your children notice how the banner that Bessie and her friend Rita are carrying changes from one page to the next.
 
 ---
 
@@ -441,7 +441,7 @@ Millinery
 : a shop that sells hats
 
 Abolitionist
-: a person who tried to end slavery
+: a person who worked to end slavery
 
 Saloon
 : a place for the sale and drinking of alcoholic drinks
@@ -460,6 +460,20 @@ Suffrage
 
 ---
 
+## History: Family Connections {#fam-history}
+
+```metadata
+time: 10 minutes
+```
+
+> On September 6, 1870, one year after her tea party, Judge Esther Morris put on her best dress and walked with her husband, John, and her sons down the dusty street to the polling place. She would be one of a thousand Wyoming women voting that day, the first ever given that right permanently by any governing body in the United States. 
+
+Trace back your family history and share with your children which of your great-grandmothers was the first to vote. What state did they live in and when did it grant women the right to vote? Were they involved in the Women’s Suffrage movement?
+
+Help your children draw a family tree that connects them to their first female ancestor who voted in a presidential election. If you aren't sure, assume she voted in the first presidential  election after her state granted women voting rights. Bonus question: who won the presidency the year she voted?
+
+---
+
 ## Art: Motif {#art}
 
 ```metadata
@@ -470,7 +484,7 @@ time: 10 minutes
 > Esther strained the tea into cups, one for her mother, one for herself.
 
 An artistic motif is an element or theme that is repeated throughout a
-story, art, or music. In I Could Do That! the author, Linda Arms
+story, art, or music. In _I Could Do That!_ the author, Linda Arms
 White, begins the story with Esther learning to make and serve
 tea. Much later in the story Esther hosts a dramatic tea party where
 she first proposes that women in Wyoming should be able to vote.
@@ -484,6 +498,18 @@ the story where the flowered teapot and teacups are used? Show them
 how the author and illustrator work together, combining their words
 and pictures, to create a powerful motif that comes together at a
 crucial point of the story.
+
+---
+
+## Civic Culture: Civil Discourse {#discourse}
+
+```metadata
+time: 10 minutes
+```
+
+> As they walked, John, who still didn't think women should vote, tried to coach her on which candidates and issues to vote for.
+
+In both _I Can Do That!_ and _Marching With Aunt Susan_ the issue of women's suffrage divides families. Esther Morris's husband John did not think women should vote. The father of Bessie Pond's friend, Rita, also did not support voting rights for women. Family relationships are more important than political issues but people sometimes forget that. Discuss with your children how  to "agree to disagree" and respect each other's rights to their own opinion. Point out how Esther Morris politely but firmly stood her ground.
 
 ---
 

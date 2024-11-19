@@ -111,112 +111,6 @@ music artist recorded his version [here][raffi]. Even Bruce Springsteen
 
 ---
 
-## Famous American Texts: _I Have a Dream_ {#text-i-have-a-dream}
-
-```metadata
-toc: "Famous Texts: _I Have a Dream_"
-time: 5 minutes
-freq: daily
-```
-
-> I have a dream that one day this nation will rise up and live out
-> the true meaning of its creed: “We hold these truths to be
-> self-evident, that all men are created equal.”
-
-> I have a dream that my four little children will one day live in a
-> nation where they will not be judged by the color of their skin but
-> by the content of their character.
-
-Martin Luther King Jr.’s “I Have a Dream” speech galvanized our
-nation, reminding people of our founding creed — and how black
-Americans had all too often been excluded from the American dream. The
-speech was delivered by King on the steps of the Lincoln Memorial on
-the 100th anniversary of the Emancipation Proclamation to a quarter of
-a million people lining the National Mall and millions more via
-television. It vaulted King to the forefront of the national Civil
-Rights movement and helped lead to the passage of the Civil Rights Act
-of 1964 which abolished all of the Jim Crow laws that discriminated
-against black Americans.
-
-To experience the power and the poetry of his speech, your children
-need to [hear Dr. King deliver it]. To help them internalize it, ask
-them to memorize one of the lines above.
-
-[hear Dr. King deliver it]: https://www.youtube.com/watch?v=o8dzxh7Ybqw
-
----
-
-## Political Geography: Jim Crow Laws {#jim-crow}
-
-```metadata
-subj: geography
-time: 15 minutes
-supplies: U.S. puzzle
-```
-
-> “Connie, the sit-ins have spread all over the South,” said Daddy.
-
-The Greensboro sit-ins spread rapidly. By the end of the month
-(February) they had jumped from North Carolina to South Carolina,
-Tennessee, Maryland, Kentucky, Alabama, Virginia, and Florida. By
-March, they were happening in Texas, Louisiana, Arkansas, and
-Georgia. After that, people rose up in West Virginia, Ohio, Oklahoma,
-Mississippi, Illinois, Kansas, and Missouri. All told, scholars
-estimate 70,000 people, black and white, participated in the sit-ins.
-
-Ask your kids to use a jigsaw puzzle of the United States (or a
-coloring page) to illustrate how the sit-ins spread. First, assemble
-the states that joined North Carolina in February. Ask them if they
-notice anything about this first group of states (they are all very
-close to North Carolina, where the sit-in movement started).
-
-Next, ask them to add the states where sit-ins started in
-March. Finally, ask them to add the last batch of states. Ask them if
-there are any states that stand out in particular in this last
-group. The law that prevented black Americans from eating at lunch
-counters with white Americans is an example of a “Jim Crow” law – a
-law that discriminates against some people based on the color of their
-skin. Jim Crow laws are usually thought of as a phenomenon of southern
-states. Are all the states in this last group southern states?
-
----
-
-## Biography: Rev. Martin Luther King, Jr. {#biography-mlk}
-
-```metadata
-subj: biography
-time: 5 minutes
-```
-
-> Later that week, our whole family went to hear Dr. King preach at
-> the college chapel.  I didn’t really understand all of his speech,
-> but I liked his booming voice.  It sounded as if he believed God was
-> on our side.
-
-The Reverend Dr. Martin Luther King, Jr. was the leading figure in the
-Civil Rights Movement of the 1960s. Like his father and grandfather
-before him, he was a Baptist minister. He was a master strategist when
-it came to non-violent protests. He continually called for America to
-live up to her ideals, pointing us back to our founding document and
-Thomas Jefferson’s revolutionary phrase that “all men are created
-equal.”
-
-In October of 1960, just a few months after the Greensboro Four
-started the sit-ins that swept through the South, Reverend King joined
-the Atlanta sit-ins at a restaurant inside Rich’s, a rival department
-store to Woolworth’s. He was arrested and, because of his prominence,
-was the only one sentenced to hard labor at a maximum-security
-prison. Pressure from political figures resulted in his release two
-days later. This was only one of the more than 20 times King was
-arrested for peacefully protesting.
-
-You can introduce your children to this extraordinary man in [this
-short five-minute YouTube video].
-
-[this short five-minute YouTube video]: https://www.youtube.com/watch?v=3ank52Zi_S0
-
----
-
 ## Arts & Crafts: _I Have a Dream_ Speech {#craft-i-have-a-dream}
 
 ```metadata
@@ -294,6 +188,116 @@ supplies: paint, paint brushes, Cardboard or cardstock, hole punch, string, craf
    “sandwich” board version.
 
 ![Example](craft-sign.jpg) {.center}
+
+---
+
+## Geography: Jim Crow Laws {#jim-crow}
+
+```metadata
+subj: geography
+time: 15 minutes
+supplies: U.S. puzzle
+```
+
+> “Connie, the sit-ins have spread all over the South,” said Daddy.
+
+The Greensboro sit-ins spread rapidly. By the end of the month
+(February) they had jumped from North Carolina to South Carolina,
+Tennessee, Maryland, Kentucky, Alabama, Virginia, and Florida. By
+March, they were happening in Texas, Louisiana, Arkansas, and
+Georgia. After that, people rose up in West Virginia, Ohio, Oklahoma,
+Mississippi, Illinois, Kansas, and Missouri. All told, scholars
+estimate 70,000 people, black and white, participated in the sit-ins.
+
+Ask your kids to use a jigsaw puzzle of the United States (or a
+coloring page) to illustrate how the sit-ins spread. First, assemble
+the states that joined North Carolina in February. Ask them if they
+notice anything about this first group of states (they are all very
+close to North Carolina, where the sit-in movement started).
+
+Next, ask them to add the states where sit-ins started in
+March. Finally, ask them to add the last batch of states. Ask them if
+there are any states that stand out in particular in this last
+group. The law that prevented black Americans from eating at lunch
+counters with white Americans is an example of a “Jim Crow” law – a
+law that discriminates against some people based on the color of their
+skin. Jim Crow laws are usually thought of as a phenomenon of southern
+states. Are all the states in this last group southern states?
+
+---
+
+## Famous American Texts: _I Have a Dream_ {#text-i-have-a-dream}
+
+```metadata
+toc: "Famous Texts: _I Have a Dream_"
+time: 5 minutes
+freq: daily
+```
+
+> I have a dream that one day this nation will rise up and live out
+> the true meaning of its creed: “We hold these truths to be
+> self-evident, that all men are created equal.”
+
+> I have a dream that my four little children will one day live in a
+> nation where they will not be judged by the color of their skin but
+> by the content of their character.
+
+Martin Luther King Jr.’s “I Have a Dream” speech galvanized our
+nation, reminding people of our founding creed — and how black
+Americans had all too often been excluded from the American dream. The
+speech was delivered by King on the steps of the Lincoln Memorial on
+the 100th anniversary of the Emancipation Proclamation to a quarter of
+a million people lining the National Mall and millions more via
+television. It vaulted King to the forefront of the national Civil
+Rights movement and helped lead to the passage of the Civil Rights Act
+of 1964 which abolished all of the Jim Crow laws that discriminated
+against black Americans.
+
+To experience the power and the poetry of his speech, your children
+need to [hear Dr. King deliver it]. To help them internalize it, ask
+them to memorize one of the lines above.
+
+[hear Dr. King deliver it]: https://www.youtube.com/watch?v=o8dzxh7Ybqw
+
+---
+
+## Cooking: Banana Split {#cooking-banana-split}
+
+```metadata
+subj: cooking
+time: 15–20 minutes
+prep: 15–20 minutes
+supplies: ripe bananas, ice cream (vanilla, chocolate and strawberry), chopped nuts (walnuts or peanuts), chocolate (or caramel or butterscotch) sauce, whipped cream, maraschino cherries
+```
+
+> It was the best banana split I ever had.
+
+Apprentice pharmacist David Strickler invented the banana split in
+1904 while working at a pharmacy in Latrobe, Pennsylvania. The odd
+shape of this classic American dessert, with a banana sliced
+lengthways, prompted him to work with a glassmaker who developed a
+proper container (called a “boat”) for the new-fangled dessert. The
+original recipe included a banana with three scoops of ice cream
+(vanilla, chocolate, strawberry) with a variety of different fruits,
+chopped nuts, and sauces (chocolate, marshmallow) as toppings. Many
+variations have been developed over the years – it’s very easy to
+customize the basic recipe!
+
+### Supplies
+
+* Ripe bananas
+* Ice cream (vanilla, chocolate and strawberry)
+* Chopped nuts (walnuts or peanuts)
+* Chocolate (or caramel or butterscotch) sauce
+* Whipped cream
+* Maraschino cherries
+
+### Directions
+
+1. Slice bananas lengthwise and place in a large dish
+1. Place three scoops of ice cream on the bananas
+1. Add toppings: sauces, whipped cream, nuts
+1. Add cherries on top and enjoy!
 
 ---
 
@@ -411,47 +415,47 @@ had to go longer distances to use a bathroom and wash up.
 
 ---
 
-## Cooking: Banana Split {#cooking-banana-split}
+## Supplemental Reading: _Granddaddy’s Turn: A Journey to the Ballot Box_ {#supplemental-grandaddys-turn}
 
 ```metadata
-subj: cooking
-time: 15–20 minutes
-prep: 15–20 minutes
-supplies: ripe bananas, ice cream (vanilla, chocolate and strawberry), chopped nuts (walnuts or peanuts), chocolate (or caramel or butterscotch) sauce, whipped cream, maraschino cherries
+subj: reading
+toc: "Supplemental Reading: _Granddaddy’s Turn_"
+time: 10–15 minutes
+freq: twice
 ```
 
-> It was the best banana split I ever had.
+> When I went to vote for the first time, I remembered what my
+> granddaddy always said: “Patience, son, patience.” He was right. The
+> day finally came. And I knew that – just like my granddaddy – I
+> would never take it for granted.
 
-Apprentice pharmacist David Strickler invented the banana split in
-1904 while working at a pharmacy in Latrobe, Pennsylvania. The odd
-shape of this classic American dessert, with a banana sliced
-lengthways, prompted him to work with a glassmaker who developed a
-proper container (called a “boat”) for the new-fangled dessert. The
-original recipe included a banana with three scoops of ice cream
-(vanilla, chocolate, strawberry) with a variety of different fruits,
-chopped nuts, and sauces (chocolate, marshmallow) as toppings. Many
-variations have been developed over the years – it’s very easy to
-customize the basic recipe!
+![book cover granddaddy](granddaddy.jpeg)
+{.center}
 
-### Supplies
+**Title:** _Granddaddy’s Turn: A Journey to the Ballot Box_
 
-* Ripe bananas
-* Ice cream (vanilla, chocolate and strawberry)
-* Chopped nuts (walnuts or peanuts)
-* Chocolate (or caramel or butterscotch) sauce
-* Whipped cream
-* Maraschino cherries
+**Authors:** Michael S. Bandy & Eric Stein
 
-### Directions
+**Illustrator:** James E. Ransome
 
-1. Slice bananas lengthwise and place in a large dish
-1. Place three scoops of ice cream on the bananas
-1. Add toppings: sauces, whipped cream, nuts
-1. Add cherries on top and enjoy!
+**Year Published:** 2019
+
+**Length:** 32 pages
+
+The very last of the Jim Crow laws were the laws that prevented black
+Americans from voting. Unlike _Freedom on the Menu_, the story of
+_Granddaddy’s Turn_ doesn’t portray the struggle to
+overturn these unjust laws. _Granddaddy’s Turn_ shows the emotional
+impact of being denied a fundamental civil right. It’s also a
+heartfelt story of the bond between a grandfather and a grandson,
+illustrating how none of us should ever take our right to vote for
+granted.
+
+This story is a great supplemental reading to _Freedom on the Menu_, illustrating another vital way in which the civil rights of black Americans were violated. The landmark federal legislation contained in the  Voting Rights Act of 1965 marked the beginning of the end of this shameful period of American history.
 
 ---
 
-## Civic Culture: Biblical Scripture {#scripture}
+## Scripture: Matthew 5: 14-16 {#scripture}
 
 ```metadata
 subj: bible
@@ -482,56 +486,95 @@ the evening.
 
 ---
 
-## Family: One-on-One Time {#family}
+## Vocabulary {#vocabulary}
 
 ```metadata
-subj: family
-time: 60 minutes
+subj: vocabulary
+time: 10 minutes
 ```
 
-> Just about every week, Mama and I went shopping downtown.
-> I loved having her all to myself for the afternoon.
+> “The protests are growing!” I told Daddy.
+> “I’m joining the sit-ins,” Brother said, bursting into the room.
+> “And I’m going to picket downtown,” said Sister. “Tomorrow.”
+{:.nowrap}
 
-Connie describes how shopping with her mother was something they did
-together, just the two of them.  Spending time one-on-one with a
-parent/child can be very impactful (especially if there are other
-siblings).  This can be a one-off special event or a regularly
-scheduled time (along the lines of Connie’s regular shopping trip).
-It can be going to a special event or program or be as simple as
-spending 20 minutes of focused attention with the child (reading,
-playing a game, etc.).  Set up a one-on-one time to get some quality,
-focused time interacting with each of your children.
+The story of the Greensboro sit-ins introduces the vocabulary of civil
+disobedience: protests, sit-ins, pickets, arrest, bail. Most of these
+words will be new to your kids and you may need to spend a bit more
+time explaining these words upfront. For example, “sit-ins” is in the
+title with no context as to what it means. Some of these words are at
+the heart of the story, so understanding them will be important.
+
+Cater
+: to provide food or service to an individual or group
+
+Huffed
+: to be angry or offended
+
+Protests
+: strong complaints indicating disapproval
+
+Sit-In
+: an organized peaceful way to protest by sitting in a public space,
+  disrupting normal operations and refusing to leave until a concern
+  has been addressed
+
+Picket
+: people protesting by marching and carrying signs outside a business
+  to discourage others from shopping at the business
+
+Arrested
+: to capture a person by legal means and take them to jail
+
+Bail
+: money or property given to the legal system to ensure a person will
+  appear before the court
+
+Civil Rights
+: the rights to fully participate in the civil and political life of a
+  country; the rights to personal liberty
+
+Creed
+: a fundamental set of beliefs or guiding principles (this word comes
+  from MLK’s speech)
 
 ---
 
-## Supplemental Reading: _Granddaddy’s Turn: A Journey to the Ballot Box_ {#supplemental-grandaddys-turn}
+## History: Rev. Martin Luther King, Jr. Biography {#biography-mlk}
 
 ```metadata
-subj: reading
-toc: "Supplemental Reading: _Granddaddy’s Turn_"
-time: 10–15 minutes
-freq: twice
+subj: biography
+time: 5 minutes
 ```
 
-> When I went to vote for the first time, I remembered what my
-> granddaddy always said: “Patience, son, patience.” He was right. The
-> day finally came. And I knew that – just like my granddaddy – I
-> would never take it for granted.
+> Later that week, our whole family went to hear Dr. King preach at
+> the college chapel.  I didn’t really understand all of his speech,
+> but I liked his booming voice.  It sounded as if he believed God was
+> on our side.
 
-The very last of the Jim Crow laws were the laws that prevented black
-Americans from voting. Unlike _Freedom on the Menu_, the story of
-_Granddaddy’s Turn_ (authors: Michael S. Bandy & Eric Stein,
-illustrator: James E. Ransome) doesn’t portray the struggle to
-overturn these unjust laws. _Granddaddy’s Turn_ shows the emotional
-impact of being denied a fundamental civil right. It’s also a
-heartfelt story of the bond between a grandfather and a grandson,
-illustrating how none of us should ever take our right to vote for
-granted.
+The Reverend Dr. Martin Luther King, Jr. was the leading figure in the
+Civil Rights Movement of the 1960s. Like his father and grandfather
+before him, he was a Baptist minister. He was a master strategist when
+it came to non-violent protests. He continually called for America to
+live up to her ideals, pointing us back to our founding document and
+Thomas Jefferson’s revolutionary phrase that “all men are created
+equal.”
 
-This story is a great supplemental reading to _Freedom on the Menu_, illustrating another vital way in which the civil rights of black Americans were unlawfully violated. The landmark federal legislation contained in the  Voting Rights Act of 1965 marked the beginning of the end of this shameful period of American history.
+In October of 1960, just a few months after the Greensboro Four
+started the sit-ins that swept through the South, Reverend King joined
+the Atlanta sit-ins at a restaurant inside Rich’s, a rival department
+store to Woolworth’s. He was arrested and, because of his prominence,
+was the only one sentenced to hard labor at a maximum-security
+prison. Pressure from political figures resulted in his release two
+days later. This was only one of the more than 20 times King was
+arrested for peacefully protesting.
+
+You can introduce your children to this extraordinary man in [this
+short five-minute YouTube video].
+
+[this short five-minute YouTube video]: https://www.youtube.com/watch?v=3ank52Zi_S0
 
 ---
-
 ## Art: Find the Family {#art-family}
 
 ```metadata
@@ -596,54 +639,24 @@ Woman with a Parasol by Claude Monet (1875)<br>
 
 ---
 
-## Language Arts: Vocabulary {#vocabulary}
+## Civic Culture: One-on-One Time {#family}
 
 ```metadata
-subj: vocabulary
-time: 10 minutes
+subj: family
+time: 60 minutes
 ```
 
-> “The protests are growing!” I told Daddy.
-> “I’m joining the sit-ins,” Brother said, bursting into the room.
-> “And I’m going to picket downtown,” said Sister. “Tomorrow.”
-{:.nowrap}
+> Just about every week, Mama and I went shopping downtown.
+> I loved having her all to myself for the afternoon.
 
-The story of the Greensboro sit-ins introduces the vocabulary of civil
-disobedience: protests, sit-ins, pickets, arrest, bail. Most of these
-words will be new to your kids and you may need to spend a bit more
-time explaining these words upfront. For example, “sit-ins” is in the
-title with no context as to what it means. Some of these words are at
-the heart of the story, so understanding them will be important.
+Connie describes how shopping with her mother was something they did
+together, just the two of them.  Spending time one-on-one with a
+parent/child can be very impactful (especially if there are other
+siblings).  This can be a one-off special event or a regularly
+scheduled time (along the lines of Connie’s regular shopping trip).
+It can be going to a special event or program or be as simple as
+spending 20 minutes of focused attention with the child (reading,
+playing a game, etc.).  Set up a one-on-one time to get some quality,
+focused time interacting with each of your children.
 
-Cater
-: to provide food or service to an individual or group
 
-Huffed
-: to be angry or offended
-
-Protests
-: strong complaints indicating disapproval
-
-Sit-In
-: an organized peaceful way to protest by sitting in a public space,
-  disrupting normal operations and refusing to leave until a concern
-  has been addressed
-
-Picket
-: people protesting by marching and carrying signs outside a business
-  to discourage others from shopping at the business
-
-Arrested
-: to capture a person by legal means and take them to jail
-
-Bail
-: money or property given to the legal system to ensure a person will
-  appear before the court
-
-Civil Rights
-: the rights to fully participate in the civil and political life of a
-  country; the rights to personal liberty
-
-Creed
-: a fundamental set of beliefs or guiding principles (this word comes
-  from MLK’s speech)

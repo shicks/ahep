@@ -364,9 +364,11 @@ Other recipes that I came across:
 time: 10 minutes
 ```
 
-> Need quote
+> "What are these cornhusks?"
+> They are bandages.
+{.nowrap}
 
-insert band-aid here
+insert band-aid adhesion activity here
 
 ---
 
