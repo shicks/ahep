@@ -364,9 +364,63 @@ Other recipes that I came across:
 time: 10 minutes
 ```
 
-> Need quote
+> 'What are these cornhusks?'
+> They are bandages.
+{.nowrap}
 
-insert band-aid here
+Today we use small sticky bandages for minor cuts (rather than
+cornhusks or other materials).  Are some bandages better than others?
+Let's experiment to find out!  Below we outline how you can test which
+type of bandage has the best adhesion by measuring how much weight
+they can hold before pulling off.  However, there are many different
+kinds of experiments you can do with bandages (e.g. which is stickiest
+after getting wet, which surface is best for a bandage to stick to,
+etc.).  Feel free to design and implement your own experiment.
+
+### Supplies
+
+- several types of bandages of similar size (we used band-aid flexible
+  fabric, band-aid waterproof, band-aid kids cartoon bandages, and
+  generic brand fabric bandages)
+- fruit to adhere bandages to (we used oranges, but apples could also
+  work)
+- pails (we used plastic cups turned into buckets with strings - see
+  balance activity in A More Perfect Union)
+- strings and/or small hook to attach pails to band-aid
+- weights (we used different sized waterbottles)
+- some way to suspend fruit (we extended two rulers from the edge of a
+  countertop and attached the band-aids underneath in the gap between
+  the rulers)
+- small scale
+- towel or other cushion
+- Optional: paper and pencil
+
+### Directions
+
+1. Set up your fruit suspension and place towel underneath for a soft
+   landing.
+1. Select a bandage to start.  Place the bandage on the fruit with one
+   side of the hook underneath the bandage.
+1. Set up the fruit with the hook so that the hook is dangling by the
+   bandage.  Put the pails on the other end of the hook (so they are
+   suspended by the bandage-held hook).
+1. Slowly add weights to the pails (counting for five seconds between
+   adding weights).  Add until everything falls onto the towel.  Then
+   measure how much weight the bandage held.
+1. Repeat with other types of bandages.
+1. Determine which bandage can hold the most weight.
+1. Optional: graph your results.
+
+### Discussion
+
+This is a great opportunity to discuss the scientific method.  Ask
+your child(ren) for a hypothesis about what type of bandage they think
+will hold the most weight.  Talk to your child(ren) about how to set
+up a test, holding constant everything except for the one thing that
+is being tested, and the importance of setting up a testing protocol.
+Discuss what you learned from the results and ask how they might apply
+this information in the future.  Would a certain type of bandage be
+better or worse for certain types/locations of cuts?
 
 ---
 
@@ -387,7 +441,8 @@ supplies: Lanterns or flashlights or candles
 > amazement. “Lanterns,” said I. “Lanterns! Where did they come from?”
 > “I brought them.  The men will be here in a few moments to light the
 > house. You will have plenty of light, and plenty of assistance.
-> Don’t despair in your good work, doctor.”  {.nowrap}
+> Don’t despair in your good work, doctor.”
+{.nowrap}
 
 At night when it is dark, take your children into a room and turn off
 all the lights. Ask them how they feel. Then light one candle or
