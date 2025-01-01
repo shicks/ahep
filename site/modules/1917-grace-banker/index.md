@@ -77,7 +77,7 @@ Friday:
 ## American Heritage Songbook: Over There {#songbook}
 
 ```metadata
-toc: "Songbook: _Over There!_"
+toc: "American Heritage Songbook: _Over There!_"
 time: 5 minutes
 freq: daily
 ```
@@ -128,6 +128,107 @@ himself, as America enters World War II.
 [ot3]: https://www.youtube.com/watch?v=wquvrM91Zz8
 [ot4]: https://www.youtube.com/watch?v=9RYA0gQJ8qg
 [ot5]: https://www.youtube.com/watch?v=i5oWH6JWBJY 
+
+---
+
+## Arts & Crafts: Make Your Own Uncle Sam Poster {#craft-uncle-sam}
+
+```metadata
+time: 15-20 minutes
+prep: 5-10 minutes
+supplies: construction paper, scissors, glue stick, crayons/markers, Uncle Sam coloring sheet
+```
+
+> The world was at war, and General John J. Pershing, the commander of US troops across the Atlantic, 
+> was calling for female telephone operators to join the fight against Germany.
+
+The origin of Uncle Sam as the personification of the United States
+goes way back in our history. He is based on a real person, Samuel
+Wilson, who owned a meat packing business. During the War of 1812,
+Wilson supplied food for American soldiers. The barrels had “U.S.”
+stamped on them for “United States” but soldiers knew Sam Wilson was
+supplying them, so they called it “Uncle Sam’s.” The political
+cartoonist Thomas Nast did much to shape our image of Uncle Sam in the
+1870s. However, it was illustrator James Montgomery Flagg who was
+responsible for the most iconic image of Uncle Sam, portraying him in
+the famous “I Want YOU!” World War I army recruiting poster. Millions
+of these posters were distributed and displayed.
+
+![Uncle Sam comic](harpers.jpg)
+![Uncle Sam Poster](i-want-you.jpg)
+![Another Uncle Sam Poster](strong-sam.jpg)
+{.center}
+
+Now, it’s your turn to make your own Uncle Sam poster!
+
+### Supplies
+* Construction paper (ideally in red, white, and blue)
+* Crayons or markers
+* Scissors
+* Glue stick
+* [Uncle Sam] (or other) coloring sheet
+
+[Uncle Sam]: https://coloringhome.com/coloring-page/269259?album=uncle-sam-coloring-pages 
+
+### Directions
+1. Color in Uncle Sam and cut him out
+1. Cut out other stripes, stars, or other items from construction paper
+1. Glue Uncle Sam and cut out shapes onto construction paper
+1. Add phrases if desired
+
+![Example of Uncle Sam Poster craft](sam-craft.jpg)
+{.center}
+
+---
+
+## Geography: Whose Side Are We On? {#geography}
+
+```metadata
+time: 15 minutes
+supplies: coloring map of Europe
+```
+
+> Young Women of America, Attention! Here’s your chance to serve your
+> country in France with General Pershing’s Expeditionary Forces!
+
+While we call it World War I, it was primarily a European war fought
+between the Central Powers (Germany, Austria-Hungary, Bulgaria, and
+Turkey) and the Allies (France, United Kingdom, Belgium, Russia, Italy
+and the United States). Prior to World War II it was called the Great
+War or, in America sometimes, the European War. The “war to end all
+wars” began in 1914; the United States joined the Allies later in the
+conflict, in April of 1917. Our entry into the war is considered by
+historians as the first major turning point of the war, breaking the
+stalemate between the Central Powers and the Allies. When the
+armistice with Germany was declared in November of 1918, the United
+States had been at war for just over 18 months.
+
+America fought on the 400+ miles of the Western Front, which stretched
+across France from the English channel to Switzerland. For this
+activity, print a [map of pre-World War I Europe] that your child(ren)
+can color (alternatively, you can ask them to do the activity below
+with [this online map]). Ask them to:
+
+[map of pre-World War I Europe]: http://lemosworld.weebly.com/uploads/6/6/1/3/66131857/world_war_i_map_activity.pdf
+[this online map]: https://historicalmapchart.net/europe-world-war-1.html 
+
+1. Select a color for the Central Powers and color the appropriate
+   countries: Germany, Austria-Hungary, Bulgaria, Turkey (Ottoman
+   Empire)
+1. Select a different color for the primary Allied countries and color
+   them: France, United Kingdom, Belgium, Russia, Italy)
+1. With a black crayon, draw a line approximating the Western Front
+
+While these were the primary countries involved, many others were also
+pulled into the conflict, mostly on the Allied side: Serbia, Romania,
+Montenegro, Portugal, Greece, China, Japan, Brazil. In the wake of
+World War I and the defeat of the Central Powers, many new countries
+were formed (e.g., Poland, Yugoslavia, Latvia, Estonia, Lithuania) and
+the borders of others were changed significantly. This [side-by-side
+comparison of European countries and borders before and after the war]
+illustrates the extensive changes to Europe.
+
+[side-by-side comparison of European countries and borders before and after the war]: http://schillingb.weebly.com/uploads/2/9/9/3/29937093/map-before-and-after-wwi.pdf
 
 ---
 
@@ -184,178 +285,49 @@ just the first two lines of the first stanza.
 
 ---
 
-## Political Geography: Whose Side Are We On? {#geography}
+## Cooking: Trench Cake {#cooking}
 
 ```metadata
-time: 15 minutes
-supplies: coloring map of Europe
+time: 30-45 minutes
+prep: 30-45 minutes
+supplies: flour, butter, vinegar, milk, brown sugar, currants or raisins, cocoa, baking soda, nutmeg, ginger, lemon rind
 ```
 
-> Young Women of America, Attention! Here’s your chance to serve your
-> country in France with General Pershing’s Expeditionary Forces!
+> When she was off duty Grace was the life of the party! 
+> There were villages to explore, dances to enjoy, dinners to share, and pranks to pull.
 
-While we call it World War I, it was primarily a European war fought
-between the Central Powers (Germany, Austria-Hungary, Bulgaria, and
-Turkey) and the Allies (France, United Kingdom, Belgium, Russia, Italy
-and the United States). Prior to World War II it was called the Great
-War or, in America sometimes, the European War. The “war to end all
-wars” began in 1914; the United States joined the Allies later in the
-conflict, in April of 1917. Our entry into the war is considered by
-historians as the first major turning point of the war, breaking the
-stalemate between the Central Powers and the Allies. When the
-armistice with Germany was declared in November of 1918, the United
-States had been at war for just over 18 months.
+Civilians would send things to their loved ones who were at war in the
+trenches.  Besides letters, some people sent trench cakes to soldiers
+in the trenches (this seems to be primarily something done by those in
+Europe).  Trench cakes are a dense cake, but tasty!  We have adapted a
+European recipe below.
 
-America fought on the 400+ miles of the Western Front, which stretched
-across France from the English channel to Switzerland. For this
-activity, print a [map of pre-World War I Europe] that your child(ren)
-can color (alternatively, you can ask them to do the activity below
-with [this online map]). Ask them to:
-
-[map of pre-World War I Europe]: http://lemosworld.weebly.com/uploads/6/6/1/3/66131857/world_war_i_map_activity.pdf
-[this online map]: https://historicalmapchart.net/europe-world-war-1.html 
-
-1. Select a color for the Central Powers and color the appropriate
-   countries: Germany, Austria-Hungary, Bulgaria, Turkey (Ottoman
-   Empire)
-1. Select a different color for the primary Allied countries and color
-   them: France, United Kingdom, Belgium, Russia, Italy)
-1. With a black crayon, draw a line approximating the Western Front
-
-While these were the primary countries involved, many others were also
-pulled into the conflict, mostly on the Allied side: Serbia, Romania,
-Montenegro, Portugal, Greece, China, Japan, Brazil. In the wake of
-World War I and the defeat of the Central Powers, many new countries
-were formed (e.g., Poland, Yugoslavia, Latvia, Estonia, Lithuania) and
-the borders of others were changed significantly. This [side-by-side
-comparison of European countries and borders before and after the war]
-illustrates the extensive changes to Europe.
-
-[side-by-side comparison of European countries and borders before and after the war]: http://schillingb.weebly.com/uploads/2/9/9/3/29937093/map-before-and-after-wwi.pdf
-
----
-
-## Arts & Crafts: Make Your Own Uncle Sam Poster {#craft-uncle-sam}
-
-```metadata
-time: 15-20 minutes
-prep: 5-10 minutes
-supplies: construction paper, scissors, glue stick, crayons/markers, Uncle Sam coloring sheet
-```
-
-> The world was at war, and General John J. Pershing, the commander of US troops across the Atlantic, 
-> was calling for female telephone operators to join the fight against Germany.
-
-The origin of Uncle Sam as the personification of the United States
-goes way back in our history. He is based on a real person, Samuel
-Wilson, who owned a meat packing business. During the War of 1812,
-Wilson supplied food for American soldiers. The barrels had “U.S.”
-stamped on them for “United States” but soldiers knew Sam Wilson was
-supplying them, so they called it “Uncle Sam’s.” The political
-cartoonist Thomas Nast did much to shape our image of Uncle Sam in the
-1870s. However, it was illustrator James Montgomery Flagg who was
-responsible for the most iconic image of Uncle Sam, portraying him in
-the famous “I Want YOU!” World War I army recruiting poster. Millions
-of these posters were distributed and displayed.
-
-![Uncle Sam comic](harpers.jpg)
-![Uncle Sam Poster](i-want-you.jpg)
-![Another Uncle Sam Poster](strong-sam.jpg)
-{.center}
-
-Now, it’s your turn to make your own Uncle Sam poster!
-
-### Supplies
-* Construction paper (ideally in red, white, and blue)
-* Crayons or markers
-* Scissors
-* Glue stick
-* [Uncle Sam] (or other) coloring sheet
-
-[Uncle Sam]: https://coloringhome.com/coloring-page/269259?album=uncle-sam-coloring-pages 
+### Ingredients
+* 2 cups flour
+* ½ cup butter
+* 1 teaspoon vinegar
+* ½ cup of milk
+* ⅜ cup brown sugar
+* ⅜ cup cleaned currants (craisins or raisins could be used)
+* 2 teaspoons cocoa
+* ½ teaspoon baking soda
+* Nutmeg
+* Ginger
+* Grated lemon rind
 
 ### Directions
-1. Color in Uncle Sam and cut him out
-1. Cut out other stripes, stars, or other items from construction paper
-1. Glue Uncle Sam and cut out shapes onto construction paper
-1. Add phrases if desired
-
-![Example of Uncle Sam Poster craft](sam-craft.jpg)
-{.center}
-
----
-
-## Code Names {#code-names}
-
-```metadata
-time: 15 minutes
-```
-
-> The names of all the places here and further fronts beyond are known under code names. 
-> Waterfall Buster Bonehead Podunk Jam, etc., all mean some place very definite. 
-> The codes are changed frequently so I have to keep up on everything.
-
-In addition to code names for different locations, the military
-developed a radio-telephone spelling alphabet that uses different code
-words for each letter of the alphabet. The primary purpose of the
-spelling alphabet is to clearly communicate over devices (radio or
-telephone) where sound quality can lead to mistakes. For example, the
-letters “F” and “S” can be easily confused but not “Foxtrot” and
-“Sierra.”
-
-Spelling alphabets were first introduced during World War I. Over the
-years the code words were modified and standardized, and are now in
-use in many other applications outside the military: law enforcement,
-air traffic control, amateur radio, and more.
-
-For this exercise, have your children learn to spell their own names
-using the modern radio-telephone spelling alphabet, reproduced
-below. For example, “Emily” would be spelled: Echo, Mike, India, Lima,
-Yankee.
-
-![Phonetic Alphabet Code](code.jpg)
-{.center}
+1. Grease a cake tin
+1. In medium bowl, rub margarine into the flour
+1. Add the dry ingredients (except baking soda)
+1. Mix well
+1. Dissolve baking soda in vinegar and milk, and add to dry mixture
+1. Beat well
+1. Pour into the cake tin
+1. Bake in the oven at 350 degrees for 30-40 minutes
+1. Let cool and enjoy!
 
 ---
 
-## The Telephone Game {#telephone-game}
-
-```metadata
-time: 15 minutes
-```
-
-> Nothing could shake the Signal Corps Girls from their stations.
-> Every new call could save lives.
-> Any missed command could lose the battle.
-
-The traditional game of “telephone” demonstrates how messages get
-muddled as they are whispered from person to person. The actual
-muddling can be hilarious – everyone enjoys comparing the final
-message to the original.
-
-The rules are very simple:
-
-1. You need 3 or more people in a line (5 or more is best).
-1. The first person whispers a word or phrase to the second person –
-   but only once!
-1. The whisper should be loud enough for the next person to hear but
-   quiet enough that no one else can hear it.
-1. No deliberate changing of the word or phrase.
-1. The word or phrase continues to be whispered to the next person in
-   line until it reaches the final person who says it out loud and
-   compares it to the original.
-
-The Telephone Game is more enjoyable when unusual words or phrases are
-used. For this version, consider having the parent start the first few
-words or phrases and incorporate vocabulary words or sentences from
-the story (e.g., “Grace and her girls had plenty of grit” or “Grace
-and her gritty girls worked like beavers.”)
-
-Besides being a lot of fun, the game teaches listening skills,
-patience and taking turns, and the importance of accurate
-communications – “any missed command could lose the battle.”
-
----
 {.pagebreak}
 
 ## Historical Re-enactment: Be Grace Banker {#reenactment}
@@ -421,177 +393,8 @@ Banker.”
 
 ---
 
-## Civic Culture: Proper Etiquette for Phone & Video Calls {#etiquette-phone-calls}
 
-```metadata
-time: 15-20 minutes
-freq: daily
-supplies: pretend or real phone
-```
-
-> When you said “Number Please” I couldn’t answer, there was a lump in my throat.
-
-This is a great opportunity to discuss proper etiquette for phone
-calls and, in today’s world, video conferences and calls. If your
-family is anything like ours, when we call Grandpa and Nana all three
-grandchildren want to talk at once. Much has changed since the days
-when telephones were introduced into homes. But proper conversational
-etiquette remains unchanged and is a valuable skill for youngsters to
-learn.
-
-For speaking on the phone, review and role play: identifying who you
-are, with whom you wish to speak and what you want, asking politely
-who is calling and what they want, how to deal with being put on hold,
-and politely ending a call.
-
-Perhaps the hardest (and most important) skill for children to learn
-is waiting for their turn to speak – and not interrupting others when
-they are speaking (or listening!). This skill is needed when a parent
-is having a conversation with someone else on the phone. Explain to
-your child(ren) the need for them to be quiet, and wait patiently to
-talk to or get answers from the parent. Explain that they are only
-hearing half the conversation and so even when a parent is quiet, they
-still need to wait as their parent is listening to the other person on
-the line. Simulate this for them by asking them to talk to one parent
-while the other parent keeps asking the child questions.
-
-For video calls and conferences, it can be even harder for children to
-wait for their turn to speak, especially when there are multiple
-children competing for attention. It may help to decide the order each
-child will speak ahead of time and set their expectations
-appropriately before the call starts. Explain how to ask politely
-about video or sound issues, not to make a lot of background noise
-when someone else is talking, and to say excuse me and wait for lulls
-in the conversation to raise new topics.
-
-In general, discuss the polite back and forth of conversation -
-raising topics, asking and answering questions, waiting patiently for
-a turn to speak, listening quietly and attentively.
-
-And then, practice these skills with your kids through role-playing
-phone and video calls to establish good habits. Once they are
-comfortable with the concepts of good conversational etiquette you can
-reinforce it during day-to-day conversations by praising them when
-done right or reminding them gently about proper etiquette.
-
----
-
-## Civic Culture: Biblical Scripture {#scripture}
-
-```metadata
-time: 10 minutes
-freq: daily
-```
-
-> He who dwells in the shelter of the Most High
-> will rest in the shadow of the Almighty.
-{.nowrap}
-
-Psalm 91 is known as the Soldier’s Psalm or the Soldier’s
-Prayer. Legend has it that in World War I the commanding officer of
-the 91st Brigade had the Psalm printed on cards and distributed to his
-troops. With its assurance of God’s protection in times of crisis for
-those who put their trust in Him, over time it has become a powerful
-source of inspiration and comfort to soldiers heading into
-battle. During the Iraq and Afghanistan wars, [Operation Bandana]
-distributed hundreds of thousands of bandanas to soldiers. The
-bandanas, in camouflage colors, had Psalm 91 written on them – a great
-example of Christian faith, generosity, and entrepreneurship in a
-single venture.
-
-[operation bandana]: https://www.fayobserver.com/story/news/military/2017/04/15/operation-bandanas-continues-decade-long-ministry-to-deployed-troops/21372153007/
-
-Below is Psalm 91 in full. Consider having your children memorize the
-first sentence or, for older children, the first two lines.
-
-{{#with "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" as |strophe|}}
-
-> **He who dwells in the shelter of the Most High**
-> {{{strophe}}}**will rest in the shadow of the Almighty.**
-> **I will say of the Lord, “He is my refuge and my fortress,**
-> {{{strophe}}}**my God, in whom I trust.”**
-> Surely he will save you
-> {{{strophe}}}from the fowler’s snare
-> {{{strophe}}}and from the deadly pestilence.
-> He will cover you with feathers,
-> {{{strophe}}}and under his wings you will find refuge;
-> {{{strophe}}}his faithfulness will be your shield and rampart.
-> You will not fear the terror of night,
-> {{{strophe}}}nor the arrow that flies by day,
-> nor the pestilence that stalks in the darkness,
-> {{{strophe}}}nor the plague that destroys at midday.
-> A thousand may fall at your side,
-> {{{strophe}}}ten thousand at your right hand,
-> {{{strophe}}}but it will not come near you.
-> You will only observe with your eyes
-> {{{strophe}}}and see the punishment of the wicked.
-> If you make the Most High your dwelling—
-> {{{strophe}}}even the Lord, who is my refuge—
-> then no harm will befall you,
-> {{{strophe}}}no disaster will come near your tent.
-> For he will command his angels concerning you
-> {{{strophe}}}to guard you in all your ways;
-> they will lift you up in their hands,
-> {{{strophe}}}so that you will not strike your foot against a stone.
-> You will tread upon the lion and the cobra;
-> {{{strophe}}}you will trample the great lion and the serpent.
-> “Because he loves me,” says the Lord, “I will rescue him;
-> {{{strophe}}}I will protect him, for he acknowledges my name.
-> He will call upon me, and I will answer him;
-> {{{strophe}}}I will be with him in trouble,
-> {{{strophe}}}I will deliver him and honor him.
-> With long life will I satisfy him
-> {{{strophe}}}and show him my salvation.”
-{.psalm}
-
-{{/with}}
-
----
-
-## Cooking: Trench Cake {#cooking}
-
-```metadata
-time: 30-45 minutes
-prep: 30-45 minutes
-supplies: flour, butter, vinegar, milk, brown sugar, currants or raisins, cocoa, baking soda, nutmeg, ginger, lemon rind
-```
-
-> When she was off duty Grace was the life of the party! 
-> There were villages to explore, dances to enjoy, dinners to share, and pranks to pull.
-
-Civilians would send things to their loved ones who were at war in the
-trenches.  Besides letters, some people sent trench cakes to soldiers
-in the trenches (this seems to be primarily something done by those in
-Europe).  Trench cakes are a dense cake, but tasty!  We have adapted a
-European recipe below.
-
-### Ingredients
-* 2 cups flour
-* ½ cup butter
-* 1 teaspoon vinegar
-* ½ cup of milk
-* ⅜ cup brown sugar
-* ⅜ cup cleaned currants (craisins or raisins could be used)
-* 2 teaspoons cocoa
-* ½ teaspoon baking soda
-* Nutmeg
-* Ginger
-* Grated lemon rind
-
-### Directions
-1. Grease a cake tin
-1. In medium bowl, rub margarine into the flour
-1. Add the dry ingredients (except baking soda)
-1. Mix well
-1. Dissolve baking soda in vinegar and milk, and add to dry mixture
-1. Beat well
-1. Pour into the cake tin
-1. Bake in the oven at 350 degrees for 30-40 minutes
-1. Let cool and enjoy!
-
----
-
-## Supplemental Reading: _The Poppy Lady_ by Barbara Elizabeth Walsh {#supplemental-poppy-lady}
+## Supplemental Reading: _The Poppy Lady_ {#supplemental-poppy-lady}
 
 ```metadata
 time: 15-20 minutes
@@ -600,6 +403,20 @@ time: 15-20 minutes
 > Soon, Moina was surrounded by men wanting poppies of their own – to
 > honor their buddies “sleeping” now among the poppies of Flanders
 > Fields.
+
+![book cover poppylady](poppylady.jpeg)
+{.center}
+
+**Title:** _The Poppy Lady_
+
+**Author:** Barbara Elizabeth Walsh
+
+**Illustrator:** Layne Johnson
+
+**Year Published:** 2012
+
+**Length:** 40 pages
+
 
 Author Barbara Elizabeth Walsh tells the inspirational story of Moina
 Belle Michael and the volunteer work she did to support American
@@ -672,45 +489,80 @@ See also: [Egg Carton Poppies for Remembrance Day at Happy Hooligans][ecp].
 [ecp]: https://happyhooligans.ca/egg-carton-poppies/
 
 ---
-{.pagebreak}
 
-## Art: Camouflage {#art-camouflage}
+## Scripture: Psalm 91 {#scripture}
 
 ```metadata
-time: 10-20 minutes
-supplies: paper, crayons/markers
+time: 10 minutes
+freq: daily
 ```
 
-> Grace and her girls had plenty of grit. They kept their cool outside
-> Liverpool when their ship, the perfect target for a German submarine
-> attack, was stuck on a sandbar.
+> He who dwells in the shelter of the Most High
+> will rest in the shadow of the Almighty.
+{.nowrap}
 
-Camouflage is the use of artistic patterns to hide an object, person,
-or animal. World War I introduced many innovations to warfare
-(submarines, tanks, telephones). Among these innovations was “[dazzle
-camouflage]” to conceal ships. Every ship had a unique dazzle
-camouflage pattern so that enemies could not identify the type of a
-ship by its camouflage pattern. (Ask your child(ren) to compare the
-camouflage pattern of the ship Grace departs on and the one she
-returns on? Are they the same? Is it likely that she returned on the
-same ship she left on?)
+Psalm 91 is known as the Soldier’s Psalm or the Soldier’s
+Prayer. Legend has it that in World War I the commanding officer of
+the 91st Brigade had the Psalm printed on cards and distributed to his
+troops. With its assurance of God’s protection in times of crisis for
+those who put their trust in Him, over time it has become a powerful
+source of inspiration and comfort to soldiers heading into
+battle. During the Iraq and Afghanistan wars, [Operation Bandana]
+distributed hundreds of thousands of bandanas to soldiers. The
+bandanas, in camouflage colors, had Psalm 91 written on them – a great
+example of Christian faith, generosity, and entrepreneurship in a
+single venture.
 
-[dazzle camouflage]: https://en.wikipedia.org/wiki/Dazzle_camouflage
+[operation bandana]: https://www.fayobserver.com/story/news/military/2017/04/15/operation-bandanas-continues-decade-long-ministry-to-deployed-troops/21372153007/
 
-There are also various [dazzle camouflage coloring sheets] available
-[online].  In nature, some animals use dazzle camouflage. Among these
-are leopards, jaguars, giraffes, and zebras. For this activity, ask
-your child(ren) to draw either an object with a unique camouflage
-pattern or an animal. For fun, they could camouflage an animal that
-doesn’t normally use dazzle camouflage, like an elephant or
-rhinoceros.
+Below is Psalm 91 in full. Consider having your children memorize the
+first sentence or, for older children, the first two lines.
 
-[dazzle camouflage coloring sheets]: https://rangmaher.com/wp-content/uploads/2020/07/ww1-dazzle-camo-activity-1.pdf
-[online]: https://www.theworldwar.org/sites/default/files/2022-03/dazzle-ship-coloring-sheet.pdf 
+{{#with "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" as |strophe|}}
+
+> **He who dwells in the shelter of the Most High**
+> {{{strophe}}}**will rest in the shadow of the Almighty.**
+> **I will say of the Lord, “He is my refuge and my fortress,**
+> {{{strophe}}}**my God, in whom I trust.”**
+> Surely he will save you
+> {{{strophe}}}from the fowler’s snare
+> {{{strophe}}}and from the deadly pestilence.
+> He will cover you with feathers,
+> {{{strophe}}}and under his wings you will find refuge;
+> {{{strophe}}}his faithfulness will be your shield and rampart.
+> You will not fear the terror of night,
+> {{{strophe}}}nor the arrow that flies by day,
+> nor the pestilence that stalks in the darkness,
+> {{{strophe}}}nor the plague that destroys at midday.
+> A thousand may fall at your side,
+> {{{strophe}}}ten thousand at your right hand,
+> {{{strophe}}}but it will not come near you.
+> You will only observe with your eyes
+> {{{strophe}}}and see the punishment of the wicked.
+> If you make the Most High your dwelling—
+> {{{strophe}}}even the Lord, who is my refuge—
+> then no harm will befall you,
+> {{{strophe}}}no disaster will come near your tent.
+> For he will command his angels concerning you
+> {{{strophe}}}to guard you in all your ways;
+> they will lift you up in their hands,
+> {{{strophe}}}so that you will not strike your foot against a stone.
+> You will tread upon the lion and the cobra;
+> {{{strophe}}}you will trample the great lion and the serpent.
+> “Because he loves me,” says the Lord, “I will rescue him;
+> {{{strophe}}}I will protect him, for he acknowledges my name.
+> He will call upon me, and I will answer him;
+> {{{strophe}}}I will be with him in trouble,
+> {{{strophe}}}I will deliver him and honor him.
+> With long life will I satisfy him
+> {{{strophe}}}and show him my salvation.”
+{.psalm}
+
+{{/with}}
 
 ---
 
-## Language Arts: Vocabulary {#vocabulary}
+## Vocabulary {#vocabulary}
 
 ```metadata
 time: 10 minutes
@@ -754,4 +606,168 @@ Armistice
 : formal agreement to temporarily stop fighting, typically so that
   peace can be negotiated
 
+---
+
+{.pagebreak}
+
+## Art: Camouflage {#art-camouflage}
+
+```metadata
+time: 10-20 minutes
+supplies: paper, crayons/markers
+```
+
+> Grace and her girls had plenty of grit. They kept their cool outside
+> Liverpool when their ship, the perfect target for a German submarine
+> attack, was stuck on a sandbar.
+
+Camouflage is the use of artistic patterns to hide an object, person,
+or animal. World War I introduced many innovations to warfare
+(submarines, tanks, telephones). Among these innovations was “[dazzle
+camouflage]” to conceal ships. Every ship had a unique dazzle
+camouflage pattern so that enemies could not identify the type of a
+ship by its camouflage pattern. (Ask your child(ren) to compare the
+camouflage pattern of the ship Grace departs on and the one she
+returns on? Are they the same? Is it likely that she returned on the
+same ship she left on?)
+
+[dazzle camouflage]: https://en.wikipedia.org/wiki/Dazzle_camouflage
+
+There are also various [dazzle camouflage coloring sheets] available
+[online].  In nature, some animals use dazzle camouflage. Among these
+are leopards, jaguars, giraffes, and zebras. For this activity, ask
+your child(ren) to draw either an object with a unique camouflage
+pattern or an animal. For fun, they could camouflage an animal that
+doesn’t normally use dazzle camouflage, like an elephant or
+rhinoceros.
+
+[dazzle camouflage coloring sheets]: https://rangmaher.com/wp-content/uploads/2020/07/ww1-dazzle-camo-activity-1.pdf
+[online]: https://www.theworldwar.org/sites/default/files/2022-03/dazzle-ship-coloring-sheet.pdf 
+
+---
+
+## Civic Culture: Proper Etiquette for Phone & Video Calls {#etiquette-phone-calls}
+
+```metadata
+time: 15-20 minutes
+freq: daily
+supplies: pretend or real phone
+```
+
+> When you said “Number Please” I couldn’t answer, there was a lump in my throat.
+
+This is a great opportunity to discuss proper etiquette for phone
+calls and, in today’s world, video conferences and calls. If your
+family is anything like ours, when we call Grandpa and Nana all three
+grandchildren want to talk at once. Much has changed since the days
+when telephones were introduced into homes. But proper conversational
+etiquette remains unchanged and is a valuable skill for youngsters to
+learn.
+
+For speaking on the phone, review and role play: identifying who you
+are, with whom you wish to speak and what you want, asking politely
+who is calling and what they want, how to deal with being put on hold,
+and politely ending a call.
+
+Perhaps the hardest (and most important) skill for children to learn
+is waiting for their turn to speak – and not interrupting others when
+they are speaking (or listening!). This skill is needed when a parent
+is having a conversation with someone else on the phone. Explain to
+your child(ren) the need for them to be quiet, and wait patiently to
+talk to or get answers from the parent. Explain that they are only
+hearing half the conversation and so even when a parent is quiet, they
+still need to wait as their parent is listening to the other person on
+the line. Simulate this for them by asking them to talk to one parent
+while the other parent keeps asking the child questions.
+
+For video calls and conferences, it can be even harder for children to
+wait for their turn to speak, especially when there are multiple
+children competing for attention. It may help to decide the order each
+child will speak ahead of time and set their expectations
+appropriately before the call starts. Explain how to ask politely
+about video or sound issues, not to make a lot of background noise
+when someone else is talking, and to say excuse me and wait for lulls
+in the conversation to raise new topics.
+
+In general, discuss the polite back and forth of conversation -
+raising topics, asking and answering questions, waiting patiently for
+a turn to speak, listening quietly and attentively.
+
+And then, practice these skills with your kids through role-playing
+phone and video calls to establish good habits. Once they are
+comfortable with the concepts of good conversational etiquette you can
+reinforce it during day-to-day conversations by praising them when
+done right or reminding them gently about proper etiquette.
+
+---
+
+## Game: Code Names {#code-names}
+
+```metadata
+time: 15 minutes
+```
+
+> The names of all the places here and further fronts beyond are known under code names. 
+> Waterfall Buster Bonehead Podunk Jam, etc., all mean some place very definite. 
+> The codes are changed frequently so I have to keep up on everything.
+
+In addition to code names for different locations, the military
+developed a radio-telephone spelling alphabet that uses different code
+words for each letter of the alphabet. The primary purpose of the
+spelling alphabet is to clearly communicate over devices (radio or
+telephone) where sound quality can lead to mistakes. For example, the
+letters “F” and “S” can be easily confused but not “Foxtrot” and
+“Sierra.”
+
+Spelling alphabets were first introduced during World War I. Over the
+years the code words were modified and standardized, and are now in
+use in many other applications outside the military: law enforcement,
+air traffic control, amateur radio, and more.
+
+For this exercise, have your children learn to spell their own names
+using the modern radio-telephone spelling alphabet, reproduced
+below. For example, “Emily” would be spelled: Echo, Mike, India, Lima,
+Yankee.
+
+![Phonetic Alphabet Code](code.jpg)
+{.center}
+
+---
+
+## Game: The Telephone Game {#telephone-game}
+
+```metadata
+time: 15 minutes
+```
+
+> Nothing could shake the Signal Corps Girls from their stations.
+> Every new call could save lives.
+> Any missed command could lose the battle.
+
+The traditional game of “telephone” demonstrates how messages get
+muddled as they are whispered from person to person. The actual
+muddling can be hilarious – everyone enjoys comparing the final
+message to the original.
+
+The rules are very simple:
+
+1. You need 3 or more people in a line (5 or more is best).
+1. The first person whispers a word or phrase to the second person –
+   but only once!
+1. The whisper should be loud enough for the next person to hear but
+   quiet enough that no one else can hear it.
+1. No deliberate changing of the word or phrase.
+1. The word or phrase continues to be whispered to the next person in
+   line until it reaches the final person who says it out loud and
+   compares it to the original.
+
+The Telephone Game is more enjoyable when unusual words or phrases are
+used. For this version, consider having the parent start the first few
+words or phrases and incorporate vocabulary words or sentences from
+the story (e.g., “Grace and her girls had plenty of grit” or “Grace
+and her gritty girls worked like beavers.”)
+
+Besides being a lot of fun, the game teaches listening skills,
+patience and taking turns, and the importance of accurate
+communications – “any missed command could lose the battle.”
 

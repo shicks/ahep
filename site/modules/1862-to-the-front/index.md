@@ -16,7 +16,7 @@ Missing Soldiers Office to help families locate soldiers who had not
 returned from the war. Her final act of voluntary service to our
 nation was founding the American Red Cross, where she served as
 president for 24 years. She was one of the great social entrepreneurs
-of the 19th century, one of the best examples of Tocqueville’s
+of the 19th century, one of the best illustrations of Alexis de Tocqueville’s
 “voluntary associations.”
 
 Her entrepreneurial drive was fueled by a remarkable work ethic. She
@@ -24,8 +24,7 @@ was fearless and indefatigable in her battlefield work during the
 Civil War, mobilizing supplies and her team to assist at battlefield
 after battlefield. She continued her work aiding soldiers for four
 years after the war by writing tens of thousands of letters to their
-families. And when it came time for her to found the American Red
-Cross, it took her ten years of work to do so. At the age of 76 this
+families. And then she spent almost ten years persistently advocating for the founding of the American Red Cross before succeeding in 1881. At the age of 76 this
 remarkable woman served as a volunteer in Cuba during the Spanish
 American War. She didn’t retire as president of the Red Cross until
 1904, at the age of 82.
@@ -140,7 +139,7 @@ supplies: plastic bottle, modge podge, tissue paper, paint brushes, tea candles,
 
 ### Supplies
 * Plastic bottle (with all wrappers removed and a large enough opening
-  to stick a light source in)
+  to place a light source in)
 * Modge podge
 * Paint brushes
 * Tissue paper
@@ -150,7 +149,7 @@ supplies: plastic bottle, modge podge, tissue paper, paint brushes, tea candles,
 
 ### Directions
 1. Cut or tear the tissue paper into small squares or strips
-2. Apply modge podge (elmer’s glue may work as well, but needs to dry
+2. Apply modge podge (Elmer’s glue may work as well, but needs to dry
    clear) to the bottle and then take the tissue paper squares and
    cover over the entire bottle. One can use only yellow tissue paper
    for more of a standard lantern look or a variety of colors.
@@ -183,8 +182,9 @@ See some variations here:
 [lantern1]: https://www.thecrazyoutdoormama.com/kids-rip-and-stick-camping-lantern-craft-using-a-recycled-container/
 [lantern2]: https://picklebums.com/easy-art-for-kids-make-a-lantern/
 
-![Picture of our childrens' lanterns](lantern.jpg)
-{.center}
+![Picture of our childrens' lanterns](lantern.jpg)<br>
+Three lanterns
+{.center .caption}
 
 ---
 
@@ -213,7 +213,7 @@ abolished slavery before the Civil War ended: Maryland (November,
 1864), Missouri (January, 1865), West Virginia (February, 1865). The
 remaining two, Delaware and Kentucky did not eliminate slavery until
 forced to by ratification of the 13th Amendment on December 18, 1865
-(oddly, we do not celebrate Decemberteenth as a holiday).
+(oddly, we do not celebrate December 18th as a holiday).
 
 For this activity, ask your kid(s) to assemble a jigsaw puzzle of the United States in three parts:
 
@@ -233,6 +233,27 @@ three categories above.
 
 Then, ask your kid(s): why do we call those five states the Border
 States?
+
+---
+
+## Famous American Texts: _The Gettysburg Address_{#text2}
+
+```metadata
+time: 5 minutes
+freq: daily
+```
+
+>...that this nation, under God, 
+>shall have a new birth of freedom --
+>and that government of the people, by the people, for the people, 
+>shall not perish from this earth.
+{.nowrap}
+
+While the Battle of Antietam marked the moral turning point in the Civil War, the Battle of Gettysburg, less than a year later, was decisively won by Union forces and was the beginning of the end for Confederate forces. The battle lasted three days, July 1-3, with enormous casualties on both sides. But it halted the Confederate invasion of the North and forced them to retreat back to the South.
+
+Four and a half months later, on November 19, 1863, at the dedication of the Soldiers' National Cemetery at Gettysburg, President Lincoln delivered the most famous speech in American history. In just ten powerfully eloquent sentences he reminded us of the sacrifice of the men willing to die so that their country might live and that a country "conceived in Liberty, and dedicated to the proposition that all men are created equal" was worth dying for.
+
+Consider having your children memorize either the fragment of the Gettysburg Address excerpted above or the very first sentence included in the Supplemental Reading activity below.
 
 ---
 
@@ -268,27 +289,6 @@ institution of slavery.
 
 Practice reciting the first sentence, marked in bold above, with your
 kid(s) until they have it memorized.
-
----
-
-## Famous American Texts: _The Gettysburg Address_{#text2}
-
-```metadata
-time: 5 minutes
-freq: daily
-```
-
->...that this nation, under God, 
->shall have a new birth of freedom --
->and that government of the people, by the people, for the people, 
->shall not perish from this earth.
-{.nowrap}
-
-While the Battle of Antietam marked the moral turning point in the Civil War, the Battle of Gettysburg, less than a year later, was decisively won by Union forces and was the beginning of the end for Confederate forces. The battle lasted three days, July 1-3, with enormous casualties on both sides. But it halted the Confederate invasion of the North and forced them to retreat back to the South.
-
-Four and a half months later, on November 19, 1863, at the dedication of the Soldiers' National Cemetery at Gettysburg, President Lincoln delivered the most famous speech in American history. In just ten powerfully eloquent sentences he reminded us of the sacrifice of the men willing to die so that their country might live and that a country "conceived in Liberty, and dedicated to the proposition that all men are created equal" was worth dying for.
-
-Consider having your children memorize the last part of the last sentence excerpted above or the very first sentence included in the Supplement Reading activity below.
 
 ---
 
@@ -329,7 +329,7 @@ I modified the [following recipe][recipe]:
 4. Turn off heat and let gruel thicken. The longer you wait the
    thicker it will get.
 5. Spoon out and serve.
-6. Optionally, add additional ingredients (about 1-2 tablespoons for
+6. Optionally, add additional ingredients (about 1-2 tablespoons heavy cream for
    the entire pot, 1-2 teaspoons sugar, several shakes of cinnamon and
    a bit less of ginger). These can be added to the entire pot or
    individually to bowls (scale down or just add to taste).
@@ -364,7 +364,7 @@ Other recipes that I came across:
 time: 10 minutes
 ```
 
-> 'What are these cornhusks?'
+> "What are these cornhusks?"
 > They are bandages.
 {.nowrap}
 
@@ -437,8 +437,10 @@ supplies: Lanterns or flashlights or candles
 > dark, dank rooms with two inches of candle by him, and his head on
 > his hand, the picture of despair. ... I took him to the door, and
 > told him to look towards the barn; it was like a garden illumination
-> with chinese lanterns.  “What are they?” said he in
-> amazement. “Lanterns,” said I. “Lanterns! Where did they come from?”
+> with chinese lanterns.  
+> “What are they?” said he in amazement. 
+> “Lanterns,” said I. 
+> “Lanterns! Where did they come from?”
 > “I brought them.  The men will be here in a few moments to light the
 > house. You will have plenty of light, and plenty of assistance.
 > Don’t despair in your good work, doctor.”
@@ -506,7 +508,7 @@ Finally, we made our own First Aid kits that the kids can take with
 them when they are at a friend’s house or attend classes away from
 home.
 
-### Supplies:
+### Supplies
 * Plastic zip lock bags or other (water proof) container
 * Sharpies
 * Stickers (optional)
@@ -647,7 +649,7 @@ time: 10 minutes
 The author included many portions of Clara Barton’s own writing
 (indicated by blue or brown italic font). Discuss first person
 accounts. Have your child write up a first person account of an event
-or experience they have had.
+or new experience they have had.
 
 The text by the author is frequently written almost as mini poems with
 repeated phrases and stanzas. Point this out and discuss the rhythm
@@ -661,7 +663,7 @@ author structured each poem.
 
 ---
 
-## History: Family Connections {#history}
+## History: Clara Barton Biography {#history}
 
 ```metadata
 time: 5 minutes
