@@ -236,17 +236,17 @@ States?
 
 ---
 
-## Famous American Texts: _The Gettysburg Address_{#text2}
+## Famous American Texts: _The Gettysburg Address_ {#text2}
 
 ```metadata
 time: 5 minutes
 freq: daily
 ```
 
->...that this nation, under God, 
->shall have a new birth of freedom --
->and that government of the people, by the people, for the people, 
->shall not perish from this earth.
+> ...that this nation, under God, 
+> shall have a new birth of freedom —
+> and that government of the people, by the people, for the people, 
+> shall not perish from this earth.
 {.nowrap}
 
 While the Battle of Antietam marked the moral turning point in the Civil War, the Battle of Gettysburg, less than a year later, was decisively won by Union forces and was the beginning of the end for Confederate forces. The battle lasted three days, July 1-3, with enormous casualties on both sides. But it halted the Confederate invasion of the North and forced them to retreat back to the South.
@@ -554,10 +554,10 @@ Bandaging a wounded soldier
 time: 10 minutes
 ```
 
->Four score and seven years ago our fathers 
->brought forth on this continent, a new nation,
->conceived in Liberty, and dedicated to the 
->proposition that all men are created equal.
+> Four score and seven years ago our fathers 
+> brought forth on this continent, a new nation,
+> conceived in Liberty, and dedicated to the 
+> proposition that all men are created equal.
 {.nowrap}
 
 ![book cover gettysburgaddress](gettysburg.jpeg)
