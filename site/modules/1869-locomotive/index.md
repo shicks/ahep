@@ -121,7 +121,7 @@ the background.
 
 ---
 
-## Arts & Crafts: Build Your Own Locomotive {#craft1}
+## Arts & Crafts: Make Your Own Locomotive {#craft1}
 
 ```metadata
 time: 30-60 minutes
@@ -187,23 +187,42 @@ well and also the egg [carton train][craft1]. <!-- NOTE: same link -->
 
 ---
 
-## Arts & Crafts: Build Your Own Train {#craft2}
+## Arts & Crafts: Make Your Own Train {#craft2}
 
 ```metadata
 time: 20-30 minutes
 prep: 5-10 minutes
-supplies: tissue boxes, string,
+supplies: tissue boxes, string, construction paper, paper towel roll, tape, scissors
 ```
 
-> insert quote here
+> Now the country's far corners have been pulled together,
+> thanks to the men who tend the engines,
+> who mind the train and their passengers...
+> thanks to the locomotive.
+{.nowrap}
 
 ### Supplies
 
 * Empty tissue boxes (2-6)
-* String
+* Construction paper
+* Empty paper towel roll
+* Yarn or string or twine
+* Tape
+* Scissors
 
 ### Directions
-1. Punch a hole
+1. Select an empty tissue box for the engine. Stick the empty paper towel roll in the slot for the tissue and push it all the way to one end (color it or cover with colored paper first if you wish). Tape (or glue) in place. Take a rectangle of construction paper and bend it into an arch over the back half of the engine tissue box. Tape into place.
+
+2. Use scissors to punch a hole in the back-side of the engine. Punch holes in opposite ends (the short sides which are farthest apart) of each of the other empty tissue boxes except the last one (caboose) which will only have one hole.
+
+3. Cut pieces of twine about 10-12 inches to put between each of the "cars" of the train. Thread the twine through the holes between two "cars" (tissue boxes) knot the ends and tape in place so the twine doesn't slip out. (Optionally cut one large piece and thread all the cars through it knotting each end (in the engine and caboose) and taping into place).
+
+4. Optionally decorate the sides of the train cars with construction paper, markers, etc.
+
+5. Stick small stuffed animals in the tissue slots of the boxes and let them travel across the country (or at least across your house)!
+
+![Emily's train loaded with soft friends](TissueTrain.jpeg)
+{.center}
 
 ---
 
@@ -596,7 +615,6 @@ letters to emphasize action, so the kids will have to pay attention!
 
 ```metadata
 time: 10 minutes
-supplies: boxes, pillows
 ```
 
 > He is the master of his machine,

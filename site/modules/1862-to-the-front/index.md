@@ -379,25 +379,25 @@ etc.).  Feel free to design and implement your own experiment.
 
 ### Supplies
 
-- several types of bandages of similar size (we used band-aid flexible
-  fabric, band-aid waterproof, band-aid kids cartoon bandages, and
+- several types of bandages of similar size (we used Band-Aid flexible
+  fabric, Band-Aid waterproof, Band-Aid kids cartoon bandages, and
   generic brand fabric bandages)
 - fruit to adhere bandages to (we used oranges, but apples could also
   work)
 - pails (we used plastic cups turned into buckets with strings - see
   balance activity in A More Perfect Union)
 - strings and/or small hook to attach pails to band-aid
-- weights (we used different sized waterbottles)
+- weights (we used different sized water bottles)
 - some way to suspend fruit (we extended two rulers from the edge of a
-  countertop and attached the band-aids underneath in the gap between
-  the rulers)
+  countertop, using clamps to attach them to the countertop, and attached the Band-jAids to the fruit underneath in the gap between
+  the rulers -- see photo below)
 - small scale
 - towel or other cushion
 - Optional: paper and pencil
 
 ### Directions
 
-1. Set up your fruit suspension and place towel underneath for a soft
+1. Set up your fruit suspension (see photo below) and place towel underneath for a soft
    landing.
 1. Select a bandage to start.  Place the bandage on the fruit with one
    side of the hook underneath the bandage.
@@ -411,6 +411,10 @@ etc.).  Feel free to design and implement your own experiment.
 1. Determine which bandage can hold the most weight.
 1. Optional: graph your results.
 
+![Picture of fruit suspension](adhesion1.jpeg)<br>
+Orange suspended between two rulers held by clamps
+{.center .caption}
+
 ### Discussion
 
 This is a great opportunity to discuss the scientific method.  Ask
@@ -421,6 +425,9 @@ is being tested, and the importance of setting up a testing protocol.
 Discuss what you learned from the results and ask how they might apply
 this information in the future.  Would a certain type of bandage be
 better or worse for certain types/locations of cuts?
+
+![Watching the experiment](adhesion2.jpeg)<br>
+{.center}
 
 ---
 
