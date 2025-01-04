@@ -195,7 +195,7 @@ state in 1890. Ask them to place the next six states in the puzzle
 before finishing by placing Wyoming as the 44th.
 
 ![Statue of Esther Morris](statue.jpg)<br>
-![Seal](seal1.jpg)
+![Seal](seal1.png)
 ![Seal](seal2.png)
 {.center}
 
@@ -281,6 +281,18 @@ I modified the [following recipe][recipe]:
    individually to bowls (scale down or just add to taste).
 
 I had trouble...
+
+---
+
+## Science: Tea Diffusion {#science-diffusion}
+
+```metadata
+time: 30 minutes
+```
+
+TODO - write up
+
+![Tea diffusing in a tray](diffusion.jpg)
 
 ---
 
