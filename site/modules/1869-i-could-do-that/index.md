@@ -19,7 +19,7 @@ reigned through most of human history.
 
 From our founding, however, women had been excluded from participating
 in our political process – local, state, and federal governments
-exercised their “just powers” without their consent. _I Could Do That!
+exercised their “just powers” without women's consent. _I Could Do That!
 Esther Morris Gets Women the Vote_ tells the story of a courageous
 woman who helped secure the first statewide victory for women’s
 suffrage. The fifty-year struggle culminated in the passage of the
@@ -66,7 +66,7 @@ Thursday:
  
 Friday:
  - voting
- - math
+ - science
 
 ---
 
@@ -99,7 +99,7 @@ You can find it on [YouTube][shr] or Disney+.
 
 ---
 
-## Arts & Crafts: Make Your Own Hat {#craft}
+## Arts & Crafts: Make Your Own Hats {#craft}
 
 ```metadata
 time: 30-60 minutes
@@ -135,14 +135,17 @@ hats][hat2]. However, we decided on two different approaches:
 3. Decorate hats with markers, stickers, etc.
 4. Attach brim (tape or staplers).
 5. Make a hole punch on either side of the hat.
-   tied on.
-6. Thread string or ribbon through the holes to enable the hat to be
+6. Thread string or ribbon through the holes to enable the hat to be tied on.
 7. Optionally add a ribbon around the base of the hat for style and more of a bonnet look.
 8. See picture.
 
+![Paper hats](hats2.jpeg)<br>
+Stylish paper hats
+{.center .caption}
+
+
 ### Supplies (Felt Hat)
-* Sheets of felt (depending on age of child something larger than
-  8.5×11 sheet would be preferable)
+* Two sheets of felt, 8.5" x 11"
 * Scissors
 * Hot glue gun
 * Ribbon
@@ -151,13 +154,27 @@ hats][hat2]. However, we decided on two different approaches:
 ### Directions (Felt Hat)
 1. Take one sheet of felt and fold the long edge in on either side
    until they meet in the middle (forming a triangle shape at the
-   top). See picture.
+   top - see Figure A).
 2. Fold the top of the triangle down to the edge of the previous
-   fold. See picture. Hot glue gun this piece in place.
-3. Cut a wide bonnet brim out of felt. Hot glue to the first piece of felt.
-4. Punch holes in the sides and thread ribbon through (you can knot
-   the ribbon to hold it in place).
-5. See picture.
+   fold (see Figure B). Hot glue gun this piece in place (see Figure C).
+3. Cut a wide bonnet brim out of felt by trimming two triangles off the second piece of felt. Make the point of the triangle soft rather than a sharp point (see Figure D).
+4. Hot glue to the first piece of felt (see Figure E).
+5. Punch holes in the sides and thread ribbon through (you can knot
+   the ribbon to hold it in place). See Figure F for your stylish, wide-brimmed felt hat!
+
+![Step 1](First.jpeg)<br>
+Figure A<br><br>
+![Step 2](Second.jpeg)<br>
+Figure B<br><br>
+![Glued](Glued.jpeg)<br>
+Figure C<br><br>
+![Brim](Brim.jpeg)<br>
+Figure D<br><br>
+![Finished](Finished.jpeg)<br>
+Figure E<br><br>
+![Modeled](hats1.jpeg)<br>
+Figure F
+{.center .caption}
 
 ---
 
@@ -186,13 +203,13 @@ just two statues.)  Wyoming’s nickname is “The Equality State.”
  
 In 1820, Esther was only six years old. How many stars are on the flag
 on the second page? [23] Ask your child(ren) to start the puzzle of
-the United States by placing those 23 states in their place. By 1869,
+the United States by placing those 23 states in their place (DE, PA, NJ, GA, CT, MA, MD, SC, NH, VA, NY, N, RI, VT, KY, TN, OH, LA, IN, MS, IL, AL, ME). By 1869,
 when Esther was 55 years old and Wyoming’s legislature gave women the
 right to vote, another 14 states had joined the United States. Ask
 your child(ren) to show how the United States was spreading across the
-West by adding those states to the puzzle. Wyoming became the 44th
+West by adding those states to the puzzle (MO, AR, MI, FL, TX, IA, WI, CA, MN, OR, KS, WV, NV, NE). Wyoming became the 44th
 state in 1890. Ask them to place the next six states in the puzzle
-before finishing by placing Wyoming as the 44th.
+before finishing by placing Wyoming as the 44th (CO, ND, SD, MT, WA, ID).
 
 ![Statue of Esther Morris](statue.jpg)<br>
 ![Seal](seal1.png)
@@ -248,39 +265,85 @@ out](awakening.jpg)
 ## Cooking: Scones & Tea {#cookbook}
 
 ```metadata
-time: 20 minutes
-prep: 10-15 minutes
+time: 30-40 minutes
+prep: 15-20 minutes
 ```
 
-I modified the [following recipe][recipe]:
+> When the candidates and guests arrived, Esther served them tea.
 
-[recipe]: https://invalid
+What is a tea party without something to nibble on? Below are recipes for berry scones and different kinds of tea sandwiches, all you need for a delightful tea party (see the Historical Re-enactment below).
 
-### Ingredients
-* 3 cups boiling water
-* 2 tablespoons cornmeal (which is apparently the same thing as Indian meal)
-* 2 tablespoons cold water
+### Easy Berry Scones Ingredients
+- 2 cups flour
+- 1/3 cup sugar
+- 1 tablespoon baking powder
+- 1/2 cup butter (slightly softened)
+- 1 and 1/4 cup heavy cream
+- optional: 1 cup mixed berries (fresh or frozen)
 
-### Optional ingredients
-* Heavy cream
-* Sugar
-* Cinnamon
-* Ground ginger or nutmeg
+### Directions 
+1) Preheat oven to 450 degrees Fahrenheit.
+2) In a large bowl, mix together the flour, sugar, and baking powder.
+3) Cut the butter into small pieces and add to the bowl. 
+4) Cut the butter into the flour mixture. Either use a cutting tool or you can use a fork to sort of mash the butter in. It will be very crumbly.
+5) Add in 1 cup of heavy cream and mix until just combined. The mixture will be very crumbly.
+6) Add in the berries (no need to thaw if using frozen). If you are not adding berries you may need to add in a little more cream.
+7) Form the dough into a ball (if this is impossible, add a little more cream). Flatten the ball (either by rolling it out or patting it) until if forms a circle about an inch or so tall. Cut into 8 pieces (like you are cutting a pie or pizza) and place on a lightly greased baking sheet.
+8) Use a spoon or pastry brush to drizzle/brush cream on the 8 pieces.
+9) Bake the scones for 15 minutes until the top is brown and a toothpick stuck in the middle of a scone comes out clean.
+10) Eat on its own or with clotted cream.
+
+The Easy Berry Scones recipe is modified from the [Sugar, Spice and Glitter website][recipe1].
+
+[recipe1]: https://sugarspiceandglitter.com/kids-kitchen-easy-berry-scones-recipe/
+
+### Cucumber and Cream Cheese Ingredients
+- white bread
+- cucumber
+- cream cheese
 
 ### Directions
-1. Put 3 cups of water in a pan on the stove and bring to a boil
-2. Mix cornmeal with equal amounts of cold water
-3. Add cornmeal mixture to boiling water. Reduce heat and simmer for
-   at least 20 minutes.
-4. Turn off heat and let gruel thicken. The longer you wait the
-   thicker it will get.
-5. Spoon out and serve.
-6. Optionally, add additional ingredients (about 1-2 tablespoons for
-   the entire pot, 1-2 teaspoons sugar, several shakes of cinnamon and
-   a bit less of ginger). These can be added to the entire pot or
-   individually to bowls (scale down or just add to taste).
+1) Cut the crusts off of the bread.
+2) Slice cucumbers into thin disks.
+3) Spread cream cheese on one slice of bread, cover with cucumbers, place another piece of bread over it.
+4) Cut sandwich into small rectangles.
 
-I had trouble...
+### Peanut Butter and Jelly Ingredients
+- wheat bread
+- peanut butter
+- jelly
+
+### Directions 
+1) Cut the crusts off of the bread.
+2) Spread peanut butter on one side and jelly on the other. Combine sides.
+3) Cut sandwich into small rectangles.
+
+### Ham and Cheese Ingredients
+- wheat or white bread (whatever you prefer)
+- sliced ham
+- cheddar cheese
+- mayonnaise
+
+### Directions 
+1) Cut the crusts off of the bread.
+2) Slice the cheese.
+3) Spread the mayonnaise on the bread.
+4) Put the ham and cheese on and put another slice of bread on top forming a sandwich.
+5) Cut sandwich into small rectangles.
+
+### Egg Salad Ingredients
+- white bread
+- hard boiled eggs
+- mayonnaise
+- salt and pepper
+- optional: paprika
+
+### Directions 
+1) Cut the crusts off of the bread.
+2) Remove the shell from the eggs and mash with a fork in a bowl.
+3) Add some mayonnaise (enough to make spreadable) and seasoning to taste.  Mixture will be very lumpy but should be spreadable.
+4) Spread the egg salad on the bread, cover with another slice of bread.
+5) Cut sandwich into small rectangles.
 
 ---
 
@@ -288,11 +351,47 @@ I had trouble...
 
 ```metadata
 time: 30 minutes
+supplies: clear glass dish, tea bag, utensil
 ```
 
-TODO - write up
+> In 1820, six-year-old Esther McQuigg studied her mother making tea. "I could do that," she said.
 
-![Tea diffusing in a tray](diffusion.jpg)
+Diffusion is a process where highly concentrated molecules get spread out ("diffused"). The experiments below show how diffusion works when tea is brewed.
+
+Experiment 1:
+### Supplies
+- hot water
+- light colored or clear glass dish (ideally 9x13 or similar)
+- tea bag
+- utensil
+
+### Directions
+1) Pour hot water into clear glass dish.
+2) Place tea bag into the center of the dish and place utensil on top of it to hold it down.
+3) Watch the tea diffuse through the water in the dish.
+4) For older students, this experiment can be made more quantitative by measuring the diameter of the diffused tea at various times after the experiment has begun.  Plot the data on graph paper with the diameter on the Y (vertical) axis and the time on the X (horizontal) axis.
+
+![Tea diffusing in a tray](diffusion.jpg)<br>
+Optional: Place white paper towel(s) under dish to more easily see the tea diffusing
+{.center .caption}
+
+Experiment 2:
+### Supplies
+- Four mugs or other small containers that can handle different temperatures of liquids (light colored or clear containers)
+- three tea bags
+- cold, room temperature, and hot water
+
+### Directions
+1) Fill one cup with cold water, two cups with room temperature water, and one cup with hot water.
+2) Set aside one of the cups with room temperature water as a control.
+2) At the same time, place a tea bag in each of the three remaining cups.
+3) Observe how quickly (or slowly) the tea diffuses into the water in each cup.
+
+![Tea diffusing in cups](diffusion2.jpeg)<br>
+The cup on the left has the hot water in it.
+{.center .caption}
+
+Discussion: Diffusion is the result of random motion of many tiny particles, known as "Brownian motion" (named after Robert Brown, the scientist who first described it, not after the color of tea as it diffuses).  The water molecules in the dish are constantly bouncing around in a random manner.  The water molecules can pass through the tea bag and pick up tea molecules, carrying them along in the same random way. Initially, the tea is concentrated entirely within the bag, but over time the concentration _diffuses_, or spreads out in a growing circle. At the beginning, almost every direction a tea molecule might go will take it outside the circle, so the circle expands quickly. Later as the circle has grown, the tea molecules spend more time in the already-visited inside parts of the circle and the expansion slows down. The speed of diffusion is determined by the speed of the bouncing water molecules, which is in turn determined by the temperature: higher temperatures mean faster motion. This partly explains why we brew tea with hot water instead of cold water: cold-brewing is possible, but it takes significantly longer to diffuse the tea throughout the entire mug.
 
 ---
 
@@ -322,7 +421,7 @@ kids:
   four-year-old daughter was okay with that but relented after some
   lobbying by her brother.)
 
-After the votes were tallied, we had two more votes to illustrate the
+We did the votes both ways and, unsurprisingly, the boys voted for a different restaurant than the girls. After the votes were tallied, we had two more votes to illustrate the
 “tyranny of the majority” and why some decisions were inappropriate
 for voting.
 
@@ -346,7 +445,7 @@ for voting.
 ## Historical Re-enactment: Have Your Own Tea Party {#re-enactment-tea-party}
 
 ```metadata
-toc: "Re-enactment: Make Your Own First-Aid Kit"
+toc: "Re-enactment: Have Your Own Tea Party"
 time: 30-45 minutes
 prep: 15-20 minutes
 supplies: regular or childsized china tea set, loose tea leaves, strainer, tea kettle, sugar, cream or milk
@@ -373,7 +472,8 @@ and pour using a strainer.
 * Loose tea leaves
 * Strainer
 * Tea kettle or other way to boil and pour water
-* Small finger food snacks
+* Scones [see Cooking activity, above]
+* Tea sandwiches [see Cooking activity, above]
 * Sugar
 * Cream or milk
 * Hats
@@ -391,7 +491,7 @@ Enjoy tea and snacks in your stylish hats. Have the kids re-pour tea as needed.
 
 ---
 
-## Supplemental Reading: Marching With Aunt Susan {#supplemental}
+## Supplemental Reading: _Marching With Aunt Susan_ {#supplemental}
 
 ```metadata
 time: 10 minutes
@@ -401,7 +501,7 @@ time: 10 minutes
 At the tea, everybody swarmed around Miss Anthony. They called her Aunt Susan, even though they weren’t related to her.
 {.nowrap}
 
-![book cover gettysburgaddress](cover.jpg)
+![book cover gettysburgaddress](cover2.jpeg)
 {.center}
 
 **Title:** _Marching With Aunt Susan_
@@ -414,9 +514,11 @@ At the tea, everybody swarmed around Miss Anthony. They called her Aunt Susan, e
 
 **Length:** 36 pages
 
-This true story takes place in 1896, more than a quarter century after women got voting rights in Wyoming Territory. Ten-year-old Bessie Pond and her mother meet Susan B. Anthony (“Aunt Susan”), a leader in the Women’s Suffrage movement for over 40 years at the time of the story. Aunt Susan has come to Berkeley, California to advocate, organize, and march in favor of a California referendum that will grant full voting rights to women. Young Bessie and her mother join the movement, marching with Aunt Susan. By now several western states have granted full voting rights to women: Wyoming, Utah, Colorado, Idaho, and Washington. Sadly, the 1896 referendum in California is defeated (it takes until a 1912 referendum passes for California women to gain their right to vote). But the story ends on a positive note as the campaign changes the dynamics in the Pond family.
+This true story takes place in 1896, more than a quarter century after women got voting rights in Wyoming Territory. Ten-year-old Bessie Pond and her mother meet Susan B. Anthony (“Aunt Susan”), a leader in the Women’s Suffrage movement for over 40 years at the time of the story. Aunt Susan has come to Berkeley, California to advocate, organize, and march in favor of a California referendum that will grant full voting rights to women. Young Bessie and her mother join the movement, marching with Aunt Susan. By now several western states have granted voting rights to women: Wyoming, Utah, Colorado, Idaho, and Washington. 
 
-Make sure your children notice how the banner that Bessie and her friend Rita are carrying changes from one page to the next.
+Sadly, the 1896 referendum in California is defeated (it takes until a 1912 referendum passes for California women to gain their right to vote). The story ends on a positive note as the campaign changes the dynamics in the Pond family. It also illustrates the grit, determination, and perseverance of women who rallied peacefully for decades, endured harassment and many legislative defeats, before finally winning the right to vote nationwide.
+
+The illustrator has a little fun with the protest march. Make sure your children notice how the banner that Bessie and her friend Rita are carrying changes from one page to the next.
 
 ---
 
@@ -441,7 +543,7 @@ Ask your children to memorize and recite this scripture. With your older childre
 time: 10 minutes
 ```
 
-> They worked in the mines by day, drank in the saloons by night.
+> Esther started attending abolitionist meetings at her church.
 
 The author uses words about different kinds of stores and places with which the young reader might not
 be familiar: millinery, saloon, polling place. In addition, there are words associated with politics that may
@@ -455,9 +557,6 @@ Millinery
 Abolitionist
 : a person who worked to end slavery
 
-Saloon
-: a place for the sale and drinking of alcoholic drinks
-
 Proclamation
 : a public and official announcement
 
@@ -469,6 +568,9 @@ Polling Place
 
 Suffrage
 : the right to vote in public, political elections
+
+Entrepreneur
+: a person who organizes and starts a business, usually with considerable risk of failure
 
 ---
 
@@ -503,9 +605,9 @@ she first proposes that women in Wyoming should be able to vote.
 
 The illustrator, Nancy Carpenter, brings her own artistic flair to
 this motif. Ask your kids to describe the pattern painted on the
-teapot and teacups in the early pages. Notice how it is reinforced in
+teapot and teacups in the early pages. Do you notice how it is reinforced in
 the first four pages, culminating in the two-page illustration on the
-death of Esther’s mother? Then ask them if there is any place else in
+death of Esther’s mother? Then ask them: is there any place else in
 the story where the flowered teapot and teacups are used? Show them
 how the author and illustrator work together, combining their words
 and pictures, to create a powerful motif that comes together at a
