@@ -162,19 +162,19 @@ Stylish paper hats
 5. Punch holes in the sides and thread ribbon through (you can knot
    the ribbon to hold it in place). See Figure F for your stylish, wide-brimmed felt hat!
 
-![Step 1](First.jpeg)<br>
-Figure A<br><br>
-![Step 2](Second.jpeg)<br>
-Figure B<br><br>
-![Glued](Glued.jpeg)<br>
-Figure C<br><br>
-![Brim](Brim.jpeg)<br>
-Figure D<br><br>
-![Finished](Finished.jpeg)<br>
-Figure E<br><br>
-![Modeled](hats1.jpeg)<br>
-Figure F
-{.center .caption}
+<span>![Step 1](First.jpeg)</span>
+<span>![Step 2](Second.jpeg)</span>
+<span>![Glued](Glued.jpeg)</span>
+<span>Figure A</span>
+<span>Figure B</span>
+<span>Figure C</span>
+<span>![Brim](Brim.jpeg)</span>
+<span>![Finished](Finished.jpeg)</span>
+<span>![Modeled](hats1.jpeg)</span>
+<span>Figure D</span>
+<span>Figure E</span>
+<span>Figure F</span>
+{.center .caption .grid3}
 
 ---
 

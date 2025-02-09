@@ -263,9 +263,14 @@ div.activities {
   // }
 }
 
+.grid3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 div.calendar {
   display: grid;
-  grid-columns: 5;
+  // grid-columns: 5;
   .header {
     grid-row: 1;
     background: $primary-color;
