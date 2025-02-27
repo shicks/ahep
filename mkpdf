@@ -39,12 +39,16 @@ pdf() {
   "$QPDF" --underlay graphics/ahep-underlay.pdf --repeat=1-z -- "$tmp.pdf" "site/modules/$slug.pdf"
 }
 
+# For each module, see if there's an arg that matches it.
 for module in site/modules/*/index.md; do
-  slug=${module#site/modules/}
-  slug=${slug%/index.md}
-  case "$*" in
-    (''|*"$slug"*) pdf $slug ;;
-  esac
+  for arg in "$@"; do
+    slug=${module#site/modules/}
+    slug=${slug%/index.md}
+    if sh -c "case '$slug' in ($arg) true ;; (*) false ;; esac"; then
+      pdf $slug
+      break # don't keep looking once we found an arg
+    fi
+  done
 done
 
 #kill "$SERVER"
