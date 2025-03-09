@@ -432,14 +432,10 @@ freq: twice
 ![book cover granddaddy](granddaddy.jpeg)
 {.center}
 
-**Title:** _Granddaddy’s Turn: A Journey to the Ballot Box_
-
-**Authors:** Michael S. Bandy & Eric Stein
-
-**Illustrator:** James E. Ransome
-
-**Year Published:** 2019
-
+**Title:** _Granddaddy’s Turn: A Journey to the Ballot Box_<br>
+**Authors:** Michael S. Bandy & Eric Stein<br>
+**Illustrator:** James E. Ransome<br>
+**Year Published:** 2019<br>
 **Length:** 32 pages
 
 The very last of the Jim Crow laws were the laws that prevented black
