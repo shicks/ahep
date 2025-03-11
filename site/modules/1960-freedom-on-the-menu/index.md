@@ -138,11 +138,14 @@ prep: 10 minutes
 ### Directions
 
 1. Cut a rectangle out of blue paper (to make a reflecting pool).
-1. Cut a rectangle with a triangle on top out of white paper (to make a Washington Monument).
+1. Cut a rectangle with a triangle on top out of white paper (to make
+   a Washington Monument).
 1. Cut out the photo of MLK Jr.
-1. Paste the three cut outs onto the main paper as if MLK Jr. was standing at the Lincoln Memorial delivering
-his I Have a Dream speech.
-1. Glue pom-poms all around to represent all the people listening to his speech.
+1. Paste the three cut outs onto the main paper as if MLK Jr. was
+   standing at the Lincoln Memorial delivering his I Have a Dream
+   speech.
+1. Glue pom-poms all around to represent all the people listening to
+   his speech.
 1. Can add words or a speech bubble if desired.
 
 ![Example](craft-speech.jpg) {.center}
@@ -447,7 +450,11 @@ heartfelt story of the bond between a grandfather and a grandson,
 illustrating how none of us should ever take our right to vote for
 granted.
 
-This story is a great supplemental reading to _Freedom on the Menu_, illustrating another vital way in which the civil rights of black Americans were violated. The landmark federal legislation contained in the  Voting Rights Act of 1965 marked the beginning of the end of this shameful period of American history.
+This story is a great supplemental reading to _Freedom on the Menu_,
+illustrating another vital way in which the civil rights of black
+Americans were violated. The landmark federal legislation contained in
+the Voting Rights Act of 1965 marked the beginning of the end of this
+shameful period of American history.
 
 ---
 
