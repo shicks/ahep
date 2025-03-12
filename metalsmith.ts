@@ -16,7 +16,7 @@ import { sass } from './plugins/sass-discover';
 import { serve } from './plugins/serve';
 import { timer } from './plugins/timer';
 import collections from '@metalsmith/collections';
-import linkChecker from '@fidian/metalsmith-link-checker';
+import linkChecker from './plugins/check-links';
 import livereload from 'metalsmith-livereload';
 import markdown from './plugins/markdown';
 import markdownItAttrs from 'markdown-it-attrs';
@@ -81,16 +81,33 @@ const metalsmith = Metalsmith(DIR) // parent directory of this file
     .use(markdown({plugins: [markdownItAttrs, markdownItDeflist]}))
     .use(handlebars())          // BEFORE markdown!
     .use(sass())
+    .use(linkChecker({
+      ignore: [
+        /^about$/,
+        /^faq$/,
+        /^modules$/,
+        /1dq6aLBKWmz26_vbsFAZolNUzu0bRWw3WLhx9QhqqCgw/, // owned google doc
+      ],
+      allowRedirects: false,
+      noHead: [
+        /supercoloring\.com/,
+        /grc\.nasa\.gov/,
+      ],
+      allow403: shouldCheckLinks ? [] : [
+        /supercoloring\.com/,
+        /zazzle\.com/,
+        /etsy\.com/,
+        /a-z-animals\.com/,
+        /stlmotherhood\.com/,
+        /coloring-page\.net/,
+        // NOTE: the following seem to have banned me, but they were OK before
+        // /sugarspaceandglitter\.com/,
+        // /littlebinsforlittlehands\.com/,
+      ],
+      warnOnly: !shouldCheckLinks,
+    }))
     ;
-if (shouldCheckLinks) {
-  metalsmith.use(linkChecker({
-    ignore: [
-      '^about$',
-      '^faq$',
-      '^modules$',
-    ]
-   }));
-}
+
 if (shouldWatch) {
   metalsmith
       .use(livereload({debug: DEBUG}))
