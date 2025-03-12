@@ -504,14 +504,10 @@ At the tea, everybody swarmed around Miss Anthony. They called her Aunt Susan, e
 ![book cover gettysburgaddress](cover2.jpeg)
 {.center}
 
-**Title:** _Marching With Aunt Susan_
-
-**Author:** Claire Rudolph Murphy
-
-**Illustrator:** Stacey Schuett
-
-**Year Published:** 2011
-
+**Title:** _Marching With Aunt Susan_<br>
+**Author:** Claire Rudolph Murphy<br>
+**Illustrator:** Stacey Schuett<br>
+**Year Published:** 2011<br>
 **Length:** 36 pages
 
 This true story takes place in 1896, more than a quarter century after women got voting rights in Wyoming Territory. Ten-year-old Bessie Pond and her mother meet Susan B. Anthony (“Aunt Susan”), a leader in the Women’s Suffrage movement for over 40 years at the time of the story. Aunt Susan has come to Berkeley, California to advocate, organize, and march in favor of a California referendum that will grant full voting rights to women. Young Bessie and her mother join the movement, marching with Aunt Susan. By now several western states have granted voting rights to women: Wyoming, Utah, Colorado, Idaho, and Washington. 
