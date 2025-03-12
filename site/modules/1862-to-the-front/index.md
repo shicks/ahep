@@ -308,7 +308,7 @@ prep: 10-15 minutes
 
 I modified the [following recipe][recipe]:
 
-[recipe]: https://sandramervillehart.wordpress.com/2017/09/18/cornmeal-gruel-recipe/
+[recipe]: https://sandramervillehart.com/2017/09/18/cornmeal-gruel-recipe/
 
 ### Ingredients
 * 3 cups boiling water
@@ -349,12 +349,10 @@ Other recipes that I came across:
 * [Gruel Recipes - Food For The Sick][recipe1]
 * [Indian-Meal Gruel - Granula][recipe2]
 * [Indian Meal Porridge - a recipe from Eating History][recipe3]
-* [Cornmeal Gruel Recipe | Sandra Merville Hart][recipe4]
 
 [recipe1]: https://vintagerecipesandcookery.com/gruel-recipes-food-for-the-sick/
 [recipe2]: https://chestofbooks.com/food/recipes/Invalid-Cooking/Indian-Meal-Gruel-Granula.html
 [recipe3]: http://eating-history.co.uk/recipes/indian-meal-porridge
-[recipe4]: https://sandramervillehart.wordpress.com/2017/09/18/cornmeal-gruel-recipe/
 
 ---
 

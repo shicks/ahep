@@ -100,7 +100,7 @@ supplies: popsicle sticks, cotton balls, glue, construction paper,
 
 One of the most iconic images in American history is that of Washington crossing the Delaware. You can expose younger children to this image by downloading and printing a sheet that they can color with their crayons. You can find a couple of examples on the internet [here][1] or [here][2]. Older kids might enjoy this mixed-media art project:
 
-[1]: http://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2014/04/george-washington-crossing-the-delaware-by-emanuel-leutze-coloring-page.jpg
+[1]: https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2014/04/george-washington-crossing-the-delaware-by-emanuel-leutze-coloring-page.jpg
 [2]: https://i.pinimg.com/originals/0a/b0/61/0ab061362550471bf05dc4d8484cc4df.gif
 
 ### Supplies
