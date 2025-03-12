@@ -2,7 +2,15 @@
 layout: module
 title: When Washington Crossed the Delaware
 when: 1776.9
+links:
+  - aln4jdf 3/12/2025
+  - k4k2jx  3/12/2025
 ---
+
+```links
+3/12/2025
+https://www.supercoloring.com/sites/default/files/styles/coloring_medium/public/cif/2014/04/george-washington-crossing-the-delaware-by-emanuel-leutze-coloring-page.jpg
+```
 
 # A Pivotal Battle
 

@@ -1,5 +1,11 @@
 // NOTE: this code is forked from @fidian/metalsmith-broken-link-checker
 
+// TODO - maybe what we want to do is to read a links.json file and produce
+// a links.html report with the status of the links and controls to
+//  * certify links are still valid (maybe open in iframes?)
+//  * adjust the TTL for different kinds of links (seem good, manual 403s)
+//  * download a new copy of links.json with adjusted data to overwrite
+
 import type * as Metalsmith from 'metalsmith';
 import * as http from 'node:http';
 import * as https from 'node:https';
@@ -29,13 +35,12 @@ function urlParse(input: string): URL|undefined {
 /** An object of a link in filename. */
 interface FilenameAndLink {
   filename: string;
+  checked: string; // when was it last checked, per some sort of metadata table?
   link: string;
 }
 
 /** An object of a link in a filename, with a validation result. */
-interface FilenameAndLinkWithResult {
-  filename: string;
-  link: string;
+interface FilenameAndLinkWithResult extends FilenameAndLink {
   result?: string;
 }
 
