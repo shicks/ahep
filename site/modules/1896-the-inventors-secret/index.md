@@ -167,20 +167,11 @@ supplies: butter, sugar, eggs, yogurt, lemon, flour, vanilla, baking powder, bak
 ```
 > Henry did some fast talking and got invited to a big dinner with Thomas as the guest of honor.
 
-TBD
+Ruth Graves Wakefield, proprietor of the Toll House Inn in Whitman, Massachusetts, is credited with popularizing the Chocolate Chip Cookie we know today. She developed the recipe in 1938 when she was trying to invent a unique dessert for her guests. She sold the recipe to Nestle in exchange for a lifetime supply of chocolate.
 
+However, as is so often the case, Wakefield’s invention built on the work of earlier culinary experiments. In _Bravetart: Iconic American Desserts_, author Stella Parks, traces the ancestors of today’s chocolate chip cookie to the latter half of the 19th century when chocolate became less expensive and thus more affordable for experiments. She finds recipes for “chocolate jumbles” in the 1870s with nearly identical ratios to the ingredients used in our modern chocolate chip cookie. The main difference? They were a lot more work because the chocolate had to be grated.
 
-### Ingredients
-
-* Dry pudding mix (5 teaspoons)* Powdered milk (5 teaspoons)* Water (half cup)
-
-### Supplies
-* Quart-sized zip lock bag* Measuring spoon* Measuring cup* Scissors
-
-### Directions
-1. Mix the dry ingredients in the quart bag. 
-2. Add water, seal the bag, and let the kids squish it around to mix it all up. 
-3. Use the scissors to clip off a corner of the bag and let the kids eat the pudding by squeezing it into their mouths – this may be the most fun (and the most messy) part of the process :-)
+So, about the same time Edison was inventing the light bulb in the 1870s, American chefs were inventing the chocolate chip cookie. However, to honor Ruth Graves Wakefield and Nestle for popularizing the Toll House Chocolate Chip Cookie back in 1938, buy a package of Nestle’s Semi-Sweet Morsels, and follow the recipe on the back for a truly iconic American dessert experience.
 
 ---
 
@@ -234,7 +225,7 @@ You should find that after running through the five-minute work “day” a coup
 ## Historical Re-enactment: Meals by Candlelight {#candlelight}
 
 ```metadata
-toc: "Re-enactment: Make Your Own Assembly Line"
+toc: "Re-enactment: Meals by Candlelight"
 time: 15-20 minutes
 prep: minimal
 supplies: candles
@@ -257,7 +248,7 @@ This activity works best in winter when it gets dark early.
 time: 10 minutes
 ```
 
-> [Franklin quote here].
+> How could he help himself swim like a fish?
 
 ![Franklin book cover](franklin.jpeg)
 {.center}
@@ -268,7 +259,13 @@ time: 10 minutes
 **Year Published:** 2021<br>
 **Length:** 32 pages
 
-TBD
+Before Thomas Edison and Henry Ford there was Benjamin Franklin, the most famous American inventor and scientist of the 18th century. His best known inventions include the lightning rod, bi-focal glasses, and the Franklin stove. Author Barb Rosenstock tells the story of Franklin's first invention: swim fins.
+
+This story is a great complement to _The Inventor’s Secret_ as it emphasizes the same theme of persistence: “this smart, stubborn, sensible son of a soap-maker simply thought he’d made a mistake — and wouldn’t stop seeking, studying, and struggling until he SUCCEEDED.” 
+
+However, unlike Edison and Ford in _The Inventor’s Secret_, Rosenstock is telling the story of Franklin’s first invention, made when he was just a young boy. Children may find young Ben a more inspiring role model.
+
+Young readers can engage with S.D. Schindler's artwork by finding the animals on each page or counting the fish. Older readers might want to note how the author emphasizes specific words on each page. What do they have in common? “… where he SLID OFF his stinky shoes, STRIPPED OFF his sweaty stockings, SQUIRMED OUT of his sticky shirt, SHED his steamy breeches, and SPLASHED IN…” Also, ask them if they see where the text becomes part of the art.
 
 ---
 
