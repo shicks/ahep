@@ -168,7 +168,7 @@ Now, it’s your turn to make your own Uncle Sam poster!
 * Glue stick
 * [Uncle Sam] (or other) coloring sheet
 
-[Uncle Sam]: https://coloringhome.com/coloring-page/269259?album=uncle-sam-coloring-pages 
+[Uncle Sam]: https://coloringnation.com/coloring-page/269259?album=uncle-sam-coloring-pages
 
 ### Directions
 1. Color in Uncle Sam and cut him out

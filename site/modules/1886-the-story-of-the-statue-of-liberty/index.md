@@ -136,7 +136,7 @@ As usual, our kids loved [coloring][coloring1] and
 [connect][coloring2]-the-[dots][coloring3] sheets featuring the
 [Statue of Liberty][coloring4].
 
-[coloring1]: http://www.supercoloring.com/coloring-pages/statue-of-liberty
+[coloring1]: https://www.supercoloring.com/coloring-pages/statue-of-liberty
 [coloring2]: https://www.education.com/worksheet/article/4th-of-july-dot-to-dot/
 [coloring3]: https://www.bigactivities.com/ctd/presidents_day/statue_of_liberty/statue_of_liberty.php
 [coloring4]: https://www.coloring-page.net/statue-of-liberty.html
@@ -348,7 +348,8 @@ fascinating virtual tour][tour] that shows many of the internals of the
 Statue of Liberty (as well as the externals). You start at the top,
 Liberty’s Torch!
 
-[tour]: https://www.nps.gov/hdp/exhibits/stli/stli_tour.html
+[tour]: https://www.nps.gov/stli/learn/photosmultimedia/hdp-virtualtour.htm
+<!-- https://www.nps.gov/hdp/exhibits/stli/stli_tour.html -->
 
 ---
 
@@ -550,7 +551,7 @@ they would like to give. They may be interested in causes associated
 with children, like [Stanford Children’s Hospital][sch] or [St. Jude
 Children’s Research Hospital][stjude].
 
-[sch]: https://my.supportlpch.org/give/154669/%23!/donation/checkout
+[sch]: https://my.supportlpch.org/campaign/575738/donate
 [stjude]: https://www.stjude.org/donate/donate-to-st-jude.html
 
 ---

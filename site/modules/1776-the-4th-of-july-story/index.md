@@ -193,7 +193,7 @@ started out. It can be done multiple ways; here are some suggestions:
 1. Using the outline map of the United States, outline the original 13
    colonies and have your child(ren) cut them out.
 
-[map]: https://coloringhome.com/coloring-page/1710612?album=coloring-page-united-states-map
+[map]: https://coloringnation.com/coloring-page/1710612?album=coloring-page-united-states-map
 
 Next, have your student(s) locate Philadelphia on the map. Then,
 locate New York City. Remind them that one messenger had to carry the
@@ -254,7 +254,7 @@ prep: 20-30 minutes (shopping)
 
 Lafayette visited George and Martha Washington in April, 1781.  They served him gingerbread and the recipe was then referred to as Lafayette Gingerbread.  You can [read the recipe online][C1] or just follow the directions below.
 
-[C1]: https://www.mountvernon.org/education/online-activities-for-kids-2/how-to-make-lafayette-gingerbread
+[C1]: https://www.mountvernon.org/education/for-teachers/lessonplans/online-activities-for-kids-2/how-to-make-lafayette-gingerbread
 
 ### Ingredients
 * 1/2 cup unsalted butter softened (note that we used salted butter and it worked well)
