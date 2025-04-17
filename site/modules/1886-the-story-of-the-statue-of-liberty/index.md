@@ -67,7 +67,7 @@ Friday:
 
 ---
 
-## American Heritage Songbook: America (My Country ‘Tis of Thee) {#songbook}
+## American Heritage Songbook: _America (My Country ‘Tis of Thee)_ {#songbook}
 
 ```metadata
 time: 5 minutes
@@ -130,6 +130,7 @@ Crosby & Graham Nash][song4] immediately after 9/11.
 time: 10-20 minutes
 supplies: Crayons, Pencil, Coins
 ```
+> The Statue of Liberty stands on an island in New York Harbor. She is a beautiful sight to all who pass by her.
 
 As usual, our kids loved [coloring][coloring1] and
 [connect][coloring2]-the-[dots][coloring3] sheets featuring the
@@ -148,6 +149,7 @@ As usual, our kids loved [coloring][coloring1] and
 time: 15 minutes
 supplies: U.S. Puzzle, Globe
 ```
+> Bartholdi had created many other statues and monuments, but this one was to be very special. It was to be a present from the people of France to the people of America, as a remembrance of the old friendship between the two countries.
 
 When the Statue of Liberty was unveiled in New York’s harbor in 1886,
 the United States had grown to 38 states. Colorado was the most
@@ -178,7 +180,7 @@ reach its destination in New York.
 
 ---
 
-## Famous American Texts: The New Colossus {#text}
+## Famous American Texts: _The New Colossus_ {#text}
 
 ```metadata
 time: 5-10 minutes
@@ -221,7 +223,7 @@ and how it starts out “ABBA” but changes at the end to “CDCDCD” when
 Liberty starts speaking.
 
 Ask them to memorize the famous line from the poem, in bold
-below. Practice each day after reading the story to them.
+above. Practice each day after reading the story to them.
 
 [rhyme scheme]: https://literarydevices.net/rhyme-scheme/
 
@@ -232,8 +234,41 @@ below. Practice each day after reading the story to them.
 ```metadata
 time: TODO
 ```
+> At last, in 1886, Liberty was standing where she belonged. A wonderful celebration was held.
 
-TODO
+The Statue of Liberty is one of the preeminent symbols of the United States of America. Even though it originated in France, we think of it “as American as apple pie.” Interestingly enough, apple pie also has its origins in old Europe. In fact, apple trees are not native to America and had to be imported from Europe. 
+
+So, how did apple pie come to symbolize something that was typically American or patriotic? It started in 1796 when _American Cookery_, the very first American cookbook, was published. It contained two recipes for apple pies. Apple pie became a dish with widespread popularity throughout America. The expression “as American as apple pie” was first used in the 1800s but became much more widely used after World War II, when American soldiers, when asked what they were fighting for, answered “for Mom and apple pie.”
+
+Apropos the European origin of the apple pie and America’s propensity for borrowing many of our cultural elements, the recipe below comes from the picture book _How to Make an Apple Pie and See the World_.
+
+![Apple Pie book cover](applepie.jpeg)
+{.center} 
+
+You can make your own pie crust (yes, there is a recipe in the story for pie crust also). But the simpler method we used was to purchase a two-pack of frozen pie crusts.
+
+### Ingredients
+
+* 5-7 apples
+* 3/4 cup sugar
+* 1 teaspoon cinnamon
+* 1/4 teaspoon salt
+* 2 tablespoons butter
+
+### Directions
+
+1) Preheat over to 425 degrees
+2) In a large bowl, mix together sugar, cinnamon, and salt.
+3) Peel, core, and cut apples into 1/2 inch slices.
+4) Toss the apples into the sugar mixture, coating them well.
+5) Arrange the apple slices in the pie pan, piling them higher in the center.
+6) Dot with butter.
+7) Moisten the edge of the bottom crust with water.
+8) Cover the pie with the top crust, trim the edge, then pinch top and bottom edges together.
+9) Cut some vents in the top crust.
+10) To glaze the crust, mix an egg yolk with 1 tablespoon of water. Brush the mixture over the surface of the top crust.
+11) Bake 45 minutes or until apples are tender and crust is golden brown.
+12) Remove pie and allow to cool before serving.
 
 ---
 
@@ -244,6 +279,7 @@ time: 20 minutes
 prep: 10 minutes
 supplies: Pennies, Bowl, Vinegar, Salt, Towel
 ```
+> Then, a skin of gleaming copper was put onto the skeleton and held in place by iron straps. As the huge statue grew, all of Paris watched with great fascination.
 
 Both _The Story of the Statue of Liberty_ and _Her Right Foot_
 describe how the Statue of Liberty is made from copper and started out
@@ -284,7 +320,7 @@ As an additional control, we included nickels with the pennies. We
 thought we would demonstrate the difference between copper and
 nickel. Our expectation was that the nickel would not be oxidized. To
 our surprise, we learned that nickels are actually made up of 75%
-copper. It oxidized and turned bluishgreen just as readily as the
+copper. It oxidized and turned bluish-green just as readily as the
 pennies. Ah, the serendipity of science :-)
 
 ![Coins before oxidation](oxidation-before.jpg)
@@ -300,6 +336,7 @@ The nickel is in the 12 o’clock position.
 time: 10-15 minutes
 toc: "Science: Take a Virtual Tour"
 ```
+> First, a huge skeleton was constructed from strong steel.
 
 The Statue of Liberty is an engineering marvel. Alexandre Gustave
 Eiffel, the man who later built the Eiffel Tour, developed her
@@ -322,6 +359,7 @@ time: 20 minutes
 prep: 30 minutes
 supplies: Sheet, Flashlight, Headband, Foil
 ```
+> Many people worked together in a large workshop. Some worked on Liberty's head and crown. Others worked on her right hand which would hold the torch.
 
 This activity was fairly spontaneous and turned into a huge hit with
 the kids. One of their aunts suggested including more dress-up and
@@ -345,17 +383,30 @@ at night with the lights off.
 
 ---
 
-## Supplemental Reading: Liberty's Journey {#liberys-journey}
+## Supplemental Reading: _Liberty's Journey_ {#libertys-journey}
 
 ```metadata
 time: 10 minutes
 ```
+> But one day, Lady Liberty
+> wished that she could roam and see
+> the people who had come and gone;
+> the land they built their dreams upon.
+{.nowrap}
+
+![Liberty's Journey book cover](journey.jpeg)
+{.center}
+
+**Title:** _Liberty's Journey_<br>
+**Author:** Kelly DiPucchio<br>
+**Illustrator:** Richard Egielski<br>
+**Year Published:** 2004<br>
+**Length:** 40 pages
 
 _The Story of the Statue of Liberty_ provides a great history of how
 the Statue of Liberty was built, from the inspiration, the
 fundraising, the transport, to its dedication in New York
-Harbor. _Liberty’s Journey_ (by Kelly DiPucchio and Richard Egielski)
-is a fun supplement, telling the story of how Liberty decides to
+Harbor. _Liberty’s Journey_ is a fun supplement, telling the story of how Liberty decides to
 explore our great country by going for a walk from sea to shining sea
 (and back again, once she received the letter begging her to return
 from the people of New York). We used this as a springboard to discuss
@@ -364,14 +415,24 @@ enjoyed the discussion and was able to distinguish between the two.
 
 ---
 
-## Supplemental Reading: Her Right Foot {#her-right-foot}
+## Supplemental Reading: _Her Right Foot_ {#her-right-foot}
 
 ```metadata
 time: 10 minutes
 ```
+> But no one talks about the fact that she is walking! This 150-foot woman is on the go!
 
-_Her Right Foot_ (by Dave Eggers and Shawn Harris) is another great
-(non-fiction) story about the Statue of Liberty. Eggers recounts the
+![Her Right Foot book cover](rightfoot.jpeg)
+{.center}
+
+**Title:** _Her Right Foot_<br>
+**Author:** Dave Eggers<br>
+**Illustrator:** Shawn Harris<br>
+**Year Published:** 2017<br>
+**Length:** 112 pages
+
+_Her Right Foot_ is another great
+(non-fiction) story about the Statue of Liberty. Dave Eggers recounts the
 history of the Statue of Liberty. But he then goes on to point out
 something about Liberty that very few people notice: her right foot is
 clearly in mid-stride. Liberty is on the move!
@@ -412,6 +473,7 @@ from the Lazurus poem.
 ```metadata
 time: 10 minutes
 ```
+> Bartholdi himself unveiled Liberty's face and she stood, gleaming in all her glory, for everyone to see.
 
 The author uses a number of words associated with erecting a gigantic
 statue that your child(ren) may not be familiar with: skeleton,
@@ -435,6 +497,9 @@ Unveiled
 Immigrants
 : people who move to another country
 
+Tablet
+: a flat surface with words inscribed or carved on it
+
 ---
 
 ## History: Symbolism
@@ -442,6 +507,7 @@ Immigrants
 ```metadata
 time: 10 minutes
 ```
+> The Statue of Liberty is a truly unforgettable sight -- a symbol of all that is America.
 
 Liberty was one of the most popular symbols of America long before the
 Statue of Liberty was conceived. All of our coins not only had the
@@ -473,6 +539,7 @@ important symbols? (What does the cross symbolize to Christians?)
 ```metadata
 time: 10 minutes
 ```
+> With the help of a large New York newspaper, the money was raised. People all over the country, including children, sent in whatever they could.
 
 Tens of thousands of people donated funds for the Statue of Liberty
 and her pedestal—including many children. Remind your child(ren) of
@@ -493,6 +560,7 @@ Children’s Research Hospital][stjude].
 ```metadata
 time: 10-20 minutes
 ```
+> Liberty was put back together like a giant puzzle. The statue had been built not once, but twice!
 
 One of the amazing aspects of the history of the Statue of Liberty is
 how it was built twice, first in France and then in America. You can
