@@ -6,6 +6,12 @@
 //  * adjust the TTL for different kinds of links (seem good, manual 403s)
 //  * download a new copy of links.json with adjusted data to overwrite
 
+// TODO - save cache to disk, reuse w/in same day???
+//      - maybe provide a different kind of check, e.g. for extra junk on links
+//         - know how to prune amazon links?
+//         - use various url shorteners?
+
+
 import type * as Metalsmith from 'metalsmith';
 import * as http from 'node:http';
 import * as https from 'node:https';
