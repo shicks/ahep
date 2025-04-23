@@ -359,6 +359,14 @@ p.center {
     max-width: 50%;
     max-height: 35vh;
   }
+  &.large img {
+    max-width: 75%;
+    max-height: 40vh;
+  }
+  &.larger img {
+    max-width: 100%;
+    max-height: 45vh;
+  }
   &.small img {
     max-height: 20vh;
   }

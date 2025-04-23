@@ -265,15 +265,8 @@ Prepare several “strings of DNA” by tying several different colors of string
 
 Cross the strings over each other (picture 2 below). Tie the first string (green here) in a simple overhand knot around the other (picture 3). Tie the second string (purple here) in a simple overhand knot around the first (picture 4). Note that with the knots arranged as in this picture, the lower strands will be cut off; the longer ends that will remain attached should each be going through a knot. Pull the knots as tight as possible (picture 5), then pull on the long ends to bring the knots together (picture 6). The loose ends can now be cut off very close to the knots (picture 7).
 
-![Double Helix](dh1.jpeg)
-![Double Helix](mg1.jpeg)
-![Double Helix](mg2.jpeg)
-![Double Helix](mg3.jpeg)
-![Double Helix](mg4.jpeg)
-![Double Helix](mg5.jpeg)
-![Double Helix](mg6.jpeg)
-![Double Helix](mg7.jpeg)
-{.center}
+![DNA crossover knot with strings](knot.jpg)
+{.center .large}
 
 ### Directions
 
