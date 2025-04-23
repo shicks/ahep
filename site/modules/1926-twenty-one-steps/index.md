@@ -62,7 +62,7 @@ freq: daily
 
 _Taps_ is a distinctive tune, a bugle call, traditionally played at military funerals and memorials. General Daniel Butterfield, commanding a brigade of the Army of the Potomac during the Civil War, composed Taps as a signal to his men that it was time for “lights out” at the end of the day. The tune was so popular it spread to other Union forces and eventually to the Confederates as well. Soon after its debut, it was also played at a military funeral, as a substitute for the traditional 21-gun salute, because of the fear that firing the guns would be mistaken as an attack due to the proximity of the enemy. In 1891 the haunting tune was officially adopted as a standard for military funerals.
 
-At Arlington National Cemetery you can hear _Taps_ played several times a day. [This version}[song1] on YouTube shows members of the United States Army Band playing it in both summer and winter. [Here is another version][song2], with a drum introduction, played at the Tomb of the Unknown Soldier.
+At Arlington National Cemetery you can hear _Taps_ played several times a day. [This version][song1] on YouTube shows members of the United States Army Band playing it in both summer and winter. [Here is another version][song2], with a drum introduction, played at the Tomb of the Unknown Soldier.
 
 The author of the best-known lyrics for _Taps_ is unknown. Also known as “Day Is Done,” they are not part of military honors. However the first verse has been widely adopted by American scouting organizations and is sung at the end of the day.
 > Day is done, gone the sun,
