@@ -10,7 +10,7 @@ when: 2001
 
 On September 11, 2001 (9/11), Islamic terrorists hijacked four airplanes full of passengers and turned them into suicide bombs. Two of them struck the Twin Towers of the World Trade Center in New York causing them to collapse, a third struck the Pentagon in Washington, DC, and the fourth was aimed at either the White House or the Capitol before the passengers on Flight 93 fought back, causing the plane to crash in western Pennsylvania.
 
-Fireboat: The Heroic Adventures of the John J. Harvey tells the story of how a group of people voluntarily saved, restored, and preserved an aging fireboat. On the morning of 9/11, the crew of the John J. Harvey answered the call for help, at first ferrying people to safety as part of the largest volunteer boat lift in history. Then they answered a second call for help, re-entering service as a fireboat when the Manhattan water pipes were broken and buried.
+_Fireboat: The Heroic Adventures of the John J. Harvey_ tells the story of how a group of people voluntarily saved, restored, and preserved an aging fireboat. On the morning of 9/11, the crew of the John J. Harvey answered the call for help, at first ferrying people to safety as part of the largest volunteer boat lift in history. Then they answered a second call for help, re-entering service as a fireboat when the Manhattan water pipes were buried and broken.
 
 This wonderful story illustrates the resilience of the American people when tragedy strikes, as well as their kindness and generosity in coming together to help one another.
 
@@ -60,7 +60,7 @@ freq: daily
 
 > Where were you when the world stopped turning on that September day?
 
-Dozens of songs were written about 9/11; Wikipedia currently lists over 180, several of them performed but never released. For our American Heritage Songbook, we selected Where Were You (When the World Stopped Turning) by Alan Jackson. [First performed at the Country Music Association’s annual awards show][song1] just a few weeks after 9/11, the song won the Song of the Year award at both the Country Music Association and the Academy of Country Music. It also won a Grammy for Best Country Song. Where Were You topped the Billboard’s country chart for five weeks. [This version on YouTube][song2] has the lyrics and images from 9/11.
+Dozens of songs were written about 9/11; Wikipedia currently lists over 180, several of them performed but never released. For our American Heritage Songbook, we selected _Where Were You (When the World Stopped Turning)_ by Alan Jackson. [First performed at the Country Music Association’s annual awards show][song1] just a few weeks after 9/11, the song won the Song of the Year award at both the Country Music Association and the Academy of Country Music. It also won a Grammy for Best Country Song. _Where Were You_ topped the Billboard’s country chart for five weeks. [This version on YouTube][song2] has the lyrics and images from 9/11 (so view with caution).
 
 The chorus includes a paraphrase from Paul’s first letter to the Corinthians:
 
@@ -139,7 +139,7 @@ The Twin Towers were located on Manhattan Island. When they collapsed on 9/11, h
 
 How do you get off an island when all the bridges and tunnels are closed? The solution was the 9/11 Boat Lift. Hundreds of boats, all shapes and sizes, answered the Coast Guard’s call. Working together, on the darkest day of New York’s history, they ferried over 500,000 people to safety in nine hours – the biggest boat lift in history.  We usually consider  police, firefighters, and paramedics as first responders. On 9/11, the crews of every boat in New York Harbor were also first responders.  [This short documentary][documentary] (12 minutes), narrated by Tom Hanks, tells that dramatic story.
 
-Many of the people were evacuated by boat from Battery Park. Take a look at this map, and ask your kids to locate the 9/11 Memorial (former location of the Twin Towers) and Battery Park, where most of the evacuees were picked up by the 9/11 Boat Lift. Use the key in the lower left to estimate the distance to Battery Park from the Twin Towers.
+Many of the people were evacuated by boat from Battery Park. [Take a look at this map][map2], and ask your kids to locate the 9/11 Memorial (former location of the Twin Towers) and Battery Park, where most of the evacuees were picked up by the 9/11 Boat Lift. Use the key in the lower left to estimate the distance to Battery Park from the Twin Towers.
 
 [map1]: https://worksheets.clipart-library.com/worksheet/printable-map-of-manhattan-island-1.html
 [documentary]: https://www.youtube.com/watch?v=18lsxFcDrjo
@@ -158,7 +158,7 @@ freq: once
 
 The Twin Towers in New York City were not the only targets of the Islamic terrorists. They also claimed victims at the Pentagon in Washington, DC. A fourth plane was aimed at either the White House or the Capitol before passengers forced it to crash in an open field in western Pennsylvania. 9/11 memorials were raised at all three sites: the [9/11 Pentagon Memorial][pentagon] opened on September 11, 2008 and both the [Flight 93 National Memorial][flight93] in Pennsylvania and the [National September 11 Memorial and Museum][nycmemorial] in New York opened in 2011 on the tenth anniversary of the attacks.
 
-The quote above is from a speech, The World Will Always Remember 9/11, that President Bush delivered at the Pentagon on September 11, 2002, as part of a memorial service that marked the one year anniversary of the attacks. He referenced the bravery and self-sacrifice of the first responders, the firefighters who went up into the burning towers and never came down, and the Flight 93 passengers who understood what was happening and prevented the fourth attack.
+The quote above is from a speech, _The World Will Always Remember 9/11_, that President Bush delivered at the Pentagon on September 11, 2002, as part of a memorial service that marked the one year anniversary of the attacks. He referenced the bravery and self-sacrifice of the first responders, the firefighters who went up into the burning towers and never came down, and the Flight 93 passengers who gave their lives to prevent the fourth attack.
 
 You can read the full text of the speech, or hear the full four minute speech delivered by President Bush, [here][speech].
 
@@ -181,7 +181,7 @@ supplies: sugar, yeast, flour, salt, cornmeal, pizza sauce, cheese, toppings
 
 New York Style Pizza has a thin crust that is often hand tossed. It is crispy at the edges and softer in the middle - so soft that it is possible to fold the pizza in half and eat it more like a sandwich.
 
-### Ingredients (double recipe for 12-inch New York style crust)
+### Ingredients (for 12-inch New York style crust, double the ingredients below)
 
 * ⅔ cup warm water (110-115 degrees Fahrenheit)
 * 1 teaspoon sugar
@@ -214,7 +214,7 @@ Note that instead of making a thin crust New York Style pizza, you can also purc
 15. Press dough into pan.
 16. Preheat oven to 500 degrees Fahrenheit.
 
-Alternatively (or if using a premade crust), shape into a circle (or other 9/11 shape such as long thin rectangles to represent the Twin Towers).
+Alternatively (or if using a premade crust), shape into a circle (or other 9/11 shape such as two long thin rectangles to represent the Twin Towers).
 
 Once crust is made:
 
@@ -265,7 +265,7 @@ Science Officer explanation goes here
 ![pumping](pumping.jpeg)
 {.center}
 
-The John J. Harvey was designed to be the largest and most powerful fireboat in the world when it was launched in 1931, and was capable of pumping 16,000 gallons of water per minute. To give a sense of this, put one gallon of water in a bucket (fun fact: did you know a human heart pumps 1.5 gallons of blood per minute) and take a one cup measuring spoon. Try to see if you can “pump” one gallon of water from one bucket into another within one minute.
+The John J. Harvey was designed to be the largest and most powerful fireboat in the world when it was launched in 1931, and was capable of pumping 18,000 gallons of water per minute. To give a sense of this, put one gallon of water in a bucket and take a measuring cup. Try to see if you can “pump” one gallon of water from one bucket into another within one minute by using the measuring cup to scoop water from one bucket to another. (Fun Fact: did you know a human heart pumps 1.5 gallons of blood per minute?)
 
 [youtube1]: https://www.youtube.com/watch?v=bN_kNc86Cdg
 ---
@@ -315,6 +315,8 @@ supplies: Play-doh or modeling clay, glass bowl, tea candle, matches, baking sod
 
 > [The Harvey] fought fires at the bustling piers. … It fought the fire of the great ocean liner Normandie.
 
+This science activity also involves fire so adult supervision is required!
+
 ### Supplies
 
 * Play-doh or modeling clay
@@ -329,7 +331,7 @@ supplies: Play-doh or modeling clay, glass bowl, tea candle, matches, baking sod
 
 1. Use a little bit of play-doh or modeling clay to secure the tea candle to the bottom of the glass bowl.
 2. Sprinkle baking soda all around the candle until it covers the bottom of the bowl (about ¼ inch high).  You should not cover the candle with the baking soda.
-3. Light the candle and observe the flame.  Is it strong and steady?
+3. Light the candle and observe the flame (adult supervision required).  Is it strong and steady?
 4. Slowly pour some vinegar onto the baking soda.  Do NOT pour directly onto the candle.  Pour a little bit at a time (ultimately dissolving all the baking soda).
 5. What happens to the flame?
 6. Immediately try to re-light the candle.  Why doesn’t it work?
@@ -337,7 +339,7 @@ supplies: Play-doh or modeling clay, glass bowl, tea candle, matches, baking sod
 ![Extinguishing flame with foam](foam.jpeg)
 {.center}
 
-Point out that the baking soda and vinegar never touch the candle/flame.  If you have done the requirements for the fire experiment, ask which component got removed when the vinegar was added. [SCIENCE OFFICER PROVIDE DETAILS AND FURTHER DISCUSSION]
+Point out that the baking soda and vinegar never touch the candle/flame.  If you have done the previous science activity, ask which component got removed when the vinegar was added? [SCIENCE OFFICER PROVIDE DETAILS AND FURTHER DISCUSSION]
 
 This was almost like magic!  Parents and children alike were amazed when the flame flickered out seemingly on its own without contact from anything.
 
@@ -415,13 +417,14 @@ There are at least three different picture books that tell the story of the Call
 
 ```metadata
 time: 10 minutes
+freq: daily
 ```
 
 > And now these three remain: faith, hope and love.
 > But the greatest of these is love.
 {.nowrap}
 
-1 Corinthians 13:13  is one of the most popular and oft quoted verses in the Bible. The verse was paraphrased in Alan Jackson’s Grammy-winning song about 9/11 (see above). It speaks to the timeless nature of these foundational values of Christianity – and how the greatest of these is love. This verse is the summation of Paul’s magnificent description in 1 Corinthians 13 of how love underpins all the other virtues (“if I have a faith that can move mountains, but have not love, I am nothing”).
+1 Corinthians 13:13  is one of the most popular and oft quoted verses in the Bible. The verse was paraphrased in Alan Jackson’s Grammy-winning song about 9/11 (see above). It speaks to the timeless nature of these foundational truths – and how the greatest of these is love. This verse is the summation of Paul’s magnificent description in 1 Corinthians 13 of how love underpins all the other virtues (“if I have a faith that can move mountains, but have not love, I am nothing”).
 
 Read all of 1 Corinthians 13 to your children. Then ask them to memorize this verse.
 
@@ -459,10 +462,10 @@ Propellers
 Brass
 : a yellow combination of copper and zinc
 
-Rivets
+Rivet
 : a metal pin used to connect two pieces of metal
 
-Barnacles
+Barnacle
 : a marine crustacean with an external shell, which attaches itself permanently to a variety of surfaces.
 
 Welding
@@ -488,7 +491,7 @@ time: 10 minutes
 {.nowrap}
 
 
-When reading _Fireboat_, you may notice that the author, Maira Kalman, is playing with the text. Look at the cover. The sub-title of the book, (“The Heroic Adventures of the John J. Harvey”), is in an arc, like the words were pumped out of a firehose. The author’s name, in the lower right,  looks like it is floating on gentle water ripples. On the first page, the word “big” is printed in a larger font and “small” uses a smaller font size. Some words follow the curves of the artwork (George Washington Bridge). This is called semantic  typography, where the shape and position of the words themselves have meaning. Read through the story and ask your kids to point out instances of semantic typography. Then, ask them why they think the author used it?
+When reading _Fireboat_, you may notice that the author/illustrator, Maira Kalman, is playing with the text. Look at the cover. The sub-title of the book, (“The Heroic Adventures of the John J. Harvey”), is in an arc, like the words were pumped out of a firehose. The author’s name, in the lower right,  looks like it is floating on gentle water ripples. On the first page, the word “big” is printed in a larger font and “small” uses a smaller font size. Some words follow the curves of the artwork (George Washington Bridge). This is called "semantic typography," where the shape and position of the words themselves have meaning. Read through the story and ask your kids to point out instances of semantic typography. Then, ask them why they think the author used it?
 
 Finally, ask them to write a sentence, paragraph, or short story that uses semantic typography.
 
@@ -502,15 +505,15 @@ time: 10-20 minutes
 
 > The heroes who died will be remembered forever.
 
-On all the crash sites memorials have been built to remember the events of 9/11. Discuss with your children what purpose a memorial has, maybe plan to visit a local memorial. Look at photos of the various 9/11 Memorials, discuss how the artists choose to remember the events of 9/11. What did the artists emphasize?  How do the Memorials make you feel? Why was that location chosen for the memorial? 
+On all the crash sites, memorials have been built to remember the events of 9/11. Discuss with your children what purpose a memorial has, maybe plan to visit a local memorial. Look at photos of the various 9/11 Memorials, discuss how the artists choose to remember the events of 9/11. What did the artists emphasize?  How do the Memorials make you feel? Why was that location chosen for the memorial? 
 
 These are the best known 9/11 memorials in the USA:
 
 The Pentagon (Arlington, Virginia) has the [National 9/11 Memorial][pentagon] - 184 illuminated benches arranged according to the victims' ages, starting with Dana Falkenberg (age 3) to John Yamnicky Sr. (71).
 
-[Flight 93 National Memorial][flight93]. The Tower of Voices (Stoystown, Pennsylvania) - A common field one day, a field of honor forever. It has a wall of names of all the victims. It has a massive wind chime tower, the only like it in the world. There is one chime for each passenger and crew member.
+[Flight 93 National Memorial][flight93]. The Tower of Voices (Stoystown, Pennsylvania) - A common field one day, a field of honor forever. It has a wall of names of all the victims. It has a massive wind chime tower, the only like it in the world. There is one chime for each passenger and crew member. There is also an engaging museum with recordings of the passengers making their final phone calls.
 
-[National September 11 Memorial & Museum][nycmemorial] (New York City, New York) - A museum that tells the stories through artifacts, imagery, personal stories and more. The museum has The Last Column, the final piece of the World Trade Center steel that was removed from Ground Zero and the twin reflecting pool set in the footprints of the original towers.
+[National September 11 Memorial & Museum][nycmemorial] (New York City, New York) - A museum that tells the stories through artifacts, imagery, personal stories and more. The museum has The Last Column, the final piece of the World Trade Center steel that was removed from Ground Zero and twin reflecting pools set in the footprints of the original towers.
 
 After viewing one or more of the memorials above, ask your children to draw their own version of a 9/11 memorial.
 
@@ -559,9 +562,9 @@ time: 15 minutes
 
 What is a hero and how can people show gratitude to those who act heroically in their own communities? Who are your heroes? What makes them a hero for you? Can a regular person become a hero? How?
 
-Many people became heroes on 9/11, simply by their willingness to help. Some people allowed strangers to take a rest at their homes, others offered free meals. Some acts of kindness happened far away. For example, due to the attacks the entire U.S. airspace was closed off and planes that were already up in the air were diverted. Many plans from Europe, which had already crossed the Atlantic, ended up grounded in Canada. The small town of Gander in Newfoundland welcomed 6,500 stranded passengers from around the globe, offering them food, shelter and comfort for five days before the airspace slowly opened up again. The Canadian city converted churches and schools into makeshift shelters. 
+Many people became heroes on 9/11, simply by their willingness to help. Some people allowed strangers to take a rest at their homes, others offered free meals. Some acts of kindness happened far away. For example, due to the attacks the entire U.S. airspace was closed off and planes that were already up in the air were diverted. Many planes from Europe, which had already crossed the Atlantic, ended up grounded in Canada. The small town of Gander in Newfoundland welcomed 6,500 stranded passengers from around the globe, offering them food, shelter and comfort for five days before the airspace slowly opened up again. The Canadian city converted churches and schools into makeshift shelters. 
 
-In times of crisis, we all need to be willing to help when the need arises. Tell your children this week/month you want them to look for a way to be helping others! If you see trash that needs to be picked up, don't just notice it, act on it and clean it up. Within your own family, teach your kids to ask “what can I do for you?” Can I help a little sibling with a school project? Can I help my parents with loading the dishwasher/folding laundry/making a meal plan? Etc. Challenge your child(ren) to act as heroes in small ways everyday.  It may also be helpful to come up with some larger service project to emphasize this (volunteering at an event, participating in a community clean up day, etc.).
+In times of crisis, we all need to be willing to help when the need arises. Tell your children this week/month you want them to look for a way to be helping others! If you see trash that needs to be picked up, don't just notice it, act on it and clean it up. Within your own family, teach your kids to ask “what can I do for you?” Can I help a little sibling with a school project? Can I help my parents with loading the dishwasher/folding laundry/making a meal plan? Challenge your child(ren) to act as heroes in small ways everyday.  It may also be helpful to come up with some larger service project to emphasize this (volunteering at an event, participating in a community clean up day, etc.).
 
 ---
 
@@ -591,7 +594,7 @@ time: 15 minutes
 > For four days and nights the Harvey pumped water.
 {.nowrap} 
 
-Assume the Harvey was pumping water at its maximum capacity (18,000 gallons per minute) for all four days and nights. How many gallons of water did the Harvey pump? (4 days x 24 hours/day x 60 minutes/hour 4 x 18,000 gallons/minute)
+Assume the Harvey was pumping water at its maximum capacity (18,000 gallons per minute) for all four days and nights. How many gallons of water did the Harvey pump? (4 days x 24 hours/day x 60 minutes/hour x 18,000 gallons/minute = 103,680,000 gallons)
 
 Before the Harvey was recruited to put out fires, it was part of the 9/11 Boat Lift, rescuing people from the Museum of Jewish Heritage in Battery Park and dropping them off at Pier 40 along the Hudson River. Assuming the Harvey traveled at its top speed, how long was the round trip  travel time if the distance between Battery Park and Pier 40 was 2.5 miles? (15 minutes or ¼ of an hour; round trip = 5 miles; 20 miles/hour = 5 miles/? 5/20 = x hours ).
 
