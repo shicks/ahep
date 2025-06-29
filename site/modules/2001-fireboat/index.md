@@ -240,24 +240,27 @@ supplies: plastic cup, balloon, water, scissors, toothpick, bendable plastic str
 > The water pipes were broken and buried.  And the fire trucks that had raced to the scene could not pump water.  The firefighters attached hoses to the Harvey.  … For four days and nights the Harvey pumped water.
 
 A pump is a mechanical device to move fluids, essentially a "water
-pusher".  You may be surprised how many pumps you can find in your own
+pusher". You may be surprised how many pumps you can find in your own
 house, including soap dispensers, washing machines, dishwashers, and
 water heaters.  There's even a pump involved in pouring water out of
 sink faucets (though if you live in a city, this pump could be miles
-away).  Most industrial and appliance pumps use spinning blades to
-push the water.  You can think of a boat's propellor, but instead of
+away). Most industrial and appliance pumps use spinning blades to
+push the water. You can think of a boat's propellor, but instead of
 pushing the boat through the water, it pushes the water through the
-pump.  A simpler way to push water is through mechanical pressure.
+pump. 
+
+A simpler way to push water is through mechanical pressure.
 Since water is virtually _incompressible_, pushing water _into_ one
 end of a filled pipe means that water needs to be pushed _out of_ the
-other end.  A common example of this is a water tower: here, gravity
+other end. A common example of this is a water tower: here, gravity
 (i.e. the weight of the water in the tower) is pushing the water
-_into_ the pipe at the bottom of the reservoir.  This creates
-_pressure_ to push water _out of_ the pipe at the other end.  Here
-we'll make a simple pump that translates air pressure into water
-pressure to push water through a straw.  When we press on the balloon,
+_into_ the pipe at the bottom of the reservoir. This creates
+_pressure_ to push water _out of_ the pipe at the other end. 
+
+Here we'll make a simple pump that translates air pressure into water
+pressure to push water through a straw. When we press on the balloon,
 it compresses the air at the top of the cup, increasing the air
-pressure and causing the air to push harder on the water.  If the
+pressure and causing the air to push harder on the water. If the
 increased pressure is enough to lift the water up the straw against
 gravity, then water will squirt out the other side.
 
@@ -295,29 +298,26 @@ The John J. Harvey was designed to be the largest and most powerful fireboat in 
 ```metadata
 time: 20-30 minutes
 prep: 10-20 minutes
-supplies: tea candles, matches, spray bottle, glass jar
+supplies: tea candles, matches, spray bottle, glass bowl, Play-Doh or modeling clay, baking soda, vinegar
 ```
 
 > The Harvey went up and down the river, fighting fires.
 
-Fires require three ingredients: fuel, an oxidizer (typically oxygen),
-and heat.  This activity shows what happens to a flame when it is
-deprived of any one of these ingredients.  This fire safety activity
-comes from the [Pencil, Glue & Tying Shoes][science1] blog. **Adult
-supervision required!**
+Fires require three things: heat, air, and fuel.  This activity shows what happens to a flame when it is deprived of one of these items. This fire safety activity comes from the [Pencil, Glue & Tying Shoes][science1] blog. Adult supervision required!
 
 Older students may appreciate the following more detailed explanation.
 The _combustion reaction_ behind a fire is a chemical reaction between
-the fuel and the oxidizer.  For example, when burning methane, the
+the fuel and the oxidizer. For example, when burning methane, the
 reaction is CH₄ (methane gas) + 2 O₂ (oxygen gas) ⟶ CO₂ (carbon
 dioxide gas) + 2 H₂O (water) + Energy (see if your student can count
 the number of each element on each side to show that they balance).
+
 Notice that this reaction is _exothermic_: it produces energy as a
 byproduct, but it also requires a certain (smaller) amount of
 _activation energy_ to initially break some of the chemical bonds
-before it can get started.  This is why gas leaks can be so dangerous,
+before it can get started. This is why gas leaks can be so dangerous,
 you can build up large amounts of two ingredients, just waiting for
-the activation energy.  Once the reaction starts, though, the released
+the activation energy. Once the reaction starts, though, the released
 energy is more than enough to keep an explosive reaction going until
 one of the other two ingredients runs out.
 
@@ -326,7 +326,7 @@ one of the other two ingredients runs out.
 * Three tea candles (or other small candles)
 * Matches or some sort of lighter
 * Spray bottle with water
-* Glass cup or jar
+* Glass bowl, cup or jar
 
 ### Directions
 
@@ -342,19 +342,7 @@ one of the other two ingredients runs out.
 
 [science1]: https://pencilsglueandtyingshoes.blogspot.com/2011/10/fire-safety-science-project.html
 
----
-
-## Science: Extinguishing Fire with Foam {#fire2}
-
-```metadata
-time: 15-30 minutes
-prep: 10-20 minutes
-supplies: Play-doh or modeling clay, glass bowl, tea candle, matches, baking soda, vinegar
-```
-
-> [The Harvey] fought fires at the bustling piers. … It fought the fire of the great ocean liner Normandie.
-
-This science activity also involves fire so **adult supervision is required!**
+While most fires can be extinguished with water there are some where water actually spreads the fire or can cause extensive damage by itself. For example, pumping water on grease and oil fires spread the fire wider. When valuable electronic equipment is at risk, extinguishing a fire with water can cause extensive damage. In these situations, it is best to extinguish a fire using something other than water. The following activity illustrates how this might work.
 
 ### Supplies
 
@@ -378,14 +366,14 @@ This science activity also involves fire so **adult supervision is required!**
 ![Extinguishing flame with foam](foam.jpeg)
 {.center}
 
-Point out that the baking soda and vinegar never touch the candle/flame.  If you have done the previous science activity, ask which component got removed when the vinegar was added?
+Point out that the baking soda and vinegar never touch the candle/flame.  If you have done the previous science activity, ask which component got removed when the vinegar was added? 
 
 Here's what's happening: when you mix baking soda (a weak base) with
 vinegar (a weak acid), it quickly releases a lot of carbon dioxide.
 For the older students, that's NaHCO₃ (baking soda) + CH₃COOH
-(vinegar) ⟶ CH₃COONa + H₂O + CO₂.  You can think about it as the Na
+(vinegar) ⟶ CH₃COONa + H₂O + CO₂. You can think about it as the Na
 swapping places with the H, and then the H₂CO₃ breaks down further
-into H₂O and CO₂.  Now, carbon dioxide is heavier (more dense) than
+into H₂O and CO₂. Now, carbon dioxide is heavier (more dense) than
 oxygen, so it "pours into" and eventually fills the bowl, pushing the
 lighter oxygen up and out, and starving the flame of its oxidizer.
 
