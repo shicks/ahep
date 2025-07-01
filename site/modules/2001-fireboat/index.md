@@ -8,11 +8,11 @@ when: 2001
 
 ## Introduction
 
-On September 11, 2001 (9/11), Islamic terrorists hijacked four airplanes full of passengers and turned them into suicide bombs. Two of them struck the Twin Towers of the World Trade Center in New York causing them to collapse, a third struck the Pentagon in Washington, DC, and the fourth was aimed at either the White House or the Capitol before the passengers on Flight 93 fought back, causing the plane to crash in western Pennsylvania.
+On September 11, 2001 (9/11), terrorists hijacked four airplanes full of passengers. Two of them struck the Twin Towers of the World Trade Center in New York causing them to collapse, a third struck the Pentagon near Washington, DC, and the fourth was aimed at either the White House or the Capitol before the passengers on Flight 93 fought back, resulting in the plane crashing in western Pennsylvania. The recency of these events makes this a challenging topic to discuss, particularly since many parents lived through 9/11 and have their own personal feelings and perspectives.
 
-_Fireboat: The Heroic Adventures of the John J. Harvey_ tells the story of how a group of people voluntarily saved, restored, and preserved an aging fireboat. On the morning of 9/11, the crew of the John J. Harvey answered the call for help, at first ferrying people to safety as part of the largest volunteer boat lift in history. Then they answered a second call for help, re-entering service as a fireboat when the Manhattan water pipes were buried and broken.
+_Fireboat: The Heroic Adventures of the John J. Harvey_ tells the story of how a group of people voluntarily saved, restored, and preserved an aging fireboat. On the morning of 9/11, the crew of the John J. Harvey answered the call for help, at first ferrying people to safety as part of the largest volunteer boat lift in history. Then they answered a second call for help, re-entering service as a fireboat when the Manhattan water pipes were broken and buried.
 
-This wonderful story illustrates the resilience of the American people when tragedy strikes, as well as their kindness and generosity in coming together to help one another.
+This wonderful story illustrates the resilience of the American people when tragedy strikes, as well as their self-sacrifice, courage, kindness and generosity in coming together to help one another. These traits were exhibited all over the country (not just in New York City) during this time and the aftermath.
 
 ---
 
