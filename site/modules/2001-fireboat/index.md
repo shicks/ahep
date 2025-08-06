@@ -4,13 +4,15 @@ title: Fireboat
 when: 2001
 ---
 
-# Terror From the Sky
+# Terror From the Sky On 9/11
 
 ## Introduction
 
-On September 11, 2001 (9/11), terrorists hijacked four airplanes full of passengers. Two of them struck the Twin Towers of the World Trade Center in New York causing them to collapse, a third struck the Pentagon near Washington, DC, and the fourth was aimed at either the White House or the Capitol before the passengers on Flight 93 fought back, resulting in the plane crashing in western Pennsylvania. The recency of these events makes this a challenging topic to discuss, particularly since many parents lived through 9/11 and have their own personal feelings and perspectives.
+_The recency of these events makes this a challenging topic to discuss, particularly since many parents lived through 9/11 and have their own personal feelings and perspectives._
 
-_Fireboat: The Heroic Adventures of the John J. Harvey_ tells the story of how a group of people voluntarily saved, restored, and preserved an aging fireboat. On the morning of 9/11, the crew of the John J. Harvey answered the call for help, at first ferrying people to safety as part of the largest volunteer boat lift in history. Then they answered a second call for help, re-entering service as a fireboat when the Manhattan water pipes were broken and buried.
+On September 11, 2001 (9/11), terrorists hijacked four airplanes full of passengers. Two of them struck the Twin Towers of the World Trade Center in New York City causing them to collapse, a third struck the Pentagon near Washington, DC, and the fourth was aimed at either the White House or the Capitol in Washington, DC before the passengers on Flight 93 fought back, resulting in the plane crashing in western Pennsylvania. 
+
+_Fireboat: The Heroic Adventures of the John J. Harvey_ tells the story of how a group of people voluntarily saved, restored, and preserved an aging fireboat. On the morning of 9/11, the crew of the John J. Harvey answered the call for help, at first ferrying people affected by the World Trade Center attack to safety as part of the largest volunteer boat lift in history. Then they answered a second call for help, re-entering service as a fireboat when the Manhattan water pipes were broken and buried.
 
 This wonderful story illustrates the resilience of the American people when tragedy strikes, as well as their self-sacrifice, courage, kindness and generosity in coming together to help one another. These traits were exhibited all over the country (not just in New York City) during this time and the aftermath.
 
@@ -93,7 +95,7 @@ September 11, 2001 provides an opportunity to discuss first responders (who are 
 
 ### Supplies
 
-* Empty cereal box or other thin cardboard
+* Empty cereal box or other thin cardboard or foam sheet
 * Aluminum foil
 * Scissors
 * Pencil
@@ -156,7 +158,7 @@ freq: once
 
 > This republic is young, but its memory is long. Now, we have inscribed a new memory alongside those others. It’s a memory of tragedy and shock, of loss and mourning. But not only of loss and mourning. It’s also a memory of bravery and self-sacrifice, and the love that lays down its life for a friend – even a friend whose name it never knew.  – President George W. Bush
 
-The Twin Towers in New York City were not the only targets of the Islamic terrorists. They also claimed victims at the Pentagon in Washington, DC. A fourth plane was aimed at either the White House or the Capitol before passengers forced it to crash in an open field in western Pennsylvania. 9/11 memorials were raised at all three sites: the [9/11 Pentagon Memorial][pentagon] opened on September 11, 2008 and both the [Flight 93 National Memorial][flight93] in Pennsylvania and the [National September 11 Memorial and Museum][nycmemorial] in New York opened in 2011 on the tenth anniversary of the attacks.
+The Twin Towers in New York City were not the only targets of the terrorists. They also claimed victims at the Pentagon in Washington, DC. A fourth plane was aimed at either the White House or the DC Capitol before passengers forced it to crash in an open field in western Pennsylvania. 9/11 memorials were raised at all three sites: the [9/11 Pentagon Memorial][pentagon] opened on September 11, 2008 and both the [Flight 93 National Memorial][flight93] in Pennsylvania and the [National September 11 Memorial and Museum][nycmemorial] in New York opened in 2011 on the tenth anniversary of the attacks.
 
 The quote above is from a speech, _The World Will Always Remember 9/11_, that President Bush delivered at the Pentagon on September 11, 2002, as part of a memorial service that marked the one year anniversary of the attacks. He referenced the bravery and self-sacrifice of the first responders, the firefighters who went up into the burning towers and never came down, and the Flight 93 passengers who gave their lives to prevent the fourth attack.
 
@@ -396,16 +398,16 @@ supplies: bucket, hose, water guns, chalk, solo cups, swimsuits
 
 * Bucket to hold water
 * Hose
-* Cannon water guns (can be purchased at the Dollar Tree (https://www.dollartree.com/h2o-blasters-plastic-water-squirters-26-in/252267) - these are the most similar to pumping water, but other water guns with a large spray could work) 
+* Cannon water guns ([can be purchased at Dollar Tree][dollartree] - these are the most similar to pumping water, but other water guns with a large spray could work) 
 * Sidewalk chalk
 * Solo cups, or other plastic stackable items (we used orange cones and some empty yogurt containers that we had lying around, as well as some sand toys)
 * Swimsuits or other clothes that can get wet
 
-Fill the bucket with water and put it outside on the sidewalk or driveway.  Use chalk to draw the outline of a boat around the bucket.  You can write the name of the boat inside the outline.  Put the cannon water guns into the bucket.
+Fill the bucket with water and put it outside on the sidewalk or driveway. Use chalk to draw the outline of a boat around the bucket; alternatively, you can have the kids step into their own plastic tub or bin for their boats. You can write the name of the boat inside the chalk outline. Put the cannon water guns into the bucket.
 
-Set up some “fires” on the lawn or driveway by stacking up the plastic cups (or other items).  You can also draw some fires out of the sidewalk chalk.
+Set up some “fires” on the lawn or driveway by stacking up the plastic cups (or other items). You can also draw some fires using the sidewalk chalk.
 
-Round up the crew of the fireboats and provide them with instructions.  Then send out the call to action (“We need you!”) and give the crew two minutes to get in their swimsuits/water clothes and get to the boat.
+Round up the crew of the fireboats and provide them with instructions. Then send out the call to action (“We need you!”) and give the crew two minutes to get in their swimsuits/water clothes and get to the boat.
 
 Have the crew stay within the chalk outline of the boat and use the cannon water guns (or a hose) to “put out the fires” by knocking over (with the spray of water) the plastic “fires” and/or washing away the chalk fires.
 
@@ -415,6 +417,7 @@ We did this over and over - knocking down all the items with the water spray and
 ![Re-enactment](waterguns.jpeg)
 {.center}
 
+[dollartree]:https://www.dollartree.com/h2o-blasters-plastic-water-squirters-26-in/252267
 ---
 
 ## Supplemental Reading: _Survivor Tree_ {#supplemental}
@@ -444,6 +447,8 @@ Author Marcie Colleen uses the seasons as her framework  to tell the story of th
 Illustrator Aaron Becker’s illustrations tell their own story and will draw your children deeper into this book. Becker intertwines the mother taking photos of her children into the story. Have your children pay close attention to how he does it. For those who want to go deeper into Becker’s art and creative process, [watch this short video][youtube2] where he describes the “visual language” he tried to create to match Marcie Colleen’s words.
 
 There are at least three different picture books that tell the story of the Callery Pear tree that survived the 9/11 attack. We also liked _This Very Tree: A Story of 9/11, Resilience, and Regrowth_. Both stories were published in time for the 20th anniversary of 9/11.
+
+Consider an historical re-enactment based on this story: plant your own Survivor Tree as a memorial. Or organize a tree-planting as part of a community beautification project.
 
 [youtube2]:https://www.amazon.com/Survivor-Tree-Marcie-Colleen/dp/0316487678/ref=sr_1_1?crid=2FGZQLVDQOBXC&dib=eyJ2IjoiMSJ9.riEwAYp9FUmrBZMQ-I6BcMiG1_ECvjDy28QN2dUid7Bi7HzhX_-QejZJF96CfPpHxRBdTw827ZnnZyV95YtK2GGCarr7UCCJzkU6agM85zNO9HOycRyQ_fDzy6fYIWYv8i0mI5zfj6OExSsNFCsCVO8uVd1YxmFHnseqc-1BlChFSjhqzCGesOqm84mp7O5jsF2ZvVAUEQS1b96JPKkLVnEJu4-85S09ktOuOvQHzQt4IJsPYD_lROlRXywP8wbzffbSQ3KSlrbYN7N7DVe0MmaPQpJXmRorBWPL9n_K1B4.n_tgkStIlFGYPeTLi4AqICkjIstVsl6a-4U3nuPvDjY&dib_tag=se&keywords=survivor+tree&qid=1750626648&sprefix=survivor+tree%2Caps%2C245&sr=8-1
 
@@ -551,7 +556,14 @@ The Pentagon (Arlington, Virginia) has the [National 9/11 Memorial][pentagon] - 
 
 [National September 11 Memorial & Museum][nycmemorial] (New York City, New York) - A museum that tells the stories through artifacts, imagery, personal stories and more. The museum has The Last Column, the final piece of the World Trade Center steel that was removed from Ground Zero and twin reflecting pools set in the footprints of the original towers.
 
-After viewing one or more of the memorials above, ask your children to draw their own version of a 9/11 memorial.
+After viewing one or more of the memorials above, ask your children to draw their own version of a 9/11 memorial. Or they can make their own memorial out of Legos, Magna-Tiles, or pipe cleaners as in the photos below.
+
+![Lego Airplane](lego-memorial.jpeg)<br>
+The Never Forgotten Airplanes<br>
+Half an airplane: visitors walk along the middle aisle and all the names of the victims of the attacks are written on the seats.<br><br>
+![Survivor Tree](survivor-tree.jpeg)<br>
+A memorial combining both stories.
+{.center .caption}
 
 [pentagon]: https://pentagonmemorial.org
 [flight93]: https://www.nps.gov/flni/index.htm
@@ -634,7 +646,7 @@ Assume the Harvey was pumping water at its maximum capacity (18,000 gallons per 
 
 Before the Harvey was recruited to put out fires, it was part of the 9/11 Boat Lift, rescuing people from the Museum of Jewish Heritage in Battery Park and dropping them off at Pier 40 along the Hudson River. Assuming the Harvey traveled at its top speed, how long was the round trip  travel time if the distance between Battery Park and Pier 40 was 2.5 miles? (15 minutes or ¼ of an hour; round trip = 5 miles; 20 miles/hour = 5 miles/? 5/20 = x hours ).
 
-A ceremony was held on May 2, 2002 to mark the end of the 9/11 clean-up in New York. How many months, weeks, and days was that from September 11, 2001?
+A ceremony was held on May 2, 2002 to mark the end of the 9/11 clean-up in New York City. How many months, weeks, and days was that from September 11, 2001? (Months = 7 months + 3 weeks; Weeks = 33 weeks + 2 days; Days = 233).
 
 ---
 
