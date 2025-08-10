@@ -42,7 +42,7 @@ Wednesday:
 
 Thursday:
  - re-enactment
- - cooking
+ - cooking1
 
 Friday:
  - supplemental
@@ -203,9 +203,43 @@ It’s also worth noting that FDR declared “war” on the Great Depression, an
 For this activity, ask your kids to memorize the famous line from FDR’s inauguration speech. Also, the next time you read _The Gardener_, see if they can find FDR’s photo.
 
 {.pagebreak}
+
 ---
 
-## Cooking: Frosting Flowers {#cooking}
+## Cooking: Water Pie {#cooking1}
+
+```metadata
+time: 60 minutes
+freq: once
+prep: 15 minutes
+supplies: pie crust, water, flour, butter, vanilla extract
+```
+
+> I know a lot about gardening, but nothing about baking. 
+
+This surprisingly simple Great Depression recipe comes to us from [Southern Plate]. 
+
+### Supplies
+* 9-inch deep-dish pie crust, unbaked
+* 1 1/2 cups water
+* 4 tablespoons all-purpose flour
+* 1 cup sugar
+* 2 teaspoons vanilla extract
+* 5 tablespoons butter, cut into 5 pieces
+
+### Directions
+1) Preheat oven to 400 degrees. Set empty pie crust on a baking sheet.
+2) Pour water into the pie crust.
+3) Mix the flour and sugar in a small bowl. Sprinkle evenly over the water in the crust. Do not stir.
+4) Drizzle the vanilla over the water in the pie crust. Place pats of butter on top.
+5) Bake at 400 for 30 minutes. Reduce heat to 375 and cover sides of crust to prevent burning, if needed. Continue cooking for an additional 30 minutes.
+6) Pie will be watery when you pull it out of the oven but will gel as it cools. Allow to cool completely and then cover and place in fridge until chilled before cutting.
+
+[Southern Plate]: https://www.southernplate.com/water-pie-recipe-from-the-great-depression/#recipe
+
+---
+
+## Cooking: Frosting Flowers {#cooking2}
 
 ```metadata
 time: 30-45 minutes
@@ -229,10 +263,6 @@ Take any cake or cupcakes and frost them in flowers.  Frosting can be homemade o
 [rose]: https://www.youtube.com/watch?v=92OwOcq4Qr0
 [carnation]: https://www.youtube.com/watch?v=nK5vKLBoQew
 [leaf]: https://www.youtube.com/watch?v=j4loq1jRQdg
-
-Also, you might want to try one of these [10 Great Depression recipes]. We made Water Pie and it was surprisingly tasty!
-
-[10 Great Depression recipes]: https://www.therecipe.com/10-meals-from-the-great-depression-that-are-still-budget-friendly-today/
 
 ---
 
