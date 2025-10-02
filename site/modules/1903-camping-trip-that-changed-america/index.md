@@ -1,0 +1,497 @@
+---
+layout: module
+title: The Camping Trip That Changed America
+when: 1903
+---
+
+# America's National Parks
+
+## Introduction
+
+In 1872, America took the unprecedented step of establishing the world’s first national park. President Ulysses S. Grant signed the legislation that protected the unique natural features of Yellowstone from exploitation, preserving them for future generations. We now have 63 national parks and our example encouraged other countries to establish their own national parks.
+
+National parks are a legacy from one generation to the next. We protect and preserve them as part of our American heritage, to be handed on to future generations so they, in turn, can enjoy the beauty and wonder of God’s creation. 
+
+This generational generosity is part of America’s DNA, part of what makes us exceptional. Our example showed other countries what could be done and now national parks are standard in almost every country.
+
+---
+
+## Book
+
+Title: "The Camping Trip That Changed America"
+Author: Barb Rosenstock
+Illustrator: Mordecai Gerstein
+Year published: 2012
+Length: 32 pages
+
+---
+
+## Calendar
+
+Monday:
+ - songbook
+ - craft1
+
+Tuesday:
+ - geography
+ - econ
+
+Wednesday:
+ - "Vocabulary (before reading) [vocab]"
+ - erosion
+
+Thursday:
+ - re-enactment
+ - weather
+ 
+Friday:
+ - counting
+ - art1
+
+---
+
+## American Heritage Songbook: This Is My Father's World {#songbook}
+
+```metadata
+toc: "American Heritage Songbook: _This Is My Father's World_"
+time: 5 minutes
+freq: daily
+```
+
+> This is my Father’s world,
+> And to my listening ears
+> All nature sings, and round me rings
+> The music of the spheres.
+{.nowrap}
+
+> This is my Father’s world: 
+> I rest me in the thought
+> Of rocks and trees, of skies and seas;
+> His hand the wonders wrought.
+{.nowrap}
+
+This hymn celebrates the joy we find in God’s creation: “of rocks and trees, of skies and seas.” It places the listener in the center of that creation, quietly listening and communing with His creation: “in the rustling grass I hear Him pass; He speaks to me everywhere.” Written by Presbyterian minister Maltbie Babcock, the poem was published posthumously by his wife in 1901 and set to music in 1915 by Franklin Sheppard, Babcock’s friend.
+
+An instrumental version of the hymn was included in Ken Burns’ 2009 documentary _The National Parks: America’s Best Idea_. While the version on the documentary is not available, you can [listen to this instrumental version][song1]; Amy Grant sings [this version][song2], which includes the lyrics on screen. Finally, with [this version][song3], you can turn the lyrics on and off with the “closed caption” button on the bottom.
+
+[song1]: https://www.youtube.com/watch?v=Ad9xb4RKYi0&list=RDAd9xb4RKYi0&start_radio=1
+[song2]: https://www.youtube.com/watch?v=C9g-uidS6wE&list=RDC9g-uidS6wE&start_radio=1
+[song3]: https://www.youtube.com/watch?v=N3ZVLOLMRMw&list=RDN3ZVLOLMRMw&start_radio=1
+
+---
+
+## Arts & Crafts: Torn Paper Nature Silhouette {#craft1}
+
+```metadata
+time: 15-30 minutes
+prep: 5 minutes
+supplies: construction paper, pencil, scissors, glue stick
+```
+
+> On horseback, Muir and Roosevelt rode down into the famous Yosemite Valley.  The granite formations towered above them.  They passed the sheared cliff of Half Dome and the fierce face of El Capitan rising from the valley floor.
+
+Inspired by [Imaginative Homeschool][link1]!
+
+### Supplies
+
+* Construction paper of various colors (including black)
+* Pencil
+* Scissors
+* Glue sticks
+
+### Directions
+1. Trace mountain(s), rock formations, trees, or other large items from nature on the black paper which will be a silhouette in the foreground of the picture.
+2. Cut out nature items using scissors from the black paper.
+3. Tear strips of construction paper for the background.  You can make additional mountains or a sunset out of the strips of construction paper.
+4. Pick a background construction paper and lay out your strips and silhouettes to figure out how you want them on the sheet.  
+5. Once you have laid out your picture as you like it, glue the papers on the background sheet with the glue stick.  Remember that you need to glue the strip at the very back first and end with your silhouette.
+
+
+![Sample sihouettes](silhouettes.jpeg)
+{.center}
+
+[link1]: https://imaginativehomeschool.blogspot.com/2021/09/torn-paper-mountain-craft.html?fbclid=IwAR2xaU_HaNZ6hBPHpCU9PAWYgcWcFGH-2gfagPiIBHaO7fqX9lD8I_q4Sxk
+
+---
+
+## Geography: National Parks {#geography}
+
+```metadata
+time: 15-20 minutes
+supplies: 
+```
+
+> “Glaciers carved this whole valley,” said Johnnie, spreading his arms. He lay down on a slab of granite and inched along on his back to show how a massive river of slow-moving ice carved the rock beneath them millions of years before.
+
+There are currently 63 national parks designated across the country and in territories controlled by the United States (American Samoa and U.S. Virgin Islands each have one). They are not distributed equally amongst the states. Take a look at this [Wikipedia interactive map][map1] showing our national parks. Ask your kids some of the following questions:
+
+* Are there more national parks in the eastern United States or the western?
+* Which national park is closest to you? (For older kids, plot how exactly how many miles to the nearest three)
+* Can you find Yosemite National Park, where John Muir and Teddy Roosevelt camped? Yellowstone National Park, our first one?
+* Which state has the most? (California, 9; Alaska, 8) Are there any states without any national parks? (Lots, 20 of them)
+* Are there any national parks that span two or more states? (Yellowstone: Wyoming, Idaho, Montana; Death Valley: California, Nevada; Great Smoky Mountains: Tennessee, North Carolina)
+
+You can find a [free printable checklist of our national parks here][map2]. Ask your kids to check off any national parks they have visited. Share with them the list of national parks that you have visited. Tell them about your favorites or perhaps the first national park you visited that you remember. To make this more tangible for your kids, assemble a jigsaw puzzle of all the states where you have visited a national park.
+
+[map1]: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States#/map/0
+[map2]: https://www.earthtrekkers.com/wp-content/uploads/2022/06/USA-National-Parks-Map-and-List.pdf
+
+---
+
+## Famous American Quotes: Teedie & Johnny {#text}
+
+```metadata
+time: 5 minutes
+freq: once
+```
+
+> Teedie and Johnnie never spent any time together again. Teedie traveled the world but called the night of the snowstorm “the one day of my life that I will always remember with pleasure.” Johnnie felt the same.
+
+President Teddy Roosevelt was already an ardent preservationist before his camping trip with John Muir. In 1902 he had signed legislation establishing Crater Lake as our nation’s fifth national park and in 1903 Wind Cave became the sixth. After the camping trip he signed legislation for an additional  three, more than doubling the number of our national parks during his presidency. Under the Antiquities Act, landmark legislation passed in 1906, he would establish 18 national monuments (three of which would later be upgraded to national parks, including the Grand Canyon) and 150 national forests. In his 1905 book, _Outdoor Pastimes of An American Hunter_, he wrote:
+
+> There can be nothing in the world more beautiful than Yosemite, the groves of the giant sequoias and redwoods, the Canyon of the Colorado, the Canyon of the Yellowstone, the Three Tetons; and our people should see to it that they are preserved for their children and their children’s children forever, with their majestic beauty all unmarred.
+
+John Muir wrote often about the wilderness, inspiring many (including President Roosevelt) to visit and help preserve it. In his 1911 book, _My First Summer in the Sierra_, he connected the wilderness to the divine: 
+
+> Oh, these vast, calm, measureless mountain days, inciting at once to work and rest! Days in whose light everything seems equally divine, opening a thousand windows to show us God.
+
+---
+
+## Cooking: S'mores {#cookbook}
+
+```metadata
+time: 10-20 minutes
+prep: 5-10 minutes
+supplies: graham crackers, chocolate, marshmallows
+```
+
+> They camped high above the valley floor. Johnnie made the president a bed of branches and they settled near the fire for warmth.
+
+S’mores are the classic camping dessert made over a fire.  But you can make them at home without a fire as well!  Be sure to have wipes handy as this will get sticky.
+
+### Ingredients
+
+* Graham crackers
+* Chocolate bar or small pieces of chocolate
+* Marshmallows
+
+### Directions (campfire s'mores)
+
+1. Have a grown up build a fire.
+2. Use wooden skewers or sticks and put a marshmallow on the end.
+3. Hold the marshmallow over the fire until it gets slightly brown.
+4. Put a piece of chocolate on top of a half a graham cracker and slide the toasted marshmallow off of the stick/skewer on top of the chocolate.  Top with the other half of the graham cracker (forming a chocolate/marshmallow sandwich).
+5. Enjoy and then ask for s’more!
+
+### Directions (oven s'mores)
+
+1. On a baking sheet, place half of a graham cracker (as many as the number of s’mores you want to make.
+2. On top of the graham cracker, put a piece of chocolate, and on top of that put a marshmallow.
+3. Move the oven rack to the lowest position.  Put the baking sheet in and turn the oven onto broil.  Broil for 1-4 minutes - watch carefully so as not to burn the marshmallow.  You are looking for the marshmallow to start browning on the top.
+4. Remove from oven and top with the other half of the graham cracker.
+5. Enjoy and then ask for s’more!
+
+---
+
+## Science: Weather in a Glass {#weather}
+
+```metadata
+time: 20-30 minutes
+prep: 10-15 minutes
+supplies: plastic cup, balloon, water, scissors, toothpick, bendable plastic straw, masking tape
+```
+
+> Overnight a storm blew in, spreading five inches of fresh snow. 
+Teedie and Johnnie woke under a coverlet of white flakes. 
+They shook themselves off like two old grizzly bears.
+{.nowrap}
+
+You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making some contained weather (based on [onelittleproject][weather]).
+
+### Supplies
+
+* Mason jar or other clear glass jar (preferably one you don’t mind ruining)
+* Baby oil (regular vegetable oil can be used, but the clear oil is better)
+* Alka-Seltzer tablets
+* Water
+* Water based white paint (we used acrylic)  Note that you can also use food coloring if you don’t mind your snowstorm not being white.
+
+### Directions, Snowstorm in a Jar
+
+1. Fill your glass jar about ½ to ⅔ full of oil.
+2. In a separate container, mix about a ¼ cup of water with a couple of squirts of acrylic paint (or food coloring).  Mix together.  If you use paint, make sure the container can be thoroughly cleaned or disposed of afterwards.
+3. Pour the water/paint mix into the glass of oil.  Note that the water/paint sink to the bottom of the jar and do not mix with the oil.
+4. Break an alka-seltzer tablet into small pieces and drop a few into the jar.
+5. Watch as the water/paint bubbles rise to the top of the oil and then “snow” down.
+6. Add additional alka-seltzer tablets once the “storm” ends.
+
+![weather](snowstorm1.jpeg)
+![weather](snowstorm3.jpeg)
+{.center}
+
+Science discussion: water heavier than/ oil and they don’t mix, carbon dioxide bubbles lift water/paint to the top then escape and water/paint snows down, etc.  [SCIENCE OFFICER TO EDIT]
+
+### Supplies
+
+* Mason jar or other clear glass jar (preferably one you don’t mind ruining)
+* Shaving Cream
+* Water
+* Food coloring
+* Spoons
+* Pipettes (optional)
+
+### Directions, Rain Cloud in a Jar
+
+1. Fill a glass/jar  ⅔ with water
+2. Add shaving cream to the top to completely cover the top of the water (you can use a spoon to spread the shaving cream so it covers).
+3. Mix some food coloring into water.
+4. Pipette or spoon the food colored water onto the top of the shaving cream “cloud.”
+5. When there is enough water, the shaving cream “cloud” won’t be able to hold it all and you will be able to see the colored “rain” water come down into the water in the glass.
+
+![weather](raincloud.jpeg)
+{.center}
+
+Science discussion: [SCIENCE OFFICER TO INSERT]
+
+[weather]: https://onelittleproject.com/snowstorm-in-a-jar/
+
+---
+
+## Science: Erosion {#erosion}
+
+```metadata
+time: 15 minutes
+prep: 10 minutes
+supplies: baking sheet, dirt, rocks, water, pitcher, straw, ice
+```
+
+> … Glaciers carved rivers and created plains.
+
+Natural forces shaped the unique geography found in many National Parks: Glaciers (Yosemite, Glacier NP), Volcanoes (Yellowstone, Hawaii), Rivers (Grand Canyon, Zion), Tectonic Plates (Rocky Mountains, Sierras), Erosion (Bryce Canyon, Arches NP).  Many of these forces can be considered types of erosion such as wind, water, and glaciers.  It can help to see how erosion works on a smaller scale (both in terms of size and time) and so making a model can be helpful (and fun!). Directions are below but you can also watch [this short Youtube video][video1].
+
+### Supplies
+
+* Baking sheet (preferably old or covered in aluminum foil)
+* Sand, dirt, or soil
+* Small rocks/stones
+* Water
+* Watering can/pitcher/something with a spout to pour the water
+* Drinking straw
+* Ice cubes
+
+### Directions
+
+1. Go outside or clear an area that can get messy. Prop up the baking sheet so it is on a shallow angle (sort of a very shallow baking sheet slide). You can use rocks or branches for the prop.
+2. Put sand or dirt or soil at the top of the baking sheet and cover the baking sheet about half way.
+3. In the sand/dirt/soil, use your finger to make a small river bed and gather up some sand/dirt/soil to make some small hills/mountains.
+4. Add small stones/rocks along either side of the river bed.
+5. Observe what everything looks like.
+6. Place ice cubes somewhere among your mountains and soil (not in the riverbed).
+7. Pour water at the top of the river bed.  Keep pouring water and see what happens. [The sand/soil/dirt should start shifting down to the bottom of the baking sheet.  After enough water, some of the rocks along the riverbed may also be carried away.  This is a model of water erosion.]
+8. Take the straw and blow through it while pointing the end close to the sand/dirt/soil. [The sand/dirt/soil should shift. This is a model of wind erosion. ]
+9. Wait until the ice melts. [With enough ice melted, new channels and valleys in the sand/dirt/soil should form.  his is a model of glacier erosion.]
+
+![erosion](erosion1.jpeg)
+![erosion](erosion2.jpeg)
+![erosion](erosion3.jpeg)
+{.center}
+
+[video1]: https://www.youtube.com/watch?v=-MFLgtti51I
+
+---
+
+## Historical Re-enactment: Camping Trip {#re-enactment}
+
+```metadata
+toc: "Re-enactment: Camping Trip"
+time: weekend
+prep: 5-10 minutes
+supplies: s'mores, camping equipment
+```
+
+> When he found men sending his baggage to the best hotel in town, Roosevelt shouted, 
+“By George, I’m going camping! Pack me one small sack!”
+
+Ideally, for this re-enactment, you would pack up the family and drive to the nearest national park. However, state parks are more numerous and usually closer, so they can be an excellent alternative. State parks can be as stunning as national parks (for example, Niagara Falls is a state park in New York). Another possible option is camping out in the backyard. 
+
+To enjoy the full “Teedie and Johnny” experience, you will need a campfire to tell stories around. But, you will not need a tent – just sleeping bags out under the stars!
+
+And, while s’mores were not invented until the 1920s, we’re sure that Teedie and Johnny would approve of adding this campfire confection to your camping experience. 
+
+---
+
+## Supplemental Reading: _The Wolves Are Back_ {#supplemental}
+
+```metadata
+time: 15 minutes
+```
+
+> In 1995, ten adult wolves were brought down from Canada and set free in Yellowstone National Park. 
+They dug dens and bore puppies.
+{.nowrap}
+
+
+![Book Cover](wolves.jpeg)
+{.center}
+
+**Title:** _The Wolves Are Back_<br>
+**Author:** Jean Craigshead George<br> 
+**Illustrator:** Wendell Minor<br>
+**Year Published:** 2008<br>
+**Length:** 32 pages
+
+This story features Yellowstone, the first national park in America (and the world). It is a true story of how wolves were eliminated throughout the United States (with the exception of Alaska) in the 1920s. The story demonstrates the unintended consequences of eliminating an apex predator and the downstream damage it can cause due to the interconnectedness of a food chain. As the quoted text notes, wolves were re-introduced in 1995, resulting in a complete re-balancing of the park’s eco-system. 
+
+Wendell Minor’s illustrations of the huge variety of  animals and flowers in Yellowstone are wonderful to behold. Ask your kids to pick one of their favorite pages and try drawing it.
+
+---
+
+## Scripture: Psalm 23: 2-3a {#scripture}
+
+```metadata
+time: 10 minutes
+freq: daily
+```
+
+> He makes me lie down in green pastures, he leads me beside quiet waters, he restores my soul.
+{.nowrap}
+
+This portion of Psalm 23 evokes the serenity that flows from the Lord as He rejuvenates us within His creation. Johnnie and Teedie could certainly understand this serenity as they hiked and camped in Yosemite.
+
+Ask your children to memorize this scripture by writing it down five times each day. You may want to get them a “copybook” for writing down phrases and scripture worthy of memorization. This can be good practice for handwriting as well.
+
+---
+
+## Vocabulary {#vocabulary}
+
+```metadata
+time: 10 minutes
+```
+
+> The granite formations towered above them. 
+> They passed the sheared cliff of Half Dome and the fierce face of El Capitan rising from the valley floor.
+{.nowrap}
+
+
+The vocabulary words for this module are mostly about some of the natural wonders in Yosemite and how they were created: wilderness, sequoia, glacier, valley, granite, sculpted, sheared. Understanding these words will help young readers comprehend John Muir’s description of how glaciers created Yosemite.
+
+Wilderness
+: an area generally undisturbed by human activity
+
+Stagecoach
+: a horse-drawn coach for carrying passengers
+
+Sequoia
+: enormous cone-bearing trees found in California; the giant sequoias are the largest trees (in volume) in the world
+
+Grizzly Bear
+: a sub-species of brown bear known for their large size
+
+Glacier
+: an extended mass of ice created by the accumulation of snow over years
+
+Valley
+: a long depression in the land running between hills or mountains
+
+Continent
+: one of the seven large land masses on earth
+
+Sculpted
+: to carve or form into a shape
+
+Granite
+: a very hard rock formed from volcanic forces
+
+Sheared
+: cut
+
+Brawny
+: strong, muscular
+
+Prospectors
+: people searching for natural resources (e.g., gold, silver, oil)
+
+---
+
+## Art: Thought Bubbles and Steam/Smoke {#art1}
+
+```metadata
+time: 10-20 minutes
+```
+
+> He told Teedie the funny story of meeting his first bear.
+
+There are three double-page spreads in the story that show Muir telling Roosevelt a story by a campfire. The smoke from the fire becomes the thought bubbles above their heads depicting what Muir is describing. The thought bubbles show the story within the story and convey what Muir is expressing to Roosevelt while also showing what is actually happening in the foreground. These spreads take advantage of two different techniques: thought bubbles and the use of steam or smoke to give a dreamy quality.
+
+Have your child(ren) try out this technique of showing what characters are saying by using smoke thought bubbles in their own picture (or larger story).
+
+
+---
+
+## Math: Height and Girth {#counting}
+
+```metadata
+time: 15 minutes
+```
+
+> When he looked up, he couldn’t see the treetops.  The sequoias soared straight to the heavens.  “These trees grew up when the Egyptians built the pyramids,” said Johnnie.  “They are the largest living things on earth.”
+
+It is hard to get a sense of how big Giant Sequoias are (or Yosemite’s famous granite walls) without seeing them in person. Measuring out actual sizes or finding things to compare them to (for example, El Capitan is about as tall as three Eiffel Towers) can help.
+
+Giant Sequoias
+* Age: up to 3,400 years
+* Height: 250 ft (can be as tall as a 26 story building)
+* Girth: 90 ft (how many people would need to hold hands in a circle to make it all the way around one of these trees?)
+* To help get a sense for how enormous these trees are, try marking out 90 ft and 250 ft outside on a walk or in a field.
+
+Take a look at [this National Park website][sequoias] that ranks the top 50 biggest Sequoias. Can you find the two located in Yosemite National Park?
+
+[sequoias]: https://www.nps.gov/seki/learn/nature/largest-trees-in-world.htm
+
+Half Dome
+Height: About 5,000 ft above the valley or 8,800 ft above sea level. Watch [this National Park Service video][halfdomehike] for some perspective on one of the most iconic and challenging hikes in our National Park System.
+
+[halfdomehike]: https://www.nps.gov/yose/planyourvisit/halfdome.htm
+
+El Capitan
+Height: About 3,000 ft above the valley
+
+---
+
+## Economics: The Goldfish Game {#econ}
+
+```metadata
+time: 20-30 minutes
+prep: 10 minutes
+supplies: goldfish crackers, coins, paper plate, marker, spoons 
+```
+
+> What if everyone owned the wilderness?
+
+In economics, a commons is defined as a resource that is non-excludable (you can’t prevent people from using it) and rivalrous or exhaustible (one person using it means there is less for others to use). These characteristics make it difficult to preserve and take care of a common. With a commons, everyone has an incentive to get as much of the resource for themselves as they can, because if they don’t, someone else will take it. Owners can’t prevent non-owners from using the resource. This is known as the Tragedy of the Commons. A simple game shows the challenge of taking care of a resource held in common and the importance of private property.
+
+### Supplies
+* Goldfish (or other small cracker)
+* Coins (or other reward that is preferred over the goldfish)
+* Large paper or plate
+* Something to divide the large paper (markers) or plate (utensils or small bowls)
+* Optional: spoon for “fishing”
+
+### Directions
+1. Set a few goldfish (about two per person playing the game) on the large paper or plate and explain that this is a lake with fish.  
+2. Explain that there will be a short time (15 seconds or so) for fishing.
+3. Explain that every fish caught (and whole - no broken fish!) will earn a small reward.  Every fish left in the lake will make another fish for the next round of fishing.  Every fish caught in the next round of fishing will earn a large reward.  Do NOT let the fishermen talk or plan during the game.
+4. Rewards (small/large) can be 25/50 cents or mini/regular marshmallows or the goldfish itself or some preferred treat.
+5. Run two rounds 
+6. Now, partition the lake off with an equal number of fish in each partition.  Explain that each partition is a private lake and only one person can fish in it.
+7. Run two rounds again.
+8. Compare the results.
+
+The difficulty with a common lake is that fishermen have an incentive to overfish. They may want to leave fish for the next round, but there is no guarantee that another fishermen won’t take the fish, so it is safer for them to get the fish now rather than risk not getting any in the future.  With no one owning the lake (or everyone owning the lake), there isn’t an incentive to take care of the resource (fish). Once each fisherman has a private lake, they can leave fish for the next round without fear that some other fisherman will get the fish. The fishermen have an incentive to take care of the resources (fish) that they control in their private lake to make sure that they will have fish in the future.
+
+For older children, you can ask them how they should fish if they need to have fish for 10 rounds instead of 2? 100 rounds? An unknown number of rounds?
+
+For younger children, you can simplify by having them eat whatever they fish and not worry about small/large rewards after different rounds. You can still add fish after a certain amount of time if there are fish in the lake and compare having a common lake of goldfish to having personal private bowls.
+
+Teedie and Johnnie sought to protect Yosemite and take care of its resources rather than have a lack of coordination cause the natural resource to be carved up and wasted. Although Yosemite is not a commons in the economic sense of the word (it is excludable as demonstrated by visitors needing to pay an entrance fee), it was threatened with mismanagement and depletion through short-term competing interests. Although many may have wanted to privately benefit from the natural beauty, the lack of coordination from these many individuals may have destroyed the beauty of the valley. Turning Yosemite into a National Park solved the collective action (coordination) problem in order to preserve the resource and ultimately make everyone better off.
+
