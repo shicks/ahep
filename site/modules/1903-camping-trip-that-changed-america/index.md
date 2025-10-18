@@ -130,6 +130,7 @@ There are currently 63 national parks designated across the country and in terri
 * Can you find Yosemite National Park, where John Muir and Teddy Roosevelt camped? Yellowstone National Park, our first one?
 * Which state has the most? (California, 9; Alaska, 8) Are there any states without any national parks? (Lots, 20 of them)
 * Are there any national parks that span two or more states? (Yellowstone: Wyoming, Idaho, Montana; Death Valley: California, Nevada; Great Smoky Mountains: Tennessee, North Carolina)
+* What are the five most visited National Parks by visitor numbers? (A research question for older kids: 1) Great Smoky Mountains, 2) Zion, 3) Grand Canyon, 4) Yellowstone, 5) Rocky Mountain. Follow-ups: What is the source of your data and how current is it?)
 
 You can find a [free printable checklist of our national parks here][map2]. Ask your kids to check off any national parks they have visited. Share with them the list of national parks that you have visited. Tell them about your favorites or perhaps the first national park you visited that you remember. To make this more tangible for your kids, assemble a jigsaw puzzle of all the states where you have visited a national park.
 
@@ -154,6 +155,10 @@ President Teddy Roosevelt was already an ardent preservationist before his campi
 John Muir wrote often about the wilderness, inspiring many (including President Roosevelt) to visit and help preserve it. In his 1911 book, _My First Summer in the Sierra_, he connected the wilderness to the divine: 
 
 > Oh, these vast, calm, measureless mountain days, inciting at once to work and rest! Days in whose light everything seems equally divine, opening a thousand windows to show us God.
+
+Watch [this short video biography (five minutes) of John Muir][muirbio] to learn more about him and why he is sometimes called the "Father of the National Parks."
+
+[muirbio]: https://www.youtube.com/watch?v=yI7hNTnjIgE
 
 ---
 
@@ -305,7 +310,7 @@ Natural forces shaped the unique geography found in many National Parks: Glacier
 ```metadata
 toc: "Re-enactment: Camping Trip"
 time: weekend
-prep: 5-10 minutes
+prep: 20-30 minutes
 supplies: s'mores, camping equipment
 ```
 
@@ -314,9 +319,13 @@ supplies: s'mores, camping equipment
 
 Ideally, for this re-enactment, you would pack up the family and drive to the nearest national park. However, state parks are more numerous and usually closer, so they can be an excellent alternative. State parks can be as stunning as national parks (for example, Niagara Falls is a state park in New York). Another possible option is camping out in the backyard. 
 
-To enjoy the full “Teedie and Johnny” experience, you will need a campfire to tell stories around. But, you will not need a tent – just sleeping bags out under the stars!
+To enjoy the full “Teedie and Johnny” experience, you will need a campfire to tell stories around. But, you will not need a tent – just sleeping bags out under the stars! Or you can even simulate the outdoors by piling up some pillows, putting a flashlight in the middle to create a "fire" and then turning on a star projector.
 
-And, while s’mores were not invented until the 1920s, we’re sure that Teedie and Johnny would approve of adding this campfire confection to your camping experience. 
+And, while s’mores were not invented until the 1920s, we’re sure that Teedie and Johnny would approve of adding this campfire confection to your camping experience. (Use the "S'mores from the oven" directions for your indoor camping trip).
+
+If there is a fourth grader in your family, you can take advantage of the National Park Service's [Every Kid Outdoors Program][outdoors]. This program provides free access to all public lands, including National Parks, for one year for all fourth graders PLUS other children in the family under the age of 16 and up to three adults. And yes, this program explicitly welcomes homeschool families: "I'm in the fourth grade or home-school equivalent."
+
+[outdoors]: https://everykidoutdoors.gov/index.htm
 
 ---
 
@@ -343,6 +352,11 @@ They dug dens and bore puppies.
 This story features Yellowstone, the first national park in America (and the world). It is a true story of how wolves were eliminated throughout the United States (with the exception of Alaska) in the 1920s. The story demonstrates the unintended consequences of eliminating an apex predator and the downstream damage it can cause due to the interconnectedness of a food chain. As the quoted text notes, wolves were re-introduced in 1995, resulting in a complete re-balancing of the park’s eco-system. 
 
 Wendell Minor’s illustrations of the huge variety of  animals and flowers in Yellowstone are wonderful to behold. Ask your kids to pick one of their favorite pages and try drawing it.
+
+For older kids, ask them to write down the name of every animal that is mentioned in the story. Next, cut them out so every name is on a separate piece of paper. Finally, arrange them in a "food web" starting with the wolf at the top. Who eats who? (This activity led to a passionate discussion amongst our alpha testers, especially when it came to Grizzly Bears. They eventually agreed that wolves do not attack healthy Grizzly Bears but will happily hunt down bear cubs.)
+
+![foodweb](foodweb.jpeg)
+{.center}
 
 ---
 
@@ -413,6 +427,38 @@ Prospectors
 
 ---
 
+## Writing: Guided Writing Prompts {#writing}
+
+```metadata
+time: 10-20 minutes
+```
+
+> Johnnie began his story, "This whole continent is a great garden..."
+
+Ask your kids to write a one-paragraph, ten-sentence story about the National Parks and/or nature, using these writing prompts (from [Brian Tolentino Writing Prompts][prompts]):
+
+* Sentence 1: Write a vivid description of a setting using only SEVEN words.
+
+* Sentence 2: Include ONE of these emotions: Elation, Dread, Curiosity, Frustration, Awe, Guilt
+
+* Sentence 3: Use ONE of these nouns: Bridge, Whisper, Treasure,Storm, Shadow.
+
+* Sentence 4: Write a sentence with exactly FOUR words.
+
+* Sentence 5: Begin with "Suddenly," and use a sensory detail ( Sight, sound, touch, smell, etc.)
+
+* Sentence 6 and 7: Include a simile in one sentence and a metaphor in the other.
+
+* Sentence 8: Start with "Why" and make it a question
+
+* Sentence 9 and 10: Use a cliffhanger ending that leaves the reader wanting more.
+
+Here's an example from one of our alpha testers: 1) The green trees in the national park. 2) I was in awe when I saw the crisp gold leaves on the trees. 3) I saw the shadow of a majestic Grizzly Bear. 4) My hands trembled slightly. 5) Suddenly, I saw the bear close behind me. 6) The bear smelled like dirty socks. 7) The knot in my stomach grew tighter as the bear got closer. 8) Why did I not get bear repellant? 9/10) When it got really close I decided to run. And then the bear jumped at me...
+
+[prompts]: https://briantolentino.com/writing-prompts/
+
+---
+
 ## Art: Thought Bubbles and Steam/Smoke {#art1}
 
 ```metadata
@@ -425,6 +471,29 @@ There are three double-page spreads in the story that show Muir telling Roosevel
 
 Have your child(ren) try out this technique of showing what characters are saying by using smoke thought bubbles in their own picture (or larger story).
 
+---
+
+## Art: Make Your Own Logo {#art2}
+
+```metadata
+time: 10-20 minutes
+```
+
+> Teedie left Johnnie in Yosemite and headed back home. His time in the forest turned the outdoor-loving president into one of nature's fiercest protectors.
+
+Congress created the National Park Service in 1916. Its mission statement reads:
+
+> The National Park Service is dedicated to conserving unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations. The Service is also responsible for managing a great variety of national and international programs designed to help extend the benefits of natural and cultural resource conservation and outdoor recreation throughout this country and the world.
+
+Take a look at the National Park Service's logo to see how it reflects their mission statement.
+
+![npslogo](npslogo.jpeg)
+{.center}
+
+Now, using the template below, make your own logo, identifying what you would protect and preserve.
+
+![template](logotemplate.jpeg)
+{.center}
 
 ---
 
