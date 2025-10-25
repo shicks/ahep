@@ -223,7 +223,7 @@ You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making s
 
 ### Directions, Snowstorm in a Jar
 
-1. Fill your glass jar about ½ to ⅔ full of oil.
+1. Fill your glass jar about halg to two-thirds full of oil.
 2. In a separate container, mix about a ¼ cup of water with a couple of squirts of acrylic paint (or food coloring).  Mix together.  If you use paint, make sure the container can be thoroughly cleaned or disposed of afterwards.
 3. Pour the water/paint mix into the glass of oil.  Note that the water/paint sink to the bottom of the jar and do not mix with the oil.
 4. Break an alka-seltzer tablet into small pieces and drop a few into the jar.
@@ -234,7 +234,7 @@ You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making s
 ![weather](snowstorm3.jpeg)
 {.center}
 
-Science discussion: water heavier than/ oil and they don’t mix, carbon dioxide bubbles lift water/paint to the top then escape and water/paint snows down, etc.  [SCIENCE OFFICER TO EDIT]
+Science discussion: This obviously isn't how snowstorms _actually_ work, but it's a fun experiment and there's some interesting science nonetheless. The white-painted water stays separate from the baby oil because oil and water are _immiscible_ (they don't mix: water's polarized molecules prefer to be closer to other polarized water molecules, while oil's non-polarized molecules also prefer their own company, so a clear boundary develops between the two substances). On the other hand, water-based paint _does_ readily mix with water, coloring it white. The water (and paint) is heavier than the oil, so it will naturally form a separate layer at the bottom of the jar. The snowstorm starts when the alka-seltzer tablets release carbon dioxide into the water. The gas is much lighter than both the water and the oil, so it travels up to the water-oil boundary. At this point, rather than simply passing directly into the oil, the _surface tension_ of the water kicks in: the bounds between nearby water molecules are so strong that the air bubble can't immediately break through them to get into the oil. Instead, the paint and water forms a small additional bubble _around_ the air bubble as it travels up through the oil layer (with the CO₂ inside, the water bubble is now lighter than the oil). Once it finally reaches the top of the oil layer, the gas escapes into the atmosphere, and what's left is a ball of water and paint that's again heavier than the oil around it, so it sinks back down through the oil like snow. This repeats until the alka-seltzer tablet is gone.
 
 ### Supplies
 
@@ -247,16 +247,16 @@ Science discussion: water heavier than/ oil and they don’t mix, carbon dioxide
 
 ### Directions, Rain Cloud in a Jar
 
-1. Fill a glass/jar  ⅔ with water
+1. Fill a glass/jar two-thirds to the top with water
 2. Add shaving cream to the top to completely cover the top of the water (you can use a spoon to spread the shaving cream so it covers).
-3. Mix some food coloring into water.
+3. Mix some food coloring into a small amount of water (you need the food coloring to be very concentrated).
 4. Pipette or spoon the food colored water onto the top of the shaving cream “cloud.”
-5. When there is enough water, the shaving cream “cloud” won’t be able to hold it all and you will be able to see the colored “rain” water come down into the water in the glass.
+5. When there is enough colored water on top of and within it, the shaving cream “cloud” won’t be able to hold it all and you will be able to see the colored “rain” water come down into the water in the glass.
 
 ![weather](raincloud.jpeg)
 {.center}
 
-Science discussion: [SCIENCE OFFICER TO INSERT]
+Science discussion: While it's not exactly the same as clouds (which themselves are just water), the foam is also able to support a certain amount of water without it falling through. Once you reach that limit, the extra colored water falls out of the cloud into the clear water. Since the food coloring slightly increases the weight of the water around it, the rain drop initially starts travelling down through the slightly lighter clear water, but mixing equalizes the densities pretty quickly. This experiment can be a bit finnicky, particularly with respect to the ratio of water to food coloring. We found that if there's too little food coloring, then the trace amounts of dissolved foam actually cause the colored water to be _lighter_ than the clear water, so it just floats at the top, which is less impressive. For an interesting follow-up experiment, try using baby oil or mineral oil in the bottom layer and see if you can guess what will change.
 
 [weather]: https://onelittleproject.com/snowstorm-in-a-jar/
 
