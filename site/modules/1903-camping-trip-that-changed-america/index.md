@@ -8,7 +8,7 @@ when: 1903
 
 ## Introduction
 
-In 1872, America took the unprecedented step of establishing the world’s first national park. President Ulysses S. Grant signed the legislation that protected the unique natural features of Yellowstone from exploitation, preserving them for future generations. We now have 63 national parks and our example encouraged other countries to establish their own national parks.
+In 1872, America took the unprecedented step of establishing the world’s first national park. President Ulysses S. Grant signed the legislation that protected the unique natural features of Yellowstone from exploitation, preserving them for future generations. President Teddy Roosevelt, after a camping trip with John Muir, drove legislation that created even more. We now have 63 national parks and our example encouraged other countries to establish their own national parks.
 
 National parks are a legacy from one generation to the next. We protect and preserve them as part of our American heritage, to be handed on to future generations so they, in turn, can enjoy the beauty and wonder of God’s creation. 
 
@@ -100,7 +100,7 @@ Inspired by [Imaginative Homeschool][link1]!
 * Glue sticks
 
 ### Directions
-1. Trace mountain(s), rock formations, trees, or other large items from nature on the black paper which will be a silhouette in the foreground of the picture.
+1. Trace mountain(s), rock formations, trees, or other large items from nature on the black paper which will be a silhouette in the foreground of the picture. Or, have your kids pick a National Park to represent with a recognizable silhouette (e.g., Half Dome, Arches, Joshua Tree, Old Faithful, Redwood).
 2. Cut out nature items using scissors from the black paper.
 3. Tear strips of construction paper for the background.  You can make additional mountains or a sunset out of the strips of construction paper.
 4. Pick a background construction paper and lay out your strips and silhouettes to figure out how you want them on the sheet.  
@@ -126,8 +126,8 @@ supplies:
 There are currently 63 national parks designated across the country and in territories controlled by the United States (American Samoa and U.S. Virgin Islands each have one). They are not distributed equally amongst the states. Take a look at this [Wikipedia interactive map][map1] showing our national parks. Ask your kids some of the following questions:
 
 * Are there more national parks in the eastern United States or the western?
-* Which national park is closest to you? (For older kids, plot how exactly how many miles to the nearest three)
-* Can you find Yosemite National Park, where John Muir and Teddy Roosevelt camped? Yellowstone National Park, our first one?
+* Which national park is closest to you? (For older kids, plot the number of miles to the nearest three)
+* Can you find Yosemite National Park, where John Muir and Teddy Roosevelt camped? Where is Yellowstone National Park, our first National Park?
 * Which state has the most? (California, 9; Alaska, 8) Are there any states without any national parks? (Lots, 20 of them)
 * Are there any national parks that span two or more states? (Yellowstone: Wyoming, Idaho, Montana; Death Valley: California, Nevada; Great Smoky Mountains: Tennessee, North Carolina)
 * What are the five most visited National Parks by visitor numbers? (A research question for older kids: 1) Great Smoky Mountains, 2) Zion, 3) Grand Canyon, 4) Yellowstone, 5) Rocky Mountain. Follow-ups: What is the source of your data and how current is it?)
@@ -203,7 +203,7 @@ S’mores are the classic camping dessert made over a fire.  But you can make th
 ```metadata
 time: 20-30 minutes
 prep: 10-15 minutes
-supplies: plastic cup, balloon, water, scissors, toothpick, bendable plastic straw, masking tape
+supplies: plastic cup, jar, oil, Alka-Seltzer tablets, white paint or food coloring, shaving cream, spoons
 ```
 
 > Overnight a storm blew in, spreading five inches of fresh snow. 
@@ -213,9 +213,10 @@ They shook themselves off like two old grizzly bears.
 
 You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making some contained weather (based on [onelittleproject][weather]).
 
-### Supplies
+### Supplies, Snowstorm In a Jar
 
 * Mason jar or other clear glass jar (preferably one you don’t mind ruining)
+* Plastic cup
 * Baby oil (regular vegetable oil can be used, but the clear oil is better)
 * Alka-Seltzer tablets
 * Water
@@ -224,7 +225,7 @@ You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making s
 ### Directions, Snowstorm in a Jar
 
 1. Fill your glass jar about ½ to ⅔ full of oil.
-2. In a separate container, mix about a ¼ cup of water with a couple of squirts of acrylic paint (or food coloring).  Mix together.  If you use paint, make sure the container can be thoroughly cleaned or disposed of afterwards.
+2. In the plastic cup, mix about a ¼ cup of water with a couple of squirts of acrylic paint (or food coloring).  Mix together.  If you use paint, make sure the container can be thoroughly cleaned or disposed of afterwards.
 3. Pour the water/paint mix into the glass of oil.  Note that the water/paint sink to the bottom of the jar and do not mix with the oil.
 4. Break an alka-seltzer tablet into small pieces and drop a few into the jar.
 5. Watch as the water/paint bubbles rise to the top of the oil and then “snow” down.
@@ -234,11 +235,12 @@ You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making s
 ![weather](snowstorm3.jpeg)
 {.center}
 
-Science discussion: water heavier than/ oil and they don’t mix, carbon dioxide bubbles lift water/paint to the top then escape and water/paint snows down, etc.  [SCIENCE OFFICER TO EDIT]
+Science discussion: water heavier than oil and they don’t mix, carbon dioxide bubbles lift water/paint to the top then escape and water/paint snows down, etc.  [SCIENCE OFFICER TO EDIT]
 
-### Supplies
+### Supplies, Rain Cloud in a Jar
 
 * Mason jar or other clear glass jar (preferably one you don’t mind ruining)
+* Plastic cup
 * Shaving Cream
 * Water
 * Food coloring
@@ -249,7 +251,7 @@ Science discussion: water heavier than/ oil and they don’t mix, carbon dioxide
 
 1. Fill a glass/jar  ⅔ with water
 2. Add shaving cream to the top to completely cover the top of the water (you can use a spoon to spread the shaving cream so it covers).
-3. Mix some food coloring into water.
+3. Mix some food coloring into water in the plastic cup.
 4. Pipette or spoon the food colored water onto the top of the shaving cream “cloud.”
 5. When there is enough water, the shaving cream “cloud” won’t be able to hold it all and you will be able to see the colored “rain” water come down into the water in the glass.
 
@@ -265,7 +267,7 @@ Science discussion: [SCIENCE OFFICER TO INSERT]
 ## Science: Erosion {#erosion}
 
 ```metadata
-time: 15 minutes
+time: 20-30 minutes
 prep: 10 minutes
 supplies: baking sheet, dirt, rocks, water, pitcher, straw, ice
 ```
@@ -292,9 +294,9 @@ Natural forces shaped the unique geography found in many National Parks: Glacier
 4. Add small stones/rocks along either side of the river bed.
 5. Observe what everything looks like.
 6. Place ice cubes somewhere among your mountains and soil (not in the riverbed).
-7. Pour water at the top of the river bed.  Keep pouring water and see what happens. [The sand/soil/dirt should start shifting down to the bottom of the baking sheet.  After enough water, some of the rocks along the riverbed may also be carried away.  This is a model of water erosion.]
+7. Pour water at the top of the river bed. Keep pouring water and see what happens. [The sand/soil/dirt should start shifting down to the bottom of the baking sheet. After enough water, some of the rocks along the riverbed may also be carried away. This is a model of water erosion.]
 8. Take the straw and blow through it while pointing the end close to the sand/dirt/soil. [The sand/dirt/soil should shift. This is a model of wind erosion. ]
-9. Wait until the ice melts. [With enough ice melted, new channels and valleys in the sand/dirt/soil should form.  his is a model of glacier erosion.]
+9. Wait until the ice melts. [With enough ice melted, new channels and valleys in the sand/dirt/soil should form. This is a model of glacier erosion.]
 
 ![erosion](erosion1.jpeg)
 ![erosion](erosion2.jpeg)
@@ -319,7 +321,7 @@ supplies: s'mores, camping equipment
 
 Ideally, for this re-enactment, you would pack up the family and drive to the nearest national park. However, state parks are more numerous and usually closer, so they can be an excellent alternative. State parks can be as stunning as national parks (for example, Niagara Falls is a state park in New York). Another possible option is camping out in the backyard. 
 
-To enjoy the full “Teedie and Johnny” experience, you will need a campfire to tell stories around. But, you will not need a tent – just sleeping bags out under the stars! Or you can even simulate the outdoors by piling up some pillows, putting a flashlight in the middle to create a "fire" and then turning on a star projector.
+To enjoy the full “Teedie and Johnny” experience, you will need a campfire to tell stories around. But, you will not need a tent – just sleeping bags out under the stars! Or you can even simulate the outdoors inside the house by piling up some pillows, putting a flashlight in the middle to create a "fire" and then turning on a star projector.
 
 And, while s’mores were not invented until the 1920s, we’re sure that Teedie and Johnny would approve of adding this campfire confection to your camping experience. (Use the "S'mores from the oven" directions for your indoor camping trip).
 
@@ -353,7 +355,7 @@ This story features Yellowstone, the first national park in America (and the wor
 
 Wendell Minor’s illustrations of the huge variety of  animals and flowers in Yellowstone are wonderful to behold. Ask your kids to pick one of their favorite pages and try drawing it.
 
-For older kids, ask them to write down the name of every animal that is mentioned in the story. Next, cut them out so every name is on a separate piece of paper. Finally, arrange them in a "food web" starting with the wolf at the top. Who eats who? (This activity led to a passionate discussion amongst our alpha testers, especially when it came to Grizzly Bears. They eventually agreed that wolves do not attack healthy Grizzly Bears but will happily hunt down bear cubs.)
+For older kids, ask them to write down the name of every animal that is mentioned in the story. Next, cut them out so every name is on a separate piece of paper. Finally, arrange them in a "food chain" starting with the wolf at the top. Which animal eats which? (This activity led to a passionate discussion amongst one family, especially when it came to Grizzly Bears. They eventually agreed that wolves do not attack healthy Grizzly Bears but will happily hunt down bear cubs.)
 
 ![foodweb](foodweb.jpeg)
 {.center}
@@ -372,7 +374,7 @@ freq: daily
 
 This portion of Psalm 23 evokes the serenity that flows from the Lord as He rejuvenates us within His creation. Johnnie and Teedie could certainly understand this serenity as they hiked and camped in Yosemite.
 
-Ask your children to memorize this scripture by writing it down five times each day. You may want to get them a “copybook” for writing down phrases and scripture worthy of memorization. This can be good practice for handwriting as well.
+Ask your children to memorize this scripture by writing it down five times each day. You may want to get them a “copybook” for writing down scripture and phrases worthy of memorization. This can be good practice for handwriting as well.
 
 ---
 
@@ -382,15 +384,14 @@ Ask your children to memorize this scripture by writing it down five times each 
 time: 10 minutes
 ```
 
-> The granite formations towered above them. 
-> They passed the sheared cliff of Half Dome and the fierce face of El Capitan rising from the valley floor.
+> That night, under the branches of a towering sequoia called the Grizzly Giant, Teedie lay on the forty thick wool blankets his men prepared.
 {.nowrap}
 
 
 The vocabulary words for this module are mostly about some of the natural wonders in Yosemite and how they were created: wilderness, sequoia, glacier, valley, granite, sculpted, sheared. Understanding these words will help young readers comprehend John Muir’s description of how glaciers created Yosemite.
 
 Wilderness
-: an area generally undisturbed by human activity
+: a natural area generally undisturbed by human activity
 
 Stagecoach
 : a horse-drawn coach for carrying passengers
@@ -441,7 +442,7 @@ Ask your kids to write a one-paragraph, ten-sentence story about the National Pa
 
 * Sentence 2: Include ONE of these emotions: Elation, Dread, Curiosity, Frustration, Awe, Guilt
 
-* Sentence 3: Use ONE of these nouns: Bridge, Whisper, Treasure,Storm, Shadow.
+* Sentence 3: Use ONE of these nouns: Bridge, Whisper, Treasure, Storm, Shadow.
 
 * Sentence 4: Write a sentence with exactly FOUR words.
 
@@ -453,7 +454,7 @@ Ask your kids to write a one-paragraph, ten-sentence story about the National Pa
 
 * Sentence 9 and 10: Use a cliffhanger ending that leaves the reader wanting more.
 
-Here's an example from one of our alpha testers: 1) The green trees in the national park. 2) I was in awe when I saw the crisp gold leaves on the trees. 3) I saw the shadow of a majestic Grizzly Bear. 4) My hands trembled slightly. 5) Suddenly, I saw the bear close behind me. 6) The bear smelled like dirty socks. 7) The knot in my stomach grew tighter as the bear got closer. 8) Why did I not get bear repellant? 9/10) When it got really close I decided to run. And then the bear jumped at me...
+Here's an example from one young writer: 1) The green trees soar in the national park. 2) I was in awe when I saw the crisp gold leaves on the trees. 3) I saw the shadow of a majestic Grizzly Bear. 4) My hands trembled slightly. 5) Suddenly, I saw the bear close behind me. 6) The bear smelled like dirty socks. 7) The knot in my stomach grew tighter as the bear got closer. 8) Why did I not get bear repellant? 9/10) When it got really close I decided to run. And then the bear jumped at me...
 
 [prompts]: https://briantolentino.com/writing-prompts/
 
@@ -469,7 +470,7 @@ time: 10-20 minutes
 
 There are three double-page spreads in the story that show Muir telling Roosevelt a story by a campfire. The smoke from the fire becomes the thought bubbles above their heads depicting what Muir is describing. The thought bubbles show the story within the story and convey what Muir is expressing to Roosevelt while also showing what is actually happening in the foreground. These spreads take advantage of two different techniques: thought bubbles and the use of steam or smoke to give a dreamy quality.
 
-Have your child(ren) try out this technique of showing what characters are saying by using smoke thought bubbles in their own picture (or larger story).
+Have your child(ren) try out this technique of showing what characters are saying by using smoke thought bubbles in their own picture (or larger story). Consider incorporating this technique in your guided writing activity.
 
 ---
 
