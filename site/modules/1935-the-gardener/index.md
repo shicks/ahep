@@ -49,7 +49,6 @@ Friday:
  - science
 
 ---
-{.pagebreak}
 
 ## American Heritage Songbook: _Happy Days Are Here Again_ {#songbook}
 
@@ -105,7 +104,6 @@ With the bouquet, you can arrange the flowers, connect them with a rubber band a
 ![Example of bouquet](paper-bouquet.jpg)
 {.center}
 
-{.pagebreak}
 ---
 
 ## Arts & Crafts: Burlap Doll Dress {#doll}
@@ -144,7 +142,6 @@ Both _The Gardener_ and _Leah's Pony_ include references to making clothing from
 {.center}
 
 ---
-{.pagebreak}
 
 ## Geography: The Great Plains and the Dust Bowl {#whose-side}
 
@@ -180,7 +177,6 @@ Next, ask them to assemble just the states that were part of the Dust Bowl. Look
 
 Note: My children also enjoyed being a dust bowl/tornado.  Each child grabbed a Dust Bowl state and danced/spun/twirled around the room with it.
 
-{.pagebreak}
 ---
 
 ## Famous American Texts: _FDR's Inaugural Speech_ {#text-fdr-speech}
@@ -201,8 +197,6 @@ In his inauguration speech, FDR tried to restore the confidence of U.S. citizens
 It’s also worth noting that FDR declared “war” on the Great Depression, and asked Congress for extraordinary powers to wage that war: “I shall ask the Congress for the one remaining instrument to meet the crisis -- broad Executive power to wage a war against the emergency, as great as the power that would be given to me if we were in fact invaded by a foreign foe.” 
 
 For this activity, ask your kids to memorize the famous line from FDR’s inauguration speech. Also, the next time you read _The Gardener_, see if they can find FDR’s photo.
-
-{.pagebreak}
 
 ---
 
@@ -468,8 +462,6 @@ Now, ask your young artists to try Small’s white space spotlight technique on 
 
 ![Sample Art](cgh-drawing.jpg)
 {.center .small}
-
-{.pagebreak}
 
 ---
 

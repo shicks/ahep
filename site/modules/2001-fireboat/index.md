@@ -31,7 +31,7 @@ Length: 48 pages
 ## Calendar
 
 Monday:
- - songbook
+ - "Songbook: _Where Were You (When the World Stopped Turning)_ [songbook]"
  - craft1
 
 Tuesday:
