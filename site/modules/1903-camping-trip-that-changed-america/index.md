@@ -235,7 +235,9 @@ You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making s
 ![weather](snowstorm3.jpeg)
 {.center}
 
-Science discussion: This obviously isn't how snowstorms _actually_ work, but it's a fun experiment and there's some interesting science nonetheless. The white-painted water stays separate from the baby oil because oil and water are _immiscible_ (they don't mix: water's polarized molecules prefer to be closer to other polarized water molecules, while oil's non-polarized molecules also prefer their own company, so a clear boundary develops between the two substances). On the other hand, water-based paint _does_ readily mix with water, coloring it white. The water (and paint) is heavier than the oil, so it will naturally form a separate layer at the bottom of the jar. The snowstorm starts when the alka-seltzer tablets release carbon dioxide into the water. The gas is much lighter than both the water and the oil, so it travels up to the water-oil boundary. At this point, rather than simply passing directly into the oil, the _surface tension_ of the water kicks in: the bonds between nearby water molecules are so strong that the air bubble can't immediately break through them to get into the oil. Instead, the paint and water forms a small additional bubble _around_ the air bubble as it travels up through the oil layer (with the CO₂ inside, the water bubble is now lighter than the oil). Once it finally reaches the top of the oil layer, the gas escapes into the atmosphere, and what's left is a ball of water and paint that's again heavier than the oil around it, so it sinks back down through the oil like snow. This repeats until the alka-seltzer tablet is gone.
+Science discussion: This isn't how snowstorms _actually_ work, but it's a fun experiment and there's some interesting science nonetheless. The white-painted water stays separate from the baby oil because oil and water are _immiscible_ (they don't mix: water's polarized molecules prefer to be closer to other polarized water molecules, while oil's non-polarized molecules also prefer their own company, so a clear boundary develops between the two substances). On the other hand, water-based paint _does_ readily mix with water, coloring it white. The water (and paint) is heavier than the oil, so it will naturally form a separate layer at the bottom of the jar. 
+
+The snowstorm starts when the alka-seltzer tablets release carbon dioxide into the water. The gas is much lighter than both the water and the oil, so it travels up to the water-oil boundary. At this point, rather than simply passing directly into the oil, the _surface tension_ of the water kicks in: the bonds between nearby water molecules are so strong that the air bubble can't immediately break through them to get into the oil. Instead, the paint and water forms a small additional bubble _around_ the air bubble as it travels up through the oil layer (with the CO₂ inside, the water bubble is now lighter than the oil). Once it finally reaches the top of the oil layer, the gas escapes into the atmosphere, and what's left is a ball of water and paint that's again heavier than the oil around it, so it sinks back down through the oil like snow. This repeats until the alka-seltzer tablet is gone.
 
 ### Supplies, Rain Cloud in a Jar
 
@@ -454,7 +456,7 @@ Ask your kids to write a one-paragraph, ten-sentence story about the National Pa
 
 * Sentence 9 and 10: Use a cliffhanger ending that leaves the reader wanting more.
 
-Here's an example from one young writer: 1) The green trees soar in the national park. 2) I was in awe when I saw the crisp gold leaves on the trees. 3) I saw the shadow of a majestic Grizzly Bear. 4) My hands trembled slightly. 5) Suddenly, I saw the bear close behind me. 6) The bear smelled like dirty socks. 7) The knot in my stomach grew tighter as the bear got closer. 8) Why did I not get bear repellant? 9/10) When it got really close I decided to run. And then the bear jumped at me...
+Here's an example from one young writer: 1) Green trees soar in the national park. 2) I was in awe when I saw the crisp gold leaves on the trees. 3) I saw the shadow of a majestic Grizzly Bear. 4) My hands trembled slightly. 5) Suddenly, I saw the bear close behind me. 6) The bear smelled like dirty socks. 7) The knot in my stomach grew tighter as the bear got closer. 8) Why did I not get bear repellant? 9/10) When it got really close I decided to run. And then the bear jumped at me...
 
 [prompts]: https://briantolentino.com/writing-prompts/
 
@@ -498,6 +500,29 @@ Now, using the template below, make your own logo, identifying what you would pr
 
 ---
 
+## Civic Culture: Volunteer at a National or State Park {#civic}
+
+```metadata
+time: one day
+```
+
+> "How can I help?" asked the president.
+> "Keep it wild," Muir said, "and protect it forever."
+{.nowrap}
+
+Generosity is one of the virtues that makes Americans exceptional. We donate our time generously with more volunteer service hours than any other country. For those who like the outdoors, there are many opportunities to voluntarily serve in our national parks. The National Park Service runs a [Volunteer-In-Parks (VIP) program][vip] that provides nationwide opportunities to work in our national parks; trail maintenance, wildlife monitoring, teaching Junior Rangers are just a few of the volunteer opportunities. 
+
+State parks run their own volunteer programs as well. Most states will have something similar to the volunteer website operated by the National Park Service; for example, here are websites for [Virginia][virginia], [Texas][texas], and [Florida][florida].
+
+For this activity, find a one day volunteer activity at either a national park or a state park that the whole family can do together.
+
+[vip]: https://www.nps.gov/subjects/volunteer/index.htm
+[virginia]: https://www.dcr.virginia.gov/state-parks/volunteers
+[texas]: https://tpwd.texas.gov/state-parks/help-parks
+[florida]: https://volunteers.floridastateparks.org
+
+---
+
 ## Math: Height and Girth {#counting}
 
 ```metadata
@@ -531,37 +556,22 @@ Height: About 3,000 ft above the valley
 ## Economics: The Goldfish Game {#econ}
 
 ```metadata
-time: 20-30 minutes
-prep: 10 minutes
-supplies: goldfish crackers, coins, paper plate, marker, spoons 
+time: 5-10 minutes
+prep: 5 minutes
+supplies: goldfish crackers, spoons 
 ```
 
 > What if everyone owned the wilderness?
 
-In economics, a commons is defined as a resource that is non-excludable (you can’t prevent people from using it) and rivalrous or exhaustible (one person using it means there is less for others to use). These characteristics make it difficult to preserve and take care of a common. With a commons, everyone has an incentive to get as much of the resource for themselves as they can, because if they don’t, someone else will take it. Owners can’t prevent non-owners from using the resource. This is known as the Tragedy of the Commons. A simple game shows the challenge of taking care of a resource held in common and the importance of private property.
+Teedie and Johnnie sought to protect Yosemite and take care of its resources rather than have a lack of coordination cause the natural resource to be carved up and wasted. Without clear ownership, it can be hard to coordinate the care of a resource. Yosemite was threatened with mismanagement and depletion through short-term competing interests. Although many may have wanted to privately benefit from the natural resource, the lack of coordination from these many individuals may have destroyed the beauty of the valley (ruining the value for everyone). Turning Yosemite into a National Park solved the coordination problem and preserved the resource making everyone (including future generations) better off. A simple activity can help illustrate this.
 
-### Supplies
-* Goldfish (or other small cracker)
-* Coins (or other reward that is preferred over the goldfish)
-* Large paper or plate
-* Something to divide the large paper (markers) or plate (utensils or small bowls)
-* Optional: spoon for “fishing”
+Set out a small pile of goldfish in front of two or more children. Let them "fish" with either their hands or a spoon. Put no limitations or rules as to how many they take. Once there are no goldfish left, ask them a few questions.
 
-### Directions
-1. Set a few goldfish (about two per person playing the game) on the large paper or plate and explain that this is a lake with fish.  
-2. Explain that there will be a short time (15 seconds or so) for fishing.
-3. Explain that every fish caught (and whole - no broken fish!) will earn a small reward.  Every fish left in the lake will make another fish for the next round of fishing.  Every fish caught in the next round of fishing will earn a large reward.  Do NOT let the fishermen talk or plan during the game.
-4. Rewards (small/large) can be 25/50 cents or mini/regular marshmallows or the goldfish itself or some preferred treat.
-5. Run two rounds 
-6. Now, partition the lake off with an equal number of fish in each partition.  Explain that each partition is a private lake and only one person can fish in it.
-7. Run two rounds again.
-8. Compare the results.
+* Did each child get the same amount of goldfish?
+* Were you worried that you wouldn't get enough goldfish?
+* Were you worried that someone else would take the goldfish you wanted?
 
-The difficulty with a common lake is that fishermen have an incentive to overfish. They may want to leave fish for the next round, but there is no guarantee that another fishermen won’t take the fish, so it is safer for them to get the fish now rather than risk not getting any in the future.  With no one owning the lake (or everyone owning the lake), there isn’t an incentive to take care of the resource (fish). Once each fisherman has a private lake, they can leave fish for the next round without fear that some other fisherman will get the fish. The fishermen have an incentive to take care of the resources (fish) that they control in their private lake to make sure that they will have fish in the future.
+Now give each child their own small bowl of goldfish. Ask the questions again. Point out that having their own bowl (their own "private property") meant that they didn't have to worry about not getting enough from the group pile. They also could decide what to do with the goldfish (eat them all, save some for later, etc.). When there is clear ownership, people can make decisions about how best to use a resource without worrying that other people will use it up before they get a chance.
 
-For older children, you can ask them how they should fish if they need to have fish for 10 rounds instead of 2? 100 rounds? An unknown number of rounds?
-
-For younger children, you can simplify by having them eat whatever they fish and not worry about small/large rewards after different rounds. You can still add fish after a certain amount of time if there are fish in the lake and compare having a common lake of goldfish to having personal private bowls.
-
-Teedie and Johnnie sought to protect Yosemite and take care of its resources rather than have a lack of coordination cause the natural resource to be carved up and wasted. Although Yosemite is not a commons in the economic sense of the word (it is excludable as demonstrated by visitors needing to pay an entrance fee), it was threatened with mismanagement and depletion through short-term competing interests. Although many may have wanted to privately benefit from the natural beauty, the lack of coordination from these many individuals may have destroyed the beauty of the valley. Turning Yosemite into a National Park solved the collective action (coordination) problem in order to preserve the resource and ultimately make everyone better off.
+For older children, you can ask them what would happen if they needed to leave some "fish" to make sure there were enough fish to make more fish in the future. Is it easier to make sure there are fish for the future in a common pool of fish or when each person has a private pool?
 
