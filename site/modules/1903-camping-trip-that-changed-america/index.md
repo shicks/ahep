@@ -107,7 +107,7 @@ Inspired by [Imaginative Homeschool][link1]!
 5. Once you have laid out your picture as you like it, glue the papers on the background sheet with the glue stick.  Remember that you need to glue the strip at the very back first and end with your silhouette.
 
 
-![Sample sihouettes](silhouettes.jpeg)
+![Sample sihouettes](silhouettes.jpg)
 {.center}
 
 [link1]: https://imaginativehomeschool.blogspot.com/2021/09/torn-paper-mountain-craft.html?fbclid=IwAR2xaU_HaNZ6hBPHpCU9PAWYgcWcFGH-2gfagPiIBHaO7fqX9lD8I_q4Sxk
@@ -231,8 +231,8 @@ You can make both a snowstorm in a jar and a rain cloud in a jar. Enjoy making s
 5. Watch as the water/paint bubbles rise to the top of the oil and then “snow” down.
 6. Add additional alka-seltzer tablets once the “storm” ends.
 
-![weather](snowstorm1.jpeg)
-![weather](snowstorm3.jpeg)
+![weather](snowstorm1.jpg)
+![weather](snowstorm3.jpg)
 {.center}
 
 Science discussion: This isn't how snowstorms _actually_ work, but it's a fun experiment and there's some interesting science nonetheless. The white-painted water stays separate from the baby oil because oil and water are _immiscible_ (they don't mix: water's polarized molecules prefer to be closer to other polarized water molecules, while oil's non-polarized molecules also prefer their own company, so a clear boundary develops between the two substances). On the other hand, water-based paint _does_ readily mix with water, coloring it white. The water (and paint) is heavier than the oil, so it will naturally form a separate layer at the bottom of the jar. 
@@ -257,7 +257,7 @@ The snowstorm starts when the alka-seltzer tablets release carbon dioxide into t
 4. Pipette or spoon the food colored water onto the top of the shaving cream “cloud.”
 5. When there is enough colored water on top of and within it, the shaving cream “cloud” won’t be able to hold it all and you will be able to see the colored “rain” water come down into the water in the glass.
 
-![weather](raincloud.jpeg)
+![weather](raincloud.jpg)
 {.center}
 
 Science discussion: While it's not exactly the same as clouds (which themselves are just water), the foam is also able to support a certain amount of water without it falling through. Once you reach that limit, the extra colored water falls out of the cloud into the clear water. Since the food coloring slightly increases the weight of the water around it, the rain drop initially starts travelling down through the slightly lighter clear water, but mixing equalizes the densities pretty quickly. This experiment can be a bit finnicky, particularly with respect to the ratio of water to food coloring. We found that if there's too little food coloring, then the trace amounts of dissolved foam actually cause the colored water to be _lighter_ than the clear water, so it just floats at the top, which is less impressive. For an interesting follow-up experiment, try using baby oil or mineral oil in the bottom layer and see if you can guess what will change.
@@ -300,9 +300,9 @@ Natural forces shaped the unique geography found in many National Parks: Glacier
 8. Take the straw and blow through it while pointing the end close to the sand/dirt/soil. [The sand/dirt/soil should shift. This is a model of wind erosion. ]
 9. Wait until the ice melts. [With enough ice melted, new channels and valleys in the sand/dirt/soil should form. This is a model of glacier erosion.]
 
-![erosion](erosion1.jpeg)
-![erosion](erosion2.jpeg)
-![erosion](erosion3.jpeg)
+![erosion](erosion1.jpg)
+![erosion](erosion2.jpg)
+![erosion](erosion3.jpg)
 {.center}
 
 [video1]: https://www.youtube.com/watch?v=-MFLgtti51I
@@ -344,7 +344,7 @@ They dug dens and bore puppies.
 {.nowrap}
 
 
-![Book Cover](wolves.jpeg)
+![Book Cover](wolves.jpg)
 {.center}
 
 **Title:** _The Wolves Are Back_<br>
@@ -359,7 +359,7 @@ Wendell Minor’s illustrations of the huge variety of  animals and flowers in Y
 
 For older kids, ask them to write down the name of every animal that is mentioned in the story. Next, cut them out so every name is on a separate piece of paper. Finally, arrange them in a "food chain" starting with the wolf at the top. Which animal eats which? (This activity led to a passionate discussion amongst one family, especially when it came to Grizzly Bears. They eventually agreed that wolves do not attack healthy Grizzly Bears but will happily hunt down bear cubs.)
 
-![foodweb](foodweb.jpeg)
+![foodweb](foodweb.jpg)
 {.center}
 
 ---
@@ -490,12 +490,12 @@ Congress created the National Park Service in 1916. Its mission statement reads:
 
 Take a look at the National Park Service's logo to see how it reflects their mission statement.
 
-![npslogo](npslogo.jpeg)
+![npslogo](npslogo.jpg)
 {.center}
 
 Now, using the template below, make your own logo, identifying what you would protect and preserve.
 
-![template](logotemplate.jpeg)
+![template](logotemplate.jpg)
 {.center}
 
 ---
