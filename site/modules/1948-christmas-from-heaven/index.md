@@ -68,7 +68,7 @@ Thursday:
  - scripture
  
 Friday:
- - supplemental
+ - supplemental2
  - culture
 
 ---
@@ -343,7 +343,7 @@ We candy bombed inside because of rain.
 
 ---
 
-## Supplemental Reading: _Mercedes and the Chocolate Pilot_ {#supplemental}
+## Supplemental Reading: _Mercedes and the Chocolate Pilot_ {#supplemental1}
 
 ```metadata
 time: 15 minutes
@@ -368,6 +368,33 @@ the Candy Bomber. All the action revolves around his actions and how
 he sees things. Read _Mercedes and the Chocolate Pilot_ to your
 child(ren) and then ask them who does all the action revolve around?
 Who is the main character? Through whose eyes do we see the story?
+
+---
+
+## Supplemental Reading: _Boxes for Katje_ {#supplemental2}
+
+```metadata
+time: 15 minutes
+```
+
+> "America?" exclaimed Katje. "Who would send me a box from America?"<br>
+> "The Children's Aid Society," replied the postman. "Children in America are collecting and mailing many hard-to-find items to the children of Holland. You, young miss, were lucky to get one."
+
+![Boxes for Katje cover](katje.jpeg)
+{.center}
+
+**Title:** _Boxes for Katje_<br>
+**Author:** Candace Fleming<br> 
+**Illustrator:** Stacy Dressen-McQueen<br>
+**Year Published:** 2003<br>
+**Length:** 40 pages
+
+This is another wonderfully true story about American generosity in the wake of World War II. The war devastated Europe. Roads, bridges, buildings, railways were all bombed. Poverty was rampant and food was scarce. American charities, including the [Children's Aid Society][aidsociety], Red Cross, and Catholic Relief Services stepped up to help wherever they could. In 1945, Katje was the oldest daughter of a Dutch family and Rosie, the young American girl, was the author's mother.
+
+This story shows how even the generosity of children can make a huge impact. Show your children how they can be just like Rosie by helping children around the world with [Operation Christmas Child][occ].
+
+[aidsociety]: https://www.childrensaidnyc.org/about
+[occ]: https://www.samaritanspurse.org/what-we-do/operation-christmas-child/
 
 ---
 
@@ -469,7 +496,25 @@ activity provides a good connection to the story.
 
 ---
 
-## Free Enterprise: Rationing {#economics}
+## Math: Berlin Airlift Landings {#math}
+
+```metadata
+time: 10 minutes
+supplies: 
+```
+
+> The Berlin Airlift of 1948-1949 is still one of the greatest humanitarian missions the world has ever known. Like a great sky bridge, airplanes flew 24 hours a day, three minutes apart, to feed 2.2 million people for 15 desperate months.
+
+It is difficult to imagine the logistics required to pull off this humanitarian miracle. Ask your kids to calculate how many planes landed in:
+
+* One hour [60 minutes/hour X 1 plane/3 minutes = 20 planes/hour]
+* One day [24 hours/day X 20 planes/hour = 480 planes/day]
+* One month (use 30 days as length of a month) [30 days/month X 480 planes/day = 14,400 planes/month]
+* 15 months [15 months X 14,400 planes/month = 216,000 planes landed over the course of the Berlin Airlift]
+
+---
+
+## Economics: Rationing {#economics}
 
 ```metadata
 time: 10 minutes
