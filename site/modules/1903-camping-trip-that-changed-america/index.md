@@ -12,7 +12,7 @@ In 1872, America took the unprecedented step of establishing the world’s first
 
 National parks are a legacy from one generation to the next. We protect and preserve them as part of our American heritage, to be handed on to future generations so they, in turn, can enjoy the beauty and wonder of God’s creation. 
 
-This generational generosity is part of America’s DNA, part of what makes us exceptional. Our example showed other countries what could be done and now national parks are standard in almost every country.
+This generational generosity is part of America’s DNA, part of what makes us exceptional. Our example showed other countries what could be done and today national parks are standard in almost every country.
 
 ---
 
@@ -34,7 +34,7 @@ Monday:
 
 Tuesday:
  - geography
- - econ
+ - writing
 
 Wednesday:
  - "Vocabulary (before reading) [vocab]"
@@ -491,7 +491,7 @@ Congress created the National Park Service in 1916. Its mission statement reads:
 Take a look at the National Park Service's logo to see how it reflects their mission statement.
 
 ![npslogo](npslogo.jpg)
-{.center}
+{.big .center}
 
 Now, using the template below, make your own logo, identifying what you would protect and preserve.
 
@@ -514,12 +514,13 @@ Generosity is one of the virtues that makes Americans exceptional. We donate our
 
 State parks run their own volunteer programs as well. Most states will have something similar to the volunteer website operated by the National Park Service; for example, here are websites for [Virginia][virginia], [Texas][texas], and [Florida][florida].
 
-For this activity, find a one day volunteer activity at either a national park or a state park that the whole family can do together.
+For this activity, find a one day volunteer activity at either a national park or a state park that the whole family can do together. In addition, consider taking part in the [Junior Ranger program][ranger] sponsored by the National Park Service.
 
 [vip]: https://www.nps.gov/subjects/volunteer/index.htm
 [virginia]: https://www.dcr.virginia.gov/state-parks/volunteers
 [texas]: https://tpwd.texas.gov/state-parks/help-parks
 [florida]: https://volunteers.floridastateparks.org
+[ranger]: https://www.nps.gov/kids/become-a-junior-ranger.htm
 
 ---
 
@@ -550,28 +551,3 @@ Height: About 5,000 ft above the valley or 8,800 ft above sea level. Watch [this
 
 El Capitan
 Height: About 3,000 ft above the valley
-
----
-
-## Economics: The Goldfish Game {#econ}
-
-```metadata
-time: 5-10 minutes
-prep: 5 minutes
-supplies: goldfish crackers, spoons 
-```
-
-> What if everyone owned the wilderness?
-
-Teedie and Johnnie sought to protect Yosemite and take care of its resources rather than have a lack of coordination cause the natural resource to be carved up and wasted. Without clear ownership, it can be hard to coordinate the care of a resource. Yosemite was threatened with mismanagement and depletion through short-term competing interests. Although many may have wanted to privately benefit from the natural resource, the lack of coordination from these many individuals may have destroyed the beauty of the valley (ruining the value for everyone). Turning Yosemite into a National Park solved the coordination problem and preserved the resource making everyone (including future generations) better off. A simple activity can help illustrate this.
-
-Set out a small pile of goldfish in front of two or more children. Let them "fish" with either their hands or a spoon. Put no limitations or rules as to how many they take. Once there are no goldfish left, ask them a few questions.
-
-* Did each child get the same amount of goldfish?
-* Were you worried that you wouldn't get enough goldfish?
-* Were you worried that someone else would take the goldfish you wanted?
-
-Now give each child their own small bowl of goldfish. Ask the questions again. Point out that having their own bowl (their own "private property") meant that they didn't have to worry about not getting enough from the group pile. They also could decide what to do with the goldfish (eat them all, save some for later, etc.). When there is clear ownership, people can make decisions about how best to use a resource without worrying that other people will use it up before they get a chance.
-
-For older children, you can ask them what would happen if they needed to leave some "fish" to make sure there were enough fish to make more fish in the future. Is it easier to make sure there are fish for the future in a common pool of fish or when each person has a private pool?
-
