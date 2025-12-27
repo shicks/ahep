@@ -491,7 +491,7 @@ Congress created the National Park Service in 1916. Its mission statement reads:
 Take a look at the National Park Service's logo to see how it reflects their mission statement.
 
 ![npslogo](npslogo.jpg)
-{.big .center}
+{.center.large}
 
 Now, using the template below, make your own logo, identifying what you would protect and preserve.
 
