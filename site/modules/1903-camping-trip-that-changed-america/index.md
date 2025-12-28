@@ -107,7 +107,7 @@ Inspired by [Imaginative Homeschool][link1]!
 5. Once you have laid out your picture as you like it, glue the papers on the background sheet with the glue stick.  Remember that you need to glue the strip at the very back first and end with your silhouette.
 
 
-![Sample sihouettes](silhouettes.jpg)
+![Sample sihouettes](silhouettes.jpg)     ![more sample silhouettes](moresils.jpeg)
 {.center}
 
 [link1]: https://imaginativehomeschool.blogspot.com/2021/09/torn-paper-mountain-craft.html?fbclid=IwAR2xaU_HaNZ6hBPHpCU9PAWYgcWcFGH-2gfagPiIBHaO7fqX9lD8I_q4Sxk
@@ -300,9 +300,9 @@ Natural forces shaped the unique geography found in many National Parks: Glacier
 8. Take the straw and blow through it while pointing the end close to the sand/dirt/soil. [The sand/dirt/soil should shift. This is a model of wind erosion. ]
 9. Wait until the ice melts. [With enough ice melted, new channels and valleys in the sand/dirt/soil should form. This is a model of glacier erosion.]
 
-![erosion](erosion1.jpg)
-![erosion](erosion2.jpg)
-![erosion](erosion3.jpg)
+
+![erosion](erosion2.jpg)![erosion](erosion3.jpg)
+![erosion](erosion4.jpeg)
 {.center}
 
 [video1]: https://www.youtube.com/watch?v=-MFLgtti51I
@@ -359,8 +359,9 @@ Wendell Minor’s illustrations of the huge variety of  animals and flowers in Y
 
 For older kids, ask them to write down the name of every animal that is mentioned in the story. Next, cut them out so every name is on a separate piece of paper. Finally, arrange them in a "food chain" starting with the wolf at the top. Which animal eats which? (This activity led to a passionate discussion amongst one family, especially when it came to Grizzly Bears. They eventually agreed that wolves do not attack healthy Grizzly Bears but will happily hunt down bear cubs.)
 
-![foodweb](foodweb.jpg)
-{.center}
+![foodweb](foodweb.jpg)![foodchain alternate](FoodChain2.jpeg)
+<br>Two different approaches to making a food chain
+{.center .caption}
 
 ---
 
@@ -498,6 +499,9 @@ Now, using the template below, make your own logo, identifying what you would pr
 ![template](logotemplate.jpg)
 {.center.large}
 
+![Logo](Logo1.jpeg)![Logo alternate](Logo2.jpeg)
+{.center}
+
 ---
 
 ## Civic Culture: Volunteer at a National or State Park {#civic}
@@ -536,9 +540,8 @@ It is hard to get a sense of how big Giant Sequoias are (or Yosemite’s famous 
 
 Giant Sequoias
 * Age: up to 3,400 years
-* Height: 250 ft (can be as tall as a 26 story building)
-* Girth: 90 ft (how many people would need to hold hands in a circle to make it all the way around one of these trees?)
-* To help get a sense for how enormous these trees are, try marking out 90 ft and 250 ft outside on a walk or in a field.
+* Height: 250 ft (can be as tall as a 26 story building; try measuring this on the sidewalk to see how tall it is)
+* Girth: 90 ft (take 90 ft of rope, string, or yarn and shape it into a circle)
 
 Take a look at [this National Park website][sequoias] that ranks the top 50 biggest Sequoias. Can you find the two located in Yosemite National Park?
 
