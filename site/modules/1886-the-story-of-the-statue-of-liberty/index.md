@@ -9,27 +9,18 @@ when: 1886
 ## Introduction
 
 After our flag, the Statue of Liberty is the second most evocative
-symbol of what the United States of America stands for. Our history as
-a nation is all about the struggle to provide increasing liberty to
-more of our citizens.
-
-From our earliest beginnings we saw ourselves as a “shining city on a
-hill,” a beacon of liberty for other nations to emulate. _The Statue of
-Liberty Enlightening the World_ holding her torch aloft is the physical
-manifestation of that ideal.
+symbol of the United States of America. Our history as a nation is all about the struggle to provide increasing liberty to more of our citizens. From our earliest beginnings we saw ourselves as a “shining city on a hill,” a beacon of liberty for other nations to emulate. _Liberty Enlightening the World_, holding her torch aloft and welcoming immigrants to America, is the physical manifestation of that ideal.
 
 For many years Liberty and her torch served as the focal point for
-immigrants seeking their fortune in the new world, coming to America
-for a better life for themselves and their families. They left the
-oppressions of their old life behind for the freedom that America
-offered.
+immigrants seeking their fortune in the New World, coming to America
+for a better life for themselves and their families, pursuing the American Dream. They left the oppressions of their old life behind for the freedoms, the opportunities, and the liberty that America offered.
 
 The Statue of Liberty was a gift from the French people to the
-American people. The French people paid for the statue itself while
-the Americans paid for the pedestal the statue stood on. Over 120,000
+American people to mark our shared love of liberty. The French people paid for the statue itself while
+Americans paid for the pedestal the statue stood on. Over 120,000
 people in the United States donated funds for the pedestal with 80% of
-them donating less than a dollar—a great example of how widespread
-American generosity is and our devotion to Liberty.
+them donating less than a dollar — a great example of widespread
+American generosity, our devotion to Liberty, and the friendship between two peoples who share the same ideals.
 
 ---
 
@@ -46,7 +37,7 @@ Length: 48 pages
 ## Calendar
 
 Monday:
- - re-enactment
+ - crafts
  - songbook
 
 Tuesday:
@@ -58,11 +49,11 @@ Wednesday:
  - oxidation
 
 Thursday:
- - generosity
+ - re-enactment
  - journey
 
 Friday:
- - coloring
+ - generosity
  - symbolism
 
 ---
@@ -124,22 +115,98 @@ Crosby & Graham Nash][song4] immediately after 9/11.
 
 ---
 
-## Arts & Crafts: Coloring; Connect-the-Dots {#art}
+## Arts & Crafts: Make Your Own Statue of Liberty {#crafts}
 
 ```metadata
 time: 10-20 minutes
-supplies: Crayons, Pencil, Coins
+supplies: toilet paper rolls, card stock, tissue paper, pen, paint, paint brush, glue
 ```
 > The Statue of Liberty stands on an island in New York Harbor. She is a beautiful sight to all who pass by her.
 
-As usual, our kids loved [coloring][coloring1] and
-[connect][coloring2]-the-[dots][coloring3] sheets featuring the
-[Statue of Liberty][coloring4].
+Because the Statue of Liberty is such an important symbol of American ideals, we have two craft activities for this module: Toilet Paper Roll Statue of Liberty and Liberty's Crown and Torch.
 
-[coloring1]: https://www.supercoloring.com/coloring-pages/statue-of-liberty
-[coloring2]: https://www.education.com/worksheet/article/4th-of-july-dot-to-dot/
-[coloring3]: https://www.bigactivities.com/ctd/presidents_day/statue_of_liberty/statue_of_liberty.php
-[coloring4]: https://www.coloring-page.net/statue-of-liberty.html
+**Toilet Paper Roll Statue of Liberty** (h/t [A Little Pinch of Perfect][web1]).
+
+### Supplies
+
+* Toilet paper roll
+* White card stock
+* Red and/or orange tissue paper (or card stock)
+* Pen
+* Paint brush
+* Scissors
+* Green and white paint (we used acrylic)
+* Glue (we used both a glue stick and hot glue)
+
+### Directions
+
+1. Draw a circle with seven triangles around half of the edge of the circle. The circle should be a little bigger than the toilet paper roll.  Draw two small rectangles as well to make the torch and tablet. See photo.
+
+![Template](template.jpeg)
+{.center} 
+
+
+2. Mix paint until it is the correct shade of green for the Statue of Liberty. Alternatively color brown for the pre-oxidized version.
+
+3. Paint the spikey circle, two rectangles and toilet paper roll with the green-ish paint. Allow to dry.
+
+4. Draw a face over the (dry) paint in the circle part. Alternatively add additional details like windows in the crown or dates on the tablet.  
+
+5. Cut the circle with spikes and the two rectangles out of the card stock with scissors.
+
+6. Cut (very) small pieces of tissue paper out and glue them to the top of one of the rectangles.
+
+7.  Glue head at the top of the toilet paper roll. Glue tablet on one side and torch on the other a little higher.
+
+![Toilet Paper Roll Lady Liberty](TP_Lady_Liberty.jpeg)
+{.center} 
+
+
+**Liberty's Crown and Torch** (h/t [Buggy and Buddy][web2])
+
+### Supplies
+
+* White paper plate
+* White paper bowl or cup
+* Paper towel roll
+* Card stock (red and orange or white and use paint to make them red/orange)
+* Scissors 
+* Stapler
+* Green/white paint
+* Bobby pins or hole punch and string
+
+### Directions
+1. Cut the middle out of the paper plate.  Cut about a third out of the the circumference of the plate.  Cut seven triangles out of the middle of the plate.
+
+2. Cut a circle out of the middle of the bottom of the bowl (or cup) the same size (or just smaller) than the size of the paper towel roll.
+
+2. Mix paint until it is the correct shade of green for the Statue of Liberty. Alternatively color brown for the pre-oxidized version.
+
+3. Paint the seven triangles, the rim of the plate, the bowl (or cup), and the paper towel roll green.  Allow to dry.
+
+4.  Once dry, staple the seven triangles onto the rim.  Wear as crown and secure in place with bobby pins or punch holes in the sides and secure with string.
+
+![Crown](Crown.jpeg)
+{.center} 
+
+
+5. Slide the bowl (or cup) onto the paper towel roll until there is about 1-2 inches of roll above the bowl (or cup).
+
+6. Cut flame shapes out of the car stock (about four shapes).
+
+![Torch flames](Flames.jpeg)
+{.center} 
+
+7. Cut twice as many slits in the top of the paper towel roll as flame shapes (so about eight).  These should be in the part of the paper towel roll above/in the bowl (or cup).
+
+8. Fold the flame shapes in half and then slide them into the slits on the paper towel roll to make a torch.
+
+![Torch](Torch.jpeg)
+{.center} 
+
+
+[web1]: https://alittlepinchofperfect.com/statue-of-liberty-toilet-paper-roll-craft-and-free-template-for-4th-of-july/
+[web2]: https://buggyandbuddy.com/crafts-for-kids-make-a-statue-of-liberty-crown-and-torch/
 
 ---
 
@@ -167,7 +234,9 @@ Union.  Label the sheet “1886.”
 The country of France played a crucial role in America’s War of
 Independence from Great Britain. At that time, France was also at war
 with Great Britain so it made strategic sense for them to ally with
-America.  However, the gift of the Statue of Liberty from the people
+America. America returned the favor in World War I ("Lafayette, we are here!") and World War II, helping to liberate France from German invasions.
+
+However, the gift of the Statue of Liberty from the people
 of France to the people of America had no such geopolitical strategic
 goals. In fact, the project was initiated by private individuals,
 (Frederic Bartholdi, Edouard de Laboulaye), just to express their love
@@ -204,9 +273,8 @@ freq: daily
 > I lift my lamp beside the golden door!”
 {.nowrap}
 
-As part of the fundraising effort to erect the pedestal for _The
-Statue of Liberty Enlightening the World_, Emma Lazurus wrote a sonnet
-called _The New Colossus_. The poem was published in both Joseph
+As part of the fundraising effort to erect the pedestal for _Liberty Enlightening the World_, Emma Lazurus wrote a sonnet
+called _The New Colossus_ (the "Old Colossus" was the Colossus of Rhodes, one of the Seven Wonders of the Ancient World). The poem was published in both Joseph
 Pulitzer’s _New York World_ and the _New York Times_, initially
 enjoying wide popularity. Lazarus died the year after the Statue of
 Liberty was erected and the poem faded from popular memory until a
@@ -232,7 +300,8 @@ above. Practice each day after reading the story to them.
 ## Cooking: Apple Pie {#cooking}
 
 ```metadata
-time: TODO
+time: 30-35 minutes + baking
+prep: 15 minutes + shopping
 ```
 > At last, in 1886, Liberty was standing where she belonged. A wonderful celebration was held.
 
@@ -287,7 +356,7 @@ brown, gradually changing to the bluish-green color we know today
 after decades of oxidation. Her copper covering is approximately the
 width of two pennies, which leads to our science demonstration. We
 will speed up the process of oxidation and turn a brown penny
-bluishgreen in just a couple of hours.
+bluish-green in just a couple of hours. The chemical reaction below is similar to but not exactly the same as what happened to the Statue of Liberty.
 
 For [this demonstration][oxidation] you will need:
 
@@ -353,33 +422,45 @@ Liberty’s Torch!
 
 ---
 
-## Re-enactment: Be Your Own Statue of Liberty {#re-enactment}
+## Re-enactment: Be Bartholdi or Be Lady Liberty {#re-enactment}
 
 ```metadata
 time: 20 minutes
 prep: 30 minutes
-supplies: Sheet, Flashlight, Headband, Foil
+supplies: Play-doh, Sheet, Flashlight, Headband, Foil
 ```
 > Many people worked together in a large workshop. Some worked on Liberty's head and crown. Others worked on her right hand which would hold the torch.
 
+### Be Bartholdi
+Frederic Auguste Bartholdi created multiple models of _Liberty Enlightening the World_ before deciding on the version we know today. Using brown and/or green Play-Doh or modeling clay, create your own miniature model of Lady Liberty. You can either imitate Bartholdi's final version or create your own. Once Lady Liberty is complete, place her in a special location or room you can call "France."
+
+Next, your children will need to build a pedestal in "America" for Lady Liberty to stand on. You can use the modeling clay (or Play-Doh) for the pedestal. When it is completed, find a special place, perhaps near your front door, that you can call "Liberty Island." 
+
+Finally, Lady Liberty needs to be transported from "France" and across the "Atlantic Ocean" to her pedestal on "Liberty Island" where she can greet newcomers to "America." Once transported, arrange for a final unveiling ceremony for a parent or extended family members.
+
+![LL models](model1.jpg)
+{.center}
+
+### Be Lady Liberty
 This activity was fairly spontaneous and turned into a huge hit with
 the kids. One of their aunts suggested including more dress-up and
 costumes as part of the activities. As we were just about to launch
 this module, we challenged her to put together a Statue of Liberty
 outfit and do the first reading in it. As you can see below, she rose
 to the challenge with the help of a sheet, a flashlight, a book and a
-handmade crown (headband and foil). (Yes, to our surprise, we actually
+handmade crown (feel free to use the crown and torch from the Arts & Crafts activity!). (Yes, to our surprise, we actually
 owned a bluish-green sheet that worked perfectly; however, a brown,
-pre-oxidation sheet, would have also worked nicely :-) The kids loved
+pre-oxidation sheet, would have worked just as nicely :-) The kids loved
 it and afterwards both wanted to dress up as Liberty (tip: you might
 want to remove the batteries for three-year-olds, ours had trouble
 holding up the flashlight). Liberty’s Torch is more dramatic if done
-at night with the lights off.
+at night with the lights off. Or just use the lightweight version created in the Arts & Crafts activity (see photo below).
 
-![Adult dressed as Statue of Liberty](costume1.jpg)<br>
+Similarly to "Be Bartholdi," you can have Lady Liberty move from France to a pedestal (chair or step stool) in America.
+
 ![Statue of Liberty reading to children](costume4.jpg)<br>
-![Girl dressed as Statue of Liberty](costume2.jpg)
-![Boy dressed as Statue of Liberty](costume3.jpg)
+![Two Lady Libertys](Re-enactment.jpeg)<br>
+Lady Libertys On Their Pedestals (Post-oxidation and Pre-oxidation)!
 {.center}
 
 ---
@@ -438,6 +519,8 @@ history of the Statue of Liberty. But he then goes on to point out
 something about Liberty that very few people notice: her right foot is
 clearly in mid-stride. Liberty is on the move!
 
+Both of these supplemental stories emphasize the fact that liberty doesn't stand still. This is an opportunity to discuss with your child(ren) how liberty is something that takes effort to keep and extend -- and sometimes we have to fight to defend her.
+
 ---
 
 ## Scripture: Matthew 5:14-16 {#scripture}
@@ -446,7 +529,7 @@ clearly in mid-stride. Liberty is on the move!
 time: 10 minutes
 ```
 
-> “You are the light of the world. A town built on a hill cannot be
+> You are the light of the world. A town built on a hill cannot be
 > hidden.  Neither do people light a lamp and put it under a
 > bowl. Instead they put it on its stand, and it gives light to
 > everyone in the house. In the same way, let your light shine before
@@ -461,9 +544,9 @@ made a similar allusion before Reagan, as have many other politicians
 from both major parties. You can trace this back to John Winthrop, who
 wrote in 1630, “For we must consider that we shall be as a city on a
 hill, the eyes of all shall be upon us,” as he travelled to the New
-World as part of the Puritan Hegira. The Biblical scripture that
-inspired Winthrop was most probably from Jesus’ Sermon on the Mount in
-Matthew 5:14-16.  Share this scripture with your child(ren);
+World as part of the Puritan Hegira. 
+
+Just as the Statue of Liberty is "enlightening" the world, we are called upon to enlighten the world with the Word of God. The Biblical scripture that inspired Winthrop was most probably from Jesus’ Sermon on the Mount in Matthew 5:14-16. Share this scripture with your child(ren);
 consider using it as an alternate memorization exercise to the line
 from the Lazurus poem.
 
@@ -501,9 +584,32 @@ Immigrants
 Tablet
 : a flat surface with words inscribed or carved on it
 
+Enlighten
+: to instruct or teach
+
+Symbol
+: an object that represents something immaterial (examples: courage, love, liberty)
+
 ---
 
-## History: Symbolism
+## Writing: Dear Lady Liberty {#writing}
+
+```metadata
+time: 10-20 minutes
+```
+> "Excuse me," said a boy in blue.
+> "This mail arrived, addressed to you."
+> Inside his heavy canvas sack
+> were cards and letters: "Please come back!"
+{.nowrap}
+
+For this activity, ask your children to write a letter to Lady Liberty, similarly to the events in _Liberty's Journey_ quoted above. But unlike _Liberty's Journey_, where New Yorkers ask Lady Liberty to return home, they will be asking her to visit their town or home. The letter should give reasons why Lady Liberty should visit; perhaps explain why liberty is important to them or why Lady Liberty should join them for Show 'n' Tell. 
+
+Be creative and have fun with this. You can also write a letter from Lady Liberty's perspective. Our daughters put their letters from Lady Liberty in our mailbox and then went out to "get the mail" and "discovered" the letters to them. One of them actually put together a back and forth correspondence.
+
+---
+
+## History: Symbolism {#history}
 
 ```metadata
 time: 10 minutes
@@ -530,12 +636,12 @@ symbolize your own family. How would you symbolize those? Coat of
 Arms? Ask them to draw pictures of the symbols for your family.
 
 Ask them if there are any other important symbols of the United
-States. (Flag, Eagle, Liberty Bell) Can they think of any other
-important symbols? (What does the cross symbolize to Christians?)
+States? (The American flag can be found in _Long May She Wave_, the Liberty Bell in _The Fourth of July Story_ and the Bald Eagle in _Moonshot_.) Can they think of any other
+important symbols? Ask them what the cross symbolizes to Christians.
 
 ---
 
-## Civic Culture: Generosity
+## Civic Culture: Generosity {#culture}
 
 ```metadata
 time: 10 minutes
@@ -556,7 +662,7 @@ Children’s Research Hospital][stjude].
 
 ---
 
-## Games: Transporting Statue of Liberty
+## Games: Transporting Statue of Liberty {#games}
 
 ```metadata
 time: 10-20 minutes
@@ -567,19 +673,27 @@ One of the amazing aspects of the history of the Statue of Liberty is
 how it was built twice, first in France and then in America. You can
 have some fun simulating this remarkable achievement with the help of
 a [jigsaw puzzle]. Ideally the puzzle would feature the Statue of
-Liberty, however, any puzzle will work.  Our kids love jigsaw puzzles,
+Liberty, however, any puzzle will work.  
+
+Our kids love jigsaw puzzles,
 so this activity works on a couple of levels. First, they enjoy
 putting the puzzle together. Then, they simulate crossing the Atlantic
 Ocean and reassembling the puzzle. You can use any barrier in your
 home as the Atlantic Ocean -- a hallway separating rooms, stairs, a
 carpet. But the idea is that after assembling the puzzle in one
 location (France), they must transport it in chunks to another
-location (America), and then reassemble it. Ask your young engineers
+location (America), and then reassemble it. 
+
+Ask your young engineers
 to brainstorm multiple ways to transport the “statue” (puzzle) from
 one “country” to another. Labeling the two locations with the
 appropriate country helps drive the lesson home.
+
+Younger kids might want to make their own Lady Liberty jigsaw puzzle by [coloring a picture][color1] of [Lady Liberty][color2] and then cutting it into just a few pieces to make it easier to "assemble" Lady Liberty in "France" and "America." 
 
 ![Children working on Statue of Liberty puzzles](puzzles.jpg)
 {.center}
 
 [jigsaw puzzle]: https://www.zazzle.com/statue_of_liberty_jigsaw_puzzle-116155666048351029
+[color1]: https://www.supercoloring.com/media/coloring/750190/statue-of-liberty
+[color2]: https://www.coloring-page.net/statue-of-liberty.html
