@@ -119,7 +119,7 @@ Crosby & Graham Nash][song4] immediately after 9/11.
 
 ```metadata
 time: 10-20 minutes
-supplies: toilet paper rolls, card stock, tissue paper, pen, paint, paint brush, glue
+supplies: toilet paper rolls, card stock, tissue paper, pen, paint, paint brush, glue, scissors
 ```
 > The Statue of Liberty stands on an island in New York Harbor. She is a beautiful sight to all who pass by her.
 
@@ -130,7 +130,7 @@ Because the Statue of Liberty is such an important symbol of American ideals, we
 ### Supplies
 
 * Toilet paper roll
-* White card stock
+* White cardstock
 * Red and/or orange tissue paper (or card stock)
 * Pen
 * Paint brush
@@ -140,7 +140,7 @@ Because the Statue of Liberty is such an important symbol of American ideals, we
 
 ### Directions
 
-1. Draw a circle with seven triangles around half of the edge of the circle. The circle should be a little bigger than the toilet paper roll.  Draw two small rectangles as well to make the torch and tablet. See photo.
+1. Draw a circle on the cardstock with seven triangles around half of the edge of the circle. The circle should be a little bigger than the toilet paper roll. Draw two small rectangles as well to make the torch and tablet. See photo.
 
 ![Template](template.jpeg)
 {.center} 
@@ -156,7 +156,7 @@ Because the Statue of Liberty is such an important symbol of American ideals, we
 
 6. Cut (very) small pieces of tissue paper out and glue them to the top of one of the rectangles.
 
-7.  Glue head at the top of the toilet paper roll. Glue tablet on one side and torch on the other a little higher.
+7.  Glue head at the top of the toilet paper roll. Glue tablet on one side and torch on the other a little higher. See photo.
 
 ![Toilet Paper Roll Lady Liberty](TP_Lady_Liberty.jpeg)
 {.center} 
@@ -169,22 +169,22 @@ Because the Statue of Liberty is such an important symbol of American ideals, we
 * White paper plate
 * White paper bowl or cup
 * Paper towel roll
-* Card stock (red and orange or white and use paint to make them red/orange)
+* Cardstock (red and orange or white and use paint to make them red/orange)
 * Scissors 
 * Stapler
 * Green/white paint
 * Bobby pins or hole punch and string
 
 ### Directions
-1. Cut the middle out of the paper plate.  Cut about a third out of the the circumference of the plate.  Cut seven triangles out of the middle of the plate.
+1. Cut the middle out of the paper plate. Cut about a third out of the the circumference of the plate. Cut seven triangles out of the middle of the plate. See photo below.
 
 2. Cut a circle out of the middle of the bottom of the bowl (or cup) the same size (or just smaller) than the size of the paper towel roll.
 
 2. Mix paint until it is the correct shade of green for the Statue of Liberty. Alternatively color brown for the pre-oxidized version.
 
-3. Paint the seven triangles, the rim of the plate, the bowl (or cup), and the paper towel roll green.  Allow to dry.
+3. Paint the seven triangles, the rim of the plate, the bowl (or cup), and the paper towel roll green. Allow to dry.
 
-4.  Once dry, staple the seven triangles onto the rim.  Wear as crown and secure in place with bobby pins or punch holes in the sides and secure with string.
+4.  Once dry, staple the seven triangles onto the rim. Wear as crown and secure in place with bobby pins or punch holes in the sides and secure with string.
 
 ![Crown](Crown.jpeg)
 {.center} 
@@ -192,14 +192,14 @@ Because the Statue of Liberty is such an important symbol of American ideals, we
 
 5. Slide the bowl (or cup) onto the paper towel roll until there is about 1-2 inches of roll above the bowl (or cup).
 
-6. Cut flame shapes out of the car stock (about four shapes).
+6. Cut flame shapes out of the cardstock (about four shapes).
 
 ![Torch flames](Flames.jpeg)
 {.center} 
 
-7. Cut twice as many slits in the top of the paper towel roll as flame shapes (so about eight).  These should be in the part of the paper towel roll above/in the bowl (or cup).
+7. Cut twice as many slits in the top of the paper towel roll as flame shapes (so about eight). These should be in the part of the paper towel roll above/in the bowl (or cup).
 
-8. Fold the flame shapes in half and then slide them into the slits on the paper towel roll to make a torch.
+8. Fold the flame shapes in half and then slide each one into adjacent slits on the paper towel roll to make a torch.
 
 ![Torch](Torch.jpeg)
 {.center} 
@@ -309,7 +309,7 @@ The Statue of Liberty is one of the preeminent symbols of the United States of A
 
 So, how did apple pie come to symbolize something that was typically American or patriotic? It started in 1796 when _American Cookery_, the very first American cookbook, was published. It contained two recipes for apple pies. Apple pie became a dish with widespread popularity throughout America. The expression “as American as apple pie” was first used in the 1800s but became much more widely used after World War II, when American soldiers, when asked what they were fighting for, answered “for Mom and apple pie.”
 
-Apropos the European origin of the apple pie and America’s propensity for borrowing many of our cultural elements, the recipe below comes from the picture book _How to Make an Apple Pie and See the World_.
+Apropos the European origin of the apple pie and America’s propensity for borrowing many of our cultural elements, the recipe below comes from the picture book _How to Make an Apple Pie and See the World_ by Marjorie Priceman.
 
 ![Apple Pie book cover](applepie.jpeg)
 {.center} 
@@ -326,7 +326,7 @@ You can make your own pie crust (yes, there is a recipe in the story for pie cru
 
 ### Directions
 
-1) Preheat over to 425 degrees
+1) Preheat oven to 425 degrees
 2) In a large bowl, mix together sugar, cinnamon, and salt.
 3) Peel, core, and cut apples into 1/2 inch slices.
 4) Toss the apples into the sugar mixture, coating them well.
@@ -394,7 +394,7 @@ pennies. Ah, the serendipity of science :-)
 
 ![Coins before oxidation](oxidation-before.jpg)
 ![Coins after oxidation](oxidation-after.jpg)<br>
-The nickel is in the 12 o’clock position.
+The nickel is in the 12 o’clock position in both photos.
 {.center .caption}
 
 ---
@@ -451,10 +451,7 @@ to the challenge with the help of a sheet, a flashlight, a book and a
 handmade crown (feel free to use the crown and torch from the Arts & Crafts activity!). (Yes, to our surprise, we actually
 owned a bluish-green sheet that worked perfectly; however, a brown,
 pre-oxidation sheet, would have worked just as nicely :-) The kids loved
-it and afterwards both wanted to dress up as Liberty (tip: you might
-want to remove the batteries for three-year-olds, ours had trouble
-holding up the flashlight). Liberty’s Torch is more dramatic if done
-at night with the lights off. Or just use the lightweight version created in the Arts & Crafts activity (see photo below).
+it and afterwards both wanted to dress up as Liberty (tip: use the lightweight torch created in the Arts & Crafts activity instead of a flashlight).
 
 Similarly to "Be Bartholdi," you can have Lady Liberty move from France to a pedestal (chair or step stool) in America.
 
@@ -547,7 +544,7 @@ hill, the eyes of all shall be upon us,” as he travelled to the New
 World as part of the Puritan Hegira. 
 
 Just as the Statue of Liberty is "enlightening" the world, we are called upon to enlighten the world with the Word of God. The Biblical scripture that inspired Winthrop was most probably from Jesus’ Sermon on the Mount in Matthew 5:14-16. Share this scripture with your child(ren);
-consider using it as an alternate memorization exercise to the line
+consider using it as an alternate (or additional!) memorization exercise to the line
 from the Lazurus poem.
 
 ---
