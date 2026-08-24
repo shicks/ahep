@@ -21,6 +21,8 @@ drive to open up a new frontier are all essential elements of our
 exceptionalism. Our space program harnessed the power of our free
 enterprise system for this historic achievement.
 
+When reading Brian Floca's award winning _Moonshot_ ask younger children to point out the moon on the pages where it is featured. Don't miss the crazy reversal where the astronauts are on the moon and the earth is in the sky!
+
 The Bald Eagle is our National Bird, and its image symbolizes American
 strength, dignity, determination, and faithfulness. The Bald Eagle was
 initially incorporated into our National Seal. From there, the iconic
@@ -59,11 +61,11 @@ Thursday:
  
 Friday:
  - nature
- - supplemental
+ - supplemental1
 
 ---
 
-## American Heritage Songbook: It's America {#songbook}
+## American Heritage Songbook: It's America {#songbook pagebreak}
 
 ```metadata
 toc: "American Heritage Songbook: _It's America_"
@@ -108,12 +110,12 @@ of America.
 
 ---
 
-## Arts & Crafts: Make Your Own Rocket {#craft1}
+## Arts & Crafts: Make Your Own "Straw" Rocket {#craft1 pagebreak}
 
 ```metadata
 time: 15 minutes
 prep: minimal
-supplies: straws, construction paper, tape, scissors
+supplies: straws, paper, tape, scissors, pencil
 ```
 
 > LIFTOFF!
@@ -128,16 +130,17 @@ rocket, powered by your own breath! Here is what you need:
 ### Supplies
 
 * Plastic straws
-* Construction paper
+* Paper (construction paper is sturdier but regular paper is lighter and may fly better)
+* Pencil
 * Tape
 * Scissors
 * Markers (optional)
 
 ### Directions
 
-1. Wrap a piece of construction paper (possibly cut down the middle
-   long ways first) around a plastic straw. Tape it in place.
-2. Bend the tip of the paper over and tape in place.
+1. Wrap a piece of paper (possibly cut down the middle
+   long ways first) _tightly_ around a pencil. Tape the edge so the construction paper is a cylinder.
+2. Bend the tip of the paper over and tape in place so that you have a tube that is open at one end.
 3. To make tail fins for your rocket, cut triangle shapes out of paper
    and tape them onto the construction paper tube at the opposite end
    from the bent and taped tip.
@@ -161,7 +164,7 @@ complicated design at [NASA’s JPL site][craft2].
 
 ---
 
-## Geography: Cape Canaveral & Houston {#geography}
+## Geography: Cape Canaveral & Houston {#geography pagebreak}
 
 ```metadata
 time: 10 minutes
@@ -222,7 +225,7 @@ program, first as vice-president (1961-1963), and then president
 
 ---
 
-## Famous American Texts: John F. Kennedy and Neil Armstrong {#text}
+## Famous American Texts: John F. Kennedy and Neil Armstrong {#text pagebreak}
 
 ```metadata
 time: 5 minutes
@@ -276,7 +279,7 @@ ever sent anyone to the moon.
 ```metadata
 time: 20 minutes
 prep: 10-15 minutes
-supplies: butter, sugar, eggs, yogurt, lemon, flour, vanilla, baking powder, baking soda, salt
+supplies: dry pudding mix, powdered milk, zip lock bag, measuring spoon and cup, scissors
 ```
 > Here, where everything floats, it takes some skill to eat a meal.
 > That ham salad sandwich? Watch the crumbs!
@@ -295,7 +298,7 @@ embedded in it. Or go straight to the recipe below:
 
 * Dry pudding mix (5 teaspoons)
 * Powdered milk (5 teaspoons)
-* Water (half cup)
+* Water (1/4 cup)
 
 ### Supplies
 * Quart-sized zip lock bag
@@ -381,30 +384,14 @@ children/adults and some counties have regulations regarding their
 use. (But they are very cool and kids love chasing them down when they
 land).
 
-For the historical re-enactment we used both the baking soda and
-vinegar rocket described in Science, but also a water-powered rocket
-that we purchased. However, it is possible to [make a water-powered
-rocket][water-rocket-make] as well.
-
-Here is [a link to the water powered rocket][water-rocket-purchase]
-that we bought (but there are many options available). In addition to
-the kit, you need 3 1.5-2 liter bottles and water to anchor it. This
-kit was easy to put together and worked well (that is, until after
-some crash landings). We played around with angle, number of pumps of
-air, and amount of water. We got some good launches (20+ feet in the
-air). The kit enabled a countdown to release the rocket after the air
-and water were inside the rocket. I also liked the clean fuel it
-used. This was very cool! We needed a large outdoor space for the
-launch and so naturally attracted a number of neighborhood kids to
-watch.
+For the historical re-enactment we used the baking soda and
+vinegar rocket described in Science.
 
 [estes-rocket]: https://estesrockets.com
-[water-rocket-make]: https://www.science-sparks.com/making-a-bottle-rocket/
-[water-rocket-purchase]: https://www.amazon.com/PLAYSTEAM-Outdoor-Powered-Learning-Experiment/dp/B07M5DPHXW/ref=sr_1_1_sspa?crid=2R7NNG8ZKZEAG&keywords=water%2Bpowered%2Brocket&qid=1653766287&sprefix=water%2Bpowered%2Brockets%2Caps%2C112&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExNzRaUTJFUEZMTUZZJmVuY3J5cHRlZElkPUEwMjAzMTE5MzkwVzUzTUZPQ0RNVSZlbmNyeXB0ZWRBZElkPUEwNDE5NjAzOUYzNU9XQzAwVllIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
 
 ---
 
-## Supplemental Reading: _One Giant Leap_ {#supplemental}
+## Supplemental Reading: _One Giant Leap_ {#supplemental1}
 
 ```metadata
 time: 10 minutes
@@ -422,7 +409,7 @@ time: 10 minutes
 **Year Published:** 2001<br>
 **Length:** 32 pages
 
-Don Brown’s _One Giant Leap_ provides the inspirational biography of
+Don Brown’s _One Giant Leap_ is an inspirational biography of
 Neil Armstrong, the first man to set foot on the moon. This book is an
 excellent supplemental reading to Brian Floca’s _Moonshot!_, providing
 a deeper background on how the boy with dreams of flying turned into
@@ -437,6 +424,30 @@ Brown starts and ends his story by focusing on a young boy’s
 dreams. We recommend reading this story as a supplemental reading
 sometime in the middle of the module as either a replacement for the
 daily reading of _Moonshot!_ or in addition to it.
+
+---
+
+## Supplemental Reading: _On Eagle Cove_ {#2supp2}
+
+```metadata
+time: 10 minutes
+```
+
+> I signaled Mom so she could spy<br>
+> The eagles flying in the sky.
+
+![On Eagle Cove cover](eagles.jpeg)
+{.center}
+
+**Title:** _On Eagle Cove_<br>
+**Author:** Jane Yolen<br> 
+**Illustrator:** Elizabeth Dulemba<br>
+**Year Published:** 2020<br>
+**Length:** 36 pages
+
+This story is an excellent introduction to some of this module's activities about America's national symbol, the bald eagle. In rhyming verse, author Jane Yolen introduces a mother and daughter who are on a walk together when they spot two bald eagles flying high in the sky. Elizabeth Dulemba illustrates the eagles flying, hunting, courting, nesting, and raising their eaglets as the mother and daughter follow the eagles through the seasons _On Eagle Cove_.
+
+After the story there is an excellent addendum where kids can "Learn more about the Bald Eagle." This is a great section to read before diving deeper with the _Natural History: Bald Eagles in the Wild_ activity.
 
 ---
 
@@ -563,8 +574,8 @@ was native to North America, and it represented strength, dignity,
 determination and faithfulness (they mate for life).
 
 Ask your kids to examine the National Seal above and see if they can
-explain the symbolism of the various elements: olive branch, arrows
-(how many?), shield, stars (how many?), and the motto E Pluribus Unum.
+explain the symbolism of the various elements: olive branch (peace), arrows
+(defense), shield (defense), stars (how many? 13 for the original colonies), and the motto E Pluribus Unum (out of many countries, one people). Note how the eagle's head is pointing toward the olive branch, indicating our preference for peace. However, the arrows indicate a steadfast readiness for war if necessary. Also worth noting: the Eagle landing on the moon is carrying an olive branch, indicating our desire for peace on this new frontier.
 
 ![Eisenhower Dollar](obverse.jpeg)
 {.center .small}
