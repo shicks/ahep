@@ -80,7 +80,49 @@ After familiarizing your child(ren) with one (or more) of the versions of _Taps_
 
 ---
 
-## Arts & Crafts: Make Your Own Honor Guard {#craft1}
+## Arts & Crafts: Make Your Own Medals {#craft1}
+
+```metadata
+time: 15-20 minutes
+prep: 10 minutes
+supplies: ribbon and/or felt, thin cardboard, markers, scissors, hot glue gun, magnetic or pin brooch backs
+```
+
+> Space their medals down to 1/64 of an inch.
+
+### Supplies
+
+* Ribbon and/or felt in various colors
+* Thin cardboard (e.g., cereal box container
+* Markers
+* Scissors
+* Hot glue gun
+* Magnetic or pin brooch backs ([from Amazon][pin])
+* Optional: Buttons/beads to represent medal
+
+[pin]: https://www.amazon.com/dp/B0D8SX82HY?lv=shuf&rsd=oHA9%2BGurYipYAJGqMhdYVikpTykRzrQqtQxwBDZazlhVJiIpPUEOiTo%2BDwHNP54CoyTJsJGGXuiw0lHdxiVEadE7ub%2FY8cfF%2FVYk8CKKmAZIFfg2&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQF6TvfGJTPoT50b6p9ryO91AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMI1c5jHdRaLLrMEZ%2FAgEQgDua2uQl6SMnln6x88ePOF4odIbLNj0lhFcNSI%2BaGy7e%2FG2cmttcHCogyNXZTxLisMuCtSneDdcBUHg27Q%3D%3D&social_share=cm_sw_r_cso_cp_apan_dp_5YD0X4KP9VFTZ68VA4S4&channelId=704&ref_=cm_sw_r_cso_cp_apan_dp_5YD0X4KP9VFTZ68VA4S4&plpRedirect=mhFallback&th=1
+
+### Directions
+
+1) Cut out some medal ribbons out of ribbon or felt. Use the hot glue gun as needed to layer the ribbons/felt or to fold the edges to a point. See photos.
+
+![Medals](Medals1.jpeg)
+{.center .caption}
+
+2. Cut out a small circle (about the size of a quarter) of thin cardboard and decorate as a medal with markers. Then attach to the bottom of the ribbon with hot glue. Alternatively, place a button or bead as the medal.
+
+3. Cut out a small rectangle of thin cardboard that is long enough to attach all of the medal ribbons desired (ideally 1-3). Use hot glue to attach the ribbons to the front of the cardboard and the pin or magnetic backing to the front.
+
+4. Create a name badge using another (separate) rectangle of thin cardboard and markers. Attach the magnetic or pin backing.
+
+5. Wear your medals proudly (perhaps during the reenactment!).
+
+![Medals](Medals2.jpeg)
+{.center .caption}
+
+---
+
+## Arts & Crafts: Make Your Own Honor Guard {#craft2}
 
 ```metadata
 time: 25-45 minutes
@@ -169,7 +211,12 @@ supplies: butter, sugar, eggs, flour, vanilla, baking powder
 ```
 > People, though, forget easily. My tomb stands on a hillcrest. It did not take long for visitors to come for the view and not the meaning.
 
-Was there ever a more American cookie than Snickerdoodles? With a name like that, you'd think Yankee Doodle himself invented them. But, according to Stella Parks in _Bravetart: Iconic American Desserts_, snickerdoodles originated with the Pennsylvania Dutch (German) in the late 1800s, evolving around the turn of the century into the cookies we know today. The recipe below is simplified from _Bravetart_.
+Was there ever a more American cookie than Snickerdoodles? With a name like that, you'd think Yankee Doodle himself invented them. But, according to Stella Parks in _Bravetart: Iconic American Desserts_, Snickerdoodles originated with the Pennsylvania Dutch (German) in the late 1800s, evolving around the turn of the century into the cookies we know today. The recipe below is simplified from _Bravetart_.
+
+This is a great cookie to make with your kids. Dividing the dough into 26 pieces and having them roll it into balls before dropping them into cinnamon and sugar is a great way for them to participate. To help connect the cookie to the story, remind them that when the Unknown Soldier was first laid to rest there was lots of disrespectful behavior (snickering and doodling) and so the Honor Guard was established. Remember, when you want to show respect, do not snicker or doodle! Conversely, whenever you eat Snickerdoodles, remember to honor our fallen warriors.
+
+![Una making cookies](snickerdoodles.jpeg)
+{.center .large}
 
 ### Ingredients (Cookies)
 
@@ -232,6 +279,7 @@ While everyone’s DNA is unique, it is all shaped the same. And the shape is ve
 
 The strands of your DNA (the tape) are connected by four DNA building blocks (the craft sticks) that come in pairs. Optionally, you can represent these building blocks by asking your child(ren) to color the craft sticks before you assemble your double helix. Color them by making them half one color and half another color (see illustration below).
 
+![Double Helix](Phosphate_backbone.jpeg)
 ![Double Helix](doublehelix1.jpeg)
 ![Double Helix](doublehelix2.jpeg)<br>
 Make Your Own DNA Double Helix!
@@ -256,8 +304,9 @@ supplies: multiple colors of yarn, scissors
 
 ### Preparation
 
-Prepare several “strings of DNA” by tying several different colors of string together into a line (a normal square knot could work here, but tends to fall apart too easily; we recommend the sturdier “magic joining knot”, see this video or the instructions below). You’ll do one demo knot with your child(ren), but we found it’s better to have it mostly prepared ahead of time. All the final strings should have similar length. Ensure some pairs of strings have colors in common and other pairs have no colors in common, and have on hand several single-color strings as well. Ideally, each string has 1, 2, 4, or (maybe) 8, different colors.
+Prepare several “strings of DNA” by tying several different colors of string together into a line (a normal square knot could work here, but tends to fall apart too easily; we recommend the sturdier “magic joining knot”, [see this video][youtube1] or the instructions below). You’ll do one demo knot with your child(ren), but we found it’s better to have it mostly prepared ahead of time. All the final strings should have similar length. Ensure some pairs of strings have colors in common and other pairs have no colors in common, and have on hand several single-color strings as well. Ideally, each string has 1, 2, 4, or (maybe) 8, different colors.
 
+[youtube1]: https://www.youtube.com/watch?v=15hqoR0KJHA
 ![Double Helix](dh2.jpeg)
 {.center}
 
@@ -300,15 +349,19 @@ Re-enacting the sentinels guarding the Tomb of the Unknown Soldier helps demonst
 * Formal shoes (ideally with a hard heel or toe that clicks)
 * Lint roller (or masking tape wrapped around hand with sticky side out)
 * Pretend gun (such as a nerf gun) or something to carry (could even be an empty wrapping paper roll)
+* Masking tape
+* Spray bottle (optional)
 * Sunglasses (optional)
 * Model Tomb (optional)
-* Pretend medals to pin on clothes (optional)
+* Pretend medals to pin on clothes (optional, see Arts & Crafts)
 
 ![Guard duty](preparing.jpeg)<br>
 Preparing
 {.center .caption}
 
-To prepare for guarding the tomb, have your child(ren) shine some shoes, dress in Sunday best clothes, brush and slick their hair, lint roll their clothes and remove any loose threads, place a hat two fingers above their eyes, put on dress shoes, put on gloves, and hold their “rifle.” Have someone inspect your child(ren) to see that everything is perfect. Then have your child(ren) walk 21 steps, click their heels together, pause for 21 seconds, turn 180 degrees with a click, pause for 21 seconds, and then repeat. If you have multiple children they can take turns being on duty and relieving each other. Repeat the activity when it is dark to give a sense of what it is like for the sentinels who guard the Tomb of the Unknown Soldier 24 hours a day.
+Find an appropriate outdoor location and mark off a "mat" of 21 steps (child-size) for your Honor Guard. To prepare for guarding the tomb, have your child(ren) shine some shoes, dress in Sunday best clothes, brush and slick their hair, lint roll their clothes and remove any loose threads, place a hat two fingers above their eyes, put on dress shoes, put on gloves, and hold the “rifle.” Attach any medals created in the Arts & Crafts activity.
+
+Have someone inspect your child(ren) to see that everything is perfect. Then have your child(ren) walk 21 steps, click their heels together, pause for 21 seconds, turn 180 degrees with a click, pause for 21 seconds, and then repeat. If you have multiple children they can take turns being on duty and relieving each other. Repeat the activity when it is dark to give a sense of what it is like for the sentinels who guard the Tomb of the Unknown Soldier 24 hours a day.
 
 ![Guard duty](guarding1.jpeg)
 ![Guard duty](guarding2.jpeg)<br>
@@ -372,7 +425,7 @@ time: 10 minutes
 {.nowrap}
 
 
-_Twenty-One Steps_ will introduce the young reader to many new words concerning honor and respect (or the lack thereof). It’s always nice to ask your kids if they have an idea of what the words mean from the context of the story, after reading it to them a couple of times. An alternative is to ask them if there are any words they didn’t understand and then discuss the context with them with a few hints.
+_Twenty-One Steps_ will introduce the young reader to many new words concerning honor and respect (or the lack thereof). It’s always nice to ask your kids if they have an idea of what the words mean from the context of the story, after reading it to them a couple of times. An alternative is to ask them if there are any words they didn’t understand and then discuss the context with them with a few hints. And just for fun, ask them to salute every time you read one (or more) of the vocabulary words below. 
 
 Salute
 : to pay respect or honor with a formal sign, for example, raising your hand to the side of your head
@@ -397,6 +450,9 @@ Fidelity
 
 Desolate
 : deserted, empty
+
+Lie in State (phrase)
+: when the body of an important individual is displayed publicly so people can honor and show their respect
 
 ---
 
@@ -487,7 +543,7 @@ time: 15 minutes
 > Twenty-one footsteps. Click. 
 > Twenty-one seconds of silence. Click.
 
-The book is called _Twenty-One Steps_. However, the number twenty-one is associated with more than just the number of steps that the Tomb Guards pace off. Ask your child(ren) to find all the instances of twenty-one in the story (21 steps, 21 seconds, 21-gun salute, 1921).
+The book is called _Twenty-One Steps_. However, the number twenty-one is associated with more than just the number of steps that the Tomb Guards pace off. Ask your child(ren) to find all the instances of twenty-one in the story (21 steps, 21 seconds, 21-gun salute, 1921). Count them!
 
 Now ask them why the number twenty-one is so significant? Why do the Tomb Guards take twenty-one steps followed by twenty-one seconds of silence?
 
@@ -559,7 +615,7 @@ We have two major holidays to remember and honor the men and women who serve in 
 
 After World War I, Decoration Day was enlarged to include all fallen soldiers, not just ones from the Civil War. To recognize this change, the name was changed to Memorial Day.
 
-Today, we celebrate with parades, wearing red poppies (a tradition from World War I), and placing flowers on graves. At Arlington National Cemetery, soldiers place an American flag on every gravesite, 250,000 flags in a ceremony called Flags-In. And a wreath is laid at the Tomb of the Unknown Soldier.
+Today, we celebrate with parades, wearing red poppies (a tradition from World War I, see _The Poppy Lady_ in our World War I module), and placing flowers on graves. At Arlington National Cemetery, soldiers place an American flag on every gravesite, 250,000 flags in a ceremony called Flags-In. And a wreath is laid at the Tomb of the Unknown Soldier.
 
 Veterans Day comes on the eleventh day of the eleventh month, marking the armistice of World War I when fighting formally ended; for many years it was called Armistice Day. The name was changed to Veterans Day after World War II, to honor all veterans, not just those from World War I. While Memorial Day honors the dead, the focus on Veterans Day is on the living. Veterans Day honors all veterans of our armed forces.
 

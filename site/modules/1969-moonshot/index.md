@@ -65,7 +65,7 @@ Friday:
 
 ---
 
-## American Heritage Songbook: It's America {#songbook pagebreak}
+## American Heritage Songbook: It's America {#songbook}
 
 ```metadata
 toc: "American Heritage Songbook: _It's America_"
@@ -110,7 +110,7 @@ of America.
 
 ---
 
-## Arts & Crafts: Make Your Own "Straw" Rocket {#craft1 pagebreak}
+## Arts & Crafts: Make Your Own "Straw" Rocket {#craft1}
 
 ```metadata
 time: 15 minutes
@@ -164,7 +164,7 @@ complicated design at [NASA’s JPL site][craft2].
 
 ---
 
-## Geography: Cape Canaveral & Houston {#geography pagebreak}
+## Geography: Cape Canaveral & Houston {#geography}
 
 ```metadata
 time: 10 minutes
@@ -225,7 +225,7 @@ program, first as vice-president (1961-1963), and then president
 
 ---
 
-## Famous American Texts: John F. Kennedy and Neil Armstrong {#text pagebreak}
+## Famous American Texts: John F. Kennedy and Neil Armstrong {#text}
 
 ```metadata
 time: 5 minutes
