@@ -8,9 +8,9 @@ when: 1892
 
 ## Introduction
 
-America is a nation of immigrants. Throughout the 1800s, wave upon wave of immigrants washed up on our shores. The biggest waves were from Ireland, Germany, Italy, and China but smaller waves also came from Scandinavia, France, Poland, Japan and many other countries. Protestants, Catholics, Jews – millions of people, coming from diverse cultural, national, and religious backgrounds, needed to be assimilated and united as Americans. Our national motto reflected this: E Pluribus Unum.
+America is a nation of immigrants. Throughout the 1800s, wave upon wave of immigrants washed up on our shores. The biggest waves were from Ireland, Germany, Italy, and China but smaller waves also came from Scandinavia, France, Poland, Japan and many other countries. Protestants, Catholics, Jews – millions of people, coming from diverse cultural, national, and religious backgrounds, needed to be assimilated and united as Americans. Our national motto reflected this: E Pluribus Unum ("out of many, one").
 
-They came seeking opportunity. For some, it was economic opportunity; the chance to make a better life for themselves and their families. For others, it was the opportunity to worship without fear of persecution. America, with its beacon of Liberty, called to peoples from all different ethnic, national, and religious backgrounds. E Pluribus Unum.
+They came seeking opportunity. For some, it was economic opportunity; the chance to make a better life for themselves and their families. For others, it was the opportunity to worship without fear of persecution. America, with its beacon of Liberty, called to peoples from all different ethnic, national, and religious backgrounds. They became part of America's famous "melting pot" as they added their unique cultures to America, while assimilating America's own culture. E Pluribus Unum.
 
 These people shared important traits in common. They were self-reliant risk takers, willing to leave behind what they knew in their old world in search of a new life in a strange new country, willing to work hard to forge a future for their families, willing to help others as they were helped by the ones who came before them. Together, they contributed key elements of American Exceptionalism. E Pluribus Unum.
 
@@ -372,7 +372,7 @@ time: 10 minutes
 
 Patricia Polacco is the author and illustrator of this autobiographical coming-to-America story. Her great-great grandmother, a Russian Jew like Viktor in _Dreaming of America_, immigrated to America. To remind her great-great grandmother of the people they left behind, she and her mother made a quilt from fabrics worn by their relatives.
 
-Through multiple generations, all the way through Polacco's own children, the quilt is brought out for special family occasions. Stories about the quilt and the lives it has touched become an important means of passing family history down to each new generation. Young readers should pay close attention to the weddings, as they slowly change over the generations. And ask them why Anna's dress is in color but all the other dresses are not?
+Through multiple generations, all the way through Polacco's own children, the quilt is brought out for special family occasions. Stories about the quilt and the lives it has touched become an important means of passing family history down to each new generation. Young readers should pay close attention to the weddings, as they slowly change over the generations. Consider the importance of keeping alive old traditions while at the same time assimilating a new culture. How do you find the balance? And ask them why Anna's dress is in color but all the other dresses are not?
 
 ---
 

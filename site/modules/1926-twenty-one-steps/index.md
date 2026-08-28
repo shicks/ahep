@@ -115,7 +115,7 @@ supplies: ribbon and/or felt, thin cardboard, markers, scissors, hot glue gun, m
 
 4. Create a name badge using another (separate) rectangle of thin cardboard and markers. Attach the magnetic or pin backing.
 
-5. Wear your medals proudly (perhaps during the reenactment!).
+5. Consider assigning values to your medals (e.g., a medal for Good Conduct or Extraordinary Kindness). Wear your medals proudly (perhaps during the reenactment!).
 
 ![Medals](Medals2.jpeg)
 {.center .caption}
@@ -173,9 +173,9 @@ supplies: Globe
 
 Sometimes the United States goes to war when we are directly attacked. However, there are also times when we go to war to help defend the freedoms of our allies, those countries who are aligned with our values or our national interests. When this happens, our soldiers may be fighting far from home and in different countries.
 
-All around the world are American military cemeteries, where the servicemen and women who fought alongside our allies were buried. The four unknown soldiers buried at Arlington National Cemetery were selected from appropriate cemeteries to represent the four major conflicts in the 20th century involving Americans: World War I (>116,000 American deaths), World War II (>405,000), Korean War (>36,000), and Vietnam War (>58,000).
+All around the world are American military cemeteries, where the servicemen and women who fought alongside our allies were buried. The four unknown soldiers buried at Arlington National Cemetery were selected from appropriate cemeteries to represent the four major conflicts in the 20th century involving Americans: World War I (>116,000 American deaths), World War II (>405,000), Korean War (>36,000), and Vietnam War (>58,000) (the Vietnam unknown was later identified (see Science activity) and reinterred).
 
-For this activity, you will need a globe or map of the world to locate the locations and countries where we fought alongside our allies. World War I, despite its designation as a “world war,” was fought primarily in Europe. And for America, the primary battles were fought in France. With your child(ren), identify Europe in general and France specifically. For World War II, identify Europe, North Africa, Hawaii, Philippines, and Japan. Finally, identify Korea (North and South), and Vietnam.
+For this activity, you will need a globe or map of the world to find the locations and countries where we fought alongside our allies. World War I, despite its designation as a “world war,” was fought primarily in Europe. And for America, the primary battles were fought in France. With your child(ren), identify Europe in general and France specifically. For World War II, identify Europe, North Africa, Hawaii, Philippines, and Japan. Finally, identify Korea (North and South), and Vietnam.
 
 Consider wrapping up this activity with a brief discussion about why it is important to have friends (allies) when you need to defend yourself or your family or your country.
 
@@ -196,7 +196,7 @@ freq: once
 
 Above are the words written on the back of the Tomb of the Unknown Soldier. They are the only words on the tomb. While the first unknown soldier, from World War I, was buried there in 1921, it wasn’t until 1926 that Congress authorized funds to build a more elaborate monument. Designs were submitted and the simple but elegant design we see today, by architect Lorimer Rich and sculptor Thomas Hudson Jones, was selected and completed in 1929. Shaped like a sarcophagus, the tomb is constructed of four pieces of white, Yule marble from Colorado, weighing over 50 tons.
 
-Have your child(ren) memorize the tomb inscription. Perhaps have them recite it at the end of the “Find 21” activity below.change and ask them to locate the motto on the different coins.
+Have your child(ren) memorize the tomb inscription. Perhaps have them recite it at the end of the “Find 21” activity below.
 
 ![Honor Guard](honorguard.jpeg)
 {.center}
@@ -207,7 +207,7 @@ Have your child(ren) memorize the tomb inscription. Perhaps have them recite it 
 ```metadata
 time: 30-45 minutes
 prep: 10-15 minutes
-supplies: butter, sugar, eggs, flour, vanilla, baking powder
+supplies: butter, sugar, eggs, flour, vanilla, baking powder, salt, nutmeg, cinnamon, coconut oil
 ```
 > People, though, forget easily. My tomb stands on a hillcrest. It did not take long for visitors to come for the view and not the meaning.
 
@@ -349,7 +349,7 @@ Re-enacting the sentinels guarding the Tomb of the Unknown Soldier helps demonst
 * Formal shoes (ideally with a hard heel or toe that clicks)
 * Lint roller (or masking tape wrapped around hand with sticky side out)
 * Pretend gun (such as a nerf gun) or something to carry (could even be an empty wrapping paper roll)
-* Masking tape
+* Masking tape (for outlining the mat)
 * Spray bottle (optional)
 * Sunglasses (optional)
 * Model Tomb (optional)
@@ -359,7 +359,7 @@ Re-enacting the sentinels guarding the Tomb of the Unknown Soldier helps demonst
 Preparing
 {.center .caption}
 
-Find an appropriate outdoor location and mark off a "mat" of 21 steps (child-size) for your Honor Guard. To prepare for guarding the tomb, have your child(ren) shine some shoes, dress in Sunday best clothes, brush and slick their hair, lint roll their clothes and remove any loose threads, place a hat two fingers above their eyes, put on dress shoes, put on gloves, and hold the “rifle.” Attach any medals created in the Arts & Crafts activity.
+Find an appropriate outdoor location and use masking tape to outline a "mat" of 21 steps (child-size) for your Honor Guard. To prepare for guarding the tomb, have your child(ren) shine some shoes, dress in Sunday best clothes, brush and slick their hair, lint roll their clothes and remove any loose threads, place a hat two fingers above their eyes, put on dress shoes, put on gloves, and hold the “rifle.” Attach any medals created in the Arts & Crafts activity.
 
 Have someone inspect your child(ren) to see that everything is perfect. Then have your child(ren) walk 21 steps, click their heels together, pause for 21 seconds, turn 180 degrees with a click, pause for 21 seconds, and then repeat. If you have multiple children they can take turns being on duty and relieving each other. Repeat the activity when it is dark to give a sense of what it is like for the sentinels who guard the Tomb of the Unknown Soldier 24 hours a day.
 
@@ -446,7 +446,7 @@ Reverence
 : to strongly feel or show respect or honor
 
 Fidelity
-: exact observance to details or duties
+: exact observance to details or duties; loyalty
 
 Desolate
 : deserted, empty
@@ -491,31 +491,49 @@ The United States military has an illustrious history that dates back many centu
 
 Joining any branch of the military requires sacrifices and intense training to ensure all servicemen and women meet the unique physical and psychological requirements to successfully serve our nation. Although the different branches have many common goals they are all distinct.
 
-Until quite recently, the armed forces of the United States consisted of five different branches: Army (founded 1775), Navy (1775), Marines (1775), Coast Guard (1790), and Air Force (1947). In 2019 a sixth branch was added, the Space Force. Each branch of our military is responsible for a specific mission. And, they each have their own song and emblem:
+Until quite recently, the armed forces of the United States consisted of five different branches: Army (founded 1775), Navy (1775), Marines (1775), Coast Guard (1790), and Air Force (1947). In 2019 a sixth branch was added, the Space Force. Each branch of our military is responsible for a specific mission. And, they each have their own emblem and song:
 
 ![Army](army.jpeg)<br>
-The Army is the oldest branch. The Army serves as a ground force, providing protection for U.S. interests and stability on U.S. soil and abroad.
+The Army is the oldest branch. The Army serves as a ground force, providing protection for U.S. interests and stability on U.S. soil and abroad.<br>
+[And the Army Goes Rolling Along][armysong]
 {.center .caption}
+
+[armysong]: https://www.youtube.com/watch?v=AFsWmynO3lw
 
 ![Navy](navy.jpeg)<br>
-The Navy protects American interests on water and near sea ports.
+The Navy protects American interests on water and near sea ports.<br>
+[Anchors Aweigh!][navysong]
 {.center .caption}
+
+[navysong]: https://www.youtube.com/watch?v=qvzVUP3zDOc
 
 ![Marines](marines.jpeg)<br>
-The Marine Corps are trained to combat on both land and at sea. Their primary focus is warfare. They bridge the land and the sea.
+The Marine Corps are trained to combat on both land and at sea. Their primary focus is warfare. They bridge the land and the sea.<br>
+[Marine Corps Hymn][marinesong]
 {.center .caption}
+
+[marinesong]: https://www.youtube.com/watch?v=Qqv6tzeJ9R4
 
 ![Coast Guard](coastguard.jpeg)<br>
-The Coast Guard protects lakes and rivers and provides search and rescue services. They operate under the Department of Homeland Security; all other branches operate under the Department of Defense.
+The Coast Guard protects lakes and rivers and provides search and rescue services. They operate under the Department of Homeland Security; all other branches operate under the Department of Defense.<br>
+[Semper Paratus][coastguardsong]
 {.center .caption}
+
+[coastguardsong]: https://www.youtube.com/watch?v=ayYZg-JpMqE
 
 ![Air Force](airforce.jpeg)<br>
-The Air Force focuses on maintaining air superiority, global mobility and attack/combat support.
+The Air Force focuses on maintaining air superiority, global mobility and attack/combat support.<br>
+[Wild Blue Yonder][airforcesong]
 {.center .caption}
 
+[airforcesong]: https://www.youtube.com/watch?v=JP3whmQ_OZc
+
 ![Space](space.jpeg)<br>
-The Space Force protects American interests in space.
+The Space Force protects American interests in space.<br>
+[Semper Supra (Always Above)][spaceforcesong]
 {.center .caption}
+
+[spaceforcesong]: https://www.youtube.com/watch?v=5D6Lg7Q1pws
 
 As Lee Greenwood sings [in this 1992 song][emblem1], these are the Great Defenders of the U.S.A., the [champions of freedom][emblem2].
 
