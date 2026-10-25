@@ -216,7 +216,7 @@ Was there ever a more American cookie than Snickerdoodles? With a name like that
 This is a great cookie to make with your kids. Dividing the dough into 26 pieces and having them roll it into balls before dropping them into cinnamon and sugar is a great way for them to participate. To help connect the cookie to the story, remind them that when the Unknown Soldier was first laid to rest there was lots of disrespectful behavior (snickering and doodling) and so the Honor Guard was established. Remember, when you want to show respect, do not snicker or doodle! Conversely, whenever you eat Snickerdoodles, remember to honor our fallen warriors.
 
 ![Una making cookies](snickerdoodles.jpeg)
-{.center .large}
+{.center}
 
 ### Ingredients (Cookies)
 
@@ -496,42 +496,42 @@ Until quite recently, the armed forces of the United States consisted of five di
 ![Army](army.jpeg)<br>
 The Army is the oldest branch. The Army serves as a ground force, providing protection for U.S. interests and stability on U.S. soil and abroad.<br>
 [And the Army Goes Rolling Along][armysong]
-{.center .caption}
+{.center .caption .small}
 
 [armysong]: https://www.youtube.com/watch?v=AFsWmynO3lw
 
 ![Navy](navy.jpeg)<br>
 The Navy protects American interests on water and near sea ports.<br>
 [Anchors Aweigh!][navysong]
-{.center .caption}
+{.center .caption .small}
 
 [navysong]: https://www.youtube.com/watch?v=qvzVUP3zDOc
 
 ![Marines](marines.jpeg)<br>
 The Marine Corps are trained to combat on both land and at sea. Their primary focus is warfare. They bridge the land and the sea.<br>
 [Marine Corps Hymn][marinesong]
-{.center .caption}
+{.center .caption .small}
 
 [marinesong]: https://www.youtube.com/watch?v=Qqv6tzeJ9R4
 
 ![Coast Guard](coastguard.jpeg)<br>
 The Coast Guard protects lakes and rivers and provides search and rescue services. They operate under the Department of Homeland Security; all other branches operate under the Department of Defense.<br>
 [Semper Paratus][coastguardsong]
-{.center .caption}
+{.center .caption .small}
 
 [coastguardsong]: https://www.youtube.com/watch?v=ayYZg-JpMqE
 
 ![Air Force](airforce.jpeg)<br>
 The Air Force focuses on maintaining air superiority, global mobility and attack/combat support.<br>
 [Wild Blue Yonder][airforcesong]
-{.center .caption}
+{.center .caption .small}
 
 [airforcesong]: https://www.youtube.com/watch?v=JP3whmQ_OZc
 
 ![Space](space.jpeg)<br>
 The Space Force protects American interests in space.<br>
 [Semper Supra (Always Above)][spaceforcesong]
-{.center .caption}
+{.center .caption .small}
 
 [spaceforcesong]: https://www.youtube.com/watch?v=5D6Lg7Q1pws
 
@@ -606,14 +606,14 @@ Blurring the background is an artistic technique borrowed from photography, wher
 [pop]: https://photographylife.com/what-is-bokeh
 [depth]: https://eclecticlight.co/2021/08/08/blur-in-paintings-2-depth-and-movement/
 
+![Background](background.jpeg)
+{.center .float-left .large}
+
 Blurring is also used to indicate that something is in rapid motion (again, something painters adopted from photography).
 
 Start this activity by paging through Twenty-One Steps and asking your young reader to point out examples where the artist uses blurring for each of the three reasons described above: 1) make a subject in the foreground stand out to the viewer, 2) give the viewer a sense of depth, and 3) indicate rapid motion (see the sleet storm on the second to last illustration).
 
 Finally, ask your young artist to make a drawing using blurring for one of the three reasons above.
-
-![Background](background.jpeg)
-{.center}
 
 (Oh, and while you are studying the artwork of Twenty-One Steps, don’t forget to look at the bonus image underneath the dust jacket! We didn’t discover this Easter egg until we’d read the book multiple times!)
 
