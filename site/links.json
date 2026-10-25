@@ -1,0 +1,19 @@
+{
+  skip: [
+    "fonts.googleapis.com"
+  ],
+  autocheck: [
+    "www.amazon.com",
+    "www.google.com/maps",
+    "www.youtube.com",
+    "en.wikipedia.com"
+  ],
+  urls: {
+    "https://www.instructables.com/Making-a-quill-pen/": {
+      verified: "03/14/2025"
+    },
+    "https://www.thespruceeats.com/easy-traditional-mince-pie-recipe-435108": {
+      verified: "03/14/2025"
+    }
+  }
+}
