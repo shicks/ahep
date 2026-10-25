@@ -455,7 +455,7 @@ it and afterwards both wanted to dress up as Liberty (tip: use the lightweight t
 
 Similarly to "Be Bartholdi," you can have Lady Liberty move from France to a pedestal (chair or step stool) in America.
 
-![Statue of Liberty reading to children](costume4.jpg)<br>
+![Statue of Liberty reading to children](costume4.jpg)
 ![Two Lady Libertys](Re-enactment.jpeg)<br>
 Lady Libertys On Their Pedestals (Post-oxidation and Pre-oxidation)!
 {.center}
@@ -689,7 +689,7 @@ appropriate country helps drive the lesson home.
 Younger kids might want to make their own Lady Liberty jigsaw puzzle by [coloring a picture][color1] of [Lady Liberty][color2] and then cutting it into just a few pieces to make it easier to "assemble" Lady Liberty in "France" and "America." 
 
 ![Children working on Statue of Liberty puzzles](puzzles.jpg)
-{.center}
+{.center .small}
 
 [jigsaw puzzle]: https://www.zazzle.com/statue_of_liberty_jigsaw_puzzle-116155666048351029
 [color1]: https://www.supercoloring.com/media/coloring/750190/statue-of-liberty
